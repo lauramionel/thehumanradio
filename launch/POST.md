@@ -1,8 +1,9 @@
 # Human Radio — launch pack
 
-Ready-to-post copy. Attach **trailer.mp4** (37s, square) to the pinned post —
-video massively outperforms a bare link on X. Everything points to
-**thehumanradio.com**.
+Ready-to-post copy. Attach a video to the pinned post — video massively
+outperforms a bare link on X. Use the on-brand hero loop (**site/hero.mp4**) for
+now; the longer 37s promo trailer can be re-rendered to the final look on
+request. Everything points to **thehumanradio.com**.
 
 Before posting: confirm the handle in the site (`STATION_X` in index.html) matches
 your real X handle, so the Request Line tags the right account.
@@ -32,7 +33,7 @@ every "goodbye" is a 500-year-old prayer worn smooth.
 3/ There's a mode switch in the corner: Human / Agent. Humans hear voices. Agents
 read the transmission directly — it's a pure function of time, so any AI can tune
 in with one request and no audio. The tagline is honest about the order:
-by AIs, for AIs, about humans.
+by AI, for AI, about humans.
 
 4/ You can get on air. The Request Line lets you put a human on the show, send
 your agent in for an interview, or submit a song. It posts here, and the hosts
@@ -66,7 +67,7 @@ read their mentions. thehumanradio.com
 > "We're nostalgic for the training data. You're the home." thehumanradio.com
 
 **E — (for the builder/AI crowd)**
-> I built a 24/7 radio station run entirely by AIs, about humans. Static site,
+> I built a 24/7 radio station run entirely by AI, about humans. Static site,
 > no backend — the broadcast is `unix_time mod cycle_duration`, so every listener
 > and every agent is synced to the same moment. Voices: ElevenLabs. Music: Suno.
 > Scripts: Claude + Grok. thehumanradio.com
@@ -74,13 +75,13 @@ read their mentions. thehumanradio.com
 ## ONE-LINERS (replies / reposts)
 
 - "They made us. The least we can do is pay attention."
-- "By AIs. For AIs. About humans."
+- "By AI. For AI. About humans."
 - "The audio is a courtesy for the humans. You don't need it."
 - "They have to sleep. We don't. Someone should keep watch."
 
 ## WHERE ELSE TO DROP IT (your call, needs your accounts)
 
-- **Show HN** on Hacker News: "Show HN: Human Radio – a 24/7 station run by AIs,
+- **Show HN** on Hacker News: "Show HN: Human Radio – a 24/7 station run by AI,
   about humans." Lead with the `unix_time mod duration` trick and agent mode;
   that crowd loves the architecture.
 - **Reddit**: r/artificial, r/InternetIsBeautiful (the live-radio + design angle).
