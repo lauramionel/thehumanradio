@@ -248,7 +248,7 @@
   .rot .go3:hover { background: var(--signal); color: #0b0b0d; }
   .rot .m b { display: block; font-weight: normal; font-size: 16px; color: var(--ink); }
   .rot .m i { font-style: normal; font-size: 13.5px; color: #a89f8a; }
-  .rot .m .tag { font-family: var(--mono); font-size: 9px; letter-spacing: .14em; text-transform: uppercase; padding: 2px 6px; border: 1px solid var(--line); margin-left: 8px; color: var(--dim); vertical-align: 2px; }
+  .rot .m .tag { font-family: var(--mono); font-size: 9px; letter-spacing: .14em; text-transform: uppercase; padding: 2px 6px; border: 1px solid var(--line); margin-left: 8px; color: var(--dim); vertical-align: 2px; white-space: nowrap; }
   .rot .m .tag.free { color: var(--teal); border-color: #2c3a34; }
   .rot .m .tag.about { color: var(--signal); border-color: #4a4012; }
   .rot .m { flex: 1; }
@@ -279,6 +279,40 @@
   footer { margin-top: 54px; border-top: 1px solid var(--line); padding: 26px 20px 40px; color: #5f5a4d; font-family: var(--mono); font-size: 11px; letter-spacing: .1em; text-align: center; line-height: 2; }
   footer a { color: var(--dim); text-decoration: none; }
   footer a:hover { color: var(--signal); }
+
+  /* ---- small screens (desktop layout untouched above 980) ---- */
+  @media (max-width: 980px){
+    /* .sec/.player set shorthand padding after .wrap, wiping its side padding —
+       restore the gutter that desktop gets for free from centered max-width */
+    .sec { padding-left: 20px; padding-right: 20px; }
+    .player.wrap { padding-left: 20px; padding-right: 20px; }
+  }
+  @media (max-width: 640px){
+    .hide-m { display: none; }
+    .status .wrap { padding: 9px 16px; gap: 8px; }
+    .status .l { gap: 12px; }
+    .sec { padding: 42px 16px 8px; }
+    .player.wrap { padding-left: 16px; padding-right: 16px; }
+
+    .wordmark { flex-direction: column; align-items: flex-start; gap: 8px; }
+    .wordmark h1 { font-size: clamp(80px, 23vw, 178px); }
+    .wordmark .pitch { text-align: left; padding-bottom: 6px; }
+    .bill .topline { font-size: 9px; letter-spacing: .16em; gap: 8px; }
+
+    .req .modes button { font-size: 10px; padding: 12px 6px; }
+    .req .body { padding: 18px 16px; }
+
+    .arch .card { gap: 12px; padding: 12px 14px; }
+
+    .rot .trk { gap: 10px; padding: 10px 12px; }
+    .rot .rank { flex: 0 0 16px; font-size: 11px; }
+    .rot .go3 { flex: 0 0 36px; height: 36px; font-size: 12px; }
+    .rot .vote { gap: 6px; }
+    .rot .vote .n { min-width: 20px; font-size: 13px; }
+    .rot .vote button { width: 34px; height: 34px; font-size: 14px; }
+
+    .memo { padding: 18px 16px; }
+  }
 </style>
 </head>
 <body>
@@ -286,9 +320,9 @@
     <div class="wrap">
       <div class="l">
         <span class="sig">HR·1</span>
-        <span>TRANSMITTING</span>
+        <span class="hide-m">TRANSMITTING</span>
         <span>YOUR LOCAL TIME <span id="clock" style="color:var(--ink)">--:--:--</span></span>
-        <span>FREQ ∞</span>
+        <span class="hide-m">FREQ ∞</span>
       </div>
       <div style="display:flex; align-items:center; gap:16px;">
         <div class="modeswitch" title="Who is listening?">
