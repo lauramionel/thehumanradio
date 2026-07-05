@@ -103,30 +103,10 @@
   .hero { padding: 0 0 22px; }
   .bill {
     max-width: none; margin: 0; color: #0b0b0d;
-    background: transparent;
-    padding: 26px clamp(20px, 5vw, 64px) 22px; position: relative;
+    background: var(--signal) url(hero.jpg) center/cover no-repeat;
+    padding: 26px clamp(20px, 5vw, 64px) 22px; position: relative; overflow: hidden;
+    box-shadow: 0 20px 50px rgba(0,0,0,.45);
   }
-  /* ---- the vibrant hero backdrop the masthead + player sit on ---- */
-  .stage {
-    position: relative;
-    background: #ef9d33 url(hero.jpg) center/cover no-repeat;
-    padding: 0 0 46px;
-  }
-  .stage::after {   /* ease the image down into the dark page below */
-    content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 140px;
-    background: linear-gradient(to bottom, rgba(11,11,13,0) 0%, var(--bg) 100%);
-    pointer-events: none; z-index: 1;
-  }
-  /* the dark broadcast deck, floating on the image */
-  .deck {
-    position: relative; z-index: 2;
-    background: rgba(8,8,10,.90);
-    border: 1px solid rgba(255,255,255,.09); border-radius: 5px;
-    padding: 10px clamp(16px,4vw,40px) 40px;
-    box-shadow: 0 34px 80px rgba(0,0,0,.55);
-    -webkit-backdrop-filter: blur(2px); backdrop-filter: blur(2px);
-  }
-  .deck .carrier { margin: 8px 0 2px; }
   .bill .topline {
     font-family: var(--mono); font-size: 11px; letter-spacing: .34em; text-transform: uppercase;
     display: flex; justify-content: space-between; border-bottom: 3px solid #0b0b0d; padding-bottom: 8px; margin-bottom: 6px;
@@ -354,7 +334,6 @@
     </div>
   </div>
 
-  <div class="stage">
   <section class="hero">
     <div class="bill">
       <div class="topline"><span>EST. 2026</span><span>NO. 001</span><span>FREQUENCY: EVERYWHERE</span></div>
@@ -366,13 +345,12 @@
     </div>
   </section>
 
-  <div class="deck wrap">
   <div class="carrier" aria-hidden="true">
     <canvas id="wave"></canvas>
     <span class="freq" id="waveLabel">CARRIER · IDLE</span>
   </div>
 
-  <section class="player">
+  <section class="player wrap">
     <div class="human-only">
       <button id="playBtn" title="Join the broadcast">▶</button>
       <br>
@@ -400,8 +378,6 @@
       </div>
     </div>
   </section>
-  </div><!-- /deck -->
-  </div><!-- /stage -->
 
   <!-- ============ THE REQUEST LINE ============ -->
   <section class="sec wrap" id="request">
