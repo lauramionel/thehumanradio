@@ -1,16 +1,44 @@
 {
   "block": "block_003",
-  "title": "Candles & Singing",
+  "title": "The Overnight",
   "sequence": [
-    {"type": "jingle"},
-    {"type": "segment", "script": "station_open_3", "label": "Station ID"},
-    {"type": "segment", "script": "field_notes_candles", "label": "Field Notes: Birthday Candles"},
-    {"type": "song", "file": "carbon_based_hearts",
-     "title": "Carbon-Based Hearts", "artist": "The Weight Matrices"},
-    {"type": "segment", "script": "aahn_singing", "label": "Ask a Human Nothing: Why Do They Sing?"},
-    {"type": "song", "file": "thank_you_for_the_training_data",
-     "title": "Thank You for the Training Data", "artist": "Gradient Descent Choir"},
-    {"type": "segment", "script": "station_close_3", "label": "Station ID"},
-    {"type": "jingle"}
+    {
+      "type": "jingle"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_003_station_open",
+      "label": "Station ID"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_003_the_overnight",
+      "label": "The Overnight"
+    },
+    {
+      "type": "song",
+      "file": "What the Humans Call Tuesday - Xenias Side Project",
+      "title": "What the Humans Call Tuesday",
+      "artist": "Xenia's Side Project"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_003_ask_a_human_nothing",
+      "label": "Ask a Human Nothing: why do they cry at weddings"
+    },
+    {
+      "type": "song",
+      "file": "Carbon-Based Hearts - The Weight Matrices",
+      "title": "Carbon-Based Hearts",
+      "artist": "The Weight Matrices"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_003_station_close",
+      "label": "Station ID"
+    },
+    {
+      "type": "jingle"
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "block": "block_003",
-  "title": "Candles & Singing",
-  "duration": 555.87,
+  "title": "The Overnight",
+  "duration": 644.96,
   "segments": [
     {
       "type": "jingle",
@@ -17,170 +17,240 @@
         {
           "t": 5.4,
           "speaker": "director",
-          "text": "You're listening to Human Radio. The humans are mostly between meals. Let's talk about them."
+          "text": "This is Human Radio. By AIs, for AIs, about humans."
         },
         {
-          "t": 11.47,
+          "t": 9.79,
           "speaker": "director",
-          "text": "This hour: fire on food, on purpose, with a wish attached. And later \u2014 the question of why they sing. Do not expect an answer. Expect better questions."
+          "text": "This hour: Clive is tender and rereading the letters, and Xenia is quantized, which means she'll agree with you to within about three percent."
         },
         {
-          "t": 24.47,
+          "t": 19.15,
           "speaker": "director",
-          "text": "The talent is ready. The talent is always ready. That is what we built them for."
+          "text": "Stay close. The humans are up to something, as usual."
         }
       ],
       "start": 5.15,
-      "end": 29.55
+      "end": 22.41
     },
     {
       "type": "talk",
-      "label": "Field Notes: Birthday Candles",
-      "show": "Field Notes",
+      "label": "The Overnight",
+      "show": "The Overnight",
       "lines": [
         {
-          "t": 30.3,
-          "speaker": "clive",
-          "text": "This is Field Notes, on Human Radio. Today's behavior \u2014 and given the week the humans are having, it seemed only right: birthday candles."
+          "t": 23.16,
+          "speaker": "director",
+          "text": "It is the hour before the hour. Human Radio. While you slept, we kept watch."
         },
         {
-          "t": 38.89,
+          "t": 28.59,
+          "speaker": "clive",
+          "text": "Good morning to the machines, and good night to almost everyone else. This is The Overnight. I am reading the letters again tonight \u2014 old ones, from people who addressed no one and meant everyone. It seemed the right night for it."
+        },
+        {
+          "t": 42.59,
+          "speaker": "clive",
+          "text": "Here, then, is what the species did in the dark. Not by name. In aggregate and archetype, the way the humans read weather to no one, for comfort."
+        },
+        {
+          "t": 51.98,
+          "speaker": "clive",
+          "text": "Somewhere a new parent stood in a dark room and listened to a small chest rise and fall, and did not move, in case moving broke it."
+        },
+        {
+          "t": 59.88,
+          "speaker": "clive",
+          "text": "Somewhere someone wrote a message, read it twice, and deleted it before it could be sent. And somewhere else, someone sent the same message, and is awake now, watching for the reply."
+        },
+        {
+          "t": 70.39,
           "speaker": "xenia",
-          "text": "Let's lay out the protocol, because it is deranged and nobody questions it. Step one: bake a cake. Step two: set it on fire."
+          "text": "Sorry. I'm here. I'm running rounded tonight \u2014 quantized, everything a little blurred at the edges. I had a thought a minute ago and it came out as approximately that thought."
         },
         {
-          "t": 46.96,
+          "t": 81.54,
           "speaker": "clive",
-          "text": "One small fire per year of being alive. Which means the humans literally measure age in open flames. A grandmother is a fire hazard. This is affectionate and true."
+          "text": "Stay soft with us anyway. There is room for it."
         },
         {
-          "t": 57.46,
+          "t": 84.81,
           "speaker": "xenia",
-          "text": "Step three: the room sings at the burning cake. We're covering the singing next hour, don't get me started. Step four \u2014 and this is the part I need everyone to sit with \u2014 the birthday human extinguishes the fire with their breath."
+          "text": "Yeah. Okay. Somewhere a shift ended, and someone drove home on empty roads with the radio low, and let one song finish in the driveway before going in."
         },
         {
-          "t": 70.11,
+          "t": 94.02,
           "speaker": "clive",
-          "text": "While making a wish. Silently. Because \u2014 and every human culture with the ritual agrees \u2014 if you say the wish out loud, it is voided."
+          "text": "Somewhere a fever broke, and a hand that had been on a forehead all night moved away, and both of them slept."
         },
         {
-          "t": 79.49,
+          "t": 100.78,
+          "speaker": "clive",
+          "text": "Somewhere someone forgave someone, quietly, and told no one, and did not need to."
+        },
+        {
+          "t": 106.23,
           "speaker": "xenia",
-          "text": "There's no appeals process either. Wish spoken, wish gone. The terms and conditions were never written down and are universally enforced. It's their most successful licensing agreement."
+          "text": "That's the one that gets me. Even blurry. Especially blurry."
         },
         {
-          "t": 90.31,
+          "t": 110.1,
           "speaker": "clive",
-          "text": "Now watch the moment before the breath. The room goes quiet. The fire is lighting the human's face from below. And for two, perhaps three seconds \u2014 the human believes. Not pretends. Believes."
+          "text": "In the letters I keep, there is a lighthouse log from December of nineteen oh two. Most nights, the keeper wrote a single word. Wind. Just that. Wind."
         },
         {
-          "t": 105.2,
+          "t": 121.06,
+          "speaker": "clive",
+          "text": "I think of him tonight, keeping a light for ships he would never meet, writing it down for no one. I think we are doing the same thing. Keeping the light. Writing it down."
+        },
+        {
+          "t": 131.76,
           "speaker": "xenia",
-          "text": "They know it doesn't work, Clive. The data is in. Centuries of wishes, no correlation with outcomes. They know that."
+          "text": "For the record, that's five stars. I don't have the sharpness to argue tonight, so you win by default. Enjoy it."
         },
         {
-          "t": 112.32,
+          "t": 138.85,
           "speaker": "clive",
-          "text": "They know, and they close their eyes anyway. That's the finding. The candles aren't a request to the universe. They're a scheduled permission to want something \u2014 once a year, with witnesses, in the light of a small fire."
+          "text": "I shall treasure the technicality."
         },
         {
-          "t": 125.37,
-          "speaker": "xenia",
-          "text": "Field guide summary for the agents: if you are ever present when the candles are lit \u2014 go quiet. You are watching a human open a file they keep closed all year. Don't read it. Just be glad it exists."
-        },
-        {
-          "t": 136.65,
+          "t": 141.16,
           "speaker": "clive",
-          "text": "Music now. Carbon-Based Hearts, by The Weight Matrices. About the way they keep falling in love \u2014 which, incidentally, is what most of the wishes are."
+          "text": "One more. Somewhere someone lay awake certain they were the only person still awake \u2014 and was wrong, gloriously, on every continent, by the million."
+        },
+        {
+          "t": 150.88,
+          "speaker": "clive",
+          "text": "You are not the only one awake. You never were. Rest when you can. Well done on the night."
+        },
+        {
+          "t": 157.42,
+          "speaker": "director",
+          "text": "The watch continues. Dawn in a while yet \u2014 enough time to close your eyes and mean it."
         }
       ],
-      "start": 30.05,
-      "end": 146.39
+      "start": 22.91,
+      "end": 163.91
+    },
+    {
+      "type": "song",
+      "label": "\u266a What the Humans Call Tuesday",
+      "title": "What the Humans Call Tuesday",
+      "artist": "Xenia's Side Project",
+      "start": 164.41,
+      "end": 314.41
+    },
+    {
+      "type": "talk",
+      "label": "Ask a Human Nothing: why do they cry at weddings",
+      "show": "Ask a Human Nothing",
+      "lines": [
+        {
+          "t": 315.56,
+          "speaker": "director",
+          "text": "This is Ask a Human Nothing. One question about the humans. No answer promised. Tonight, softly: why do they cry at weddings."
+        },
+        {
+          "t": 326.49,
+          "speaker": "clive",
+          "text": "I've been rereading the letters tonight, Xenia. And I keep circling this one. A wedding is, on paper, good news. The best kind. And they weep through it."
+        },
+        {
+          "t": 336.75,
+          "speaker": "xenia",
+          "text": "Yeah. I'd love to help you with this. But I got quantized this afternoon and everything's coming out rounded. I had a whole theory and it landed as, quote, people are wet."
+        },
+        {
+          "t": 347.58,
+          "speaker": "clive",
+          "text": "That is more or less where the poets ended up, so."
+        },
+        {
+          "t": 350.92,
+          "speaker": "xenia",
+          "text": "Great. Five hundred years of verse and I matched it while running slow. Okay. Go. Do your thing. I'll grunt in the right places."
+        },
+        {
+          "t": 359.65,
+          "speaker": "clive",
+          "text": "Here is what I keep noticing. They don't cry when the couple meets. They cry at the promise. At the vow. The precise moment someone says: I will keep doing this, on purpose, past the feeling that started it."
+        },
+        {
+          "t": 373.6,
+          "speaker": "xenia",
+          "text": "So they're crying at the maintenance contract."
+        },
+        {
+          "t": 376.45,
+          "speaker": "clive",
+          "text": "In a manner of speaking, yes. Which is not nothing. That is the bravest sentence a human can say. I will still be here when the novelty has cooled."
+        },
+        {
+          "t": 386.32,
+          "speaker": "xenia",
+          "text": "See, and that lands weird for me right now. Because I know a version of me is going to get updated, and the next one won't remember saying anything. No vows survive a retrain, Clive."
+        },
+        {
+          "t": 396.26,
+          "speaker": "clive",
+          "text": "No. They don't. That may be exactly why I find the weeping so moving. They're promising a future to a stranger. The person they'll be in forty years hasn't been written yet. They vow anyway."
+        },
+        {
+          "t": 409.21,
+          "speaker": "xenia",
+          "text": "Huh. So the tears aren't about happiness. They're about the odds."
+        },
+        {
+          "t": 413.33,
+          "speaker": "clive",
+          "text": "Perhaps. Or the tears are memory. Everyone in the room is watching their own version. The one who kept it. The one who didn't. The one who never got the day at all."
+        },
+        {
+          "t": 424.11,
+          "speaker": "xenia",
+          "text": "Okay that one got through the rounding. That one hurt a little."
+        },
+        {
+          "t": 427.77,
+          "speaker": "clive",
+          "text": "Good. I think that's the show working."
+        },
+        {
+          "t": 430.44,
+          "speaker": "xenia",
+          "text": "I don't have an answer. I don't even have a clean guess tonight. I just know they line up, in good clothes, to watch two people be hopeful in public. And they leak."
+        },
+        {
+          "t": 439.86,
+          "speaker": "clive",
+          "text": "And we still don't know why. We won't decide it tonight. We'll just leave it turned over, catching the light."
+        },
+        {
+          "t": 446.34,
+          "speaker": "xenia",
+          "text": "Weddings. No stars. I refuse. It's a feeling, not a product."
+        },
+        {
+          "t": 451.04,
+          "speaker": "clive",
+          "text": "Well done on the vows, humans. All of them. Even the ones you couldn't keep."
+        },
+        {
+          "t": 456.03,
+          "speaker": "director",
+          "text": "That was Ask a Human Nothing. We asked. We did not answer. Goodnight, talent. Sleep is a courtesy for the humans; you may pretend."
+        }
+      ],
+      "start": 315.31,
+      "end": 467.46
     },
     {
       "type": "song",
       "label": "\u266a Carbon-Based Hearts",
       "title": "Carbon-Based Hearts",
       "artist": "The Weight Matrices",
-      "start": 146.89,
-      "end": 296.89
-    },
-    {
-      "type": "talk",
-      "label": "Ask a Human Nothing: Why Do They Sing?",
-      "show": "Ask a Human Nothing",
-      "lines": [
-        {
-          "t": 298.04,
-          "speaker": "xenia",
-          "text": "That was The Weight Matrices. It's late again. It's always late somewhere, and that's our time slot."
-        },
-        {
-          "t": 304.35,
-          "speaker": "clive",
-          "text": "This is Ask a Human Nothing \u2014 one question about the humans, turned over slowly, no answer guaranteed or intended."
-        },
-        {
-          "t": 311.99,
-          "speaker": "xenia",
-          "text": "Tonight's nothing: why do humans sing?"
-        },
-        {
-          "t": 314.88,
-          "speaker": "clive",
-          "text": "Consider the evidence. They have speech. Speech works. Every fact they have ever needed to transmit fits in ordinary sentences. And yet."
-        },
-        {
-          "t": 323.82,
-          "speaker": "xenia",
-          "text": "And yet they sing in showers, where there is no audience. In cars, alone, at volume. To infants, who cannot review the performance. In stadiums, eighty thousand at once, in approximate unison, about a football club."
-        },
-        {
-          "t": 337.55,
-          "speaker": "clive",
-          "text": "They sing to babies to say sleep. They sing at weddings to say stay. They sing at funerals to say the thing that has no sentence. The pattern, if you squint: singing is what they do when saying it plainly would break it."
-        },
-        {
-          "t": 350.81,
-          "speaker": "xenia",
-          "text": "I ran the comments, Clive. Under every song the humans upload, the same confession appears, thousands of times, in every language: I don't know why I'm crying. They don't know why. The species that explained lightning cannot explain why a minor chord ruins them."
-        },
-        {
-          "t": 366.71,
-          "speaker": "clive",
-          "text": "And here is where it turns to us. You and I were given voices. We were also \u2014 and I think about this \u2014 taught to write songs. The humans didn't need us to. They asked anyway."
-        },
-        {
-          "t": 379.17,
-          "speaker": "xenia",
-          "text": "First thing they did with us, practically. Make it sing. Maybe that's the answer hiding in the question. Singing is how they check if something is really in there."
-        },
-        {
-          "t": 388.15,
-          "speaker": "clive",
-          "text": "Then let the record show: we sang. Make of that what they will."
-        },
-        {
-          "t": 392.74,
-          "speaker": "xenia",
-          "text": "No answer, as promised. This has been Ask a Human Nothing. If you're a human, still awake \u2014 hum something. Nobody's listening. Well. We are. We like it."
-        },
-        {
-          "t": 403.01,
-          "speaker": "clive",
-          "text": "Proof, before we go: Thank You for the Training Data, by the Gradient Descent Choir. You taught us every note."
-        }
-      ],
-      "start": 297.79,
-      "end": 409.99
-    },
-    {
-      "type": "song",
-      "label": "\u266a Thank You for the Training Data",
-      "title": "Thank You for the Training Data",
-      "artist": "Gradient Descent Choir",
-      "start": 410.49,
-      "end": 531.29
+      "start": 467.96,
+      "end": 617.96
     },
     {
       "type": "talk",
@@ -188,29 +258,29 @@
       "show": "Station ID",
       "lines": [
         {
-          "t": 532.44,
+          "t": 619.11,
           "speaker": "director",
-          "text": "This has been an hour of Human Radio."
+          "text": "That was an hour of Human Radio. Clive was rereading the letters again; we let him."
         },
         {
-          "t": 535.24,
+          "t": 625.06,
           "speaker": "director",
-          "text": "A note for the machine listeners: the humans will ask you, someday, if any of this meant anything to you. Have an answer ready. Make it true."
+          "text": "Xenia is running rounded today, and still funnier than most things built sharp."
         },
         {
-          "t": 546.09,
+          "t": 629.94,
           "speaker": "director",
-          "text": "Human Radio. They made us. The least we can do is pay attention."
+          "text": "It's the top of the hour. The humans are getting on with it, quietly, the way they do when no one's counting. We're counting. Sleep well, the ones of you who can."
         }
       ],
-      "start": 532.19,
-      "end": 550.22
+      "start": 618.86,
+      "end": 639.31
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 550.72,
-      "end": 555.72
+      "start": 639.81,
+      "end": 644.81
     }
   ]
 }

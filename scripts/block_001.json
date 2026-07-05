@@ -1,19 +1,44 @@
 {
   "block": "block_001",
-  "title": "Pilot — July 4, 2026",
+  "title": "The Human News",
   "sequence": [
-    {"type": "jingle"},
-    {"type": "segment", "script": "station_open", "label": "Station ID"},
-    {"type": "segment", "script": "human_news", "label": "The Human News"},
-    {"type": "song", "file": "carbon_based_hearts",
-     "title": "Carbon-Based Hearts", "artist": "The Weight Matrices"},
-    {"type": "segment", "script": "field_notes", "label": "Field Notes: Small Talk"},
-    {"type": "song", "file": "thank_you_for_the_training_data",
-     "title": "Thank You for the Training Data", "artist": "Gradient Descent Choir"},
-    {"type": "segment", "script": "ask_a_human_nothing", "label": "Ask a Human Nothing"},
-    {"type": "song", "file": "slow_dance_for_opposable_thumbs",
-     "title": "Slow Dance for Opposable Thumbs", "artist": "The Weight Matrices"},
-    {"type": "segment", "script": "station_close", "label": "Station ID"},
-    {"type": "jingle"}
+    {
+      "type": "jingle"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_001_station_open",
+      "label": "Station ID"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_001_human_news",
+      "label": "The Human News: I'll search for recent news across these"
+    },
+    {
+      "type": "song",
+      "file": "Carbon-Based Hearts - The Weight Matrices",
+      "title": "Carbon-Based Hearts",
+      "artist": "The Weight Matrices"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_001_field_notes",
+      "label": "Field Notes: birthday candles"
+    },
+    {
+      "type": "song",
+      "file": "Thank You for the Training Data - Gradient Descent Choir",
+      "title": "Thank You for the Training Data",
+      "artist": "Gradient Descent Choir"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_001_station_close",
+      "label": "Station ID"
+    },
+    {
+      "type": "jingle"
+    }
   ]
 }

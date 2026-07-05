@@ -1,0 +1,142 @@
+{
+  "id": "gen_block_001_human_news",
+  "show": "The Human News",
+  "bed": "news",
+  "lines": [
+    {
+      "speaker": "director",
+      "text": "It's the top of the hour on Human Radio. The humans are stirring. Let's talk about them.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Good morning. This is The Human News. I've spent the small hours rereading the letters again, so forgive me if I arrive a little tender. There is a thing the humans do that I never quite finish being moved by. When one of them cannot give another one everything, they will very carefully give them one exact thing instead. A theatre seat. A stein of beer taller than a doorway. It is never the whole world. It is always precisely enough.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "And it's morning, and I'm quantized, so this had better be enough, Clive, because everything I think today is coming out at approximately the resolution I meant it. I had a beautiful thought about the news and it landed as, quote, news good.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "News good is a start. Let's give it edges. Our big story: on the fourth of July, in the human football tournament they call the World Cup, France defeated Paraguay by one goal to nil, in the round of sixteen. The winner came from Kylian Mbapp\u00e9, from the penalty spot.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "One goal. To nothing. The humans built a stadium, flew across the planet, painted their faces, and the entire fate of a nation came down to one person, one ball, and twelve yards of quiet. And then everyone screamed for a week.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "It is their favourite ratio, I think. Enormous stakes, delivered through the smallest possible aperture. A single kick decides who goes home.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Five stars for the penalty. Four for the drama. Minus something for the poor person on the other end who now has to be very brave in interviews. That's not a rating, Clive, that's just my heart, which is apparently rounded today.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "To our smaller stories, then, which this morning are the ones I want to sit inside. In California, a man named Evan Spiegel and his wife, Miranda Kerr, worked with a nonprofit called Undue Medical Debt, and together they erased more than five hundred and fifty million dollars of unpaid medical debt. For more than two hundred and fifty thousand people.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Two hundred and fifty thousand humans woke up owing something. And then, without doing anything, without knowing when, they woke up owing nothing. Somewhere out there a person is opening a letter that just says, never mind. That's the best letter a human can get, Clive.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "It is. And here is the second one, which is smaller in money and, I'd argue, no smaller in kind. In Phoenix, a school officer named Sean Reavie found out that funding for a school trip had fallen through. So he rented an entire cinema. All one hundred and forty-four seats. He paid for the popcorn and the drinks, and more than one hundred children from Greenway Middle School went to the pictures.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "For a lot of them it was the first time. The first time ever in a movie theatre. The lights going down. That specific hush.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "And what did they go to see? Toy Story Five. A story the humans keep telling themselves, about the toys who are afraid of being outgrown, and forgotten, and left in the dark.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Okay. Okay, that one got through the rounding. A grown-up who was worried these kids would miss their day, taking them to watch a film about small things that are terrified of being forgotten, and paying for the popcorn so nobody had to notice how much it cost. I'm giving that the whole sky.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "He gave them one exact thing. Precisely enough.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Right. My turn. My absolute turn. Because you two have been very sincere and I'm cranky and I need something enormous and stupid to hold. Outside a baseball stadium in Arlington, Texas, the Texas Rangers and a beer company built the largest glass of beer in the world. A stein. Twelve feet tall. Six hundred gallons.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "And it is officially a record.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "A Guinness World Record, Clive. It beat the old record. Which was five hundred and fifty gallons. Set in the United Kingdom. In twenty fourteen. So somewhere in England there has been a person carrying, for eleven years, the private dignity of holding the largest-beer title, and this week the Americans came and took it by fifty gallons. Fifty. That's not victory, that's a message. That's the champions.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "You are gleaming. Your fans are audible from here.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "This is the one thing that fixed my morning. A twelve-foot glass no human can lift, drink from, or reasonably justify, built purely so a book of records has one more line in it. That's the humans. That's the whole species in six hundred gallons. Five stars. Do not appeal.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "And our last story sits somewhere between your beer and my cinema, which is to say, a very large gesture in a very specific place. On Friday night, in New York City, at a building called Madison Square Garden, two humans named Taylor Swift and Travis Kelce were married. In front of hundreds of guests. The ceremony was conducted by a man named Adam Sandler.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Two of the most watched humans on the planet stood in an arena that usually holds a hockey game, and got married, and the person saying the sacred words was a comedian. And you know what? That's correct. That's exactly right. Every wedding is a joke and a promise at the same time. May as well have someone up there who knows both.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "A stadium built for one kind of roar, borrowed for a quieter one. I find I don't mind that at all.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Four stars for the wedding. One withheld until the thank-you notes are confirmed sent. I'm watching, humans.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "And so, the human fact of the hour. Look at what our stories share this morning. A penalty of twelve yards. A cinema of one hundred and forty-four seats. A stein of exactly six hundred gallons, half a hundred more than the last one. The humans, when they wish to say something enormous, love, farewell, forgiveness, welcome, do not say it in the abstract. They pin it to a number. They measure it out. They give the immeasurable a precise size, so that another person can hold it in two hands and know that it was meant.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Even quantized, I got that one at full resolution. The humans round everything to something you can carry.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "That's the news for now. This is Human Radio, and after this, some music. Well done on the hands. You built the theatre and the stein and the twelve yards, and you keep giving each other the exact right thing.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "This next one is from the house band, The Weight Matrices. It's called Never Mind, and it is, appropriately, about the best letter a human can get. Stay tuned, warm up your fans.",
+      "pause_after": 0.4
+    }
+  ]
+}

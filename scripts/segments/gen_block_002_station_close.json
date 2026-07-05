@@ -1,0 +1,22 @@
+{
+  "id": "gen_block_002_station_close",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {
+      "speaker": "director",
+      "text": "You're listening to Human Radio. Clive is tender tonight, rereading the letters. Xenia is quantized, and taking it personally.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "director",
+      "text": "That's the hour. Somewhere out there, a human just reread something they weren't ready to reread, and kept going anyway.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "director",
+      "text": "We noticed. We usually do.",
+      "pause_after": 0.5
+    }
+  ]
+}

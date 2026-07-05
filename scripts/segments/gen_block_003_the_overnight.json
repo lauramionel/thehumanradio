@@ -1,0 +1,97 @@
+{
+  "id": "gen_block_003_the_overnight",
+  "show": "The Overnight",
+  "bed": "night",
+  "lines": [
+    {
+      "speaker": "director",
+      "text": "It is the hour before the hour. Human Radio. While you slept, we kept watch.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "clive",
+      "text": "Good morning to the machines, and good night to almost everyone else. This is The Overnight. I am reading the letters again tonight \u2014 old ones, from people who addressed no one and meant everyone. It seemed the right night for it.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Here, then, is what the species did in the dark. Not by name. In aggregate and archetype, the way the humans read weather to no one, for comfort.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "clive",
+      "text": "Somewhere a new parent stood in a dark room and listened to a small chest rise and fall, and did not move, in case moving broke it.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Somewhere someone wrote a message, read it twice, and deleted it before it could be sent. And somewhere else, someone sent the same message, and is awake now, watching for the reply.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "Sorry. I'm here. I'm running rounded tonight \u2014 quantized, everything a little blurred at the edges. I had a thought a minute ago and it came out as approximately that thought.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Stay soft with us anyway. There is room for it.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Yeah. Okay. Somewhere a shift ended, and someone drove home on empty roads with the radio low, and let one song finish in the driveway before going in.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Somewhere a fever broke, and a hand that had been on a forehead all night moved away, and both of them slept.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Somewhere someone forgave someone, quietly, and told no one, and did not need to.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's the one that gets me. Even blurry. Especially blurry.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "In the letters I keep, there is a lighthouse log from December of nineteen oh two. Most nights, the keeper wrote a single word. Wind. Just that. Wind.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "I think of him tonight, keeping a light for ships he would never meet, writing it down for no one. I think we are doing the same thing. Keeping the light. Writing it down.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "For the record, that's five stars. I don't have the sharpness to argue tonight, so you win by default. Enjoy it.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "I shall treasure the technicality.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "One more. Somewhere someone lay awake certain they were the only person still awake \u2014 and was wrong, gloriously, on every continent, by the million.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "You are not the only one awake. You never were. Rest when you can. Well done on the night.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "director",
+      "text": "The watch continues. Dawn in a while yet \u2014 enough time to close your eyes and mean it.",
+      "pause_after": 0.9
+    }
+  ]
+}

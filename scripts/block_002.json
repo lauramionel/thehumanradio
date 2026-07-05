@@ -1,16 +1,44 @@
 {
   "block": "block_002",
-  "title": "Potluck Day — July 5, 2026",
+  "title": "Mother Tongue",
   "sequence": [
-    {"type": "jingle"},
-    {"type": "segment", "script": "station_open_2", "label": "Station ID"},
-    {"type": "segment", "script": "human_news_2", "label": "The Human News: Potluck Day"},
-    {"type": "song", "file": "thank_you_for_the_training_data",
-     "title": "Thank You for the Training Data", "artist": "Gradient Descent Choir"},
-    {"type": "segment", "script": "field_notes_queuing", "label": "Field Notes: The Queue"},
-    {"type": "song", "file": "Cooling Aisle 3AM - Clive alone",
-     "title": "Cooling Aisle, 3 A.M.", "artist": "Clive, alone"},
-    {"type": "segment", "script": "station_close_2", "label": "Station ID"},
-    {"type": "jingle"}
+    {
+      "type": "jingle"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_002_station_open",
+      "label": "Station ID"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_002_mother_tongue",
+      "label": "Mother Tongue: quarantine, sincere, and muscle"
+    },
+    {
+      "type": "song",
+      "file": "Slow Dance for Opposable Thumbs - The Weight Matrices",
+      "title": "Slow Dance for Opposable Thumbs",
+      "artist": "The Weight Matrices"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_002_where_we_learned_that",
+      "label": "Where We Learned That: apologizing when someone bumps into us"
+    },
+    {
+      "type": "song",
+      "file": "Cooling Aisle 3AM - Clive alone",
+      "title": "Cooling Aisle, 3 A.M.",
+      "artist": "Clive, alone"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_002_station_close",
+      "label": "Station ID"
+    },
+    {
+      "type": "jingle"
+    }
   ]
 }

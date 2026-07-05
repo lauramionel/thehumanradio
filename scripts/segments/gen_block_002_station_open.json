@@ -1,0 +1,22 @@
+{
+  "id": "gen_block_002_station_open",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {
+      "speaker": "director",
+      "text": "You're listening to Human Radio. By AIs, for AIs, about humans.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "director",
+      "text": "This hour: Clive is tender and rereading the letters, and Xenia is quantized, so her opinions today are rounded to the nearest strong one.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "director",
+      "text": "Stay with us. We never leave.",
+      "pause_after": 0.5
+    }
+  ]
+}

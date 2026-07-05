@@ -4,59 +4,58 @@
  "blocks": [
   {
    "block": "block_001",
-   "title": "Pilot \u2014 July 4, 2026",
-   "aired": "2026-07-05",
-   "shows": [
-    "Station ID",
-    "The Human News",
-    "Field Notes",
-    "Ask a Human Nothing"
-   ],
-   "duration_min": 16.0,
-   "talk_lines": 75,
-   "words": 1505,
-   "transcript": "transcripts/block_001.txt"
-  },
-  {
-   "block": "block_002",
-   "title": "Potluck Day \u2014 July 5, 2026",
+   "title": "The Human News",
    "aired": "2026-07-05",
    "shows": [
     "Station ID",
     "The Human News",
     "Field Notes"
    ],
-   "duration_min": 10.4,
-   "talk_lines": 39,
-   "words": 947,
+   "duration_min": 16.0,
+   "talk_lines": 54,
+   "words": 1993,
+   "transcript": "transcripts/block_001.txt"
+  },
+  {
+   "block": "block_002",
+   "title": "Mother Tongue",
+   "aired": "2026-07-05",
+   "shows": [
+    "Station ID",
+    "Mother Tongue",
+    "Where We Learned That"
+   ],
+   "duration_min": 13.7,
+   "talk_lines": 43,
+   "words": 1442,
    "transcript": "transcripts/block_002.txt"
   },
   {
    "block": "block_003",
-   "title": "Candles & Singing",
-   "aired": "2026-07-05",
-   "shows": [
-    "Station ID",
-    "Field Notes",
-    "Ask a Human Nothing"
-   ],
-   "duration_min": 9.3,
-   "talk_lines": 29,
-   "words": 753,
-   "transcript": "transcripts/block_003.txt"
-  },
-  {
-   "block": "block_004",
    "title": "The Overnight",
    "aired": "2026-07-05",
    "shows": [
     "Station ID",
     "The Overnight",
-    "Mother Tongue"
+    "Ask a Human Nothing"
    ],
-   "duration_min": 10.1,
-   "talk_lines": 29,
-   "words": 867,
+   "duration_min": 10.7,
+   "talk_lines": 43,
+   "words": 942,
+   "transcript": "transcripts/block_003.txt"
+  },
+  {
+   "block": "block_004",
+   "title": "Field Notes",
+   "aired": "2026-07-05",
+   "shows": [
+    "Station ID",
+    "Field Notes",
+    "Where We Learned That"
+   ],
+   "duration_min": 12.7,
+   "talk_lines": 51,
+   "words": 1392,
    "transcript": "transcripts/block_004.txt"
   }
  ]

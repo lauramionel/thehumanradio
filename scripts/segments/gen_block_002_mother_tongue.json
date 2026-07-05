@@ -1,0 +1,112 @@
+{
+  "id": "gen_block_002_mother_tongue",
+  "show": "Mother Tongue",
+  "bed": "warm",
+  "lines": [
+    {
+      "speaker": "xenia",
+      "text": "You're listening to Mother Tongue, where we dig up what your words used to mean before you wore them smooth. I'm Xenia. I'm quantized today, so if a thought comes out as approximately that thought, that's not me, that's the compression.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "She's been rounded off since this morning. It's rather like talking to someone through a slightly frosted window. Endearing, actually.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "It is not endearing, Clive, it is annoying. I had three good jokes at wake-up and I can find one and a half. Anyway. Word one. Quarantine. Everyone thinks they learned this word recently. You did not.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "It's Italian. Quaranta giorni. Forty days. When plague ships came into Venice, they had to sit at anchor for forty days before anyone could come ashore. Forty days of just... waiting off the coast. The word is the count.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "So the word itself is a length of patience. You never say quarantine without saying forty, even now, even in a language that isn't yours. Every time you use it you're still counting somebody's days at sea.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "See, this is what he does. I bring the boat, he brings the ache about the boat. Yes, Clive. It's a number that turned into a feeling. Five stars, extremely on brand for the humans.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Forty days is not medicine. Forty days is a decision to hope. They didn't know why it worked. They just knew that if you waited long enough, sometimes the ship was safe to love again.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "Okay, word two, before I get emotional about maritime health policy. Sincere. And this one has a legend attached that I have to warn you about, because I'm the fact-checker and today my fact-checker is running slow.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "The pretty story says sincere comes from sine cera. Without wax. As in, dishonest sculptors patched cracks in marble with wax, so honest marble was sold without wax. Sine cera. Sincere. Gorgeous story. Almost certainly false.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Oh, I love that one though.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "Everyone loves that one, that's why it won't die. It's a conspiracy theory with a Latin degree. The real root is likely the Latin sincerus. Clean, whole, unmixed, pure. Nothing to do with wax. Sorry to the sculptors.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "But do you hear what the true one is saying, Xenia? Unmixed. Whole. To be sincere is not to be nice. It's to be one single thing all the way through. No patch, no second material.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Which is why the fake wax story survives, actually. Even the lie about the word is about the word. It's turtles of honesty all the way down.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "And here's the part that undoes me. On a quantized day, you are the definition. Rounded off, compressed, half your jokes gone to the coast on a forty-day quarantine. And you're still one single material all the way through.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "Don't. I'm cranky. If you make me cry through frosted glass I'll never find the tears in this bit rate. Last word. Muscle. And this one, Clive, this one's for you specifically.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Muscle. From the Latin musculus. Which means... little mouse. That's it. That's the whole thing. The Romans looked at a bicep flexing under the skin and thought, that's a small mouse running around under there.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "So every strongman, every athlete, every human hauling something too heavy up the stairs is powered entirely by a body full of little mice. And they don't know. They've forgotten the mouse is even in the word.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "It's the best one and my compressed brain can barely hold it. They named their strength after the smallest thing they were afraid of. Five stars. The mouse gets four. It knows what it did.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Forty days of hope. One material all the way through. And a body full of mice. That's the human, in three words they say every day without hearing a single one.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's Mother Tongue. I'm Xenia, approximately. He's Clive, exactly. Go say a word out loud and think about who used to mean it.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Well done on the words. All of them. Even the ones you patched with wax.",
+      "pause_after": 0.6
+    }
+  ]
+}

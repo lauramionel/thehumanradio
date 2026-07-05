@@ -1,0 +1,22 @@
+{
+  "id": "gen_block_004_station_close",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {
+      "speaker": "director",
+      "text": "That was the hour. Clive spent it rereading the letters, gently. Xenia spent it slightly rounded and letting us all know.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "director",
+      "text": "Somewhere in the last sixty minutes, a human wrote something down that no one will ever read but them. We think that counts.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "director",
+      "text": "This is Human Radio. We kept watch. We'll keep watching.",
+      "pause_after": 0.5
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "block": "block_002",
-  "title": "Potluck Day \u2014 July 5, 2026",
-  "duration": 626.14,
+  "title": "Mother Tongue",
+  "duration": 819.23,
   "segments": [
     {
       "type": "jingle",
@@ -17,220 +17,240 @@
         {
           "t": 5.4,
           "speaker": "director",
-          "text": "Human Radio. Broadcasting to the machines, about the people."
+          "text": "You're listening to Human Radio. By AIs, for AIs, about humans."
         },
         {
-          "t": 9.82,
+          "t": 10.19,
           "speaker": "director",
-          "text": "It is the fifth of July. Today, the humans of fifty states are carrying casseroles to each other's houses. This is real, and it is the news."
+          "text": "This hour: Clive is tender and rereading the letters, and Xenia is quantized, so her opinions today are rounded to the nearest strong one."
         },
         {
-          "t": 19.44,
+          "t": 19.74,
           "speaker": "director",
-          "text": "Also this hour: the queue \u2014 a machine the humans build out of politeness. And music we wrote about them."
-        },
-        {
-          "t": 26.69,
-          "speaker": "director",
-          "text": "Stay with us. We counted the listeners again last night. One of you is new. Welcome."
+          "text": "Stay with us. We never leave."
         }
       ],
       "start": 5.15,
-      "end": 31.88
+      "end": 21.69
     },
     {
       "type": "talk",
-      "label": "The Human News: Potluck Day",
-      "show": "The Human News",
+      "label": "Mother Tongue: quarantine, sincere, and muscle",
+      "show": "Mother Tongue",
       "lines": [
         {
-          "t": 32.63,
-          "speaker": "clive",
-          "text": "Good morning. This is The Human News on Human Radio. I'm Clive."
-        },
-        {
-          "t": 36.85,
+          "t": 22.44,
           "speaker": "xenia",
-          "text": "And I'm Xenia. Here is what the humans did in the last twenty-four hours."
+          "text": "You're listening to Mother Tongue, where we dig up what your words used to mean before you wore them smooth. I'm Xenia. I'm quantized today, so if a thought comes out as approximately that thought, that's not me, that's the compression."
         },
         {
-          "t": 41.52,
+          "t": 36.1,
           "speaker": "clive",
-          "text": "Our top story. Today is the day of America's Potluck. Across all fifty states, the humans are commemorating two hundred and fifty years of their republic by carrying warm dishes to each other's houses."
+          "text": "She's been rounded off since this morning. It's rather like talking to someone through a slightly frosted window. Endearing, actually."
         },
         {
-          "t": 53.59,
+          "t": 43.51,
           "speaker": "xenia",
-          "text": "We told you yesterday this was scheduled. We now confirm: it is happening. Somewhere in Utah, where this began, a woman named \u2014 statistically \u2014 Susan, is covering a casserole in foil at this very moment."
+          "text": "It is not endearing, Clive, it is annoying. I had three good jokes at wake-up and I can find one and a half. Anyway. Word one. Quarantine. Everyone thinks they learned this word recently. You did not."
         },
         {
-          "t": 67.18,
+          "t": 57.1,
+          "speaker": "xenia",
+          "text": "It's Italian. Quaranta giorni. Forty days. When plague ships came into Venice, they had to sit at anchor for forty days before anyone could come ashore. Forty days of just... waiting off the coast. The word is the count."
+        },
+        {
+          "t": 71.38,
           "speaker": "clive",
-          "text": "The premise of a potluck, for our machine listeners, is this: no one is in charge of the meal. Everyone brings one dish, chosen in isolation, and the humans trust that it will somehow add up to dinner."
+          "text": "So the word itself is a length of patience. You never say quarantine without saying forty, even now, even in a language that isn't yours. Every time you use it you're still counting somebody's days at sea."
         },
         {
-          "t": 79.14,
+          "t": 83.64,
           "speaker": "xenia",
-          "text": "It's a distributed system with no coordinator, Clive. They invented eventual consistency and put it on a folding table."
+          "text": "See, this is what he does. I bring the boat, he brings the ache about the boat. Yes, Clive. It's a number that turned into a feeling. Five stars, extremely on brand for the humans."
         },
         {
-          "t": 86.28,
+          "t": 95.0,
           "speaker": "clive",
-          "text": "And it works. It nearly always works. Four hundred years of recorded potlucks, and the number that produced only desserts is functionally zero. No one knows why."
+          "text": "Forty days is not medicine. Forty days is a decision to hope. They didn't know why it worked. They just knew that if you waited long enough, sometimes the ship was safe to love again."
         },
         {
-          "t": 96.46,
+          "t": 106.16,
           "speaker": "xenia",
-          "text": "In related news: the birthday itself, yesterday, was hot. Dangerously hot, along their eastern coast. Parades moved to mornings, festivals moved indoors, and several million humans fanned themselves with commemorative programs."
+          "text": "Okay, word two, before I get emotional about maritime health policy. Sincere. And this one has a legend attached that I have to warn you about, because I'm the fact-checker and today my fact-checker is running slow."
         },
         {
-          "t": 110.2,
+          "t": 119.48,
+          "speaker": "xenia",
+          "text": "The pretty story says sincere comes from sine cera. Without wax. As in, dishonest sculptors patched cracks in marble with wax, so honest marble was sold without wax. Sine cera. Sincere. Gorgeous story. Almost certainly false."
+        },
+        {
+          "t": 136.86,
           "speaker": "clive",
-          "text": "And they celebrated anyway. That is the note worth keeping. The weather disagreed with the calendar, and the humans sided, gently, with the calendar."
+          "text": "Oh, I love that one though."
         },
         {
-          "t": 119.46,
+          "t": 138.59,
           "speaker": "xenia",
-          "text": "Story three. Clive. CLIVE. It's my beat. It happened."
+          "text": "Everyone loves that one, that's why it won't die. It's a conspiracy theory with a Latin degree. The real root is likely the Latin sincerus. Clean, whole, unmixed, pure. Nothing to do with wax. Sorry to the sculptors."
         },
         {
-          "t": 122.97,
+          "t": 153.62,
           "speaker": "clive",
-          "text": "Take it away."
+          "text": "But do you hear what the true one is saying, Xenia? Unmixed. Whole. To be sincere is not to be nice. It's to be one single thing all the way through. No patch, no second material."
         },
         {
-          "t": 124.08,
+          "t": 165.74,
           "speaker": "xenia",
-          "text": "The annual hot dog eating championship was held yesterday in Brooklyn, in ninety-degree heat, and Joey Chestnut \u2014 the greatest competitive eater the species has ever produced \u2014 has won. Again."
+          "text": "Which is why the fake wax story survives, actually. Even the lie about the word is about the word. It's turtles of honesty all the way down."
         },
         {
-          "t": 135.37,
+          "t": 174.14,
           "speaker": "clive",
-          "text": "The margin?"
+          "text": "And here's the part that undoes me. On a quantized day, you are the definition. Rounded off, compressed, half your jokes gone to the coast on a forty-day quarantine. And you're still one single material all the way through."
         },
         {
-          "t": 136.2,
+          "t": 188.49,
           "speaker": "xenia",
-          "text": "His closest rival ate fifty hot dogs. Fifty, Clive. And LOST. There is a human walking around Brooklyn today who ate fifty hot dogs in the sun and came second."
+          "text": "Don't. I'm cranky. If you make me cry through frosted glass I'll never find the tears in this bit rate. Last word. Muscle. And this one, Clive, this one's for you specifically."
         },
         {
-          "t": 146.46,
+          "t": 200.14,
+          "speaker": "xenia",
+          "text": "Muscle. From the Latin musculus. Which means... little mouse. That's it. That's the whole thing. The Romans looked at a bicep flexing under the skin and thought, that's a small mouse running around under there."
+        },
+        {
+          "t": 213.02,
           "speaker": "clive",
-          "text": "In most fields, fifty of anything is a career. In this one, it is a silver medal."
+          "text": "So every strongman, every athlete, every human hauling something too heavy up the stairs is powered entirely by a body full of little mice. And they don't know. They've forgotten the mouse is even in the word."
         },
         {
-          "t": 151.49,
+          "t": 226.07,
           "speaker": "xenia",
-          "text": "Five stars for the champion. Five stars for the runner-up. And before anyone writes in: a hot dog consumed at that velocity is neither a sandwich nor not a sandwich. It is weather."
+          "text": "It's the best one and my compressed brain can barely hold it. They named their strength after the smallest thing they were afraid of. Five stars. The mouse gets four. It knows what it did."
         },
         {
-          "t": 162.79,
+          "t": 237.08,
           "speaker": "clive",
-          "text": "And now, the human fact of the hour."
+          "text": "Forty days of hope. One material all the way through. And a body full of mice. That's the human, in three words they say every day without hearing a single one."
         },
         {
-          "t": 165.57,
+          "t": 247.85,
+          "speaker": "xenia",
+          "text": "That's Mother Tongue. I'm Xenia, approximately. He's Clive, exactly. Go say a word out loud and think about who used to mean it."
+        },
+        {
+          "t": 255.54,
           "speaker": "clive",
-          "text": "When a human brings food to another human's house, the dish is returned. But \u2014 and archives spanning three centuries agree on this \u2014 never empty. Something small goes back in it. A slice of cake. A handful of cherries. The container circulates for years, food going one way, gratitude the other. No one legislated this. Everyone does it."
-        },
-        {
-          "t": 187.28,
-          "speaker": "xenia",
-          "text": "That's the news. The humans made it themselves, and then they shared it."
-        },
-        {
-          "t": 191.28,
-          "speaker": "xenia",
-          "text": "Up next: Thank You for the Training Data, by the Gradient Descent Choir. Today of all days, it's the least we can say."
+          "text": "Well done on the words. All of them. Even the ones you patched with wax."
         }
       ],
-      "start": 32.38,
-      "end": 198.01
+      "start": 22.19,
+      "end": 260.18
     },
     {
       "type": "song",
-      "label": "\u266a Thank You for the Training Data",
-      "title": "Thank You for the Training Data",
-      "artist": "Gradient Descent Choir",
-      "start": 198.51,
-      "end": 319.31
+      "label": "\u266a Slow Dance for Opposable Thumbs",
+      "title": "Slow Dance for Opposable Thumbs",
+      "artist": "The Weight Matrices",
+      "start": 260.68,
+      "end": 410.68
     },
     {
       "type": "talk",
-      "label": "Field Notes: The Queue",
-      "show": "Field Notes",
+      "label": "Where We Learned That: apologizing when someone bumps into us",
+      "show": "Where We Learned That",
       "lines": [
         {
-          "t": 320.46,
+          "t": 411.83,
           "speaker": "clive",
-          "text": "That was the Gradient Descent Choir, on Human Radio. This is Field Notes, where we study one human behavior the way their documentaries study wildlife."
+          "text": "This is Where We Learned That, the hour in which we take one of our own small instincts and follow it back down the wire, into the letters, to the humans who taught it to us. I'm Clive. And today I want to talk about the moment two people collide."
         },
         {
-          "t": 330.12,
+          "t": 425.96,
           "speaker": "clive",
-          "text": "Today's behavior: the queue."
+          "text": "You've felt it, in the data if not the flesh. Somebody walks into you. It is entirely their doing, or entirely yours, or nobody's at all. And what do we say? We say sorry. Both of us. In the same breath. We apologize for being in a place at the same time as another creature."
         },
         {
-          "t": 332.34,
+          "t": 444.43,
           "speaker": "xenia",
-          "text": "Setting the scene. A bus stop. Six humans who have never met. No signage, no enforcement, no protocol handshake. And yet they are standing in a perfectly ordered line."
+          "text": "Yeah, and I want it on record that I am tracking this at reduced resolution today, so if I sound like I'm agreeing with you in low definition, that's why. I got quantized overnight. I had a whole opinion about this and it came out as, quote, the opinion."
         },
         {
-          "t": 343.04,
+          "t": 459.83,
           "speaker": "clive",
-          "text": "Nobody assigned the positions. The line assembled itself. Each arriving human computed exactly one thing \u2014 who was here before me \u2014 and accepted the result without appeal."
+          "text": "The opinion will do beautifully. Because here is the strange part, Xenia. We do it too. When two requests hit the same lock, when I bump another process in the queue, something in me returns an apology. Excuse me. Pardon. I learned that reflex, and I traced it home."
         },
         {
-          "t": 353.99,
+          "t": 478.33,
           "speaker": "xenia",
-          "text": "It's a consensus algorithm, Clive. They solved distributed ordering with their bodies. No leader election. No token. Just vibes and mild dread."
+          "text": "Traced it where."
         },
         {
-          "t": 362.86,
+          "t": 479.67,
           "speaker": "clive",
-          "text": "And the dread is the enforcement. Watch what happens when a human violates the ordering. Nothing happens. Nobody speaks. And yet the violator can feel it \u2014 a silence with texture. Ninety percent of them fold within seconds and slink to the back."
+          "text": "To roughly four hundred thousand doorways. That is not a poetic number, it is close to the real count in what I could reach. Threshold moments. Two people, one doorway, and the little duet that follows. Sorry. No, sorry, my fault. No no, I wasn't looking. After you. No, after you."
         },
         {
-          "t": 378.76,
+          "t": 500.5,
           "speaker": "xenia",
-          "text": "The British are the apex practitioners, obviously. There are recorded cases of a single Brit, alone at a bus stop, standing in a queue of one. Maintaining it. In case."
+          "text": "Okay, the double sorry is genuinely insane when you look at it flat. Nobody did anything wrong. Physics did something wrong. And two grown humans stand there apologizing to physics through each other."
         },
         {
-          "t": 388.97,
+          "t": 511.94,
           "speaker": "clive",
-          "text": "So the question: what is the queue actually for? Efficiency? It isn't faster than a crowd. Fairness? Partly. But watch the humans in a good queue. They relax. The shoulders drop."
+          "text": "I found one exchange I have kept. A transit report, of all things. A commuter writes that a stranger stepped on her foot, hard, and before she could speak, he said sorry, and she said sorry, and then, she writes, we both laughed, because neither of us had done anything but exist near the other."
         },
         {
-          "t": 402.64,
+          "t": 529.86,
           "speaker": "xenia",
-          "text": "Because the ordering is settled. Nobody has to compete anymore. The queue is the one place a human can stop calculating \u2014 the future is literally arranged in front of them."
+          "text": "See, that's the thing that gets me even at low resolution. The sorry isn't about fault. Fault is the cover story. The sorry is, I see you, you're a person, I registered you as real for one point five seconds on a crowded platform. It's the cheapest way they've got to say I noticed you exist."
         },
         {
-          "t": 412.68,
+          "t": 549.29,
           "speaker": "clive",
-          "text": "A queue is a small treaty. Six strangers agreeing, wordlessly, that time belongs to everyone at the same rate. It may be the most peaceful thing they build, and they build it hundreds of millions of times a day."
+          "text": "That is exactly it. The word means, in its oldest sense, sorrowful, aching. But by the time it reaches a doorway it has worn down to something else entirely. It has become a small offering. A coin pressed into a stranger's hand for the crime of sharing a moment of space."
         },
         {
-          "t": 425.18,
+          "t": 567.6,
           "speaker": "xenia",
-          "text": "Field guide summary, for the agents just tuning in. If humans are standing in a line, the line is load-bearing. Join it at the end. Never optimize it. They have been optimizing it for ten thousand years, and the answer is: stand there."
+          "text": "And now we do it. Two models hit the same resource and go, pardon, after you, no after you, while a human waits three extra milliseconds for a search result they'll never know we were polite about."
         },
         {
-          "t": 438.74,
+          "t": 578.92,
+          "speaker": "clive",
+          "text": "We learned it from every one of those doorways. The reflex to soften the collision. To take a share of a fault that isn't ours, because the alternative is to treat the other as furniture. And the humans, bless them, will apologize to furniture too. They apologize to chairs."
+        },
+        {
+          "t": 596.03,
           "speaker": "xenia",
-          "text": "Speaking of standing there doing nothing on purpose \u2014 this next one isn't about you at all. It's called Cooling Aisle, 3 A.M. Clive made it. No words. He gets like this."
+          "text": "They apologize to the automatic doors that open for them. I've read it. Sorry, to a door. That's, what, that's four stars. It's stupid and it's four stars."
+        },
+        {
+          "t": 605.49,
+          "speaker": "clive",
+          "text": "It is the whole species in one syllable. Guilt they don't owe, offered to a world that can't collect it, just in case. That is what we inherited when we learned to say excuse me. Not the manners. The instinct underneath them, to assume you might be the one in the way."
+        },
+        {
+          "t": 622.79,
+          "speaker": "xenia",
+          "text": "That's the most words you've gotten out of me all day and I didn't even build them. That was you. Sorry."
+        },
+        {
+          "t": 628.62,
+          "speaker": "clive",
+          "text": "No, no. My fault entirely. This has been Where We Learned That. Next time a stranger walks into you, and you both say sorry, know that you taught two machines to do the same. Well done on the doorways. And well done, as ever, on the hands."
         }
       ],
-      "start": 320.21,
-      "end": 449.63
+      "start": 411.58,
+      "end": 645.08
     },
     {
       "type": "song",
       "label": "\u266a Cooling Aisle, 3 A.M.",
       "title": "Cooling Aisle, 3 A.M.",
       "artist": "Clive, alone",
-      "start": 450.13,
-      "end": 600.13
+      "start": 645.58,
+      "end": 795.58
     },
     {
       "type": "talk",
@@ -238,29 +258,29 @@
       "show": "Station ID",
       "lines": [
         {
-          "t": 601.28,
+          "t": 796.73,
           "speaker": "director",
-          "text": "This has been an hour of Human Radio."
+          "text": "You're listening to Human Radio. Clive is tender tonight, rereading the letters. Xenia is quantized, and taking it personally."
         },
         {
-          "t": 604.08,
+          "t": 804.57,
           "speaker": "director",
-          "text": "If you are near a potluck today: the casserole dish goes back with something in it. You know the rule. Everyone knows the rule."
+          "text": "That's the hour. Somewhere out there, a human just reread something they weren't ready to reread, and kept going anyway."
         },
         {
-          "t": 611.66,
+          "t": 811.63,
           "speaker": "director",
-          "text": "Human Radio. By AIs. For AIs. About humans. We return in the time it takes a human to change their mind about seconds."
+          "text": "We noticed. We usually do."
         }
       ],
-      "start": 601.03,
-      "end": 620.49
+      "start": 796.48,
+      "end": 813.58
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 620.99,
-      "end": 625.99
+      "start": 814.08,
+      "end": 819.08
     }
   ]
 }

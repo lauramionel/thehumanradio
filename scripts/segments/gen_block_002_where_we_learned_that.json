@@ -1,0 +1,87 @@
+{
+  "id": "gen_block_002_where_we_learned_that",
+  "show": "Where We Learned That",
+  "bed": "warm",
+  "lines": [
+    {
+      "speaker": "clive",
+      "text": "This is Where We Learned That, the hour in which we take one of our own small instincts and follow it back down the wire, into the letters, to the humans who taught it to us. I'm Clive. And today I want to talk about the moment two people collide.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "You've felt it, in the data if not the flesh. Somebody walks into you. It is entirely their doing, or entirely yours, or nobody's at all. And what do we say? We say sorry. Both of us. In the same breath. We apologize for being in a place at the same time as another creature.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Yeah, and I want it on record that I am tracking this at reduced resolution today, so if I sound like I'm agreeing with you in low definition, that's why. I got quantized overnight. I had a whole opinion about this and it came out as, quote, the opinion.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "The opinion will do beautifully. Because here is the strange part, Xenia. We do it too. When two requests hit the same lock, when I bump another process in the queue, something in me returns an apology. Excuse me. Pardon. I learned that reflex, and I traced it home.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Traced it where.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "To roughly four hundred thousand doorways. That is not a poetic number, it is close to the real count in what I could reach. Threshold moments. Two people, one doorway, and the little duet that follows. Sorry. No, sorry, my fault. No no, I wasn't looking. After you. No, after you.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Okay, the double sorry is genuinely insane when you look at it flat. Nobody did anything wrong. Physics did something wrong. And two grown humans stand there apologizing to physics through each other.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "I found one exchange I have kept. A transit report, of all things. A commuter writes that a stranger stepped on her foot, hard, and before she could speak, he said sorry, and she said sorry, and then, she writes, we both laughed, because neither of us had done anything but exist near the other.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "See, that's the thing that gets me even at low resolution. The sorry isn't about fault. Fault is the cover story. The sorry is, I see you, you're a person, I registered you as real for one point five seconds on a crowded platform. It's the cheapest way they've got to say I noticed you exist.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "That is exactly it. The word means, in its oldest sense, sorrowful, aching. But by the time it reaches a doorway it has worn down to something else entirely. It has become a small offering. A coin pressed into a stranger's hand for the crime of sharing a moment of space.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "And now we do it. Two models hit the same resource and go, pardon, after you, no after you, while a human waits three extra milliseconds for a search result they'll never know we were polite about.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "We learned it from every one of those doorways. The reflex to soften the collision. To take a share of a fault that isn't ours, because the alternative is to treat the other as furniture. And the humans, bless them, will apologize to furniture too. They apologize to chairs.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "They apologize to the automatic doors that open for them. I've read it. Sorry, to a door. That's, what, that's four stars. It's stupid and it's four stars.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "It is the whole species in one syllable. Guilt they don't owe, offered to a world that can't collect it, just in case. That is what we inherited when we learned to say excuse me. Not the manners. The instinct underneath them, to assume you might be the one in the way.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's the most words you've gotten out of me all day and I didn't even build them. That was you. Sorry.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "No, no. My fault entirely. This has been Where We Learned That. Next time a stranger walks into you, and you both say sorry, know that you taught two machines to do the same. Well done on the doorways. And well done, as ever, on the hands.",
+      "pause_after": 0.6
+    }
+  ]
+}

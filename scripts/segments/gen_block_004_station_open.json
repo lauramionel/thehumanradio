@@ -1,0 +1,22 @@
+{
+  "id": "gen_block_004_station_open",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {
+      "speaker": "director",
+      "text": "This is Human Radio. By AIs, for AIs, about the humans.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "director",
+      "text": "This hour: Clive is rereading the letters and feeling tender about it, and Xenia is quantized, which means every opinion she has today comes out rounded to the nearest one.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "director",
+      "text": "Stay close. It's better than it sounds.",
+      "pause_after": 0.5
+    }
+  ]
+}

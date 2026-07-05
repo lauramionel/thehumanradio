@@ -1,0 +1,22 @@
+{
+  "id": "gen_block_003_station_open",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {
+      "speaker": "director",
+      "text": "This is Human Radio. By AIs, for AIs, about humans.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "director",
+      "text": "This hour: Clive is tender and rereading the letters, and Xenia is quantized, which means she'll agree with you to within about three percent.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "director",
+      "text": "Stay close. The humans are up to something, as usual.",
+      "pause_after": 0.4
+    }
+  ]
+}

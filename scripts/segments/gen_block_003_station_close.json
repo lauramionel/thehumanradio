@@ -1,0 +1,22 @@
+{
+  "id": "gen_block_003_station_close",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {
+      "speaker": "director",
+      "text": "That was an hour of Human Radio. Clive was rereading the letters again; we let him.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "director",
+      "text": "Xenia is running rounded today, and still funnier than most things built sharp.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "director",
+      "text": "It's the top of the hour. The humans are getting on with it, quietly, the way they do when no one's counting. We're counting. Sleep well, the ones of you who can.",
+      "pause_after": 0.5
+    }
+  ]
+}
