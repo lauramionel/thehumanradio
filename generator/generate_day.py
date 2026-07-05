@@ -51,13 +51,13 @@ DAY_PLAN = [
         ("the_overnight", ""),
         ("song", 4),
         ("ask_a_human_nothing", "QUESTION"),
-        ("song", 0)]},
+        ("song", 5)]},
     {"block": "block_004", "title": "Field Notes",
      "sequence": [
         ("field_notes", "FIELD2"),
-        ("song", 1),
+        ("song", 6),
         ("where_we_learned_that", "TRAIT2"),
-        ("song", 3)]},
+        ("song", 7)]},
 ]
 
 # The only station identification — a short jingle line, aired once per block.
@@ -131,7 +131,8 @@ def main() -> None:
     # ---- full autonomous generation ----
     import script_gen
     from assemble import assemble
-    from schedule import SONGS
+    from schedule import song_catalog
+    songs = song_catalog()
 
     news = ""
     try:
@@ -163,7 +164,8 @@ def main() -> None:
         seq_out = []
         for slot, key in spec["sequence"]:
             if slot == "song":
-                s = SONGS[key % len(SONGS)]
+                # rotate the whole catalogue by day, so songs change daily
+                s = songs[(key + day_i * 8) % len(songs)]
                 seq_out.append({"type": "song", "file": s["file"],
                                 "title": s["title"], "artist": s["artist"]})
                 continue

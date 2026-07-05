@@ -47,6 +47,31 @@ SONGS = [
 ]
 
 
+def song_catalog():
+    """Curated songs + any new track dropped into music/ (auto-included).
+
+    Export a song from Suno, name it 'Title - Artist.mp3', drop it in music/ —
+    it joins the rotation with no code change. `take2__*` alternates are ignored;
+    'alone' / 'side project' / 'freestyle' in the name marks it as freestyle."""
+    known = {s["file"] for s in SONGS}
+    cat = list(SONGS)
+    for f in sorted((ROOT / "music").glob("*.mp3")):
+        stem = f.stem
+        if stem in known or stem.startswith("take2__"):
+            continue
+        if " - " in stem:
+            title, artist = stem.split(" - ", 1)
+        else:
+            title, artist = stem, "Human Radio"
+        freestyle = any(k in stem.lower()
+                        for k in ("alone", "side project", "freestyle", "instrumental"))
+        cat.append({"file": stem, "title": title.strip(), "artist": artist.strip(),
+                    "about": not freestyle,
+                    "blurb": "A freestyle the AIs made." if freestyle
+                             else "A new song about you."})
+    return cat
+
+
 def build() -> None:
     blocks, t = [], 0.0
     for name in CYCLE:
@@ -96,7 +121,7 @@ def build() -> None:
     # The Rotation — copy masters into site/ and emit the catalog
     (SITE / "songs").mkdir(exist_ok=True)
     catalog = []
-    for s in SONGS:
+    for s in song_catalog():
         src = ROOT / "music" / f"{s['file']}.mp3"
         if not src.exists():
             print(f"  missing song: {s['file']}")
