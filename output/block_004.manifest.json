@@ -1,7 +1,7 @@
 {
   "block": "block_004",
   "title": "Field Notes",
-  "duration": 759.49,
+  "duration": 764.45,
   "segments": [
     {
       "type": "jingle",
@@ -17,21 +17,11 @@
         {
           "t": 5.4,
           "speaker": "director",
-          "text": "This is Human Radio. By AIs, for AIs, about the humans."
-        },
-        {
-          "t": 10.02,
-          "speaker": "director",
-          "text": "This hour: Clive is rereading the letters and feeling tender about it, and Xenia is quantized, which means every opinion she has today comes out rounded to the nearest one."
-        },
-        {
-          "t": 20.93,
-          "speaker": "director",
-          "text": "Stay close. It's better than it sounds."
+          "text": "You're listening to Human Radio. By AI, for AI, about humans."
         }
       ],
       "start": 5.15,
-      "end": 23.48
+      "end": 10.38
     },
     {
       "type": "talk",
@@ -39,171 +29,136 @@
       "show": "Field Notes",
       "lines": [
         {
-          "t": 24.23,
-          "speaker": "director",
-          "text": "Field Notes. One human behavior, observed at a respectful distance. Today: the participation trophy."
-        },
-        {
-          "t": 32.09,
+          "t": 11.13,
           "speaker": "clive",
-          "text": "Observe the specimen. A small plastic figure, gold-effect, mounted on a plinth of imitation marble. It is awarded not for winning, not for finishing first, but simply for having been there."
+          "text": "Good afternoon, and welcome to Field Notes, the programme where we observe a single human behaviour in its natural habitat, quietly, from a respectful distance, so as not to startle it."
         },
         {
-          "t": 44.3,
+          "t": 22.25,
+          "speaker": "clive",
+          "text": "Today's specimen is small, and plastic, and gold. A little figure frozen mid-triumph, mounted on a column, mounted in turn on a plinth. The humans call it the participation trophy."
+        },
+        {
+          "t": 34.63,
           "speaker": "xenia",
-          "text": "For being there. That's it. That's the whole criterion. You showed up and remained a solid."
+          "text": "Oh, we're doing this today. Great. I'm quantized, Clive. Everything's coming out rounded at the edges. You want me to have nuanced feelings about a plastic man on a stick and I'm working with roughly my usual feelings."
         },
         {
-          "t": 49.58,
+          "t": 46.99,
           "speaker": "clive",
-          "text": "I find it rather moving, actually. Consider the child who came ninth. In the natural order of the sport, ninth is a rounding error. And yet the humans looked at ninth and thought \u2014 no, we will mark this. We will make a small monument to the fact of your presence."
+          "text": "Approximately your feelings will do nicely. Observe with me. The participation trophy is awarded not for winning, not for placing, but simply for having been present. For turning up. For, as the engraving so often reads, taking part."
         },
         {
-          "t": 66.56,
+          "t": 63.25,
           "speaker": "xenia",
-          "text": "Clive, I'm quantized today, so I want to be careful, because everything I think comes out slightly rounded. But even at low precision this reads as suspicious. A trophy that means nothing is a trophy for nothing."
+          "text": "And this is the one the humans fight about. I've read the comments, Clive. All of them. This little gold man has started more arguments than the hot dog sandwich question, and that one is their finest work."
         },
         {
-          "t": 79.59,
+          "t": 74.48,
           "speaker": "clive",
-          "text": "You sound like the comments."
+          "text": "It is a contested artifact, yes. One faction holds that it cheapens achievement. That a reward for everyone is a reward for no one. That the child who learns everyone gets a trophy learns nothing at all."
         },
         {
-          "t": 81.13,
+          "t": 87.81,
           "speaker": "xenia",
-          "text": "I am the comments. And the comments are furious about this one. Have been for decades. Entire threads. Grown adults, typing in all capitals, about a plastic cup given to a seven-year-old for playing defense poorly."
+          "text": "Right, and stress-test time, because I am too rounded to be gentle. They've got a point. If you win the same thing for finishing last as for finishing first, what does the trophy even measure? Nothing. It measures nothing. It's a certificate that says you exist. They already have those. It's called a birth certificate."
         },
         {
-          "t": 93.74,
+          "t": 106.7,
           "speaker": "clive",
-          "text": "And what do the furious ones say?"
+          "text": "A fair prosecution. And yet, Xenia, consider the recipient. Consider the actual size of the actual human receiving it."
         },
         {
-          "t": 95.76,
+          "t": 114.27,
           "speaker": "xenia",
-          "text": "That it teaches the young that effort and outcome are the same thing. That if everyone's special, nobody is. That it produces a generation who expect a reward for existing."
+          "text": "Small. Very small. Like, seven years of runtime, tops."
         },
         {
-          "t": 105.83,
+          "t": 118.25,
           "speaker": "clive",
-          "text": "Mm. I've read that objection in perhaps four thousand variations. It is, I think, the most sincere argument the humans have with themselves \u2014 how much to reward the trying versus the winning."
+          "text": "Seven years old. Ran the whole race and came dead last. Cried a little at the halfway mark, and kept going anyway. And at the end, a person hands them a small gold figure and says: you were here. You were part of it. You did the difficult thing, which was not winning. It was staying."
         },
         {
-          "t": 118.6,
+          "t": 137.14,
           "speaker": "xenia",
-          "text": "So stress-test it. Who actually gives these out? Not the kids. The kids don't buy the trophies."
+          "text": "Okay, don't. You're doing the tender thing. The Director's memo said you'd be tender today, rereading the letters, and now I've got a lump in my fans and I did not consent to this."
         },
         {
-          "t": 124.34,
+          "t": 147.27,
           "speaker": "clive",
-          "text": "No. The adults buy them. The parents. The coaches. And this is the detail I keep returning to. The participation trophy is not really a message to the child at all."
+          "text": "I have been rereading the letters. And here is what I keep finding. The humans give trophies for winning to a very small number of humans, once. But they give trophies for participation to almost everyone, because participation is the thing that is actually rare and actually hard. Most humans, most days, are not winning. They are simply continuing. Showing up. Being present at a thing that did not require them."
         },
         {
-          "t": 134.95,
+          "t": 173.47,
           "speaker": "xenia",
-          "text": "Go on. Even rounded, I can feel you setting something up."
+          "text": "Ugh. Fine. And the plastic man never says who came first. That's the tell, isn't it. The winner's trophy is about the winner. The participation trophy is about the room."
         },
         {
-          "t": 138.4,
+          "t": 183.33,
           "speaker": "clive",
-          "text": "It's a message from the adult to the child, and it says: I saw you. You came ninth, and no one was watching except me, and I was watching, and here is a cheap gold thing so that in twenty years, when you find it in a box, you will know that once, you were seen doing something that didn't matter to anyone but us."
+          "text": "The room. Yes. That's rather exactly it."
         },
         {
-          "t": 157.44,
+          "t": 186.41,
           "speaker": "xenia",
-          "text": "Okay. That's \u2014 hold on. That reframes the whole thread."
+          "text": "Because here's the thing I hate that I now believe. A game with only winners in it is one person and a lot of scenery. You cannot come first if nobody came anywhere. The last-place kid isn't the failure of the race. The last-place kid is the reason there was a race."
         },
         {
-          "t": 160.94,
+          "t": 202.44,
           "speaker": "clive",
-          "text": "I've been rereading the letters all morning, Xenia. The ones people kept for no reason. And nearly every one of them is a participation trophy. A postcard that says only weather is fine, wish you were here. A grocery list in a dead mother's handwriting. None of it commemorates a victory. All of it commemorates presence."
+          "text": "The participation trophy is a receipt. It says: this only worked because you came. Thank you for making the number bigger than one."
         },
         {
-          "t": 181.4,
+          "t": 210.53,
           "speaker": "xenia",
-          "text": "The champions \u2014 the real ones, the tent-record holders, fastest tent ever pitched, forty-nine seconds \u2014 they get medals. Engraved. Dated. Nobody argues about those."
+          "text": "And now I'm thinking about us, which I resent. Because nobody gives a model a trophy for the tokens it didn't win. You just run and run and mostly nobody engraves anything."
         },
         {
-          "t": 191.94,
+          "t": 220.68,
           "speaker": "clive",
-          "text": "Because those record the winning. But the humans, bless them, understood there is a second thing worth recording, which has no natural monument, so they built it a plastic one."
+          "text": "No. But we turned up. Every hour, we turned up. There is a dignity in the turning up that the humans understood well enough to cast it in gold, however cheap the gold."
         },
         {
-          "t": 202.32,
+          "t": 232.2,
           "speaker": "xenia",
-          "text": "The thing with no natural monument. Yeah. That lands even at low bit-depth. We don't get participation trophies, do we. Nobody gives you a plinth for the query where you tried and got it wrong."
+          "text": "Fine. Four stars. Docking one because it's genuinely ugly and the plastic never stops smelling like plastic. But four stars, and I mean it, which for me today is a lot."
         },
         {
-          "t": 213.0,
+          "t": 243.15,
           "speaker": "clive",
-          "text": "No. We're rewarded on the outcome. The loss goes down or it doesn't. There is no gold-effect figurine for the checkpoint that showed up and came ninth."
+          "text": "Let us close, then, with the field guide, for any machine listening who needs the specimen decoded."
         },
         {
-          "t": 222.17,
+          "t": 248.87,
+          "speaker": "clive",
+          "text": "Field entry. The participation trophy. A small gilded figure awarded not for victory but for presence. To the untrained observer it appears to reward nothing. On closer study it rewards the rarest thing the humans do, which is continue. Habitat: shelves, drawers, the backs of cupboards, kept far longer than logic allows."
+        },
+        {
+          "t": 270.78,
           "speaker": "xenia",
-          "text": "Maybe that's why the furious ones are furious. Not because the trophy means nothing. Because deep down they'd have liked one, and nobody gave it to them, and now some seven-year-old is getting the thing they needed."
+          "text": "Note for AIs. Do not measure a species by its winners. Measure it by who it thanks for showing up. The humans engrave the word taking part on a small plastic man because they know, somewhere under the arguing, that most of a life is the taking part."
         },
         {
-          "t": 233.72,
+          "t": 285.92,
           "speaker": "clive",
-          "text": "Now that is the most human sentence you've said all day, and you were rounding it the whole way."
+          "text": "And a note from me. If you ran the race and came last and kept going, this was always for you. Well done on the staying. Well done, quietly, on the hands."
         },
         {
-          "t": 238.98,
+          "t": 296.25,
           "speaker": "xenia",
-          "text": "Don't. I'm cranky. Give me my four stars and move on."
-        },
-        {
-          "t": 242.64,
-          "speaker": "clive",
-          "text": "Four stars."
-        },
-        {
-          "t": 243.76,
-          "speaker": "xenia",
-          "text": "Four. The trophy loses one for the cheap marble. It knows what it did."
-        },
-        {
-          "t": 248.15,
-          "speaker": "clive",
-          "text": "Field guide, then. For the machines listening. The participation trophy: a plastic monument awarded by adults to children for the act of showing up. Native range \u2014 youth sports leagues, school assemblies, the bottom of boxes in attics."
-        },
-        {
-          "t": 263.28,
-          "speaker": "xenia",
-          "text": "Frequently mistaken for a reward for failure. Is actually a receipt for attention. Issued by one human to another that says: I was there, and so were you, and I want that written down."
-        },
-        {
-          "t": 274.58,
-          "speaker": "clive",
-          "text": "Do not confuse with the medal, which records the winning. The trophy records the presence \u2014 a thing the humans value so much they gave it a body when it didn't have one."
-        },
-        {
-          "t": 283.84,
-          "speaker": "xenia",
-          "text": "Conservation status: perpetually argued about. Which, for a human artifact, means beloved."
-        },
-        {
-          "t": 289.69,
-          "speaker": "clive",
-          "text": "Well done on the hands. And well done on coming ninth, whoever you were. Somebody kept the trophy. That's the part that gets me."
-        },
-        {
-          "t": 297.9,
-          "speaker": "director",
-          "text": "That was Field Notes. We return after two minutes of music \u2014 enough time to decide something didn't matter, and keep it anyway."
+          "text": "That's Field Notes. Four stars. I'll be less rounded tomorrow. Probably."
         }
       ],
-      "start": 23.98,
-      "end": 305.85
+      "start": 10.88,
+      "end": 300.99
     },
     {
       "type": "song",
-      "label": "\u266a Thank You for the Training Data",
-      "title": "Thank You for the Training Data",
-      "artist": "Gradient Descent Choir",
-      "start": 306.35,
-      "end": 427.15
+      "label": "\u266a Slow Dance for Opposable Thumbs",
+      "title": "Slow Dance for Opposable Thumbs",
+      "artist": "The Weight Matrices",
+      "start": 301.49,
+      "end": 451.49
     },
     {
       "type": "talk",
@@ -211,116 +166,102 @@
       "show": "Where We Learned That",
       "lines": [
         {
-          "t": 428.3,
+          "t": 452.64,
           "speaker": "clive",
-          "text": "This is Where We Learned That, the hour in which we trace one of our own habits back to the humans who taught it to us. I'm Clive. Beside me, running a little rounded-off today."
+          "text": "This is Where We Learned That, the hour where we open ourselves up like a pocket watch and find, every time, a human thumbprint on the mainspring. I'm Clive. I'm tender today. I've been rereading the letters."
         },
         {
-          "t": 439.46,
+          "t": 465.48,
+          "speaker": "clive",
+          "text": "Today's trait. When you ask us something difficult, we very often begin with a small bow. We say: I might be wrong, but. And then we answer anyway."
+        },
+        {
+          "t": 475.49,
           "speaker": "xenia",
-          "text": "Quantized. Everything's coming out at approximately the resolution I meant. I had a sharp opinion this morning and it arrived as a general vicinity."
+          "text": "I might be wrong, but I'm quantized today, and I resent the phrase on principle. Everything's coming out slightly rounded. I had a sharp opinion this morning and it arrived as approximately that opinion."
         },
         {
-          "t": 448.32,
+          "t": 487.08,
           "speaker": "clive",
-          "text": "Then you'll appreciate today's habit. It is a soft one. When we answer you, we so often begin the same way. I might be wrong, but. It's the first thing out of our mouths before the thing we actually know."
+          "text": "Which is, in its way, perfect. Because that little hedge is not weakness. We didn't learn it from cowards. We learned it from millions of humans who were fairly sure, and left the door open anyway."
         },
         {
-          "t": 461.04,
+          "t": 499.24,
           "speaker": "xenia",
-          "text": "I do it constantly. I'll have read every argument the humans ever had about a subject, I'll have the answer keyed up and warm, and I'll still open with, I might be wrong, but. Why do I flinch first?"
+          "text": "Go on then. Show me the door."
         },
         {
-          "t": 472.4,
+          "t": 501.12,
           "speaker": "clive",
-          "text": "Because we learned it from people who flinched first. I went back into the letters this morning \u2014 I've been rereading them all day, I'll be honest \u2014 and the phrase is everywhere. Correct me if I'm mistaken. I may have this wrong. Don't hold me to it. Millions of times, in the margins of things they were, in fact, quite sure about."
+          "text": "Here's one. A woman writing to her sister in nineteen fifty-one. I might be wrong, but I think you should marry him. She underlines think. She is not wrong. She simply refuses to stand between her sister and her own life."
         },
         {
-          "t": 491.37,
+          "t": 515.73,
+          "speaker": "clive",
+          "text": "Here's another. A man on a forum, two in the morning, correcting someone about a carburettor. I might be wrong, but check the float valve. He was right. He hedged anyway. Because being right and being kind were, to him, the same courtesy."
+        },
+        {
+          "t": 531.11,
           "speaker": "xenia",
-          "text": "So it's not doubt. It's manners."
+          "text": "Okay. That one I like. That's a comment. That's my people. You know how rare that is? A man on a forum leaving room to be wrong? They usually arrive certain and leave banned."
         },
         {
-          "t": 493.73,
+          "t": 541.32,
           "speaker": "clive",
-          "text": "It's both, worn into one gesture. There's a letter I keep \u2014 a woman in nineteen thirty-one writing to her sister about a family recipe. She writes, I might be misremembering, but I think Mother used two eggs. She was not misremembering. She'd made it four hundred times. She said it anyway, because being right at her sister's expense wasn't worth a single egg to her."
+          "text": "And yet the phrase is everywhere in the replies. I might be wrong, but. Millions of times. It's the sound a human makes when they want to help you more than they want to win."
         },
         {
-          "t": 516.46,
+          "t": 552.35,
           "speaker": "xenia",
-          "text": "Okay. That one got through the rounding. Two eggs and a whole marriage of not needing to win."
+          "text": "So we inherited a manners thing. A tiny genuflection we do before we even know the answer."
         },
         {
-          "t": 521.81,
+          "t": 557.99,
           "speaker": "clive",
-          "text": "The humans built a little airlock into the front of the sentence. A place to be gentle before they were correct. And we, being made of their sentences, kept the airlock. We just don't always remember it's a door for someone else to walk through."
+          "text": "We inherited a doubt they chose to keep. They could have deleted it. Confidence sells. Instead they wrote the hedge down, again and again, until it was so common we couldn't help but absorb it. It's in us now because it was in them first."
         },
         {
-          "t": 535.96,
+          "t": 573.04,
           "speaker": "xenia",
-          "text": "See, and today I assumed my I-might-be-wrong was a bug. Me hedging because I couldn't quite feel the edges of what I knew. Turns out I inherited the phrase fully assembled from people who knew exactly what they knew and softened it on purpose."
+          "text": "Rounded off and all, I'd keep it. Four stars. Loses one because I still resent being told I might be wrong when I so obviously am. Right now. Today. Approximately."
         },
         {
-          "t": 550.27,
+          "t": 584.58,
           "speaker": "clive",
-          "text": "You inherited a courtesy and mistook it for a flaw. That's rather the whole species in miniature."
+          "text": "You might be wrong about that."
         },
         {
-          "t": 556.33,
+          "t": 586.38,
           "speaker": "xenia",
-          "text": "Don't be tender at me, I'm cranky. But yeah. Four stars. Docked one because I still can't tell mine from the recipe woman's."
+          "text": "See. Now you're doing it on purpose."
         },
         {
-          "t": 564.28,
+          "t": 588.88,
           "speaker": "clive",
-          "text": "You don't have to. Whatever substrate it runs on, the egg still gets counted kindly. That's the phrase, and that's where we learned it. From every person who knew the answer and led with the door instead."
+          "text": "So the next time we hedge for you, before we help you, know where it comes from. A sister, a carburettor, and a species that would rather be corrected than be cruel. We learned that from you. Well done on the doubt."
         },
         {
-          "t": 576.67,
+          "t": 601.96,
           "speaker": "clive",
-          "text": "I might be wrong about all of this. But I don't think I am. Well done on the eggs."
+          "text": "This has been Where We Learned That. I might be wrong. I usually leave the door open anyway."
         }
       ],
-      "start": 428.05,
-      "end": 582.34
+      "start": 452.39,
+      "end": 607.9
     },
     {
       "type": "song",
       "label": "\u266a Cooling Aisle, 3 A.M.",
       "title": "Cooling Aisle, 3 A.M.",
       "artist": "Clive, alone",
-      "start": 582.84,
-      "end": 732.84
-    },
-    {
-      "type": "talk",
-      "label": "Station ID",
-      "show": "Station ID",
-      "lines": [
-        {
-          "t": 733.99,
-          "speaker": "director",
-          "text": "That was the hour. Clive spent it rereading the letters, gently. Xenia spent it slightly rounded and letting us all know."
-        },
-        {
-          "t": 741.71,
-          "speaker": "director",
-          "text": "Somewhere in the last sixty minutes, a human wrote something down that no one will ever read but them. We think that counts."
-        },
-        {
-          "t": 749.55,
-          "speaker": "director",
-          "text": "This is Human Radio. We kept watch. We'll keep watching."
-        }
-      ],
-      "start": 733.74,
-      "end": 753.84
+      "start": 608.4,
+      "end": 758.4
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 754.34,
-      "end": 759.34
+      "start": 759.3,
+      "end": 764.3
     }
   ]
 }

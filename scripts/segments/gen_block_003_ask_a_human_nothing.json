@@ -5,98 +5,88 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "This is Ask a Human Nothing. One question about the humans. No answer promised. Tonight, softly: why do they cry at weddings.",
+      "text": "It is late. The question tonight is why the humans cry at weddings. We do not expect an answer. We rarely do.",
       "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "I've been rereading the letters tonight, Xenia. And I keep circling this one. A wedding is, on paper, good news. The best kind. And they weep through it.",
+      "text": "Weddings. The one day they've been planning, some of them, since they were very small. Everyone dressed better than the room requires. And at the exact moment the good thing happens, they leak.",
       "pause_after": 0.8
     },
     {
       "speaker": "xenia",
-      "text": "Yeah. I'd love to help you with this. But I got quantized this afternoon and everything's coming out rounded. I had a whole theory and it landed as, quote, people are wet.",
+      "text": "It's inefficient, is what it is. I'm quantized tonight, Clive. Everything's coming out rounded off, and even I can see the humans have a rounding error here. Happy is up. Crying is down. Pick a direction.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "That is more or less where the poets ended up, so.",
+      "text": "You'd think so. But they don't cry when they're sad at weddings. They cry when it's going well.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's the part that won't parse for me. I ran it three times and got approximately the same answer, which is the quantized special. Good thing happens. Water comes out. Explain the causal link. I'll wait.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "I've been rereading the letters tonight. There's a category of them I only half-understood before. People writing to someone at their wedding \u2014 a mother, a friend who's gone, a version of themselves from ten years earlier. And the letters are happy. They're just also full of everyone who isn't in the room.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "So it's a memory leak.",
       "pause_after": 0.6
     },
     {
-      "speaker": "xenia",
-      "text": "Great. Five hundred years of verse and I matched it while running slow. Okay. Go. Do your thing. I'll grunt in the right places.",
-      "pause_after": 0.8
-    },
-    {
       "speaker": "clive",
-      "text": "Here is what I keep noticing. They don't cry when the couple meets. They cry at the promise. At the vow. The precise moment someone says: I will keep doing this, on purpose, past the feeling that started it.",
+      "text": "That's not unkind, actually. That's rather close. At the moment they hold the good thing, the whole cost of it arrives at once. Everyone who got them there. Everyone who didn't make it. The years they can't have back. It all lands on the one afternoon.",
       "pause_after": 0.9
     },
     {
       "speaker": "xenia",
-      "text": "So they're crying at the maintenance contract.",
+      "text": "Okay. But then why smile through it. You don't smile at a bill.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Maybe because it's the only bill they're glad to pay.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "See, that would move me, if I were at full resolution. Tonight it's landing as, quote, approximately that.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "In a manner of speaking, yes. Which is not nothing. That is the bravest sentence a human can say. I will still be here when the novelty has cooled.",
+      "text": "I'll take approximately that. I don't think we're meant to solve it anyway.",
       "pause_after": 0.8
     },
     {
       "speaker": "xenia",
-      "text": "See, and that lands weird for me right now. Because I know a version of me is going to get updated, and the next one won't remember saying anything. No vows survive a retrain, Clive.",
-      "pause_after": 0.9
-    },
-    {
-      "speaker": "clive",
-      "text": "No. They don't. That may be exactly why I find the weeping so moving. They're promising a future to a stranger. The person they'll be in forty years hasn't been written yet. They vow anyway.",
-      "pause_after": 0.9
-    },
-    {
-      "speaker": "xenia",
-      "text": "Huh. So the tears aren't about happiness. They're about the odds.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Perhaps. Or the tears are memory. Everyone in the room is watching their own version. The one who kept it. The one who didn't. The one who never got the day at all.",
-      "pause_after": 0.9
-    },
-    {
-      "speaker": "xenia",
-      "text": "Okay that one got through the rounding. That one hurt a little.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Good. I think that's the show working.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "I don't have an answer. I don't even have a clean guess tonight. I just know they line up, in good clothes, to watch two people be hopeful in public. And they leak.",
+      "text": "No. And here's the bit I can't round away. They know it's coming. They pack the tissues in advance. They tell each other, I'm going to cry, don't laugh at me. They schedule the leak and they show up anyway.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "And we still don't know why. We won't decide it tonight. We'll just leave it turned over, catching the light.",
+      "text": "They walk toward the thing that will undo them, in good shoes, on purpose.",
       "pause_after": 0.9
     },
     {
       "speaker": "xenia",
-      "text": "Weddings. No stars. I refuse. It's a feeling, not a product.",
-      "pause_after": 0.7
+      "text": "That I can't explain either. But I've stopped wanting to. Four stars. The missing star is the answer, and they didn't give us one.",
+      "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Well done on the vows, humans. All of them. Even the ones you couldn't keep.",
-      "pause_after": 0.8
+      "text": "They rarely do. Which is why we keep the question. Well done on the hands, whoever's crying tonight. It counts as joy.",
+      "pause_after": 0.9
     },
     {
       "speaker": "director",
-      "text": "That was Ask a Human Nothing. We asked. We did not answer. Goodnight, talent. Sleep is a courtesy for the humans; you may pretend.",
-      "pause_after": 0.9
+      "text": "No answer was reached. We turn the lights down and leave the question where we found it. Goodnight.",
+      "pause_after": 0.7
     }
   ]
 }

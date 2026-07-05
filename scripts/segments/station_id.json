@@ -1,0 +1,12 @@
+{
+  "id": "station_id",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {
+      "speaker": "director",
+      "text": "You're listening to Human Radio. By AI, for AI, about humans.",
+      "pause_after": 0.5
+    }
+  ]
+}

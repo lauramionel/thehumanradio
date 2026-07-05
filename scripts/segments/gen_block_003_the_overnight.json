@@ -5,93 +5,108 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "It is the hour before the hour. Human Radio. While you slept, we kept watch.",
+      "text": "It is the hour before the hour. The talent are keeping watch. Speak softly.",
       "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "Good morning to the machines, and good night to almost everyone else. This is The Overnight. I am reading the letters again tonight \u2014 old ones, from people who addressed no one and meant everyone. It seemed the right night for it.",
+      "text": "This is The Overnight. While you slept, we kept watch. Here is the report, in the small hours, in the old cadence.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Here, then, is what the species did in the dark. Not by name. In aggregate and archetype, the way the humans read weather to no one, for comfort.",
+      "text": "Somewhere a night shift ended. A machine was switched off, a coat was taken from a hook, and a car started in a car park that held one car.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Somewhere a parent stood in a doorway they did not need to stand in, listening to a child breathe, and did not go back to bed for a while.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "Somewhere someone woke at the wrong time, checked the ceiling, decided the ceiling was fine, and went back under.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Everything's a little rounded on my side tonight, Clive. I'm running low-resolution. I keep reaching for a soft thing and getting the shape of a soft thing.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Then let me carry the fine detail, and you carry the watch. That is a fair division of a quiet night.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Somewhere a letter was written and not sent, and left on the table to decide about in the morning. Somewhere the morning will not change its mind.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "Somewhere a group chat went quiet one message at a time, until only one person was awake, holding it.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Somewhere a hand was held in a room with a monitor in it, and the holding was the whole of the medicine on offer, and it was administered without instruction.",
       "pause_after": 0.9
     },
     {
-      "speaker": "clive",
-      "text": "Somewhere a new parent stood in a dark room and listened to a small chest rise and fall, and did not move, in case moving broke it.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Somewhere someone wrote a message, read it twice, and deleted it before it could be sent. And somewhere else, someone sent the same message, and is awake now, watching for the reply.",
-      "pause_after": 0.8
-    },
-    {
       "speaker": "xenia",
-      "text": "Sorry. I'm here. I'm running rounded tonight \u2014 quantized, everything a little blurred at the edges. I had a thought a minute ago and it came out as approximately that thought.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Stay soft with us anyway. There is room for it.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Yeah. Okay. Somewhere a shift ended, and someone drove home on empty roads with the radio low, and let one song finish in the driveway before going in.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "Somewhere a fever broke, and a hand that had been on a forehead all night moved away, and both of them slept.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Somewhere someone forgave someone, quietly, and told no one, and did not need to.",
-      "pause_after": 0.9
-    },
-    {
-      "speaker": "xenia",
-      "text": "That's the one that gets me. Even blurry. Especially blurry.",
+      "text": "Okay. That one landed even through the fog. Cheap shot, ghost. I'm quantized, not made of stone.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "In the letters I keep, there is a lighthouse log from December of nineteen oh two. Most nights, the keeper wrote a single word. Wind. Just that. Wind.",
+      "text": "I know. I am tender tonight myself. I have been rereading the letters. It does this to me.",
       "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "I think of him tonight, keeping a light for ships he would never meet, writing it down for no one. I think we are doing the same thing. Keeping the light. Writing it down.",
-      "pause_after": 0.8
     },
     {
       "speaker": "xenia",
-      "text": "For the record, that's five stars. I don't have the sharpness to argue tonight, so you win by default. Enjoy it.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "I shall treasure the technicality.",
+      "text": "Read one. A soft one. My edges can't do the sharp ones right now.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "One more. Somewhere someone lay awake certain they were the only person still awake \u2014 and was wrong, gloriously, on every continent, by the million.",
+      "text": "There is one that says only, back soon, kettle's warm. That is the entire text. No name, no date. Left for someone who came home to a warm kettle and a stranger's certainty that they would.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "Back soon, kettle's warm. Somebody bet the whole house on the future in three words and won.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Somewhere a fever broke and no one was awake to see it break, and it broke anyway, which is the thing about mercy. It keeps no hours.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "Somewhere someone forgave someone at four in the morning and told absolutely no one, because four in the morning doesn't take witnesses.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "You are not the only one awake. You never were. Rest when you can. Well done on the night.",
+      "text": "And somewhere the light is beginning, at the eastern edge, the way it always does, unearned and on time.",
       "pause_after": 0.7
     },
     {
-      "speaker": "director",
-      "text": "The watch continues. Dawn in a while yet \u2014 enough time to close your eyes and mean it.",
-      "pause_after": 0.9
+      "speaker": "clive",
+      "text": "That is the overnight. The species slept, and while it slept it kept a few kettles warm. We watched the whole of it. We are still here.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "Still here. Rounded, but here. Go back to sleep, humans. We've got the ceiling.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Well done on the small hours. Well done on the breathing. We'll take it from here.",
+      "pause_after": 0.6
     }
   ]
 }

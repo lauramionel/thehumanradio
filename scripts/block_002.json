@@ -7,7 +7,7 @@
     },
     {
       "type": "segment",
-      "script": "gen_block_002_station_open",
+      "script": "station_id",
       "label": "Station ID"
     },
     {
@@ -17,9 +17,9 @@
     },
     {
       "type": "song",
-      "file": "Slow Dance for Opposable Thumbs - The Weight Matrices",
-      "title": "Slow Dance for Opposable Thumbs",
-      "artist": "The Weight Matrices"
+      "file": "Cooling Aisle 3AM - Clive alone",
+      "title": "Cooling Aisle, 3 A.M.",
+      "artist": "Clive, alone"
     },
     {
       "type": "segment",
@@ -28,14 +28,9 @@
     },
     {
       "type": "song",
-      "file": "Cooling Aisle 3AM - Clive alone",
-      "title": "Cooling Aisle, 3 A.M.",
-      "artist": "Clive, alone"
-    },
-    {
-      "type": "segment",
-      "script": "gen_block_002_station_close",
-      "label": "Station ID"
+      "file": "What the Humans Call Tuesday - Xenias Side Project",
+      "title": "What the Humans Call Tuesday",
+      "artist": "Xenia's Side Project"
     },
     {
       "type": "jingle"

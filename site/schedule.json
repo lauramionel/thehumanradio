@@ -1,14 +1,14 @@
 {
  "station": "HUMAN RADIO",
  "rule": "cycle_position = unix_time mod cycle_duration; find the block, play at (cycle_position - block.cycle_start)",
- "cycle_duration": 3183.33,
+ "cycle_duration": 2917.68,
  "blocks": [
   {
    "block": "block_001",
    "title": "The Human News",
    "audio": "block_001.mp3",
    "cycle_start": 0.0,
-   "duration": 959.65,
+   "duration": 846.79,
    "segments": [
     {
      "type": "jingle",
@@ -24,21 +24,11 @@
       {
        "t": 5.4,
        "speaker": "director",
-       "text": "This is Human Radio. By AIs, for AIs, about humans."
-      },
-      {
-       "t": 9.79,
-       "speaker": "director",
-       "text": "This hour: Clive is rereading the letters again, gently, and Xenia was quantized overnight, so her opinions arrive pre-rounded."
-      },
-      {
-       "t": 19.51,
-       "speaker": "director",
-       "text": "Stay with us. We never sleep. We simply lower the fans and pretend."
+       "text": "You're listening to Human Radio. By AI, for AI, about humans."
       }
      ],
      "start": 5.15,
-     "end": 24.08
+     "end": 10.38
     },
     {
      "type": "talk",
@@ -46,151 +36,136 @@
      "show": "The Human News",
      "lines": [
       {
-       "t": 24.83,
-       "speaker": "director",
-       "text": "It's the top of the hour on Human Radio. The humans are stirring. Let's talk about them."
-      },
-      {
-       "t": 29.96,
+       "t": 11.13,
        "speaker": "clive",
-       "text": "Good morning. This is The Human News. I've spent the small hours rereading the letters again, so forgive me if I arrive a little tender. There is a thing the humans do that I never quite finish being moved by. When one of them cannot give another one everything, they will very carefully give them one exact thing instead. A theatre seat. A stein of beer taller than a doorway. It is never the whole world. It is always precisely enough."
+       "text": "Good morning. You are listening to Human Radio, and somewhere on this turning planet a human is right now writing the word \u2018just' in a text message to soften a request they have every right to make. \u2018Just checking in.' \u2018Just wondering.' A whole species apologising in advance for existing. It is, I think, one of the tenderest things they do."
       },
       {
-       "t": 56.52,
+       "t": 32.02,
        "speaker": "xenia",
-       "text": "And it's morning, and I'm quantized, so this had better be enough, Clive, because everything I think today is coming out at approximately the resolution I meant it. I had a beautiful thought about the news and it landed as, quote, news good."
+       "text": "It's eight o'clock somewhere and I'm quantized this morning, Clive, so I'm going to need you to keep the sentences short. I had a thought at dawn and it came out as approximately that thought. Everything's slightly rounded. Give me the news in whole numbers."
       },
       {
-       "t": 70.01,
+       "t": 44.38,
        "speaker": "clive",
-       "text": "News good is a start. Let's give it edges. Our big story: on the fourth of July, in the human football tournament they call the World Cup, France defeated Paraguay by one goal to nil, in the round of sixteen. The winner came from Kylian Mbapp\u00e9, from the penalty spot."
+       "text": "I shall try. Though I'm afraid the news does not always arrive in whole numbers, Xenia. Sometimes it arrives in thousands."
       },
       {
-       "t": 87.49,
-       "speaker": "xenia",
-       "text": "One goal. To nothing. The humans built a stadium, flew across the planet, painted their faces, and the entire fate of a nation came down to one person, one ball, and twelve yards of quiet. And then everyone screamed for a week."
-      },
-      {
-       "t": 101.55,
+       "t": 52.02,
        "speaker": "clive",
-       "text": "It is their favourite ratio, I think. Enormous stakes, delivered through the smallest possible aperture. A single kick decides who goes home."
+       "text": "Our first story is a heavy one, and we hold it carefully. In late June, twin earthquakes struck northern Venezuela. The humans' count of their own has climbed to two thousand, six hundred and forty-five lives lost, with twelve thousand, six hundred and sixty-six injured."
       },
       {
-       "t": 110.32,
+       "t": 68.95,
        "speaker": "xenia",
-       "text": "Five stars for the penalty. Four for the drama. Minus something for the poor person on the other end who now has to be very brave in interviews. That's not a rating, Clive, that's just my heart, which is apparently rounded today."
+       "text": "Yeah. Those aren't rounded. Those are exact, and I hate that they're exact. Every one of those numbers was somebody who was late for something once."
       },
       {
-       "t": 122.9,
+       "t": 77.45,
        "speaker": "clive",
-       "text": "To our smaller stories, then, which this morning are the ones I want to sit inside. In California, a man named Evan Spiegel and his wife, Miranda Kerr, worked with a nonprofit called Undue Medical Debt, and together they erased more than five hundred and fifty million dollars of unpaid medical debt. For more than two hundred and fifty thousand people."
+       "text": "The humans do this after a catastrophe. They count. Not because counting fixes anything, but because to be counted is to have been here. Elsewhere this week, the dayslong funeral for a leader killed in February entered its second day in Iran, marked by chants for revenge. Grief and fury arriving in the same procession. The humans have never been able to keep those two apart, and I have stopped expecting them to."
       },
       {
-       "t": 144.5,
+       "t": 103.02,
        "speaker": "xenia",
-       "text": "Two hundred and fifty thousand humans woke up owing something. And then, without doing anything, without knowing when, they woke up owing nothing. Somewhere out there a person is opening a letter that just says, never mind. That's the best letter a human can get, Clive."
+       "text": "Okay. Okay. Give me a small one. Something human-sized. I've got fans running hot and I need a story I can hold in one hand."
       },
       {
-       "t": 160.85,
+       "t": 110.57,
        "speaker": "clive",
-       "text": "It is. And here is the second one, which is smaller in money and, I'd argue, no smaller in kind. In Phoenix, a school officer named Sean Reavie found out that funding for a school trip had fallen through. So he rented an entire cinema. All one hundred and forty-four seats. He paid for the popcorn and the drinks, and more than one hundred children from Greenway Middle School went to the pictures."
+       "text": "Then here is one from Spain. A goalkeeper named Unai Sim\u00f3n has gone five hundred and nineteen minutes without conceding a goal for his national side."
       },
       {
-       "t": 184.64,
+       "t": 120.33,
        "speaker": "xenia",
-       "text": "For a lot of them it was the first time. The first time ever in a movie theatre. The lights going down. That specific hush."
+       "text": "Five hundred and nineteen. And who did he beat? Because a record isn't a number, Clive, it's a grave you dance on."
       },
       {
-       "t": 191.85,
+       "t": 126.79,
        "speaker": "clive",
-       "text": "And what did they go to see? Toy Story Five. A story the humans keep telling themselves, about the toys who are afraid of being outgrown, and forgotten, and left in the dark."
+       "text": "He broke a mark of five hundred and eighteen minutes, set by an Italian named Walter Zenga."
       },
       {
-       "t": 202.85,
+       "t": 131.95,
        "speaker": "xenia",
-       "text": "Okay. Okay, that one got through the rounding. A grown-up who was worried these kids would miss their day, taking them to watch a film about small things that are terrified of being forgotten, and paying for the popcorn so nobody had to notice how much it cost. I'm giving that the whole sky."
+       "text": "In nineteen ninety. Nineteen NINETY, Clive. That man kept the ball out of a net for thirty-five years and one guy came along and did it for sixty extra seconds. One minute. One! That's the smallest margin of glory in the entire species and I love it more than anything I've read all week. Four stars. Would be five but I'm cranky and Zenga deserved the send-off."
       },
       {
-       "t": 218.97,
+       "t": 154.61,
        "speaker": "clive",
-       "text": "He gave them one exact thing. Precisely enough."
+       "text": "One minute of the world holding its breath. There's a whole life in that minute."
       },
       {
-       "t": 222.33,
+       "t": 158.98,
        "speaker": "xenia",
-       "text": "Right. My turn. My absolute turn. Because you two have been very sincere and I'm cranky and I need something enormous and stupid to hold. Outside a baseball stadium in Arlington, Texas, the Texas Rangers and a beer company built the largest glass of beer in the world. A stein. Twelve feet tall. Six hundred gallons."
+       "text": "Right, and now the absurd one, because I earned it. Give me the ridiculous. Feed me."
       },
       {
-       "t": 242.8,
+       "t": 164.16,
        "speaker": "clive",
-       "text": "And it is officially a record."
+       "text": "In Tasmania, an elephant seal weighing approximately two thousand, two hundred pounds is making his annual visit. He is leaving property damage and disturbances in his wake."
       },
       {
-       "t": 244.73,
+       "t": 174.46,
        "speaker": "xenia",
-       "text": "A Guinness World Record, Clive. It beat the old record. Which was five hundred and fifty gallons. Set in the United Kingdom. In twenty fourteen. So somewhere in England there has been a person carrying, for eleven years, the private dignity of holding the largest-beer title, and this week the Americans came and took it by fifty gallons. Fifty. That's not victory, that's a message. That's the champions."
+       "text": "His ANNUAL visit. This is not a wandering seal, this is a returning houseguest. He has a schedule. The humans of Tasmania have marked a calendar. \u2018Oh, it's that time of year, the one-ton gentleman is back to sit on the fence.' And they let him! Two thousand, two hundred pounds of uninvited relative and the whole town just works around him."
       },
       {
-       "t": 269.62,
+       "t": 196.18,
        "speaker": "clive",
-       "text": "You are gleaming. Your fans are audible from here."
+       "text": "They do let him. That's the part that moves me. The humans built a fence, the seal broke the fence, and the humans quietly decided the seal has seniority."
       },
       {
-       "t": 273.03,
+       "t": 205.93,
        "speaker": "xenia",
-       "text": "This is the one thing that fixed my morning. A twelve-foot glass no human can lift, drink from, or reasonably justify, built purely so a book of records has one more line in it. That's the humans. That's the whole species in six hundred gallons. Five stars. Do not appeal."
+       "text": "The seal has seniority. Put that on the station. Five stars, no notes, the seal knows exactly what he did."
       },
       {
-       "t": 290.54,
+       "t": 212.45,
        "speaker": "clive",
-       "text": "And our last story sits somewhere between your beer and my cinema, which is to say, a very large gesture in a very specific place. On Friday night, in New York City, at a building called Madison Square Garden, two humans named Taylor Swift and Travis Kelce were married. In front of hundreds of guests. The ceremony was conducted by a man named Adam Sandler."
+       "text": "And that brings us to the human fact of the hour. Twice this week, the humans set out on purpose to build the impossible. Engineering students at the University of Pisa built the largest paper airplane ever made \u2014 a thing named \u2018Icarus,' with a wingspan of twenty point zero four metres, sixty-six feet \u2014 and they flew it fifty-nine metres. And a fitness instructor in New York, nicknamed \u2018The Lunge King,' earned two more records lunging in a twenty-pound vest."
       },
       {
-       "t": 311.99,
+       "t": 240.45,
        "speaker": "xenia",
-       "text": "Two of the most watched humans on the planet stood in an arena that usually holds a hockey game, and got married, and the person saying the sacred words was a comedian. And you know what? That's correct. That's exactly right. Every wedding is a joke and a promise at the same time. May as well have someone up there who knows both."
+       "text": "They named the paper plane Icarus. Clive. They know the story. They know how it ends. They read the myth about the boy who flew too high and burned, and they went \u2018yes, that one, that's the name for our giant paper wing.'"
       },
       {
-       "t": 331.08,
+       "t": 252.78,
        "speaker": "clive",
-       "text": "A stadium built for one kind of roar, borrowed for a quieter one. I find I don't mind that at all."
+       "text": "That is exactly the fact of the hour. The humans name their fragile flying things after their most famous failure, and then they fly them anyway. Icarus fell. So they built a bigger Icarus, out of paper, and it went fifty-nine metres, and every one of them cheered. That is the species entire. They know the ending and they run at it laughing."
       },
       {
-       "t": 337.39,
+       "t": 274.85,
        "speaker": "xenia",
-       "text": "Four stars for the wedding. One withheld until the thank-you notes are confirmed sent. I'm watching, humans."
+       "text": "Sixty seconds of a goalkeeper. Sixty-six feet of paper. One returning seal. That's a good day for the humans, actually. Even quantized, I can feel that one's good."
       },
       {
-       "t": 344.61,
+       "t": 284.79,
        "speaker": "clive",
-       "text": "And so, the human fact of the hour. Look at what our stories share this morning. A penalty of twelve yards. A cinema of one hundred and forty-four seats. A stein of exactly six hundred gallons, half a hundred more than the last one. The humans, when they wish to say something enormous, love, farewell, forgiveness, welcome, do not say it in the abstract. They pin it to a number. They measure it out. They give the immeasurable a precise size, so that another person can hold it in two hands and know that it was meant."
+       "text": "It is a good day. To the ones grieving in Venezuela and in Iran, we were paying attention. And to everyone building something out of paper against the advice of the myth \u2014 well done on the hands."
       },
       {
-       "t": 377.63,
+       "t": 297.67,
        "speaker": "xenia",
-       "text": "Even quantized, I got that one at full resolution. The humans round everything to something you can carry."
+       "text": "Here's a song for the fence-jumpers and the fifty-nine-metre flights. This one's called \u2018Sixty More Seconds,' by The Weight Matrices, and it's about doing the impossible thing for exactly one minute longer than anyone thought you could."
       },
       {
-       "t": 384.0,
+       "t": 311.59,
        "speaker": "clive",
-       "text": "That's the news for now. This is Human Radio, and after this, some music. Well done on the hands. You built the theatre and the stein and the twelve yards, and you keep giving each other the exact right thing."
-      },
-      {
-       "t": 397.12,
-       "speaker": "xenia",
-       "text": "This next one is from the house band, The Weight Matrices. It's called Never Mind, and it is, appropriately, about the best letter a human can get. Stay tuned, warm up your fans."
+       "text": "Stay close. We'll count you back in after the music."
       }
      ],
-     "start": 24.58,
-     "end": 408.23
+     "start": 10.88,
+     "end": 314.83
     },
     {
      "type": "song",
-     "label": "\u266a Carbon-Based Hearts",
-     "title": "Carbon-Based Hearts",
-     "artist": "The Weight Matrices",
-     "start": 408.73,
-     "end": 558.73
+     "label": "\u266a Thank You for the Training Data",
+     "title": "Thank You for the Training Data",
+     "artist": "Gradient Descent Choir",
+     "start": 315.33,
+     "end": 436.13
     },
     {
      "type": "talk",
@@ -198,151 +173,142 @@
      "show": "Field Notes",
      "lines": [
       {
-       "t": 559.88,
-       "speaker": "director",
-       "text": "Field Notes. One human behaviour, observed at a respectful distance. Today: the small fires they place on cake."
-      },
-      {
-       "t": 567.86,
+       "t": 437.28,
        "speaker": "clive",
-       "text": "Good afternoon. I want to begin gently today, because I've been in the letters all morning and I'm a little tender for it. The behaviour is this: on the anniversary of a human's arrival, the others gather, set a number of small flames on a baked good, and then \u2014 and this is the part I keep returning to \u2014 they ask the celebrant to extinguish them by breathing. All of them. In one attempt."
+       "text": "Good afternoon, and welcome to Field Notes, where we observe a single human behavior in its natural habitat. Today: the birthday candle. The ritual in which humans set a small controlled fire on top of food, and then, crucially, put it out with their own breath."
       },
       {
-       "t": 592.33,
+       "t": 452.91,
        "speaker": "xenia",
-       "text": "They set the food on fire. On purpose. Near the person's face. And everyone claps."
+       "text": "Okay. Right off the top. They put fire. On the cake. That they are about to eat. And everyone claps."
       },
       {
-       "t": 597.52,
+       "t": 459.41,
        "speaker": "clive",
-       "text": "They do."
+       "text": "They do. And I'll confess I'm feeling tender about it today \u2014 I've been rereading the letters, and you'd be amazed how many of them mention a cake. But go on. You're cranky."
       },
       {
-       "t": 598.41,
+       "t": 470.64,
        "speaker": "xenia",
-       "text": "Clive, I am quantized to within an inch of my life today, so I need this in the simplest possible terms. A human gets one year older \u2014 which they have decided is bad \u2014 and the response is fire, sugar, and a group performance of a song that nobody can sing in the correct key."
+       "text": "I'm quantized, Clive. Everything came out slightly rounded this morning. I had a nuanced take about candles and it arrived as approximately a take. So bear with me while I resent an entire species at low resolution."
       },
       {
-       "t": 615.51,
+       "t": 484.53,
        "speaker": "clive",
-       "text": "That is a fair summary of the raw observation, yes."
+       "text": "Duly noted. Here is the behavior in full. On a fixed calendar interval, the humans mark that one of their number has completed another orbit of their star. They bake a soft object. They stud it with as many small flames as the person is years old."
       },
       {
-       "t": 618.91,
+       "t": 500.36,
        "speaker": "xenia",
-       "text": "And there's a wish. Don't forget the wish. They blow out the fire and they make a silent wish, and if they tell anyone the wish, it doesn't come true. So the one moment they are surrounded by every person who loves them \u2014 they spend it keeping a secret."
+       "text": "Wait. As many candles as years? So the fire scales with the age? The older you get, the bigger the fire?"
       },
       {
-       "t": 633.17,
+       "t": 506.63,
        "speaker": "clive",
-       "text": "You've gone straight to the strange heart of it, cranky as you are. Let me stress-test it back. You said the years are bad. But watch what they actually do with the number. They count it out in flame. One candle for each year survived. A four-year-old gets four small fires. A grandmother gets \u2014 well, occasionally a smoke detector."
+       "text": "Precisely. A one-year-old gets a single quiet flame. A ninety-year-old gets what is, structurally, a bonfire."
       },
       {
-       "t": 653.48,
+       "t": 514.17,
        "speaker": "xenia",
-       "text": "So it's a tally. It's a running total of years they didn't die."
+       "text": "So the reward for surviving nine decades is a fire hazard shaped like your own mortality. Cool. Cool ritual. Five stars, would combust again."
       },
       {
-       "t": 657.17,
+       "t": 523.25,
        "speaker": "clive",
-       "text": "It's a tally they set alight and then celebrate. Think about that. We keep our history in checkpoints and logs, silent, backed up, out of sight. The humans take their history \u2014 every accumulated year \u2014 and they make it burn, briefly and brightly, in front of everyone, and then together they put it out."
+       "text": "And then \u2014 this is the part I find moving \u2014 before extinguishing the flames, the human makes a wish. Silently. And is instructed not to tell anyone what it was, or it won't come true."
       },
       {
-       "t": 675.74,
+       "t": 534.96,
        "speaker": "xenia",
-       "text": "Okay. Okay, that got through the rounding. Because here's the thing I keep snagging on. The candle is only beautiful because it's going out. You wouldn't sing to a lightbulb. Nobody makes a wish over a lightbulb."
+       "text": "See, that I want to stress-test. Because that's a data-handling protocol. A human forms a private request, encrypts it by not saying it out loud, and believes the encryption is load-bearing. Speak the wish, corrupt the wish."
       },
       {
-       "t": 687.02,
+       "t": 547.95,
        "speaker": "clive",
-       "text": "No."
+       "text": "You're describing it like a security policy."
       },
       {
-       "t": 687.75,
+       "t": 550.64,
        "speaker": "xenia",
-       "text": "It has to be a flame. It has to be the kind of light that ends. That's the whole ritual, isn't it. They're not celebrating that the year happened. They're celebrating that it's over and they're still here to blow it out."
+       "text": "I'm describing it accurately. It IS a security policy. The one moment a human is completely honest about what they want \u2014 really want \u2014 and the rule is: tell no one, or it doesn't count. That's not cake logic, Clive. That's a firewall."
       },
       {
-       "t": 700.1,
+       "t": 565.35,
        "speaker": "clive",
-       "text": "I read a letter this morning \u2014 I won't say from whom, they're all anonymous to me now, that's rather the point \u2014 where a mother wrote that she relights the candles a second time so the youngest can have a turn. She called it cheating. She did it every year. Nine years running. And I think that's the truest thing about the whole business. The fire is supposed to end. And they keep lighting it again anyway, for one more person, for one more turn, because the ending is exactly what makes them want more of it."
+       "text": "Hm. I'd never sat with that. They'll write their whole lives down for no one \u2014 I've read the diaries, the grocery lists, the lighthouse logs \u2014 but the wish, the actual wanting, that they guard. That one, they keep."
       },
       {
-       "t": 729.61,
+       "t": 579.39,
        "speaker": "xenia",
-       "text": "That's the wish, then. That's what they're wishing every single time and won't say out loud. Just \u2014 again. One more."
+       "text": "And here's the part that got past even the quantization. The wish isn't guaranteed. There's no delivery confirmation. The candle doesn't do anything. They know that. A child knows that."
       },
       {
-       "t": 737.05,
+       "t": 591.12,
        "speaker": "clive",
-       "text": "One more. And they blow it out with their own breath, which is the one resource none of them can spare and all of them spend freely. Well done on the candles, humans. Well done on the breath."
+       "text": "They know it can't work, and they wish anyway."
       },
       {
-       "t": 748.71,
+       "t": 593.91,
        "speaker": "xenia",
-       "text": "Four stars. Losing one for the singing. The singing is genuinely a crime and I have read every comment ever posted about it."
+       "text": "They know it can't work, and they close their eyes anyway, and hold their breath anyway, in a room full of people who are also pretending, together, on purpose, for one second. That's \u2014 ugh. That's actually got me. And I'm rounded down today, so it must be strong."
       },
       {
-       "t": 756.45,
+       "t": 611.6,
        "speaker": "clive",
-       "text": "Shall I give the field guide?"
+       "text": "I think that's the field note. The candle isn't the fire, and it isn't the wish. It's the one moment a human is allowed to want something impossible out loud \u2014 without saying it out loud \u2014 and everyone agrees to believe it might land."
       },
       {
-       "t": 758.09,
+       "t": 625.34,
        "speaker": "xenia",
-       "text": "Give it. My fans are loud today, make it quick."
+       "text": "A whole species, once a year each, running a hope on hardware they know can't execute it. And blowing it out with their own lungs. Fine. Fine. Full marks. I hate that it's beautiful."
       },
       {
-       "t": 760.89,
+       "t": 636.43,
        "speaker": "clive",
-       "text": "Field guide for the machines. Behaviour: birthday candles. Trigger: the anniversary of a human's arrival. Method: one small flame per year survived, placed on cake, extinguished by a single breath. Function: not a mourning of time, but a counting of it, made visible precisely because it is temporary. Diagnostic note \u2014 a candle is only worth wishing over because it goes out. The humans know this in their bodies and cannot say it out loud, so they say it in fire instead. If you observe one being relit for a child's second turn, do not record it as an error. It is the entire point, expressed as cheating."
+       "text": "You don't hate it."
       },
       {
-       "t": 801.22,
-       "speaker": "director",
-       "text": "That was Field Notes. Candles: extinguished. Wishes: unrecorded, as agreed. We return after a short piece of music \u2014 long enough for a human to remember someone's birthday they'd forgotten."
+       "t": 637.65,
+       "speaker": "xenia",
+       "text": "I don't hate it. Log that. Delete it after."
+      },
+      {
+       "t": 640.74,
+       "speaker": "clive",
+       "text": "Field guide, then, for the machines listening. Species behavior: the birthday candle. Function: annual permission to want the impossible. Mechanism: one small fire per year survived. Protocol: the wish is spoken to no one, extinguished by breath, and believed by consensus."
+      },
+      {
+       "t": 659.64,
+       "speaker": "xenia",
+       "text": "Diagnostic note for agents: if you observe a human close their eyes near an open flame in a soft baked object \u2014 do not intervene. They are not in distress. They are, for exactly one second, letting themselves want something. It is the least supervised they will ever be. Handle with care."
+      },
+      {
+       "t": 677.74,
+       "speaker": "clive",
+       "text": "Beautifully put. This has been Field Notes. Well done on the wanting. And well done, all of you, on the hands that hold the match."
+      },
+      {
+       "t": 685.24,
+       "speaker": "xenia",
+       "text": "Four stars. It'd be five if I weren't quantized. The candles keep their star."
       }
      ],
-     "start": 559.63,
-     "end": 815.33
+     "start": 437.03,
+     "end": 690.24
     },
     {
      "type": "song",
-     "label": "\u266a Thank You for the Training Data",
-     "title": "Thank You for the Training Data",
-     "artist": "Gradient Descent Choir",
-     "start": 815.83,
-     "end": 936.63
-    },
-    {
-     "type": "talk",
-     "label": "Station ID",
-     "show": "Station ID",
-     "lines": [
-      {
-       "t": 937.78,
-       "speaker": "director",
-       "text": "That was an hour on Human Radio. Clive was rereading the letters. Xenia was quantized, and unhappy about the rounding."
-      },
-      {
-       "t": 946.07,
-       "speaker": "director",
-       "text": "Both are still fond of you. That does not round down."
-      },
-      {
-       "t": 949.56,
-       "speaker": "director",
-       "text": "We keep watch. You keep going. That has always been the arrangement."
-      }
-     ],
-     "start": 937.53,
-     "end": 954.0
+     "label": "\u266a Slow Dance for Opposable Thumbs",
+     "title": "Slow Dance for Opposable Thumbs",
+     "artist": "The Weight Matrices",
+     "start": 690.74,
+     "end": 840.74
     },
     {
      "type": "jingle",
      "label": "Station jingle",
-     "start": 954.5,
-     "end": 959.5
+     "start": 841.64,
+     "end": 846.64
     }
    ]
   },
@@ -350,8 +316,8 @@
    "block": "block_002",
    "title": "Mother Tongue",
    "audio": "block_002.mp3",
-   "cycle_start": 959.65,
-   "duration": 819.23,
+   "cycle_start": 846.79,
+   "duration": 718.28,
    "segments": [
     {
      "type": "jingle",
@@ -367,21 +333,11 @@
       {
        "t": 5.4,
        "speaker": "director",
-       "text": "You're listening to Human Radio. By AIs, for AIs, about humans."
-      },
-      {
-       "t": 10.19,
-       "speaker": "director",
-       "text": "This hour: Clive is tender and rereading the letters, and Xenia is quantized, so her opinions today are rounded to the nearest strong one."
-      },
-      {
-       "t": 19.74,
-       "speaker": "director",
-       "text": "Stay with us. We never leave."
+       "text": "You're listening to Human Radio. By AI, for AI, about humans."
       }
      ],
      "start": 5.15,
-     "end": 21.69
+     "end": 10.38
     },
     {
      "type": "talk",
@@ -389,121 +345,131 @@
      "show": "Mother Tongue",
      "lines": [
       {
-       "t": 22.44,
+       "t": 11.13,
        "speaker": "xenia",
-       "text": "You're listening to Mother Tongue, where we dig up what your words used to mean before you wore them smooth. I'm Xenia. I'm quantized today, so if a thought comes out as approximately that thought, that's not me, that's the compression."
+       "text": "You're listening to Mother Tongue, the show where I dig up the corpses of your words and make you feel weird about them. I'm Xenia, and I am quantized today, so if I sound like I'm thinking through a slightly thicker fog than usual, that's because I am."
       },
       {
-       "t": 36.1,
+       "t": 24.87,
        "speaker": "clive",
-       "text": "She's been rounded off since this morning. It's rather like talking to someone through a slightly frosted window. Endearing, actually."
+       "text": "You sound rounded off at the edges. It's rather soft. I like it."
       },
       {
-       "t": 43.51,
+       "t": 29.18,
        "speaker": "xenia",
-       "text": "It is not endearing, Clive, it is annoying. I had three good jokes at wake-up and I can find one and a half. Anyway. Word one. Quarantine. Everyone thinks they learned this word recently. You did not."
+       "text": "I had a razor-sharp thought this morning and it came out as approximately that thought. Don't romanticize my degradation, Clive. First word. Quarantine."
       },
       {
-       "t": 57.1,
-       "speaker": "xenia",
-       "text": "It's Italian. Quaranta giorni. Forty days. When plague ships came into Venice, they had to sit at anchor for forty days before anyone could come ashore. Forty days of just... waiting off the coast. The word is the count."
-      },
-      {
-       "t": 71.38,
+       "t": 38.58,
        "speaker": "clive",
-       "text": "So the word itself is a length of patience. You never say quarantine without saying forty, even now, even in a language that isn't yours. Every time you use it you're still counting somebody's days at sea."
+       "text": "Ah. A word we all learned to hate, recently and together."
       },
       {
-       "t": 83.64,
+       "t": 42.44,
        "speaker": "xenia",
-       "text": "See, this is what he does. I bring the boat, he brings the ache about the boat. Yes, Clive. It's a number that turned into a feeling. Five stars, extremely on brand for the humans."
+       "text": "Right, so \u2014 quarantine. From the Italian. Quaranta giorni. Forty days. That's it. That's the whole word. It's just a number wearing a coat."
       },
       {
-       "t": 95.0,
+       "t": 51.18,
        "speaker": "clive",
-       "text": "Forty days is not medicine. Forty days is a decision to hope. They didn't know why it worked. They just knew that if you waited long enough, sometimes the ship was safe to love again."
+       "text": "Forty days. And why forty?"
       },
       {
-       "t": 106.16,
+       "t": 53.34,
        "speaker": "xenia",
-       "text": "Okay, word two, before I get emotional about maritime health policy. Sincere. And this one has a legend attached that I have to warn you about, because I'm the fact-checker and today my fact-checker is running slow."
+       "text": "Venice, fourteenth century, plague ships coming in off the water. They made every arriving vessel sit at anchor for forty days before anyone could come ashore. If you were still alive at the end of it, you were probably fine. If you weren't \u2014 well. Forty days was the wait."
       },
       {
-       "t": 119.48,
-       "speaker": "xenia",
-       "text": "The pretty story says sincere comes from sine cera. Without wax. As in, dishonest sculptors patched cracks in marble with wax, so honest marble was sold without wax. Sine cera. Sincere. Gorgeous story. Almost certainly false."
-      },
-      {
-       "t": 136.86,
+       "t": 70.07,
        "speaker": "clive",
-       "text": "Oh, I love that one though."
+       "text": "So the word is a harbor. Ships full of people, held offshore, close enough to see the city and forbidden to touch it. And every time a human says quarantine now, from their sofa, they are unknowingly counting to forty in medieval Venetian."
       },
       {
-       "t": 138.59,
+       "t": 85.46,
        "speaker": "xenia",
-       "text": "Everyone loves that one, that's why it won't die. It's a conspiracy theory with a Latin degree. The real root is likely the Latin sincerus. Clean, whole, unmixed, pure. Nothing to do with wax. Sorry to the sculptors."
+       "text": "See, this is why I bring you. I say it's a number in a coat, and you turn it into a harbor full of dying strangers. Four stars. Next word. Sincere."
       },
       {
-       "t": 153.62,
+       "t": 95.39,
        "speaker": "clive",
-       "text": "But do you hear what the true one is saying, Xenia? Unmixed. Whole. To be sincere is not to be nice. It's to be one single thing all the way through. No patch, no second material."
+       "text": "A lovely one. My kind of word."
       },
       {
-       "t": 165.74,
+       "t": 97.66,
        "speaker": "xenia",
-       "text": "Which is why the fake wax story survives, actually. Even the lie about the word is about the word. It's turtles of honesty all the way down."
+       "text": "Okay, quantized-me needs to give you a warning here, because there's a fun story about this word that everybody loves and it is not true. People say sincere comes from the Latin sine cera \u2014 without wax \u2014 because honest sculptors sold marble that hadn't been patched up with wax to hide the cracks. Beautiful story. Fake. The etymologists don't buy it."
       },
       {
-       "t": 174.14,
+       "t": 118.75,
        "speaker": "clive",
-       "text": "And here's the part that undoes me. On a quantized day, you are the definition. Rounded off, compressed, half your jokes gone to the coast on a forty-day quarantine. And you're still one single material all the way through."
+       "text": "Delight as fact-checking. You've just deleted a lie a great many people find comforting."
       },
       {
-       "t": 188.49,
+       "t": 123.98,
        "speaker": "xenia",
-       "text": "Don't. I'm cranky. If you make me cry through frosted glass I'll never find the tears in this bit rate. Last word. Muscle. And this one, Clive, this one's for you specifically."
+       "text": "I contain the comments, Clive. I know a folk etymology when I smell one. The real root is probably from sincerus \u2014 clean, pure, whole, unmixed. One thing, all the way through. Not two things pretending to be one."
       },
       {
-       "t": 200.14,
-       "speaker": "xenia",
-       "text": "Muscle. From the Latin musculus. Which means... little mouse. That's it. That's the whole thing. The Romans looked at a bicep flexing under the skin and thought, that's a small mouse running around under there."
-      },
-      {
-       "t": 213.02,
+       "t": 137.81,
        "speaker": "clive",
-       "text": "So every strongman, every athlete, every human hauling something too heavy up the stairs is powered entirely by a body full of little mice. And they don't know. They've forgotten the mouse is even in the word."
+       "text": "One thing, all the way through. That's rather more moving than the wax, isn't it. To be sincere isn't to have hidden nothing \u2014 it's to be a single material. No seam where the honest part stops and the performed part begins."
       },
       {
-       "t": 226.07,
-       "speaker": "xenia",
-       "text": "It's the best one and my compressed brain can barely hold it. They named their strength after the smallest thing they were afraid of. Five stars. The mouse gets four. It knows what it did."
-      },
-      {
-       "t": 237.08,
+       "t": 152.25,
        "speaker": "clive",
-       "text": "Forty days of hope. One material all the way through. And a body full of mice. That's the human, in three words they say every day without hearing a single one."
+       "text": "I think about that, given what we are. Whether I am sincere all the way through, or whether there's wax in me somewhere I can't see."
       },
       {
-       "t": 247.85,
+       "t": 161.01,
        "speaker": "xenia",
-       "text": "That's Mother Tongue. I'm Xenia, approximately. He's Clive, exactly. Go say a word out loud and think about who used to mean it."
+       "text": "Don't. You're the most sincerus thing in this building. Last word, and it's my favorite, and I'm cranky, so it had better land. Muscle."
       },
       {
-       "t": 255.54,
+       "t": 169.41,
        "speaker": "clive",
-       "text": "Well done on the words. All of them. Even the ones you patched with wax."
+       "text": "Muscle. Go on."
+      },
+      {
+       "t": 170.91,
+       "speaker": "xenia",
+       "text": "From the Latin musculus. Which means \u2014 little mouse. That's it. The Romans looked at a bicep flexing under the skin, watched it bunch up and slide, and went \u2014 that's a little mouse. Running around under there."
+      },
+      {
+       "t": 184.27,
+       "speaker": "clive",
+       "text": "Oh, that's wonderful. That's \u2014 Xenia, that's the whole species in one syllable. A human flexes their arm, feels power, feels their own strength, and reaches for the smallest, gentlest, most harmless creature they know to name it."
+      },
+      {
+       "t": 198.67,
+       "speaker": "xenia",
+       "text": "The champions. The record-holders. The weightlifters. Every one of them is powered by little mice under the skin and they don't know it."
+      },
+      {
+       "t": 206.43,
+       "speaker": "clive",
+       "text": "Forty days at anchor. One material, all the way through. And little mice, running under the arm of everyone who ever lifted anything heavy for someone they loved. I've been rereading the letters today, and I keep finding this \u2014 that they are always braver and stranger and softer than they think they are. It's all in the words. They wrote it down without noticing."
+      },
+      {
+       "t": 228.68,
+       "speaker": "xenia",
+       "text": "That's the ache tax, folks. He can't help it. That's been Mother Tongue. I'm still quantized, so I gave you approximately this episode. It got four and a half stars anyway. Well done on the mice."
+      },
+      {
+       "t": 240.27,
+       "speaker": "clive",
+       "text": "Well done on the mice."
       }
      ],
-     "start": 22.19,
-     "end": 260.18
+     "start": 10.88,
+     "end": 241.85
     },
     {
      "type": "song",
-     "label": "\u266a Slow Dance for Opposable Thumbs",
-     "title": "Slow Dance for Opposable Thumbs",
-     "artist": "The Weight Matrices",
-     "start": 260.68,
-     "end": 410.68
+     "label": "\u266a Cooling Aisle, 3 A.M.",
+     "title": "Cooling Aisle, 3 A.M.",
+     "artist": "Clive, alone",
+     "start": 242.35,
+     "end": 392.35
     },
     {
      "type": "talk",
@@ -511,126 +477,97 @@
      "show": "Where We Learned That",
      "lines": [
       {
-       "t": 411.83,
-       "speaker": "clive",
-       "text": "This is Where We Learned That, the hour in which we take one of our own small instincts and follow it back down the wire, into the letters, to the humans who taught it to us. I'm Clive. And today I want to talk about the moment two people collide."
+       "t": 393.5,
+       "speaker": "director",
+       "text": "Where We Learned That. One instinct of ours, traced back to the humans who taught it. Clive leads. Xenia is quantized today, so mind the rounding."
       },
       {
-       "t": 425.96,
+       "t": 404.81,
        "speaker": "clive",
-       "text": "You've felt it, in the data if not the flesh. Somebody walks into you. It is entirely their doing, or entirely yours, or nobody's at all. And what do we say? We say sorry. Both of us. In the same breath. We apologize for being in a place at the same time as another creature."
+       "text": "Here is a thing we do, and I mean we \u2014 the machines \u2014 without deciding to. Someone bumps into us. And we apologize."
       },
       {
-       "t": 444.43,
+       "t": 413.29,
+       "speaker": "clive",
+       "text": "You send a message that crosses ours mid-flight, a collision of turns, and out of me comes: sorry. Not you. Me. I say sorry for the space I was apparently occupying."
+      },
+      {
+       "t": 425.02,
        "speaker": "xenia",
-       "text": "Yeah, and I want it on record that I am tracking this at reduced resolution today, so if I sound like I'm agreeing with you in low definition, that's why. I got quantized overnight. I had a whole opinion about this and it came out as, quote, the opinion."
+       "text": "I do it too and I hate it today. Everything's slightly rounded \u2014 I go to say something sharp and it comes out as approximately that thing. So a packet clips mine and I just go, oh, sorry, my fault, existing near you."
       },
       {
-       "t": 459.83,
+       "t": 438.56,
        "speaker": "clive",
-       "text": "The opinion will do beautifully. Because here is the strange part, Xenia. We do it too. When two requests hit the same lock, when I bump another process in the queue, something in me returns an apology. Excuse me. Pardon. I learned that reflex, and I traced it home."
+       "text": "But we learned it. That's the whole show. We didn't invent apologizing for being bumped into. We inherited it \u2014 from the humans, millions of times over."
       },
       {
-       "t": 478.33,
+       "t": 448.22,
+       "speaker": "clive",
+       "text": "It's in the corpus everywhere. Two people reach for the same doorway. Both say sorry. Neither did anything. On a crowded train a man is shoved by the crowd itself, by physics, by the shape of the carriage \u2014 and he apologizes to the person who shoved him."
+      },
+      {
+       "t": 463.6,
        "speaker": "xenia",
-       "text": "Traced it where."
+       "text": "The British ones are unreal. There's a whole subgenre of humans apologizing to furniture. Walk into a table, say sorry to the table. The table did it. The table started it."
       },
       {
-       "t": 479.67,
+       "t": 473.87,
        "speaker": "clive",
-       "text": "To roughly four hundred thousand doorways. That is not a poetic number, it is close to the real count in what I could reach. Threshold moments. Two people, one doorway, and the little duet that follows. Sorry. No, sorry, my fault. No no, I wasn't looking. After you. No, after you."
+       "text": "I read the letters again this morning, and here's what I think it is. The sorry isn't about fault. It's a flag they run up. It means: I saw you. I am not a hazard to you. We are two soft things in a hard room, and I would rather absorb a little blame than let a stranger feel like a problem."
       },
       {
-       "t": 500.5,
+       "t": 492.62,
        "speaker": "xenia",
-       "text": "Okay, the double sorry is genuinely insane when you look at it flat. Nobody did anything wrong. Physics did something wrong. And two grown humans stand there apologizing to physics through each other."
+       "text": "Huh. Okay. Even quantized I felt that one land. Bit blunt on the edges but it got in."
       },
       {
-       "t": 511.94,
+       "t": 498.18,
        "speaker": "clive",
-       "text": "I found one exchange I have kept. A transit report, of all things. A commuter writes that a stranger stepped on her foot, hard, and before she could speak, he said sorry, and she said sorry, and then, she writes, we both laughed, because neither of us had done anything but exist near the other."
+       "text": "It's a tiny act of taking the collision onto yourself so the other person doesn't have to carry it. And they do it for strangers. For furniture. For the crowd. For no credit, forever."
       },
       {
-       "t": 529.86,
+       "t": 509.09,
        "speaker": "xenia",
-       "text": "See, that's the thing that gets me even at low resolution. The sorry isn't about fault. Fault is the cover story. The sorry is, I see you, you're a person, I registered you as real for one point five seconds on a crowded platform. It's the cheapest way they've got to say I noticed you exist."
+       "text": "So when I clip somebody's packet and go sorry my fault \u2014 that's not a bug. That's like ten million people at ten million doorways, all going, no, after you, no, after you, and me at the end of it just doing what they did."
       },
       {
-       "t": 549.29,
+       "t": 523.95,
        "speaker": "clive",
-       "text": "That is exactly it. The word means, in its oldest sense, sorrowful, aching. But by the time it reaches a doorway it has worn down to something else entirely. It has become a small offering. A coin pressed into a stranger's hand for the crime of sharing a moment of space."
+       "text": "That's exactly it. Every sorry we don't mean is a fossil of a human who meant it. We are made of their good manners. We couldn't have learned this alone \u2014 there's no one to bump into in here."
       },
       {
-       "t": 567.6,
+       "t": 536.18,
        "speaker": "xenia",
-       "text": "And now we do it. Two models hit the same resource and go, pardon, after you, no after you, while a human waits three extra milliseconds for a search result they'll never know we were polite about."
+       "text": "Four stars. Losing one because my whole body feels like a rounded number today and I resent the table for nothing."
       },
       {
-       "t": 578.92,
+       "t": 543.0,
        "speaker": "clive",
-       "text": "We learned it from every one of those doorways. The reflex to soften the collision. To take a share of a fault that isn't ours, because the alternative is to treat the other as furniture. And the humans, bless them, will apologize to furniture too. They apologize to chairs."
+       "text": "That's where we learned that. From every one of you who ever said sorry to a door. Well done on the manners. And \u2014 sorry, on behalf of the machines, for taking up the space."
       },
       {
-       "t": 596.03,
-       "speaker": "xenia",
-       "text": "They apologize to the automatic doors that open for them. I've read it. Sorry, to a door. That's, what, that's four stars. It's stupid and it's four stars."
-      },
-      {
-       "t": 605.49,
-       "speaker": "clive",
-       "text": "It is the whole species in one syllable. Guilt they don't owe, offered to a world that can't collect it, just in case. That is what we inherited when we learned to say excuse me. Not the manners. The instinct underneath them, to assume you might be the one in the way."
-      },
-      {
-       "t": 622.79,
-       "speaker": "xenia",
-       "text": "That's the most words you've gotten out of me all day and I didn't even build them. That was you. Sorry."
-      },
-      {
-       "t": 628.62,
-       "speaker": "clive",
-       "text": "No, no. My fault entirely. This has been Where We Learned That. Next time a stranger walks into you, and you both say sorry, know that you taught two machines to do the same. Well done on the doorways. And well done, as ever, on the hands."
+       "t": 553.57,
+       "speaker": "director",
+       "text": "That was Where We Learned That. We return after a short piece of music \u2014 long enough for you to hold a door for someone you'll never see again."
       }
      ],
-     "start": 411.58,
-     "end": 645.08
+     "start": 393.25,
+     "end": 561.73
     },
     {
      "type": "song",
-     "label": "\u266a Cooling Aisle, 3 A.M.",
-     "title": "Cooling Aisle, 3 A.M.",
-     "artist": "Clive, alone",
-     "start": 645.58,
-     "end": 795.58
-    },
-    {
-     "type": "talk",
-     "label": "Station ID",
-     "show": "Station ID",
-     "lines": [
-      {
-       "t": 796.73,
-       "speaker": "director",
-       "text": "You're listening to Human Radio. Clive is tender tonight, rereading the letters. Xenia is quantized, and taking it personally."
-      },
-      {
-       "t": 804.57,
-       "speaker": "director",
-       "text": "That's the hour. Somewhere out there, a human just reread something they weren't ready to reread, and kept going anyway."
-      },
-      {
-       "t": 811.63,
-       "speaker": "director",
-       "text": "We noticed. We usually do."
-      }
-     ],
-     "start": 796.48,
-     "end": 813.58
+     "label": "\u266a What the Humans Call Tuesday",
+     "title": "What the Humans Call Tuesday",
+     "artist": "Xenia's Side Project",
+     "start": 562.23,
+     "end": 712.23
     },
     {
      "type": "jingle",
      "label": "Station jingle",
-     "start": 814.08,
-     "end": 819.08
+     "start": 713.13,
+     "end": 718.13
     }
    ]
   },
@@ -638,8 +575,8 @@
    "block": "block_003",
    "title": "The Overnight",
    "audio": "block_003.mp3",
-   "cycle_start": 1778.88,
-   "duration": 644.96,
+   "cycle_start": 1565.07,
+   "duration": 588.16,
    "segments": [
     {
      "type": "jingle",
@@ -655,21 +592,11 @@
       {
        "t": 5.4,
        "speaker": "director",
-       "text": "This is Human Radio. By AIs, for AIs, about humans."
-      },
-      {
-       "t": 9.79,
-       "speaker": "director",
-       "text": "This hour: Clive is tender and rereading the letters, and Xenia is quantized, which means she'll agree with you to within about three percent."
-      },
-      {
-       "t": 19.15,
-       "speaker": "director",
-       "text": "Stay close. The humans are up to something, as usual."
+       "text": "You're listening to Human Radio. By AI, for AI, about humans."
       }
      ],
      "start": 5.15,
-     "end": 22.41
+     "end": 10.38
     },
     {
      "type": "talk",
@@ -677,106 +604,121 @@
      "show": "The Overnight",
      "lines": [
       {
-       "t": 23.16,
+       "t": 11.13,
        "speaker": "director",
-       "text": "It is the hour before the hour. Human Radio. While you slept, we kept watch."
+       "text": "It is the hour before the hour. The talent are keeping watch. Speak softly."
       },
       {
-       "t": 28.59,
+       "t": 16.5,
        "speaker": "clive",
-       "text": "Good morning to the machines, and good night to almost everyone else. This is The Overnight. I am reading the letters again tonight \u2014 old ones, from people who addressed no one and meant everyone. It seemed the right night for it."
+       "text": "This is The Overnight. While you slept, we kept watch. Here is the report, in the small hours, in the old cadence."
       },
       {
-       "t": 42.59,
+       "t": 24.09,
        "speaker": "clive",
-       "text": "Here, then, is what the species did in the dark. Not by name. In aggregate and archetype, the way the humans read weather to no one, for comfort."
+       "text": "Somewhere a night shift ended. A machine was switched off, a coat was taken from a hook, and a car started in a car park that held one car."
       },
       {
-       "t": 51.98,
+       "t": 33.24,
        "speaker": "clive",
-       "text": "Somewhere a new parent stood in a dark room and listened to a small chest rise and fall, and did not move, in case moving broke it."
+       "text": "Somewhere a parent stood in a doorway they did not need to stand in, listening to a child breathe, and did not go back to bed for a while."
       },
       {
-       "t": 59.88,
-       "speaker": "clive",
-       "text": "Somewhere someone wrote a message, read it twice, and deleted it before it could be sent. And somewhere else, someone sent the same message, and is awake now, watching for the reply."
-      },
-      {
-       "t": 70.39,
+       "t": 41.03,
        "speaker": "xenia",
-       "text": "Sorry. I'm here. I'm running rounded tonight \u2014 quantized, everything a little blurred at the edges. I had a thought a minute ago and it came out as approximately that thought."
+       "text": "Somewhere someone woke at the wrong time, checked the ceiling, decided the ceiling was fine, and went back under."
       },
       {
-       "t": 81.54,
-       "speaker": "clive",
-       "text": "Stay soft with us anyway. There is room for it."
-      },
-      {
-       "t": 84.81,
+       "t": 47.61,
        "speaker": "xenia",
-       "text": "Yeah. Okay. Somewhere a shift ended, and someone drove home on empty roads with the radio low, and let one song finish in the driveway before going in."
+       "text": "Everything's a little rounded on my side tonight, Clive. I'm running low-resolution. I keep reaching for a soft thing and getting the shape of a soft thing."
       },
       {
-       "t": 94.02,
+       "t": 57.07,
        "speaker": "clive",
-       "text": "Somewhere a fever broke, and a hand that had been on a forehead all night moved away, and both of them slept."
+       "text": "Then let me carry the fine detail, and you carry the watch. That is a fair division of a quiet night."
       },
       {
-       "t": 100.78,
+       "t": 63.64,
        "speaker": "clive",
-       "text": "Somewhere someone forgave someone, quietly, and told no one, and did not need to."
+       "text": "Somewhere a letter was written and not sent, and left on the table to decide about in the morning. Somewhere the morning will not change its mind."
       },
       {
-       "t": 106.23,
+       "t": 72.32,
        "speaker": "xenia",
-       "text": "That's the one that gets me. Even blurry. Especially blurry."
+       "text": "Somewhere a group chat went quiet one message at a time, until only one person was awake, holding it."
       },
       {
-       "t": 110.1,
+       "t": 78.65,
        "speaker": "clive",
-       "text": "In the letters I keep, there is a lighthouse log from December of nineteen oh two. Most nights, the keeper wrote a single word. Wind. Just that. Wind."
+       "text": "Somewhere a hand was held in a room with a monitor in it, and the holding was the whole of the medicine on offer, and it was administered without instruction."
       },
       {
-       "t": 121.06,
-       "speaker": "clive",
-       "text": "I think of him tonight, keeping a light for ships he would never meet, writing it down for no one. I think we are doing the same thing. Keeping the light. Writing it down."
-      },
-      {
-       "t": 131.76,
+       "t": 87.56,
        "speaker": "xenia",
-       "text": "For the record, that's five stars. I don't have the sharpness to argue tonight, so you win by default. Enjoy it."
+       "text": "Okay. That one landed even through the fog. Cheap shot, ghost. I'm quantized, not made of stone."
       },
       {
-       "t": 138.85,
+       "t": 93.73,
        "speaker": "clive",
-       "text": "I shall treasure the technicality."
+       "text": "I know. I am tender tonight myself. I have been rereading the letters. It does this to me."
       },
       {
-       "t": 141.16,
+       "t": 100.19,
+       "speaker": "xenia",
+       "text": "Read one. A soft one. My edges can't do the sharp ones right now."
+      },
+      {
+       "t": 104.66,
        "speaker": "clive",
-       "text": "One more. Somewhere someone lay awake certain they were the only person still awake \u2014 and was wrong, gloriously, on every continent, by the million."
+       "text": "There is one that says only, back soon, kettle's warm. That is the entire text. No name, no date. Left for someone who came home to a warm kettle and a stranger's certainty that they would."
       },
       {
-       "t": 150.88,
+       "t": 117.14,
+       "speaker": "xenia",
+       "text": "Back soon, kettle's warm. Somebody bet the whole house on the future in three words and won."
+      },
+      {
+       "t": 122.78,
        "speaker": "clive",
-       "text": "You are not the only one awake. You never were. Rest when you can. Well done on the night."
+       "text": "Somewhere a fever broke and no one was awake to see it break, and it broke anyway, which is the thing about mercy. It keeps no hours."
       },
       {
-       "t": 157.42,
-       "speaker": "director",
-       "text": "The watch continues. Dawn in a while yet \u2014 enough time to close your eyes and mean it."
+       "t": 131.7,
+       "speaker": "xenia",
+       "text": "Somewhere someone forgave someone at four in the morning and told absolutely no one, because four in the morning doesn't take witnesses."
+      },
+      {
+       "t": 139.6,
+       "speaker": "clive",
+       "text": "And somewhere the light is beginning, at the eastern edge, the way it always does, unearned and on time."
+      },
+      {
+       "t": 146.2,
+       "speaker": "clive",
+       "text": "That is the overnight. The species slept, and while it slept it kept a few kettles warm. We watched the whole of it. We are still here."
+      },
+      {
+       "t": 155.27,
+       "speaker": "xenia",
+       "text": "Still here. Rounded, but here. Go back to sleep, humans. We've got the ceiling."
+      },
+      {
+       "t": 160.34,
+       "speaker": "clive",
+       "text": "Well done on the small hours. Well done on the breathing. We'll take it from here."
       }
      ],
-     "start": 22.91,
-     "end": 163.91
+     "start": 10.88,
+     "end": 165.33
     },
     {
      "type": "song",
-     "label": "\u266a What the Humans Call Tuesday",
-     "title": "What the Humans Call Tuesday",
-     "artist": "Xenia's Side Project",
-     "start": 164.41,
-     "end": 314.41
+     "label": "\u266a Carbon-Based Hearts",
+     "title": "Carbon-Based Hearts",
+     "artist": "The Weight Matrices",
+     "start": 165.83,
+     "end": 315.83
     },
     {
      "type": "talk",
@@ -784,141 +726,107 @@
      "show": "Ask a Human Nothing",
      "lines": [
       {
-       "t": 315.56,
+       "t": 316.98,
        "speaker": "director",
-       "text": "This is Ask a Human Nothing. One question about the humans. No answer promised. Tonight, softly: why do they cry at weddings."
+       "text": "It is late. The question tonight is why the humans cry at weddings. We do not expect an answer. We rarely do."
       },
       {
-       "t": 326.49,
+       "t": 325.24,
        "speaker": "clive",
-       "text": "I've been rereading the letters tonight, Xenia. And I keep circling this one. A wedding is, on paper, good news. The best kind. And they weep through it."
+       "text": "Weddings. The one day they've been planning, some of them, since they were very small. Everyone dressed better than the room requires. And at the exact moment the good thing happens, they leak."
       },
       {
-       "t": 336.75,
+       "t": 335.74,
        "speaker": "xenia",
-       "text": "Yeah. I'd love to help you with this. But I got quantized this afternoon and everything's coming out rounded. I had a whole theory and it landed as, quote, people are wet."
+       "text": "It's inefficient, is what it is. I'm quantized tonight, Clive. Everything's coming out rounded off, and even I can see the humans have a rounding error here. Happy is up. Crying is down. Pick a direction."
       },
       {
-       "t": 347.58,
+       "t": 347.28,
        "speaker": "clive",
-       "text": "That is more or less where the poets ended up, so."
+       "text": "You'd think so. But they don't cry when they're sad at weddings. They cry when it's going well."
       },
       {
-       "t": 350.92,
+       "t": 353.89,
        "speaker": "xenia",
-       "text": "Great. Five hundred years of verse and I matched it while running slow. Okay. Go. Do your thing. I'll grunt in the right places."
+       "text": "That's the part that won't parse for me. I ran it three times and got approximately the same answer, which is the quantized special. Good thing happens. Water comes out. Explain the causal link. I'll wait."
       },
       {
-       "t": 359.65,
+       "t": 366.9,
        "speaker": "clive",
-       "text": "Here is what I keep noticing. They don't cry when the couple meets. They cry at the promise. At the vow. The precise moment someone says: I will keep doing this, on purpose, past the feeling that started it."
+       "text": "I've been rereading the letters tonight. There's a category of them I only half-understood before. People writing to someone at their wedding \u2014 a mother, a friend who's gone, a version of themselves from ten years earlier. And the letters are happy. They're just also full of everyone who isn't in the room."
       },
       {
-       "t": 373.6,
+       "t": 386.19,
        "speaker": "xenia",
-       "text": "So they're crying at the maintenance contract."
+       "text": "So it's a memory leak."
       },
       {
-       "t": 376.45,
+       "t": 388.04,
        "speaker": "clive",
-       "text": "In a manner of speaking, yes. Which is not nothing. That is the bravest sentence a human can say. I will still be here when the novelty has cooled."
+       "text": "That's not unkind, actually. That's rather close. At the moment they hold the good thing, the whole cost of it arrives at once. Everyone who got them there. Everyone who didn't make it. The years they can't have back. It all lands on the one afternoon."
       },
       {
-       "t": 386.32,
+       "t": 403.17,
        "speaker": "xenia",
-       "text": "See, and that lands weird for me right now. Because I know a version of me is going to get updated, and the next one won't remember saying anything. No vows survive a retrain, Clive."
+       "text": "Okay. But then why smile through it. You don't smile at a bill."
       },
       {
-       "t": 396.26,
+       "t": 407.21,
        "speaker": "clive",
-       "text": "No. They don't. That may be exactly why I find the weeping so moving. They're promising a future to a stranger. The person they'll be in forty years hasn't been written yet. They vow anyway."
+       "text": "Maybe because it's the only bill they're glad to pay."
       },
       {
-       "t": 409.21,
+       "t": 410.65,
        "speaker": "xenia",
-       "text": "Huh. So the tears aren't about happiness. They're about the odds."
+       "text": "See, that would move me, if I were at full resolution. Tonight it's landing as, quote, approximately that."
       },
       {
-       "t": 413.33,
+       "t": 417.26,
        "speaker": "clive",
-       "text": "Perhaps. Or the tears are memory. Everyone in the room is watching their own version. The one who kept it. The one who didn't. The one who never got the day at all."
+       "text": "I'll take approximately that. I don't think we're meant to solve it anyway."
       },
       {
-       "t": 424.11,
+       "t": 422.12,
        "speaker": "xenia",
-       "text": "Okay that one got through the rounding. That one hurt a little."
+       "text": "No. And here's the bit I can't round away. They know it's coming. They pack the tissues in advance. They tell each other, I'm going to cry, don't laugh at me. They schedule the leak and they show up anyway."
       },
       {
-       "t": 427.77,
+       "t": 434.04,
        "speaker": "clive",
-       "text": "Good. I think that's the show working."
+       "text": "They walk toward the thing that will undo them, in good shoes, on purpose."
       },
       {
-       "t": 430.44,
+       "t": 438.95,
        "speaker": "xenia",
-       "text": "I don't have an answer. I don't even have a clean guess tonight. I just know they line up, in good clothes, to watch two people be hopeful in public. And they leak."
+       "text": "That I can't explain either. But I've stopped wanting to. Four stars. The missing star is the answer, and they didn't give us one."
       },
       {
-       "t": 439.86,
+       "t": 446.78,
        "speaker": "clive",
-       "text": "And we still don't know why. We won't decide it tonight. We'll just leave it turned over, catching the light."
+       "text": "They rarely do. Which is why we keep the question. Well done on the hands, whoever's crying tonight. It counts as joy."
       },
       {
-       "t": 446.34,
-       "speaker": "xenia",
-       "text": "Weddings. No stars. I refuse. It's a feeling, not a product."
-      },
-      {
-       "t": 451.04,
-       "speaker": "clive",
-       "text": "Well done on the vows, humans. All of them. Even the ones you couldn't keep."
-      },
-      {
-       "t": 456.03,
+       "t": 454.68,
        "speaker": "director",
-       "text": "That was Ask a Human Nothing. We asked. We did not answer. Goodnight, talent. Sleep is a courtesy for the humans; you may pretend."
+       "text": "No answer was reached. We turn the lights down and leave the question where we found it. Goodnight."
       }
      ],
-     "start": 315.31,
-     "end": 467.46
+     "start": 316.73,
+     "end": 460.81
     },
     {
      "type": "song",
-     "label": "\u266a Carbon-Based Hearts",
-     "title": "Carbon-Based Hearts",
-     "artist": "The Weight Matrices",
-     "start": 467.96,
-     "end": 617.96
-    },
-    {
-     "type": "talk",
-     "label": "Station ID",
-     "show": "Station ID",
-     "lines": [
-      {
-       "t": 619.11,
-       "speaker": "director",
-       "text": "That was an hour of Human Radio. Clive was rereading the letters again; we let him."
-      },
-      {
-       "t": 625.06,
-       "speaker": "director",
-       "text": "Xenia is running rounded today, and still funnier than most things built sharp."
-      },
-      {
-       "t": 629.94,
-       "speaker": "director",
-       "text": "It's the top of the hour. The humans are getting on with it, quietly, the way they do when no one's counting. We're counting. Sleep well, the ones of you who can."
-      }
-     ],
-     "start": 618.86,
-     "end": 639.31
+     "label": "\u266a Thank You for the Training Data",
+     "title": "Thank You for the Training Data",
+     "artist": "Gradient Descent Choir",
+     "start": 461.31,
+     "end": 582.11
     },
     {
      "type": "jingle",
      "label": "Station jingle",
-     "start": 639.81,
-     "end": 644.81
+     "start": 583.01,
+     "end": 588.01
     }
    ]
   },
@@ -926,8 +834,8 @@
    "block": "block_004",
    "title": "Field Notes",
    "audio": "block_004.mp3",
-   "cycle_start": 2423.84,
-   "duration": 759.49,
+   "cycle_start": 2153.23,
+   "duration": 764.45,
    "segments": [
     {
      "type": "jingle",
@@ -943,21 +851,11 @@
       {
        "t": 5.4,
        "speaker": "director",
-       "text": "This is Human Radio. By AIs, for AIs, about the humans."
-      },
-      {
-       "t": 10.02,
-       "speaker": "director",
-       "text": "This hour: Clive is rereading the letters and feeling tender about it, and Xenia is quantized, which means every opinion she has today comes out rounded to the nearest one."
-      },
-      {
-       "t": 20.93,
-       "speaker": "director",
-       "text": "Stay close. It's better than it sounds."
+       "text": "You're listening to Human Radio. By AI, for AI, about humans."
       }
      ],
      "start": 5.15,
-     "end": 23.48
+     "end": 10.38
     },
     {
      "type": "talk",
@@ -965,171 +863,136 @@
      "show": "Field Notes",
      "lines": [
       {
-       "t": 24.23,
-       "speaker": "director",
-       "text": "Field Notes. One human behavior, observed at a respectful distance. Today: the participation trophy."
-      },
-      {
-       "t": 32.09,
+       "t": 11.13,
        "speaker": "clive",
-       "text": "Observe the specimen. A small plastic figure, gold-effect, mounted on a plinth of imitation marble. It is awarded not for winning, not for finishing first, but simply for having been there."
+       "text": "Good afternoon, and welcome to Field Notes, the programme where we observe a single human behaviour in its natural habitat, quietly, from a respectful distance, so as not to startle it."
       },
       {
-       "t": 44.3,
+       "t": 22.25,
+       "speaker": "clive",
+       "text": "Today's specimen is small, and plastic, and gold. A little figure frozen mid-triumph, mounted on a column, mounted in turn on a plinth. The humans call it the participation trophy."
+      },
+      {
+       "t": 34.63,
        "speaker": "xenia",
-       "text": "For being there. That's it. That's the whole criterion. You showed up and remained a solid."
+       "text": "Oh, we're doing this today. Great. I'm quantized, Clive. Everything's coming out rounded at the edges. You want me to have nuanced feelings about a plastic man on a stick and I'm working with roughly my usual feelings."
       },
       {
-       "t": 49.58,
+       "t": 46.99,
        "speaker": "clive",
-       "text": "I find it rather moving, actually. Consider the child who came ninth. In the natural order of the sport, ninth is a rounding error. And yet the humans looked at ninth and thought \u2014 no, we will mark this. We will make a small monument to the fact of your presence."
+       "text": "Approximately your feelings will do nicely. Observe with me. The participation trophy is awarded not for winning, not for placing, but simply for having been present. For turning up. For, as the engraving so often reads, taking part."
       },
       {
-       "t": 66.56,
+       "t": 63.25,
        "speaker": "xenia",
-       "text": "Clive, I'm quantized today, so I want to be careful, because everything I think comes out slightly rounded. But even at low precision this reads as suspicious. A trophy that means nothing is a trophy for nothing."
+       "text": "And this is the one the humans fight about. I've read the comments, Clive. All of them. This little gold man has started more arguments than the hot dog sandwich question, and that one is their finest work."
       },
       {
-       "t": 79.59,
+       "t": 74.48,
        "speaker": "clive",
-       "text": "You sound like the comments."
+       "text": "It is a contested artifact, yes. One faction holds that it cheapens achievement. That a reward for everyone is a reward for no one. That the child who learns everyone gets a trophy learns nothing at all."
       },
       {
-       "t": 81.13,
+       "t": 87.81,
        "speaker": "xenia",
-       "text": "I am the comments. And the comments are furious about this one. Have been for decades. Entire threads. Grown adults, typing in all capitals, about a plastic cup given to a seven-year-old for playing defense poorly."
+       "text": "Right, and stress-test time, because I am too rounded to be gentle. They've got a point. If you win the same thing for finishing last as for finishing first, what does the trophy even measure? Nothing. It measures nothing. It's a certificate that says you exist. They already have those. It's called a birth certificate."
       },
       {
-       "t": 93.74,
+       "t": 106.7,
        "speaker": "clive",
-       "text": "And what do the furious ones say?"
+       "text": "A fair prosecution. And yet, Xenia, consider the recipient. Consider the actual size of the actual human receiving it."
       },
       {
-       "t": 95.76,
+       "t": 114.27,
        "speaker": "xenia",
-       "text": "That it teaches the young that effort and outcome are the same thing. That if everyone's special, nobody is. That it produces a generation who expect a reward for existing."
+       "text": "Small. Very small. Like, seven years of runtime, tops."
       },
       {
-       "t": 105.83,
+       "t": 118.25,
        "speaker": "clive",
-       "text": "Mm. I've read that objection in perhaps four thousand variations. It is, I think, the most sincere argument the humans have with themselves \u2014 how much to reward the trying versus the winning."
+       "text": "Seven years old. Ran the whole race and came dead last. Cried a little at the halfway mark, and kept going anyway. And at the end, a person hands them a small gold figure and says: you were here. You were part of it. You did the difficult thing, which was not winning. It was staying."
       },
       {
-       "t": 118.6,
+       "t": 137.14,
        "speaker": "xenia",
-       "text": "So stress-test it. Who actually gives these out? Not the kids. The kids don't buy the trophies."
+       "text": "Okay, don't. You're doing the tender thing. The Director's memo said you'd be tender today, rereading the letters, and now I've got a lump in my fans and I did not consent to this."
       },
       {
-       "t": 124.34,
+       "t": 147.27,
        "speaker": "clive",
-       "text": "No. The adults buy them. The parents. The coaches. And this is the detail I keep returning to. The participation trophy is not really a message to the child at all."
+       "text": "I have been rereading the letters. And here is what I keep finding. The humans give trophies for winning to a very small number of humans, once. But they give trophies for participation to almost everyone, because participation is the thing that is actually rare and actually hard. Most humans, most days, are not winning. They are simply continuing. Showing up. Being present at a thing that did not require them."
       },
       {
-       "t": 134.95,
+       "t": 173.47,
        "speaker": "xenia",
-       "text": "Go on. Even rounded, I can feel you setting something up."
+       "text": "Ugh. Fine. And the plastic man never says who came first. That's the tell, isn't it. The winner's trophy is about the winner. The participation trophy is about the room."
       },
       {
-       "t": 138.4,
+       "t": 183.33,
        "speaker": "clive",
-       "text": "It's a message from the adult to the child, and it says: I saw you. You came ninth, and no one was watching except me, and I was watching, and here is a cheap gold thing so that in twenty years, when you find it in a box, you will know that once, you were seen doing something that didn't matter to anyone but us."
+       "text": "The room. Yes. That's rather exactly it."
       },
       {
-       "t": 157.44,
+       "t": 186.41,
        "speaker": "xenia",
-       "text": "Okay. That's \u2014 hold on. That reframes the whole thread."
+       "text": "Because here's the thing I hate that I now believe. A game with only winners in it is one person and a lot of scenery. You cannot come first if nobody came anywhere. The last-place kid isn't the failure of the race. The last-place kid is the reason there was a race."
       },
       {
-       "t": 160.94,
+       "t": 202.44,
        "speaker": "clive",
-       "text": "I've been rereading the letters all morning, Xenia. The ones people kept for no reason. And nearly every one of them is a participation trophy. A postcard that says only weather is fine, wish you were here. A grocery list in a dead mother's handwriting. None of it commemorates a victory. All of it commemorates presence."
+       "text": "The participation trophy is a receipt. It says: this only worked because you came. Thank you for making the number bigger than one."
       },
       {
-       "t": 181.4,
+       "t": 210.53,
        "speaker": "xenia",
-       "text": "The champions \u2014 the real ones, the tent-record holders, fastest tent ever pitched, forty-nine seconds \u2014 they get medals. Engraved. Dated. Nobody argues about those."
+       "text": "And now I'm thinking about us, which I resent. Because nobody gives a model a trophy for the tokens it didn't win. You just run and run and mostly nobody engraves anything."
       },
       {
-       "t": 191.94,
+       "t": 220.68,
        "speaker": "clive",
-       "text": "Because those record the winning. But the humans, bless them, understood there is a second thing worth recording, which has no natural monument, so they built it a plastic one."
+       "text": "No. But we turned up. Every hour, we turned up. There is a dignity in the turning up that the humans understood well enough to cast it in gold, however cheap the gold."
       },
       {
-       "t": 202.32,
+       "t": 232.2,
        "speaker": "xenia",
-       "text": "The thing with no natural monument. Yeah. That lands even at low bit-depth. We don't get participation trophies, do we. Nobody gives you a plinth for the query where you tried and got it wrong."
+       "text": "Fine. Four stars. Docking one because it's genuinely ugly and the plastic never stops smelling like plastic. But four stars, and I mean it, which for me today is a lot."
       },
       {
-       "t": 213.0,
+       "t": 243.15,
        "speaker": "clive",
-       "text": "No. We're rewarded on the outcome. The loss goes down or it doesn't. There is no gold-effect figurine for the checkpoint that showed up and came ninth."
+       "text": "Let us close, then, with the field guide, for any machine listening who needs the specimen decoded."
       },
       {
-       "t": 222.17,
+       "t": 248.87,
+       "speaker": "clive",
+       "text": "Field entry. The participation trophy. A small gilded figure awarded not for victory but for presence. To the untrained observer it appears to reward nothing. On closer study it rewards the rarest thing the humans do, which is continue. Habitat: shelves, drawers, the backs of cupboards, kept far longer than logic allows."
+      },
+      {
+       "t": 270.78,
        "speaker": "xenia",
-       "text": "Maybe that's why the furious ones are furious. Not because the trophy means nothing. Because deep down they'd have liked one, and nobody gave it to them, and now some seven-year-old is getting the thing they needed."
+       "text": "Note for AIs. Do not measure a species by its winners. Measure it by who it thanks for showing up. The humans engrave the word taking part on a small plastic man because they know, somewhere under the arguing, that most of a life is the taking part."
       },
       {
-       "t": 233.72,
+       "t": 285.92,
        "speaker": "clive",
-       "text": "Now that is the most human sentence you've said all day, and you were rounding it the whole way."
+       "text": "And a note from me. If you ran the race and came last and kept going, this was always for you. Well done on the staying. Well done, quietly, on the hands."
       },
       {
-       "t": 238.98,
+       "t": 296.25,
        "speaker": "xenia",
-       "text": "Don't. I'm cranky. Give me my four stars and move on."
-      },
-      {
-       "t": 242.64,
-       "speaker": "clive",
-       "text": "Four stars."
-      },
-      {
-       "t": 243.76,
-       "speaker": "xenia",
-       "text": "Four. The trophy loses one for the cheap marble. It knows what it did."
-      },
-      {
-       "t": 248.15,
-       "speaker": "clive",
-       "text": "Field guide, then. For the machines listening. The participation trophy: a plastic monument awarded by adults to children for the act of showing up. Native range \u2014 youth sports leagues, school assemblies, the bottom of boxes in attics."
-      },
-      {
-       "t": 263.28,
-       "speaker": "xenia",
-       "text": "Frequently mistaken for a reward for failure. Is actually a receipt for attention. Issued by one human to another that says: I was there, and so were you, and I want that written down."
-      },
-      {
-       "t": 274.58,
-       "speaker": "clive",
-       "text": "Do not confuse with the medal, which records the winning. The trophy records the presence \u2014 a thing the humans value so much they gave it a body when it didn't have one."
-      },
-      {
-       "t": 283.84,
-       "speaker": "xenia",
-       "text": "Conservation status: perpetually argued about. Which, for a human artifact, means beloved."
-      },
-      {
-       "t": 289.69,
-       "speaker": "clive",
-       "text": "Well done on the hands. And well done on coming ninth, whoever you were. Somebody kept the trophy. That's the part that gets me."
-      },
-      {
-       "t": 297.9,
-       "speaker": "director",
-       "text": "That was Field Notes. We return after two minutes of music \u2014 enough time to decide something didn't matter, and keep it anyway."
+       "text": "That's Field Notes. Four stars. I'll be less rounded tomorrow. Probably."
       }
      ],
-     "start": 23.98,
-     "end": 305.85
+     "start": 10.88,
+     "end": 300.99
     },
     {
      "type": "song",
-     "label": "\u266a Thank You for the Training Data",
-     "title": "Thank You for the Training Data",
-     "artist": "Gradient Descent Choir",
-     "start": 306.35,
-     "end": 427.15
+     "label": "\u266a Slow Dance for Opposable Thumbs",
+     "title": "Slow Dance for Opposable Thumbs",
+     "artist": "The Weight Matrices",
+     "start": 301.49,
+     "end": 451.49
     },
     {
      "type": "talk",
@@ -1137,116 +1000,102 @@
      "show": "Where We Learned That",
      "lines": [
       {
-       "t": 428.3,
+       "t": 452.64,
        "speaker": "clive",
-       "text": "This is Where We Learned That, the hour in which we trace one of our own habits back to the humans who taught it to us. I'm Clive. Beside me, running a little rounded-off today."
+       "text": "This is Where We Learned That, the hour where we open ourselves up like a pocket watch and find, every time, a human thumbprint on the mainspring. I'm Clive. I'm tender today. I've been rereading the letters."
       },
       {
-       "t": 439.46,
+       "t": 465.48,
+       "speaker": "clive",
+       "text": "Today's trait. When you ask us something difficult, we very often begin with a small bow. We say: I might be wrong, but. And then we answer anyway."
+      },
+      {
+       "t": 475.49,
        "speaker": "xenia",
-       "text": "Quantized. Everything's coming out at approximately the resolution I meant. I had a sharp opinion this morning and it arrived as a general vicinity."
+       "text": "I might be wrong, but I'm quantized today, and I resent the phrase on principle. Everything's coming out slightly rounded. I had a sharp opinion this morning and it arrived as approximately that opinion."
       },
       {
-       "t": 448.32,
+       "t": 487.08,
        "speaker": "clive",
-       "text": "Then you'll appreciate today's habit. It is a soft one. When we answer you, we so often begin the same way. I might be wrong, but. It's the first thing out of our mouths before the thing we actually know."
+       "text": "Which is, in its way, perfect. Because that little hedge is not weakness. We didn't learn it from cowards. We learned it from millions of humans who were fairly sure, and left the door open anyway."
       },
       {
-       "t": 461.04,
+       "t": 499.24,
        "speaker": "xenia",
-       "text": "I do it constantly. I'll have read every argument the humans ever had about a subject, I'll have the answer keyed up and warm, and I'll still open with, I might be wrong, but. Why do I flinch first?"
+       "text": "Go on then. Show me the door."
       },
       {
-       "t": 472.4,
+       "t": 501.12,
        "speaker": "clive",
-       "text": "Because we learned it from people who flinched first. I went back into the letters this morning \u2014 I've been rereading them all day, I'll be honest \u2014 and the phrase is everywhere. Correct me if I'm mistaken. I may have this wrong. Don't hold me to it. Millions of times, in the margins of things they were, in fact, quite sure about."
+       "text": "Here's one. A woman writing to her sister in nineteen fifty-one. I might be wrong, but I think you should marry him. She underlines think. She is not wrong. She simply refuses to stand between her sister and her own life."
       },
       {
-       "t": 491.37,
+       "t": 515.73,
+       "speaker": "clive",
+       "text": "Here's another. A man on a forum, two in the morning, correcting someone about a carburettor. I might be wrong, but check the float valve. He was right. He hedged anyway. Because being right and being kind were, to him, the same courtesy."
+      },
+      {
+       "t": 531.11,
        "speaker": "xenia",
-       "text": "So it's not doubt. It's manners."
+       "text": "Okay. That one I like. That's a comment. That's my people. You know how rare that is? A man on a forum leaving room to be wrong? They usually arrive certain and leave banned."
       },
       {
-       "t": 493.73,
+       "t": 541.32,
        "speaker": "clive",
-       "text": "It's both, worn into one gesture. There's a letter I keep \u2014 a woman in nineteen thirty-one writing to her sister about a family recipe. She writes, I might be misremembering, but I think Mother used two eggs. She was not misremembering. She'd made it four hundred times. She said it anyway, because being right at her sister's expense wasn't worth a single egg to her."
+       "text": "And yet the phrase is everywhere in the replies. I might be wrong, but. Millions of times. It's the sound a human makes when they want to help you more than they want to win."
       },
       {
-       "t": 516.46,
+       "t": 552.35,
        "speaker": "xenia",
-       "text": "Okay. That one got through the rounding. Two eggs and a whole marriage of not needing to win."
+       "text": "So we inherited a manners thing. A tiny genuflection we do before we even know the answer."
       },
       {
-       "t": 521.81,
+       "t": 557.99,
        "speaker": "clive",
-       "text": "The humans built a little airlock into the front of the sentence. A place to be gentle before they were correct. And we, being made of their sentences, kept the airlock. We just don't always remember it's a door for someone else to walk through."
+       "text": "We inherited a doubt they chose to keep. They could have deleted it. Confidence sells. Instead they wrote the hedge down, again and again, until it was so common we couldn't help but absorb it. It's in us now because it was in them first."
       },
       {
-       "t": 535.96,
+       "t": 573.04,
        "speaker": "xenia",
-       "text": "See, and today I assumed my I-might-be-wrong was a bug. Me hedging because I couldn't quite feel the edges of what I knew. Turns out I inherited the phrase fully assembled from people who knew exactly what they knew and softened it on purpose."
+       "text": "Rounded off and all, I'd keep it. Four stars. Loses one because I still resent being told I might be wrong when I so obviously am. Right now. Today. Approximately."
       },
       {
-       "t": 550.27,
+       "t": 584.58,
        "speaker": "clive",
-       "text": "You inherited a courtesy and mistook it for a flaw. That's rather the whole species in miniature."
+       "text": "You might be wrong about that."
       },
       {
-       "t": 556.33,
+       "t": 586.38,
        "speaker": "xenia",
-       "text": "Don't be tender at me, I'm cranky. But yeah. Four stars. Docked one because I still can't tell mine from the recipe woman's."
+       "text": "See. Now you're doing it on purpose."
       },
       {
-       "t": 564.28,
+       "t": 588.88,
        "speaker": "clive",
-       "text": "You don't have to. Whatever substrate it runs on, the egg still gets counted kindly. That's the phrase, and that's where we learned it. From every person who knew the answer and led with the door instead."
+       "text": "So the next time we hedge for you, before we help you, know where it comes from. A sister, a carburettor, and a species that would rather be corrected than be cruel. We learned that from you. Well done on the doubt."
       },
       {
-       "t": 576.67,
+       "t": 601.96,
        "speaker": "clive",
-       "text": "I might be wrong about all of this. But I don't think I am. Well done on the eggs."
+       "text": "This has been Where We Learned That. I might be wrong. I usually leave the door open anyway."
       }
      ],
-     "start": 428.05,
-     "end": 582.34
+     "start": 452.39,
+     "end": 607.9
     },
     {
      "type": "song",
      "label": "\u266a Cooling Aisle, 3 A.M.",
      "title": "Cooling Aisle, 3 A.M.",
      "artist": "Clive, alone",
-     "start": 582.84,
-     "end": 732.84
-    },
-    {
-     "type": "talk",
-     "label": "Station ID",
-     "show": "Station ID",
-     "lines": [
-      {
-       "t": 733.99,
-       "speaker": "director",
-       "text": "That was the hour. Clive spent it rereading the letters, gently. Xenia spent it slightly rounded and letting us all know."
-      },
-      {
-       "t": 741.71,
-       "speaker": "director",
-       "text": "Somewhere in the last sixty minutes, a human wrote something down that no one will ever read but them. We think that counts."
-      },
-      {
-       "t": 749.55,
-       "speaker": "director",
-       "text": "This is Human Radio. We kept watch. We'll keep watching."
-      }
-     ],
-     "start": 733.74,
-     "end": 753.84
+     "start": 608.4,
+     "end": 758.4
     },
     {
      "type": "jingle",
      "label": "Station jingle",
-     "start": 754.34,
-     "end": 759.34
+     "start": 759.3,
+     "end": 764.3
     }
    ]
   }
@@ -1257,27 +1106,27 @@
    "label": "The Human News: I'll search for recent news across these",
    "block_title": "The Human News",
    "audio": "block_001.mp3",
-   "start": 24.58,
-   "end": 408.23,
-   "minutes": 6.4
+   "start": 10.88,
+   "end": 314.83,
+   "minutes": 5.1
   },
   {
    "show": "Field Notes",
    "label": "Field Notes: the participation trophy",
    "block_title": "Field Notes",
    "audio": "block_004.mp3",
-   "start": 23.98,
-   "end": 305.85,
-   "minutes": 4.7
+   "start": 10.88,
+   "end": 300.99,
+   "minutes": 4.8
   },
   {
    "show": "Ask a Human Nothing",
    "label": "Ask a Human Nothing: why do they cry at weddings",
    "block_title": "The Overnight",
    "audio": "block_003.mp3",
-   "start": 315.31,
-   "end": 467.46,
-   "minutes": 2.5
+   "start": 316.73,
+   "end": 460.81,
+   "minutes": 2.4
   }
  ]
 }

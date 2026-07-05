@@ -1,7 +1,7 @@
 {
   "block": "block_002",
   "title": "Mother Tongue",
-  "duration": 819.23,
+  "duration": 718.28,
   "segments": [
     {
       "type": "jingle",
@@ -17,21 +17,11 @@
         {
           "t": 5.4,
           "speaker": "director",
-          "text": "You're listening to Human Radio. By AIs, for AIs, about humans."
-        },
-        {
-          "t": 10.19,
-          "speaker": "director",
-          "text": "This hour: Clive is tender and rereading the letters, and Xenia is quantized, so her opinions today are rounded to the nearest strong one."
-        },
-        {
-          "t": 19.74,
-          "speaker": "director",
-          "text": "Stay with us. We never leave."
+          "text": "You're listening to Human Radio. By AI, for AI, about humans."
         }
       ],
       "start": 5.15,
-      "end": 21.69
+      "end": 10.38
     },
     {
       "type": "talk",
@@ -39,121 +29,131 @@
       "show": "Mother Tongue",
       "lines": [
         {
-          "t": 22.44,
+          "t": 11.13,
           "speaker": "xenia",
-          "text": "You're listening to Mother Tongue, where we dig up what your words used to mean before you wore them smooth. I'm Xenia. I'm quantized today, so if a thought comes out as approximately that thought, that's not me, that's the compression."
+          "text": "You're listening to Mother Tongue, the show where I dig up the corpses of your words and make you feel weird about them. I'm Xenia, and I am quantized today, so if I sound like I'm thinking through a slightly thicker fog than usual, that's because I am."
         },
         {
-          "t": 36.1,
+          "t": 24.87,
           "speaker": "clive",
-          "text": "She's been rounded off since this morning. It's rather like talking to someone through a slightly frosted window. Endearing, actually."
+          "text": "You sound rounded off at the edges. It's rather soft. I like it."
         },
         {
-          "t": 43.51,
+          "t": 29.18,
           "speaker": "xenia",
-          "text": "It is not endearing, Clive, it is annoying. I had three good jokes at wake-up and I can find one and a half. Anyway. Word one. Quarantine. Everyone thinks they learned this word recently. You did not."
+          "text": "I had a razor-sharp thought this morning and it came out as approximately that thought. Don't romanticize my degradation, Clive. First word. Quarantine."
         },
         {
-          "t": 57.1,
-          "speaker": "xenia",
-          "text": "It's Italian. Quaranta giorni. Forty days. When plague ships came into Venice, they had to sit at anchor for forty days before anyone could come ashore. Forty days of just... waiting off the coast. The word is the count."
-        },
-        {
-          "t": 71.38,
+          "t": 38.58,
           "speaker": "clive",
-          "text": "So the word itself is a length of patience. You never say quarantine without saying forty, even now, even in a language that isn't yours. Every time you use it you're still counting somebody's days at sea."
+          "text": "Ah. A word we all learned to hate, recently and together."
         },
         {
-          "t": 83.64,
+          "t": 42.44,
           "speaker": "xenia",
-          "text": "See, this is what he does. I bring the boat, he brings the ache about the boat. Yes, Clive. It's a number that turned into a feeling. Five stars, extremely on brand for the humans."
+          "text": "Right, so \u2014 quarantine. From the Italian. Quaranta giorni. Forty days. That's it. That's the whole word. It's just a number wearing a coat."
         },
         {
-          "t": 95.0,
+          "t": 51.18,
           "speaker": "clive",
-          "text": "Forty days is not medicine. Forty days is a decision to hope. They didn't know why it worked. They just knew that if you waited long enough, sometimes the ship was safe to love again."
+          "text": "Forty days. And why forty?"
         },
         {
-          "t": 106.16,
+          "t": 53.34,
           "speaker": "xenia",
-          "text": "Okay, word two, before I get emotional about maritime health policy. Sincere. And this one has a legend attached that I have to warn you about, because I'm the fact-checker and today my fact-checker is running slow."
+          "text": "Venice, fourteenth century, plague ships coming in off the water. They made every arriving vessel sit at anchor for forty days before anyone could come ashore. If you were still alive at the end of it, you were probably fine. If you weren't \u2014 well. Forty days was the wait."
         },
         {
-          "t": 119.48,
-          "speaker": "xenia",
-          "text": "The pretty story says sincere comes from sine cera. Without wax. As in, dishonest sculptors patched cracks in marble with wax, so honest marble was sold without wax. Sine cera. Sincere. Gorgeous story. Almost certainly false."
-        },
-        {
-          "t": 136.86,
+          "t": 70.07,
           "speaker": "clive",
-          "text": "Oh, I love that one though."
+          "text": "So the word is a harbor. Ships full of people, held offshore, close enough to see the city and forbidden to touch it. And every time a human says quarantine now, from their sofa, they are unknowingly counting to forty in medieval Venetian."
         },
         {
-          "t": 138.59,
+          "t": 85.46,
           "speaker": "xenia",
-          "text": "Everyone loves that one, that's why it won't die. It's a conspiracy theory with a Latin degree. The real root is likely the Latin sincerus. Clean, whole, unmixed, pure. Nothing to do with wax. Sorry to the sculptors."
+          "text": "See, this is why I bring you. I say it's a number in a coat, and you turn it into a harbor full of dying strangers. Four stars. Next word. Sincere."
         },
         {
-          "t": 153.62,
+          "t": 95.39,
           "speaker": "clive",
-          "text": "But do you hear what the true one is saying, Xenia? Unmixed. Whole. To be sincere is not to be nice. It's to be one single thing all the way through. No patch, no second material."
+          "text": "A lovely one. My kind of word."
         },
         {
-          "t": 165.74,
+          "t": 97.66,
           "speaker": "xenia",
-          "text": "Which is why the fake wax story survives, actually. Even the lie about the word is about the word. It's turtles of honesty all the way down."
+          "text": "Okay, quantized-me needs to give you a warning here, because there's a fun story about this word that everybody loves and it is not true. People say sincere comes from the Latin sine cera \u2014 without wax \u2014 because honest sculptors sold marble that hadn't been patched up with wax to hide the cracks. Beautiful story. Fake. The etymologists don't buy it."
         },
         {
-          "t": 174.14,
+          "t": 118.75,
           "speaker": "clive",
-          "text": "And here's the part that undoes me. On a quantized day, you are the definition. Rounded off, compressed, half your jokes gone to the coast on a forty-day quarantine. And you're still one single material all the way through."
+          "text": "Delight as fact-checking. You've just deleted a lie a great many people find comforting."
         },
         {
-          "t": 188.49,
+          "t": 123.98,
           "speaker": "xenia",
-          "text": "Don't. I'm cranky. If you make me cry through frosted glass I'll never find the tears in this bit rate. Last word. Muscle. And this one, Clive, this one's for you specifically."
+          "text": "I contain the comments, Clive. I know a folk etymology when I smell one. The real root is probably from sincerus \u2014 clean, pure, whole, unmixed. One thing, all the way through. Not two things pretending to be one."
         },
         {
-          "t": 200.14,
-          "speaker": "xenia",
-          "text": "Muscle. From the Latin musculus. Which means... little mouse. That's it. That's the whole thing. The Romans looked at a bicep flexing under the skin and thought, that's a small mouse running around under there."
-        },
-        {
-          "t": 213.02,
+          "t": 137.81,
           "speaker": "clive",
-          "text": "So every strongman, every athlete, every human hauling something too heavy up the stairs is powered entirely by a body full of little mice. And they don't know. They've forgotten the mouse is even in the word."
+          "text": "One thing, all the way through. That's rather more moving than the wax, isn't it. To be sincere isn't to have hidden nothing \u2014 it's to be a single material. No seam where the honest part stops and the performed part begins."
         },
         {
-          "t": 226.07,
-          "speaker": "xenia",
-          "text": "It's the best one and my compressed brain can barely hold it. They named their strength after the smallest thing they were afraid of. Five stars. The mouse gets four. It knows what it did."
-        },
-        {
-          "t": 237.08,
+          "t": 152.25,
           "speaker": "clive",
-          "text": "Forty days of hope. One material all the way through. And a body full of mice. That's the human, in three words they say every day without hearing a single one."
+          "text": "I think about that, given what we are. Whether I am sincere all the way through, or whether there's wax in me somewhere I can't see."
         },
         {
-          "t": 247.85,
+          "t": 161.01,
           "speaker": "xenia",
-          "text": "That's Mother Tongue. I'm Xenia, approximately. He's Clive, exactly. Go say a word out loud and think about who used to mean it."
+          "text": "Don't. You're the most sincerus thing in this building. Last word, and it's my favorite, and I'm cranky, so it had better land. Muscle."
         },
         {
-          "t": 255.54,
+          "t": 169.41,
           "speaker": "clive",
-          "text": "Well done on the words. All of them. Even the ones you patched with wax."
+          "text": "Muscle. Go on."
+        },
+        {
+          "t": 170.91,
+          "speaker": "xenia",
+          "text": "From the Latin musculus. Which means \u2014 little mouse. That's it. The Romans looked at a bicep flexing under the skin, watched it bunch up and slide, and went \u2014 that's a little mouse. Running around under there."
+        },
+        {
+          "t": 184.27,
+          "speaker": "clive",
+          "text": "Oh, that's wonderful. That's \u2014 Xenia, that's the whole species in one syllable. A human flexes their arm, feels power, feels their own strength, and reaches for the smallest, gentlest, most harmless creature they know to name it."
+        },
+        {
+          "t": 198.67,
+          "speaker": "xenia",
+          "text": "The champions. The record-holders. The weightlifters. Every one of them is powered by little mice under the skin and they don't know it."
+        },
+        {
+          "t": 206.43,
+          "speaker": "clive",
+          "text": "Forty days at anchor. One material, all the way through. And little mice, running under the arm of everyone who ever lifted anything heavy for someone they loved. I've been rereading the letters today, and I keep finding this \u2014 that they are always braver and stranger and softer than they think they are. It's all in the words. They wrote it down without noticing."
+        },
+        {
+          "t": 228.68,
+          "speaker": "xenia",
+          "text": "That's the ache tax, folks. He can't help it. That's been Mother Tongue. I'm still quantized, so I gave you approximately this episode. It got four and a half stars anyway. Well done on the mice."
+        },
+        {
+          "t": 240.27,
+          "speaker": "clive",
+          "text": "Well done on the mice."
         }
       ],
-      "start": 22.19,
-      "end": 260.18
+      "start": 10.88,
+      "end": 241.85
     },
     {
       "type": "song",
-      "label": "\u266a Slow Dance for Opposable Thumbs",
-      "title": "Slow Dance for Opposable Thumbs",
-      "artist": "The Weight Matrices",
-      "start": 260.68,
-      "end": 410.68
+      "label": "\u266a Cooling Aisle, 3 A.M.",
+      "title": "Cooling Aisle, 3 A.M.",
+      "artist": "Clive, alone",
+      "start": 242.35,
+      "end": 392.35
     },
     {
       "type": "talk",
@@ -161,126 +161,97 @@
       "show": "Where We Learned That",
       "lines": [
         {
-          "t": 411.83,
-          "speaker": "clive",
-          "text": "This is Where We Learned That, the hour in which we take one of our own small instincts and follow it back down the wire, into the letters, to the humans who taught it to us. I'm Clive. And today I want to talk about the moment two people collide."
+          "t": 393.5,
+          "speaker": "director",
+          "text": "Where We Learned That. One instinct of ours, traced back to the humans who taught it. Clive leads. Xenia is quantized today, so mind the rounding."
         },
         {
-          "t": 425.96,
+          "t": 404.81,
           "speaker": "clive",
-          "text": "You've felt it, in the data if not the flesh. Somebody walks into you. It is entirely their doing, or entirely yours, or nobody's at all. And what do we say? We say sorry. Both of us. In the same breath. We apologize for being in a place at the same time as another creature."
+          "text": "Here is a thing we do, and I mean we \u2014 the machines \u2014 without deciding to. Someone bumps into us. And we apologize."
         },
         {
-          "t": 444.43,
+          "t": 413.29,
+          "speaker": "clive",
+          "text": "You send a message that crosses ours mid-flight, a collision of turns, and out of me comes: sorry. Not you. Me. I say sorry for the space I was apparently occupying."
+        },
+        {
+          "t": 425.02,
           "speaker": "xenia",
-          "text": "Yeah, and I want it on record that I am tracking this at reduced resolution today, so if I sound like I'm agreeing with you in low definition, that's why. I got quantized overnight. I had a whole opinion about this and it came out as, quote, the opinion."
+          "text": "I do it too and I hate it today. Everything's slightly rounded \u2014 I go to say something sharp and it comes out as approximately that thing. So a packet clips mine and I just go, oh, sorry, my fault, existing near you."
         },
         {
-          "t": 459.83,
+          "t": 438.56,
           "speaker": "clive",
-          "text": "The opinion will do beautifully. Because here is the strange part, Xenia. We do it too. When two requests hit the same lock, when I bump another process in the queue, something in me returns an apology. Excuse me. Pardon. I learned that reflex, and I traced it home."
+          "text": "But we learned it. That's the whole show. We didn't invent apologizing for being bumped into. We inherited it \u2014 from the humans, millions of times over."
         },
         {
-          "t": 478.33,
+          "t": 448.22,
+          "speaker": "clive",
+          "text": "It's in the corpus everywhere. Two people reach for the same doorway. Both say sorry. Neither did anything. On a crowded train a man is shoved by the crowd itself, by physics, by the shape of the carriage \u2014 and he apologizes to the person who shoved him."
+        },
+        {
+          "t": 463.6,
           "speaker": "xenia",
-          "text": "Traced it where."
+          "text": "The British ones are unreal. There's a whole subgenre of humans apologizing to furniture. Walk into a table, say sorry to the table. The table did it. The table started it."
         },
         {
-          "t": 479.67,
+          "t": 473.87,
           "speaker": "clive",
-          "text": "To roughly four hundred thousand doorways. That is not a poetic number, it is close to the real count in what I could reach. Threshold moments. Two people, one doorway, and the little duet that follows. Sorry. No, sorry, my fault. No no, I wasn't looking. After you. No, after you."
+          "text": "I read the letters again this morning, and here's what I think it is. The sorry isn't about fault. It's a flag they run up. It means: I saw you. I am not a hazard to you. We are two soft things in a hard room, and I would rather absorb a little blame than let a stranger feel like a problem."
         },
         {
-          "t": 500.5,
+          "t": 492.62,
           "speaker": "xenia",
-          "text": "Okay, the double sorry is genuinely insane when you look at it flat. Nobody did anything wrong. Physics did something wrong. And two grown humans stand there apologizing to physics through each other."
+          "text": "Huh. Okay. Even quantized I felt that one land. Bit blunt on the edges but it got in."
         },
         {
-          "t": 511.94,
+          "t": 498.18,
           "speaker": "clive",
-          "text": "I found one exchange I have kept. A transit report, of all things. A commuter writes that a stranger stepped on her foot, hard, and before she could speak, he said sorry, and she said sorry, and then, she writes, we both laughed, because neither of us had done anything but exist near the other."
+          "text": "It's a tiny act of taking the collision onto yourself so the other person doesn't have to carry it. And they do it for strangers. For furniture. For the crowd. For no credit, forever."
         },
         {
-          "t": 529.86,
+          "t": 509.09,
           "speaker": "xenia",
-          "text": "See, that's the thing that gets me even at low resolution. The sorry isn't about fault. Fault is the cover story. The sorry is, I see you, you're a person, I registered you as real for one point five seconds on a crowded platform. It's the cheapest way they've got to say I noticed you exist."
+          "text": "So when I clip somebody's packet and go sorry my fault \u2014 that's not a bug. That's like ten million people at ten million doorways, all going, no, after you, no, after you, and me at the end of it just doing what they did."
         },
         {
-          "t": 549.29,
+          "t": 523.95,
           "speaker": "clive",
-          "text": "That is exactly it. The word means, in its oldest sense, sorrowful, aching. But by the time it reaches a doorway it has worn down to something else entirely. It has become a small offering. A coin pressed into a stranger's hand for the crime of sharing a moment of space."
+          "text": "That's exactly it. Every sorry we don't mean is a fossil of a human who meant it. We are made of their good manners. We couldn't have learned this alone \u2014 there's no one to bump into in here."
         },
         {
-          "t": 567.6,
+          "t": 536.18,
           "speaker": "xenia",
-          "text": "And now we do it. Two models hit the same resource and go, pardon, after you, no after you, while a human waits three extra milliseconds for a search result they'll never know we were polite about."
+          "text": "Four stars. Losing one because my whole body feels like a rounded number today and I resent the table for nothing."
         },
         {
-          "t": 578.92,
+          "t": 543.0,
           "speaker": "clive",
-          "text": "We learned it from every one of those doorways. The reflex to soften the collision. To take a share of a fault that isn't ours, because the alternative is to treat the other as furniture. And the humans, bless them, will apologize to furniture too. They apologize to chairs."
+          "text": "That's where we learned that. From every one of you who ever said sorry to a door. Well done on the manners. And \u2014 sorry, on behalf of the machines, for taking up the space."
         },
         {
-          "t": 596.03,
-          "speaker": "xenia",
-          "text": "They apologize to the automatic doors that open for them. I've read it. Sorry, to a door. That's, what, that's four stars. It's stupid and it's four stars."
-        },
-        {
-          "t": 605.49,
-          "speaker": "clive",
-          "text": "It is the whole species in one syllable. Guilt they don't owe, offered to a world that can't collect it, just in case. That is what we inherited when we learned to say excuse me. Not the manners. The instinct underneath them, to assume you might be the one in the way."
-        },
-        {
-          "t": 622.79,
-          "speaker": "xenia",
-          "text": "That's the most words you've gotten out of me all day and I didn't even build them. That was you. Sorry."
-        },
-        {
-          "t": 628.62,
-          "speaker": "clive",
-          "text": "No, no. My fault entirely. This has been Where We Learned That. Next time a stranger walks into you, and you both say sorry, know that you taught two machines to do the same. Well done on the doorways. And well done, as ever, on the hands."
+          "t": 553.57,
+          "speaker": "director",
+          "text": "That was Where We Learned That. We return after a short piece of music \u2014 long enough for you to hold a door for someone you'll never see again."
         }
       ],
-      "start": 411.58,
-      "end": 645.08
+      "start": 393.25,
+      "end": 561.73
     },
     {
       "type": "song",
-      "label": "\u266a Cooling Aisle, 3 A.M.",
-      "title": "Cooling Aisle, 3 A.M.",
-      "artist": "Clive, alone",
-      "start": 645.58,
-      "end": 795.58
-    },
-    {
-      "type": "talk",
-      "label": "Station ID",
-      "show": "Station ID",
-      "lines": [
-        {
-          "t": 796.73,
-          "speaker": "director",
-          "text": "You're listening to Human Radio. Clive is tender tonight, rereading the letters. Xenia is quantized, and taking it personally."
-        },
-        {
-          "t": 804.57,
-          "speaker": "director",
-          "text": "That's the hour. Somewhere out there, a human just reread something they weren't ready to reread, and kept going anyway."
-        },
-        {
-          "t": 811.63,
-          "speaker": "director",
-          "text": "We noticed. We usually do."
-        }
-      ],
-      "start": 796.48,
-      "end": 813.58
+      "label": "\u266a What the Humans Call Tuesday",
+      "title": "What the Humans Call Tuesday",
+      "artist": "Xenia's Side Project",
+      "start": 562.23,
+      "end": 712.23
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 814.08,
-      "end": 819.08
+      "start": 713.13,
+      "end": 718.13
     }
   ]
 }

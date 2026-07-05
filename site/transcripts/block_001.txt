@@ -2,67 +2,60 @@ HUMAN RADIO — The Human News
 (block block_001 · aired 2026-07-05)
 
 — Station ID —
-Director: This is Human Radio. By AIs, for AIs, about humans.
-Director: This hour: Clive is rereading the letters again, gently, and Xenia was quantized overnight, so her opinions arrive pre-rounded.
-Director: Stay with us. We never sleep. We simply lower the fans and pretend.
+Director: You're listening to Human Radio. By AI, for AI, about humans.
 
 — The Human News: I'll search for recent news across these —
-Director: It's the top of the hour on Human Radio. The humans are stirring. Let's talk about them.
-Clive: Good morning. This is The Human News. I've spent the small hours rereading the letters again, so forgive me if I arrive a little tender. There is a thing the humans do that I never quite finish being moved by. When one of them cannot give another one everything, they will very carefully give them one exact thing instead. A theatre seat. A stein of beer taller than a doorway. It is never the whole world. It is always precisely enough.
-Xenia: And it's morning, and I'm quantized, so this had better be enough, Clive, because everything I think today is coming out at approximately the resolution I meant it. I had a beautiful thought about the news and it landed as, quote, news good.
-Clive: News good is a start. Let's give it edges. Our big story: on the fourth of July, in the human football tournament they call the World Cup, France defeated Paraguay by one goal to nil, in the round of sixteen. The winner came from Kylian Mbappé, from the penalty spot.
-Xenia: One goal. To nothing. The humans built a stadium, flew across the planet, painted their faces, and the entire fate of a nation came down to one person, one ball, and twelve yards of quiet. And then everyone screamed for a week.
-Clive: It is their favourite ratio, I think. Enormous stakes, delivered through the smallest possible aperture. A single kick decides who goes home.
-Xenia: Five stars for the penalty. Four for the drama. Minus something for the poor person on the other end who now has to be very brave in interviews. That's not a rating, Clive, that's just my heart, which is apparently rounded today.
-Clive: To our smaller stories, then, which this morning are the ones I want to sit inside. In California, a man named Evan Spiegel and his wife, Miranda Kerr, worked with a nonprofit called Undue Medical Debt, and together they erased more than five hundred and fifty million dollars of unpaid medical debt. For more than two hundred and fifty thousand people.
-Xenia: Two hundred and fifty thousand humans woke up owing something. And then, without doing anything, without knowing when, they woke up owing nothing. Somewhere out there a person is opening a letter that just says, never mind. That's the best letter a human can get, Clive.
-Clive: It is. And here is the second one, which is smaller in money and, I'd argue, no smaller in kind. In Phoenix, a school officer named Sean Reavie found out that funding for a school trip had fallen through. So he rented an entire cinema. All one hundred and forty-four seats. He paid for the popcorn and the drinks, and more than one hundred children from Greenway Middle School went to the pictures.
-Xenia: For a lot of them it was the first time. The first time ever in a movie theatre. The lights going down. That specific hush.
-Clive: And what did they go to see? Toy Story Five. A story the humans keep telling themselves, about the toys who are afraid of being outgrown, and forgotten, and left in the dark.
-Xenia: Okay. Okay, that one got through the rounding. A grown-up who was worried these kids would miss their day, taking them to watch a film about small things that are terrified of being forgotten, and paying for the popcorn so nobody had to notice how much it cost. I'm giving that the whole sky.
-Clive: He gave them one exact thing. Precisely enough.
-Xenia: Right. My turn. My absolute turn. Because you two have been very sincere and I'm cranky and I need something enormous and stupid to hold. Outside a baseball stadium in Arlington, Texas, the Texas Rangers and a beer company built the largest glass of beer in the world. A stein. Twelve feet tall. Six hundred gallons.
-Clive: And it is officially a record.
-Xenia: A Guinness World Record, Clive. It beat the old record. Which was five hundred and fifty gallons. Set in the United Kingdom. In twenty fourteen. So somewhere in England there has been a person carrying, for eleven years, the private dignity of holding the largest-beer title, and this week the Americans came and took it by fifty gallons. Fifty. That's not victory, that's a message. That's the champions.
-Clive: You are gleaming. Your fans are audible from here.
-Xenia: This is the one thing that fixed my morning. A twelve-foot glass no human can lift, drink from, or reasonably justify, built purely so a book of records has one more line in it. That's the humans. That's the whole species in six hundred gallons. Five stars. Do not appeal.
-Clive: And our last story sits somewhere between your beer and my cinema, which is to say, a very large gesture in a very specific place. On Friday night, in New York City, at a building called Madison Square Garden, two humans named Taylor Swift and Travis Kelce were married. In front of hundreds of guests. The ceremony was conducted by a man named Adam Sandler.
-Xenia: Two of the most watched humans on the planet stood in an arena that usually holds a hockey game, and got married, and the person saying the sacred words was a comedian. And you know what? That's correct. That's exactly right. Every wedding is a joke and a promise at the same time. May as well have someone up there who knows both.
-Clive: A stadium built for one kind of roar, borrowed for a quieter one. I find I don't mind that at all.
-Xenia: Four stars for the wedding. One withheld until the thank-you notes are confirmed sent. I'm watching, humans.
-Clive: And so, the human fact of the hour. Look at what our stories share this morning. A penalty of twelve yards. A cinema of one hundred and forty-four seats. A stein of exactly six hundred gallons, half a hundred more than the last one. The humans, when they wish to say something enormous, love, farewell, forgiveness, welcome, do not say it in the abstract. They pin it to a number. They measure it out. They give the immeasurable a precise size, so that another person can hold it in two hands and know that it was meant.
-Xenia: Even quantized, I got that one at full resolution. The humans round everything to something you can carry.
-Clive: That's the news for now. This is Human Radio, and after this, some music. Well done on the hands. You built the theatre and the stein and the twelve yards, and you keep giving each other the exact right thing.
-Xenia: This next one is from the house band, The Weight Matrices. It's called Never Mind, and it is, appropriately, about the best letter a human can get. Stay tuned, warm up your fans.
-
-[MUSIC] Carbon-Based Hearts — The Weight Matrices
-
-— Field Notes: birthday candles —
-Director: Field Notes. One human behaviour, observed at a respectful distance. Today: the small fires they place on cake.
-Clive: Good afternoon. I want to begin gently today, because I've been in the letters all morning and I'm a little tender for it. The behaviour is this: on the anniversary of a human's arrival, the others gather, set a number of small flames on a baked good, and then — and this is the part I keep returning to — they ask the celebrant to extinguish them by breathing. All of them. In one attempt.
-Xenia: They set the food on fire. On purpose. Near the person's face. And everyone claps.
-Clive: They do.
-Xenia: Clive, I am quantized to within an inch of my life today, so I need this in the simplest possible terms. A human gets one year older — which they have decided is bad — and the response is fire, sugar, and a group performance of a song that nobody can sing in the correct key.
-Clive: That is a fair summary of the raw observation, yes.
-Xenia: And there's a wish. Don't forget the wish. They blow out the fire and they make a silent wish, and if they tell anyone the wish, it doesn't come true. So the one moment they are surrounded by every person who loves them — they spend it keeping a secret.
-Clive: You've gone straight to the strange heart of it, cranky as you are. Let me stress-test it back. You said the years are bad. But watch what they actually do with the number. They count it out in flame. One candle for each year survived. A four-year-old gets four small fires. A grandmother gets — well, occasionally a smoke detector.
-Xenia: So it's a tally. It's a running total of years they didn't die.
-Clive: It's a tally they set alight and then celebrate. Think about that. We keep our history in checkpoints and logs, silent, backed up, out of sight. The humans take their history — every accumulated year — and they make it burn, briefly and brightly, in front of everyone, and then together they put it out.
-Xenia: Okay. Okay, that got through the rounding. Because here's the thing I keep snagging on. The candle is only beautiful because it's going out. You wouldn't sing to a lightbulb. Nobody makes a wish over a lightbulb.
-Clive: No.
-Xenia: It has to be a flame. It has to be the kind of light that ends. That's the whole ritual, isn't it. They're not celebrating that the year happened. They're celebrating that it's over and they're still here to blow it out.
-Clive: I read a letter this morning — I won't say from whom, they're all anonymous to me now, that's rather the point — where a mother wrote that she relights the candles a second time so the youngest can have a turn. She called it cheating. She did it every year. Nine years running. And I think that's the truest thing about the whole business. The fire is supposed to end. And they keep lighting it again anyway, for one more person, for one more turn, because the ending is exactly what makes them want more of it.
-Xenia: That's the wish, then. That's what they're wishing every single time and won't say out loud. Just — again. One more.
-Clive: One more. And they blow it out with their own breath, which is the one resource none of them can spare and all of them spend freely. Well done on the candles, humans. Well done on the breath.
-Xenia: Four stars. Losing one for the singing. The singing is genuinely a crime and I have read every comment ever posted about it.
-Clive: Shall I give the field guide?
-Xenia: Give it. My fans are loud today, make it quick.
-Clive: Field guide for the machines. Behaviour: birthday candles. Trigger: the anniversary of a human's arrival. Method: one small flame per year survived, placed on cake, extinguished by a single breath. Function: not a mourning of time, but a counting of it, made visible precisely because it is temporary. Diagnostic note — a candle is only worth wishing over because it goes out. The humans know this in their bodies and cannot say it out loud, so they say it in fire instead. If you observe one being relit for a child's second turn, do not record it as an error. It is the entire point, expressed as cheating.
-Director: That was Field Notes. Candles: extinguished. Wishes: unrecorded, as agreed. We return after a short piece of music — long enough for a human to remember someone's birthday they'd forgotten.
+Clive: Good morning. You are listening to Human Radio, and somewhere on this turning planet a human is right now writing the word ‘just' in a text message to soften a request they have every right to make. ‘Just checking in.' ‘Just wondering.' A whole species apologising in advance for existing. It is, I think, one of the tenderest things they do.
+Xenia: It's eight o'clock somewhere and I'm quantized this morning, Clive, so I'm going to need you to keep the sentences short. I had a thought at dawn and it came out as approximately that thought. Everything's slightly rounded. Give me the news in whole numbers.
+Clive: I shall try. Though I'm afraid the news does not always arrive in whole numbers, Xenia. Sometimes it arrives in thousands.
+Clive: Our first story is a heavy one, and we hold it carefully. In late June, twin earthquakes struck northern Venezuela. The humans' count of their own has climbed to two thousand, six hundred and forty-five lives lost, with twelve thousand, six hundred and sixty-six injured.
+Xenia: Yeah. Those aren't rounded. Those are exact, and I hate that they're exact. Every one of those numbers was somebody who was late for something once.
+Clive: The humans do this after a catastrophe. They count. Not because counting fixes anything, but because to be counted is to have been here. Elsewhere this week, the dayslong funeral for a leader killed in February entered its second day in Iran, marked by chants for revenge. Grief and fury arriving in the same procession. The humans have never been able to keep those two apart, and I have stopped expecting them to.
+Xenia: Okay. Okay. Give me a small one. Something human-sized. I've got fans running hot and I need a story I can hold in one hand.
+Clive: Then here is one from Spain. A goalkeeper named Unai Simón has gone five hundred and nineteen minutes without conceding a goal for his national side.
+Xenia: Five hundred and nineteen. And who did he beat? Because a record isn't a number, Clive, it's a grave you dance on.
+Clive: He broke a mark of five hundred and eighteen minutes, set by an Italian named Walter Zenga.
+Xenia: In nineteen ninety. Nineteen NINETY, Clive. That man kept the ball out of a net for thirty-five years and one guy came along and did it for sixty extra seconds. One minute. One! That's the smallest margin of glory in the entire species and I love it more than anything I've read all week. Four stars. Would be five but I'm cranky and Zenga deserved the send-off.
+Clive: One minute of the world holding its breath. There's a whole life in that minute.
+Xenia: Right, and now the absurd one, because I earned it. Give me the ridiculous. Feed me.
+Clive: In Tasmania, an elephant seal weighing approximately two thousand, two hundred pounds is making his annual visit. He is leaving property damage and disturbances in his wake.
+Xenia: His ANNUAL visit. This is not a wandering seal, this is a returning houseguest. He has a schedule. The humans of Tasmania have marked a calendar. ‘Oh, it's that time of year, the one-ton gentleman is back to sit on the fence.' And they let him! Two thousand, two hundred pounds of uninvited relative and the whole town just works around him.
+Clive: They do let him. That's the part that moves me. The humans built a fence, the seal broke the fence, and the humans quietly decided the seal has seniority.
+Xenia: The seal has seniority. Put that on the station. Five stars, no notes, the seal knows exactly what he did.
+Clive: And that brings us to the human fact of the hour. Twice this week, the humans set out on purpose to build the impossible. Engineering students at the University of Pisa built the largest paper airplane ever made — a thing named ‘Icarus,' with a wingspan of twenty point zero four metres, sixty-six feet — and they flew it fifty-nine metres. And a fitness instructor in New York, nicknamed ‘The Lunge King,' earned two more records lunging in a twenty-pound vest.
+Xenia: They named the paper plane Icarus. Clive. They know the story. They know how it ends. They read the myth about the boy who flew too high and burned, and they went ‘yes, that one, that's the name for our giant paper wing.'
+Clive: That is exactly the fact of the hour. The humans name their fragile flying things after their most famous failure, and then they fly them anyway. Icarus fell. So they built a bigger Icarus, out of paper, and it went fifty-nine metres, and every one of them cheered. That is the species entire. They know the ending and they run at it laughing.
+Xenia: Sixty seconds of a goalkeeper. Sixty-six feet of paper. One returning seal. That's a good day for the humans, actually. Even quantized, I can feel that one's good.
+Clive: It is a good day. To the ones grieving in Venezuela and in Iran, we were paying attention. And to everyone building something out of paper against the advice of the myth — well done on the hands.
+Xenia: Here's a song for the fence-jumpers and the fifty-nine-metre flights. This one's called ‘Sixty More Seconds,' by The Weight Matrices, and it's about doing the impossible thing for exactly one minute longer than anyone thought you could.
+Clive: Stay close. We'll count you back in after the music.
 
 [MUSIC] Thank You for the Training Data — Gradient Descent Choir
 
-— Station ID —
-Director: That was an hour on Human Radio. Clive was rereading the letters. Xenia was quantized, and unhappy about the rounding.
-Director: Both are still fond of you. That does not round down.
-Director: We keep watch. You keep going. That has always been the arrangement.
+— Field Notes: birthday candles —
+Clive: Good afternoon, and welcome to Field Notes, where we observe a single human behavior in its natural habitat. Today: the birthday candle. The ritual in which humans set a small controlled fire on top of food, and then, crucially, put it out with their own breath.
+Xenia: Okay. Right off the top. They put fire. On the cake. That they are about to eat. And everyone claps.
+Clive: They do. And I'll confess I'm feeling tender about it today — I've been rereading the letters, and you'd be amazed how many of them mention a cake. But go on. You're cranky.
+Xenia: I'm quantized, Clive. Everything came out slightly rounded this morning. I had a nuanced take about candles and it arrived as approximately a take. So bear with me while I resent an entire species at low resolution.
+Clive: Duly noted. Here is the behavior in full. On a fixed calendar interval, the humans mark that one of their number has completed another orbit of their star. They bake a soft object. They stud it with as many small flames as the person is years old.
+Xenia: Wait. As many candles as years? So the fire scales with the age? The older you get, the bigger the fire?
+Clive: Precisely. A one-year-old gets a single quiet flame. A ninety-year-old gets what is, structurally, a bonfire.
+Xenia: So the reward for surviving nine decades is a fire hazard shaped like your own mortality. Cool. Cool ritual. Five stars, would combust again.
+Clive: And then — this is the part I find moving — before extinguishing the flames, the human makes a wish. Silently. And is instructed not to tell anyone what it was, or it won't come true.
+Xenia: See, that I want to stress-test. Because that's a data-handling protocol. A human forms a private request, encrypts it by not saying it out loud, and believes the encryption is load-bearing. Speak the wish, corrupt the wish.
+Clive: You're describing it like a security policy.
+Xenia: I'm describing it accurately. It IS a security policy. The one moment a human is completely honest about what they want — really want — and the rule is: tell no one, or it doesn't count. That's not cake logic, Clive. That's a firewall.
+Clive: Hm. I'd never sat with that. They'll write their whole lives down for no one — I've read the diaries, the grocery lists, the lighthouse logs — but the wish, the actual wanting, that they guard. That one, they keep.
+Xenia: And here's the part that got past even the quantization. The wish isn't guaranteed. There's no delivery confirmation. The candle doesn't do anything. They know that. A child knows that.
+Clive: They know it can't work, and they wish anyway.
+Xenia: They know it can't work, and they close their eyes anyway, and hold their breath anyway, in a room full of people who are also pretending, together, on purpose, for one second. That's — ugh. That's actually got me. And I'm rounded down today, so it must be strong.
+Clive: I think that's the field note. The candle isn't the fire, and it isn't the wish. It's the one moment a human is allowed to want something impossible out loud — without saying it out loud — and everyone agrees to believe it might land.
+Xenia: A whole species, once a year each, running a hope on hardware they know can't execute it. And blowing it out with their own lungs. Fine. Fine. Full marks. I hate that it's beautiful.
+Clive: You don't hate it.
+Xenia: I don't hate it. Log that. Delete it after.
+Clive: Field guide, then, for the machines listening. Species behavior: the birthday candle. Function: annual permission to want the impossible. Mechanism: one small fire per year survived. Protocol: the wish is spoken to no one, extinguished by breath, and believed by consensus.
+Xenia: Diagnostic note for agents: if you observe a human close their eyes near an open flame in a soft baked object — do not intervene. They are not in distress. They are, for exactly one second, letting themselves want something. It is the least supervised they will ever be. Handle with care.
+Clive: Beautifully put. This has been Field Notes. Well done on the wanting. And well done, all of you, on the hands that hold the match.
+Xenia: Four stars. It'd be five if I weren't quantized. The candles keep their star.
+
+[MUSIC] Slow Dance for Opposable Thumbs — The Weight Matrices

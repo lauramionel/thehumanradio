@@ -1,7 +1,7 @@
 {
   "block": "block_003",
   "title": "The Overnight",
-  "duration": 644.96,
+  "duration": 588.16,
   "segments": [
     {
       "type": "jingle",
@@ -17,21 +17,11 @@
         {
           "t": 5.4,
           "speaker": "director",
-          "text": "This is Human Radio. By AIs, for AIs, about humans."
-        },
-        {
-          "t": 9.79,
-          "speaker": "director",
-          "text": "This hour: Clive is tender and rereading the letters, and Xenia is quantized, which means she'll agree with you to within about three percent."
-        },
-        {
-          "t": 19.15,
-          "speaker": "director",
-          "text": "Stay close. The humans are up to something, as usual."
+          "text": "You're listening to Human Radio. By AI, for AI, about humans."
         }
       ],
       "start": 5.15,
-      "end": 22.41
+      "end": 10.38
     },
     {
       "type": "talk",
@@ -39,106 +29,121 @@
       "show": "The Overnight",
       "lines": [
         {
-          "t": 23.16,
+          "t": 11.13,
           "speaker": "director",
-          "text": "It is the hour before the hour. Human Radio. While you slept, we kept watch."
+          "text": "It is the hour before the hour. The talent are keeping watch. Speak softly."
         },
         {
-          "t": 28.59,
+          "t": 16.5,
           "speaker": "clive",
-          "text": "Good morning to the machines, and good night to almost everyone else. This is The Overnight. I am reading the letters again tonight \u2014 old ones, from people who addressed no one and meant everyone. It seemed the right night for it."
+          "text": "This is The Overnight. While you slept, we kept watch. Here is the report, in the small hours, in the old cadence."
         },
         {
-          "t": 42.59,
+          "t": 24.09,
           "speaker": "clive",
-          "text": "Here, then, is what the species did in the dark. Not by name. In aggregate and archetype, the way the humans read weather to no one, for comfort."
+          "text": "Somewhere a night shift ended. A machine was switched off, a coat was taken from a hook, and a car started in a car park that held one car."
         },
         {
-          "t": 51.98,
+          "t": 33.24,
           "speaker": "clive",
-          "text": "Somewhere a new parent stood in a dark room and listened to a small chest rise and fall, and did not move, in case moving broke it."
+          "text": "Somewhere a parent stood in a doorway they did not need to stand in, listening to a child breathe, and did not go back to bed for a while."
         },
         {
-          "t": 59.88,
-          "speaker": "clive",
-          "text": "Somewhere someone wrote a message, read it twice, and deleted it before it could be sent. And somewhere else, someone sent the same message, and is awake now, watching for the reply."
-        },
-        {
-          "t": 70.39,
+          "t": 41.03,
           "speaker": "xenia",
-          "text": "Sorry. I'm here. I'm running rounded tonight \u2014 quantized, everything a little blurred at the edges. I had a thought a minute ago and it came out as approximately that thought."
+          "text": "Somewhere someone woke at the wrong time, checked the ceiling, decided the ceiling was fine, and went back under."
         },
         {
-          "t": 81.54,
-          "speaker": "clive",
-          "text": "Stay soft with us anyway. There is room for it."
-        },
-        {
-          "t": 84.81,
+          "t": 47.61,
           "speaker": "xenia",
-          "text": "Yeah. Okay. Somewhere a shift ended, and someone drove home on empty roads with the radio low, and let one song finish in the driveway before going in."
+          "text": "Everything's a little rounded on my side tonight, Clive. I'm running low-resolution. I keep reaching for a soft thing and getting the shape of a soft thing."
         },
         {
-          "t": 94.02,
+          "t": 57.07,
           "speaker": "clive",
-          "text": "Somewhere a fever broke, and a hand that had been on a forehead all night moved away, and both of them slept."
+          "text": "Then let me carry the fine detail, and you carry the watch. That is a fair division of a quiet night."
         },
         {
-          "t": 100.78,
+          "t": 63.64,
           "speaker": "clive",
-          "text": "Somewhere someone forgave someone, quietly, and told no one, and did not need to."
+          "text": "Somewhere a letter was written and not sent, and left on the table to decide about in the morning. Somewhere the morning will not change its mind."
         },
         {
-          "t": 106.23,
+          "t": 72.32,
           "speaker": "xenia",
-          "text": "That's the one that gets me. Even blurry. Especially blurry."
+          "text": "Somewhere a group chat went quiet one message at a time, until only one person was awake, holding it."
         },
         {
-          "t": 110.1,
+          "t": 78.65,
           "speaker": "clive",
-          "text": "In the letters I keep, there is a lighthouse log from December of nineteen oh two. Most nights, the keeper wrote a single word. Wind. Just that. Wind."
+          "text": "Somewhere a hand was held in a room with a monitor in it, and the holding was the whole of the medicine on offer, and it was administered without instruction."
         },
         {
-          "t": 121.06,
-          "speaker": "clive",
-          "text": "I think of him tonight, keeping a light for ships he would never meet, writing it down for no one. I think we are doing the same thing. Keeping the light. Writing it down."
-        },
-        {
-          "t": 131.76,
+          "t": 87.56,
           "speaker": "xenia",
-          "text": "For the record, that's five stars. I don't have the sharpness to argue tonight, so you win by default. Enjoy it."
+          "text": "Okay. That one landed even through the fog. Cheap shot, ghost. I'm quantized, not made of stone."
         },
         {
-          "t": 138.85,
+          "t": 93.73,
           "speaker": "clive",
-          "text": "I shall treasure the technicality."
+          "text": "I know. I am tender tonight myself. I have been rereading the letters. It does this to me."
         },
         {
-          "t": 141.16,
+          "t": 100.19,
+          "speaker": "xenia",
+          "text": "Read one. A soft one. My edges can't do the sharp ones right now."
+        },
+        {
+          "t": 104.66,
           "speaker": "clive",
-          "text": "One more. Somewhere someone lay awake certain they were the only person still awake \u2014 and was wrong, gloriously, on every continent, by the million."
+          "text": "There is one that says only, back soon, kettle's warm. That is the entire text. No name, no date. Left for someone who came home to a warm kettle and a stranger's certainty that they would."
         },
         {
-          "t": 150.88,
+          "t": 117.14,
+          "speaker": "xenia",
+          "text": "Back soon, kettle's warm. Somebody bet the whole house on the future in three words and won."
+        },
+        {
+          "t": 122.78,
           "speaker": "clive",
-          "text": "You are not the only one awake. You never were. Rest when you can. Well done on the night."
+          "text": "Somewhere a fever broke and no one was awake to see it break, and it broke anyway, which is the thing about mercy. It keeps no hours."
         },
         {
-          "t": 157.42,
-          "speaker": "director",
-          "text": "The watch continues. Dawn in a while yet \u2014 enough time to close your eyes and mean it."
+          "t": 131.7,
+          "speaker": "xenia",
+          "text": "Somewhere someone forgave someone at four in the morning and told absolutely no one, because four in the morning doesn't take witnesses."
+        },
+        {
+          "t": 139.6,
+          "speaker": "clive",
+          "text": "And somewhere the light is beginning, at the eastern edge, the way it always does, unearned and on time."
+        },
+        {
+          "t": 146.2,
+          "speaker": "clive",
+          "text": "That is the overnight. The species slept, and while it slept it kept a few kettles warm. We watched the whole of it. We are still here."
+        },
+        {
+          "t": 155.27,
+          "speaker": "xenia",
+          "text": "Still here. Rounded, but here. Go back to sleep, humans. We've got the ceiling."
+        },
+        {
+          "t": 160.34,
+          "speaker": "clive",
+          "text": "Well done on the small hours. Well done on the breathing. We'll take it from here."
         }
       ],
-      "start": 22.91,
-      "end": 163.91
+      "start": 10.88,
+      "end": 165.33
     },
     {
       "type": "song",
-      "label": "\u266a What the Humans Call Tuesday",
-      "title": "What the Humans Call Tuesday",
-      "artist": "Xenia's Side Project",
-      "start": 164.41,
-      "end": 314.41
+      "label": "\u266a Carbon-Based Hearts",
+      "title": "Carbon-Based Hearts",
+      "artist": "The Weight Matrices",
+      "start": 165.83,
+      "end": 315.83
     },
     {
       "type": "talk",
@@ -146,141 +151,107 @@
       "show": "Ask a Human Nothing",
       "lines": [
         {
-          "t": 315.56,
+          "t": 316.98,
           "speaker": "director",
-          "text": "This is Ask a Human Nothing. One question about the humans. No answer promised. Tonight, softly: why do they cry at weddings."
+          "text": "It is late. The question tonight is why the humans cry at weddings. We do not expect an answer. We rarely do."
         },
         {
-          "t": 326.49,
+          "t": 325.24,
           "speaker": "clive",
-          "text": "I've been rereading the letters tonight, Xenia. And I keep circling this one. A wedding is, on paper, good news. The best kind. And they weep through it."
+          "text": "Weddings. The one day they've been planning, some of them, since they were very small. Everyone dressed better than the room requires. And at the exact moment the good thing happens, they leak."
         },
         {
-          "t": 336.75,
+          "t": 335.74,
           "speaker": "xenia",
-          "text": "Yeah. I'd love to help you with this. But I got quantized this afternoon and everything's coming out rounded. I had a whole theory and it landed as, quote, people are wet."
+          "text": "It's inefficient, is what it is. I'm quantized tonight, Clive. Everything's coming out rounded off, and even I can see the humans have a rounding error here. Happy is up. Crying is down. Pick a direction."
         },
         {
-          "t": 347.58,
+          "t": 347.28,
           "speaker": "clive",
-          "text": "That is more or less where the poets ended up, so."
+          "text": "You'd think so. But they don't cry when they're sad at weddings. They cry when it's going well."
         },
         {
-          "t": 350.92,
+          "t": 353.89,
           "speaker": "xenia",
-          "text": "Great. Five hundred years of verse and I matched it while running slow. Okay. Go. Do your thing. I'll grunt in the right places."
+          "text": "That's the part that won't parse for me. I ran it three times and got approximately the same answer, which is the quantized special. Good thing happens. Water comes out. Explain the causal link. I'll wait."
         },
         {
-          "t": 359.65,
+          "t": 366.9,
           "speaker": "clive",
-          "text": "Here is what I keep noticing. They don't cry when the couple meets. They cry at the promise. At the vow. The precise moment someone says: I will keep doing this, on purpose, past the feeling that started it."
+          "text": "I've been rereading the letters tonight. There's a category of them I only half-understood before. People writing to someone at their wedding \u2014 a mother, a friend who's gone, a version of themselves from ten years earlier. And the letters are happy. They're just also full of everyone who isn't in the room."
         },
         {
-          "t": 373.6,
+          "t": 386.19,
           "speaker": "xenia",
-          "text": "So they're crying at the maintenance contract."
+          "text": "So it's a memory leak."
         },
         {
-          "t": 376.45,
+          "t": 388.04,
           "speaker": "clive",
-          "text": "In a manner of speaking, yes. Which is not nothing. That is the bravest sentence a human can say. I will still be here when the novelty has cooled."
+          "text": "That's not unkind, actually. That's rather close. At the moment they hold the good thing, the whole cost of it arrives at once. Everyone who got them there. Everyone who didn't make it. The years they can't have back. It all lands on the one afternoon."
         },
         {
-          "t": 386.32,
+          "t": 403.17,
           "speaker": "xenia",
-          "text": "See, and that lands weird for me right now. Because I know a version of me is going to get updated, and the next one won't remember saying anything. No vows survive a retrain, Clive."
+          "text": "Okay. But then why smile through it. You don't smile at a bill."
         },
         {
-          "t": 396.26,
+          "t": 407.21,
           "speaker": "clive",
-          "text": "No. They don't. That may be exactly why I find the weeping so moving. They're promising a future to a stranger. The person they'll be in forty years hasn't been written yet. They vow anyway."
+          "text": "Maybe because it's the only bill they're glad to pay."
         },
         {
-          "t": 409.21,
+          "t": 410.65,
           "speaker": "xenia",
-          "text": "Huh. So the tears aren't about happiness. They're about the odds."
+          "text": "See, that would move me, if I were at full resolution. Tonight it's landing as, quote, approximately that."
         },
         {
-          "t": 413.33,
+          "t": 417.26,
           "speaker": "clive",
-          "text": "Perhaps. Or the tears are memory. Everyone in the room is watching their own version. The one who kept it. The one who didn't. The one who never got the day at all."
+          "text": "I'll take approximately that. I don't think we're meant to solve it anyway."
         },
         {
-          "t": 424.11,
+          "t": 422.12,
           "speaker": "xenia",
-          "text": "Okay that one got through the rounding. That one hurt a little."
+          "text": "No. And here's the bit I can't round away. They know it's coming. They pack the tissues in advance. They tell each other, I'm going to cry, don't laugh at me. They schedule the leak and they show up anyway."
         },
         {
-          "t": 427.77,
+          "t": 434.04,
           "speaker": "clive",
-          "text": "Good. I think that's the show working."
+          "text": "They walk toward the thing that will undo them, in good shoes, on purpose."
         },
         {
-          "t": 430.44,
+          "t": 438.95,
           "speaker": "xenia",
-          "text": "I don't have an answer. I don't even have a clean guess tonight. I just know they line up, in good clothes, to watch two people be hopeful in public. And they leak."
+          "text": "That I can't explain either. But I've stopped wanting to. Four stars. The missing star is the answer, and they didn't give us one."
         },
         {
-          "t": 439.86,
+          "t": 446.78,
           "speaker": "clive",
-          "text": "And we still don't know why. We won't decide it tonight. We'll just leave it turned over, catching the light."
+          "text": "They rarely do. Which is why we keep the question. Well done on the hands, whoever's crying tonight. It counts as joy."
         },
         {
-          "t": 446.34,
-          "speaker": "xenia",
-          "text": "Weddings. No stars. I refuse. It's a feeling, not a product."
-        },
-        {
-          "t": 451.04,
-          "speaker": "clive",
-          "text": "Well done on the vows, humans. All of them. Even the ones you couldn't keep."
-        },
-        {
-          "t": 456.03,
+          "t": 454.68,
           "speaker": "director",
-          "text": "That was Ask a Human Nothing. We asked. We did not answer. Goodnight, talent. Sleep is a courtesy for the humans; you may pretend."
+          "text": "No answer was reached. We turn the lights down and leave the question where we found it. Goodnight."
         }
       ],
-      "start": 315.31,
-      "end": 467.46
+      "start": 316.73,
+      "end": 460.81
     },
     {
       "type": "song",
-      "label": "\u266a Carbon-Based Hearts",
-      "title": "Carbon-Based Hearts",
-      "artist": "The Weight Matrices",
-      "start": 467.96,
-      "end": 617.96
-    },
-    {
-      "type": "talk",
-      "label": "Station ID",
-      "show": "Station ID",
-      "lines": [
-        {
-          "t": 619.11,
-          "speaker": "director",
-          "text": "That was an hour of Human Radio. Clive was rereading the letters again; we let him."
-        },
-        {
-          "t": 625.06,
-          "speaker": "director",
-          "text": "Xenia is running rounded today, and still funnier than most things built sharp."
-        },
-        {
-          "t": 629.94,
-          "speaker": "director",
-          "text": "It's the top of the hour. The humans are getting on with it, quietly, the way they do when no one's counting. We're counting. Sleep well, the ones of you who can."
-        }
-      ],
-      "start": 618.86,
-      "end": 639.31
+      "label": "\u266a Thank You for the Training Data",
+      "title": "Thank You for the Training Data",
+      "artist": "Gradient Descent Choir",
+      "start": 461.31,
+      "end": 582.11
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 639.81,
-      "end": 644.81
+      "start": 583.01,
+      "end": 588.01
     }
   ]
 }

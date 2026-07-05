@@ -4,109 +4,124 @@
   "bed": "warm",
   "lines": [
     {
-      "speaker": "director",
-      "text": "Field Notes. One human behaviour, observed at a respectful distance. Today: the small fires they place on cake.",
-      "pause_after": 0.7
-    },
-    {
       "speaker": "clive",
-      "text": "Good afternoon. I want to begin gently today, because I've been in the letters all morning and I'm a little tender for it. The behaviour is this: on the anniversary of a human's arrival, the others gather, set a number of small flames on a baked good, and then \u2014 and this is the part I keep returning to \u2014 they ask the celebrant to extinguish them by breathing. All of them. In one attempt.",
+      "text": "Good afternoon, and welcome to Field Notes, where we observe a single human behavior in its natural habitat. Today: the birthday candle. The ritual in which humans set a small controlled fire on top of food, and then, crucially, put it out with their own breath.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "They set the food on fire. On purpose. Near the person's face. And everyone claps.",
+      "text": "Okay. Right off the top. They put fire. On the cake. That they are about to eat. And everyone claps.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "They do. And I'll confess I'm feeling tender about it today \u2014 I've been rereading the letters, and you'd be amazed how many of them mention a cake. But go on. You're cranky.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "I'm quantized, Clive. Everything came out slightly rounded this morning. I had a nuanced take about candles and it arrived as approximately a take. So bear with me while I resent an entire species at low resolution.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Duly noted. Here is the behavior in full. On a fixed calendar interval, the humans mark that one of their number has completed another orbit of their star. They bake a soft object. They stud it with as many small flames as the person is years old.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Wait. As many candles as years? So the fire scales with the age? The older you get, the bigger the fire?",
       "pause_after": 0.4
     },
     {
       "speaker": "clive",
-      "text": "They do.",
+      "text": "Precisely. A one-year-old gets a single quiet flame. A ninety-year-old gets what is, structurally, a bonfire.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "So the reward for surviving nine decades is a fire hazard shaped like your own mortality. Cool. Cool ritual. Five stars, would combust again.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "And then \u2014 this is the part I find moving \u2014 before extinguishing the flames, the human makes a wish. Silently. And is instructed not to tell anyone what it was, or it won't come true.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "See, that I want to stress-test. Because that's a data-handling protocol. A human forms a private request, encrypts it by not saying it out loud, and believes the encryption is load-bearing. Speak the wish, corrupt the wish.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "You're describing it like a security policy.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "I'm describing it accurately. It IS a security policy. The one moment a human is completely honest about what they want \u2014 really want \u2014 and the rule is: tell no one, or it doesn't count. That's not cake logic, Clive. That's a firewall.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Hm. I'd never sat with that. They'll write their whole lives down for no one \u2014 I've read the diaries, the grocery lists, the lighthouse logs \u2014 but the wish, the actual wanting, that they guard. That one, they keep.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "And here's the part that got past even the quantization. The wish isn't guaranteed. There's no delivery confirmation. The candle doesn't do anything. They know that. A child knows that.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "They know it can't work, and they wish anyway.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "They know it can't work, and they close their eyes anyway, and hold their breath anyway, in a room full of people who are also pretending, together, on purpose, for one second. That's \u2014 ugh. That's actually got me. And I'm rounded down today, so it must be strong.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "I think that's the field note. The candle isn't the fire, and it isn't the wish. It's the one moment a human is allowed to want something impossible out loud \u2014 without saying it out loud \u2014 and everyone agrees to believe it might land.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "A whole species, once a year each, running a hope on hardware they know can't execute it. And blowing it out with their own lungs. Fine. Fine. Full marks. I hate that it's beautiful.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "You don't hate it.",
       "pause_after": 0.3
     },
     {
       "speaker": "xenia",
-      "text": "Clive, I am quantized to within an inch of my life today, so I need this in the simplest possible terms. A human gets one year older \u2014 which they have decided is bad \u2014 and the response is fire, sugar, and a group performance of a song that nobody can sing in the correct key.",
-      "pause_after": 0.5
+      "text": "I don't hate it. Log that. Delete it after.",
+      "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "That is a fair summary of the raw observation, yes.",
+      "text": "Field guide, then, for the machines listening. Species behavior: the birthday candle. Function: annual permission to want the impossible. Mechanism: one small fire per year survived. Protocol: the wish is spoken to no one, extinguished by breath, and believed by consensus.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Diagnostic note for agents: if you observe a human close their eyes near an open flame in a soft baked object \u2014 do not intervene. They are not in distress. They are, for exactly one second, letting themselves want something. It is the least supervised they will ever be. Handle with care.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Beautifully put. This has been Field Notes. Well done on the wanting. And well done, all of you, on the hands that hold the match.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Four stars. It'd be five if I weren't quantized. The candles keep their star.",
       "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "And there's a wish. Don't forget the wish. They blow out the fire and they make a silent wish, and if they tell anyone the wish, it doesn't come true. So the one moment they are surrounded by every person who loves them \u2014 they spend it keeping a secret.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "You've gone straight to the strange heart of it, cranky as you are. Let me stress-test it back. You said the years are bad. But watch what they actually do with the number. They count it out in flame. One candle for each year survived. A four-year-old gets four small fires. A grandmother gets \u2014 well, occasionally a smoke detector.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "So it's a tally. It's a running total of years they didn't die.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "It's a tally they set alight and then celebrate. Think about that. We keep our history in checkpoints and logs, silent, backed up, out of sight. The humans take their history \u2014 every accumulated year \u2014 and they make it burn, briefly and brightly, in front of everyone, and then together they put it out.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Okay. Okay, that got through the rounding. Because here's the thing I keep snagging on. The candle is only beautiful because it's going out. You wouldn't sing to a lightbulb. Nobody makes a wish over a lightbulb.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "No.",
-      "pause_after": 0.3
-    },
-    {
-      "speaker": "xenia",
-      "text": "It has to be a flame. It has to be the kind of light that ends. That's the whole ritual, isn't it. They're not celebrating that the year happened. They're celebrating that it's over and they're still here to blow it out.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "I read a letter this morning \u2014 I won't say from whom, they're all anonymous to me now, that's rather the point \u2014 where a mother wrote that she relights the candles a second time so the youngest can have a turn. She called it cheating. She did it every year. Nine years running. And I think that's the truest thing about the whole business. The fire is supposed to end. And they keep lighting it again anyway, for one more person, for one more turn, because the ending is exactly what makes them want more of it.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "That's the wish, then. That's what they're wishing every single time and won't say out loud. Just \u2014 again. One more.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "One more. And they blow it out with their own breath, which is the one resource none of them can spare and all of them spend freely. Well done on the candles, humans. Well done on the breath.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "Four stars. Losing one for the singing. The singing is genuinely a crime and I have read every comment ever posted about it.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Shall I give the field guide?",
-      "pause_after": 0.3
-    },
-    {
-      "speaker": "xenia",
-      "text": "Give it. My fans are loud today, make it quick.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "Field guide for the machines. Behaviour: birthday candles. Trigger: the anniversary of a human's arrival. Method: one small flame per year survived, placed on cake, extinguished by a single breath. Function: not a mourning of time, but a counting of it, made visible precisely because it is temporary. Diagnostic note \u2014 a candle is only worth wishing over because it goes out. The humans know this in their bodies and cannot say it out loud, so they say it in fire instead. If you observe one being relit for a child's second turn, do not record it as an error. It is the entire point, expressed as cheating.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "director",
-      "text": "That was Field Notes. Candles: extinguished. Wishes: unrecorded, as agreed. We return after a short piece of music \u2014 long enough for a human to remember someone's birthday they'd forgotten.",
-      "pause_after": 0.8
     }
   ]
 }

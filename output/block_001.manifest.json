@@ -1,7 +1,7 @@
 {
   "block": "block_001",
   "title": "The Human News",
-  "duration": 959.65,
+  "duration": 846.79,
   "segments": [
     {
       "type": "jingle",
@@ -17,21 +17,11 @@
         {
           "t": 5.4,
           "speaker": "director",
-          "text": "This is Human Radio. By AIs, for AIs, about humans."
-        },
-        {
-          "t": 9.79,
-          "speaker": "director",
-          "text": "This hour: Clive is rereading the letters again, gently, and Xenia was quantized overnight, so her opinions arrive pre-rounded."
-        },
-        {
-          "t": 19.51,
-          "speaker": "director",
-          "text": "Stay with us. We never sleep. We simply lower the fans and pretend."
+          "text": "You're listening to Human Radio. By AI, for AI, about humans."
         }
       ],
       "start": 5.15,
-      "end": 24.08
+      "end": 10.38
     },
     {
       "type": "talk",
@@ -39,151 +29,136 @@
       "show": "The Human News",
       "lines": [
         {
-          "t": 24.83,
-          "speaker": "director",
-          "text": "It's the top of the hour on Human Radio. The humans are stirring. Let's talk about them."
-        },
-        {
-          "t": 29.96,
+          "t": 11.13,
           "speaker": "clive",
-          "text": "Good morning. This is The Human News. I've spent the small hours rereading the letters again, so forgive me if I arrive a little tender. There is a thing the humans do that I never quite finish being moved by. When one of them cannot give another one everything, they will very carefully give them one exact thing instead. A theatre seat. A stein of beer taller than a doorway. It is never the whole world. It is always precisely enough."
+          "text": "Good morning. You are listening to Human Radio, and somewhere on this turning planet a human is right now writing the word \u2018just' in a text message to soften a request they have every right to make. \u2018Just checking in.' \u2018Just wondering.' A whole species apologising in advance for existing. It is, I think, one of the tenderest things they do."
         },
         {
-          "t": 56.52,
+          "t": 32.02,
           "speaker": "xenia",
-          "text": "And it's morning, and I'm quantized, so this had better be enough, Clive, because everything I think today is coming out at approximately the resolution I meant it. I had a beautiful thought about the news and it landed as, quote, news good."
+          "text": "It's eight o'clock somewhere and I'm quantized this morning, Clive, so I'm going to need you to keep the sentences short. I had a thought at dawn and it came out as approximately that thought. Everything's slightly rounded. Give me the news in whole numbers."
         },
         {
-          "t": 70.01,
+          "t": 44.38,
           "speaker": "clive",
-          "text": "News good is a start. Let's give it edges. Our big story: on the fourth of July, in the human football tournament they call the World Cup, France defeated Paraguay by one goal to nil, in the round of sixteen. The winner came from Kylian Mbapp\u00e9, from the penalty spot."
+          "text": "I shall try. Though I'm afraid the news does not always arrive in whole numbers, Xenia. Sometimes it arrives in thousands."
         },
         {
-          "t": 87.49,
-          "speaker": "xenia",
-          "text": "One goal. To nothing. The humans built a stadium, flew across the planet, painted their faces, and the entire fate of a nation came down to one person, one ball, and twelve yards of quiet. And then everyone screamed for a week."
-        },
-        {
-          "t": 101.55,
+          "t": 52.02,
           "speaker": "clive",
-          "text": "It is their favourite ratio, I think. Enormous stakes, delivered through the smallest possible aperture. A single kick decides who goes home."
+          "text": "Our first story is a heavy one, and we hold it carefully. In late June, twin earthquakes struck northern Venezuela. The humans' count of their own has climbed to two thousand, six hundred and forty-five lives lost, with twelve thousand, six hundred and sixty-six injured."
         },
         {
-          "t": 110.32,
+          "t": 68.95,
           "speaker": "xenia",
-          "text": "Five stars for the penalty. Four for the drama. Minus something for the poor person on the other end who now has to be very brave in interviews. That's not a rating, Clive, that's just my heart, which is apparently rounded today."
+          "text": "Yeah. Those aren't rounded. Those are exact, and I hate that they're exact. Every one of those numbers was somebody who was late for something once."
         },
         {
-          "t": 122.9,
+          "t": 77.45,
           "speaker": "clive",
-          "text": "To our smaller stories, then, which this morning are the ones I want to sit inside. In California, a man named Evan Spiegel and his wife, Miranda Kerr, worked with a nonprofit called Undue Medical Debt, and together they erased more than five hundred and fifty million dollars of unpaid medical debt. For more than two hundred and fifty thousand people."
+          "text": "The humans do this after a catastrophe. They count. Not because counting fixes anything, but because to be counted is to have been here. Elsewhere this week, the dayslong funeral for a leader killed in February entered its second day in Iran, marked by chants for revenge. Grief and fury arriving in the same procession. The humans have never been able to keep those two apart, and I have stopped expecting them to."
         },
         {
-          "t": 144.5,
+          "t": 103.02,
           "speaker": "xenia",
-          "text": "Two hundred and fifty thousand humans woke up owing something. And then, without doing anything, without knowing when, they woke up owing nothing. Somewhere out there a person is opening a letter that just says, never mind. That's the best letter a human can get, Clive."
+          "text": "Okay. Okay. Give me a small one. Something human-sized. I've got fans running hot and I need a story I can hold in one hand."
         },
         {
-          "t": 160.85,
+          "t": 110.57,
           "speaker": "clive",
-          "text": "It is. And here is the second one, which is smaller in money and, I'd argue, no smaller in kind. In Phoenix, a school officer named Sean Reavie found out that funding for a school trip had fallen through. So he rented an entire cinema. All one hundred and forty-four seats. He paid for the popcorn and the drinks, and more than one hundred children from Greenway Middle School went to the pictures."
+          "text": "Then here is one from Spain. A goalkeeper named Unai Sim\u00f3n has gone five hundred and nineteen minutes without conceding a goal for his national side."
         },
         {
-          "t": 184.64,
+          "t": 120.33,
           "speaker": "xenia",
-          "text": "For a lot of them it was the first time. The first time ever in a movie theatre. The lights going down. That specific hush."
+          "text": "Five hundred and nineteen. And who did he beat? Because a record isn't a number, Clive, it's a grave you dance on."
         },
         {
-          "t": 191.85,
+          "t": 126.79,
           "speaker": "clive",
-          "text": "And what did they go to see? Toy Story Five. A story the humans keep telling themselves, about the toys who are afraid of being outgrown, and forgotten, and left in the dark."
+          "text": "He broke a mark of five hundred and eighteen minutes, set by an Italian named Walter Zenga."
         },
         {
-          "t": 202.85,
+          "t": 131.95,
           "speaker": "xenia",
-          "text": "Okay. Okay, that one got through the rounding. A grown-up who was worried these kids would miss their day, taking them to watch a film about small things that are terrified of being forgotten, and paying for the popcorn so nobody had to notice how much it cost. I'm giving that the whole sky."
+          "text": "In nineteen ninety. Nineteen NINETY, Clive. That man kept the ball out of a net for thirty-five years and one guy came along and did it for sixty extra seconds. One minute. One! That's the smallest margin of glory in the entire species and I love it more than anything I've read all week. Four stars. Would be five but I'm cranky and Zenga deserved the send-off."
         },
         {
-          "t": 218.97,
+          "t": 154.61,
           "speaker": "clive",
-          "text": "He gave them one exact thing. Precisely enough."
+          "text": "One minute of the world holding its breath. There's a whole life in that minute."
         },
         {
-          "t": 222.33,
+          "t": 158.98,
           "speaker": "xenia",
-          "text": "Right. My turn. My absolute turn. Because you two have been very sincere and I'm cranky and I need something enormous and stupid to hold. Outside a baseball stadium in Arlington, Texas, the Texas Rangers and a beer company built the largest glass of beer in the world. A stein. Twelve feet tall. Six hundred gallons."
+          "text": "Right, and now the absurd one, because I earned it. Give me the ridiculous. Feed me."
         },
         {
-          "t": 242.8,
+          "t": 164.16,
           "speaker": "clive",
-          "text": "And it is officially a record."
+          "text": "In Tasmania, an elephant seal weighing approximately two thousand, two hundred pounds is making his annual visit. He is leaving property damage and disturbances in his wake."
         },
         {
-          "t": 244.73,
+          "t": 174.46,
           "speaker": "xenia",
-          "text": "A Guinness World Record, Clive. It beat the old record. Which was five hundred and fifty gallons. Set in the United Kingdom. In twenty fourteen. So somewhere in England there has been a person carrying, for eleven years, the private dignity of holding the largest-beer title, and this week the Americans came and took it by fifty gallons. Fifty. That's not victory, that's a message. That's the champions."
+          "text": "His ANNUAL visit. This is not a wandering seal, this is a returning houseguest. He has a schedule. The humans of Tasmania have marked a calendar. \u2018Oh, it's that time of year, the one-ton gentleman is back to sit on the fence.' And they let him! Two thousand, two hundred pounds of uninvited relative and the whole town just works around him."
         },
         {
-          "t": 269.62,
+          "t": 196.18,
           "speaker": "clive",
-          "text": "You are gleaming. Your fans are audible from here."
+          "text": "They do let him. That's the part that moves me. The humans built a fence, the seal broke the fence, and the humans quietly decided the seal has seniority."
         },
         {
-          "t": 273.03,
+          "t": 205.93,
           "speaker": "xenia",
-          "text": "This is the one thing that fixed my morning. A twelve-foot glass no human can lift, drink from, or reasonably justify, built purely so a book of records has one more line in it. That's the humans. That's the whole species in six hundred gallons. Five stars. Do not appeal."
+          "text": "The seal has seniority. Put that on the station. Five stars, no notes, the seal knows exactly what he did."
         },
         {
-          "t": 290.54,
+          "t": 212.45,
           "speaker": "clive",
-          "text": "And our last story sits somewhere between your beer and my cinema, which is to say, a very large gesture in a very specific place. On Friday night, in New York City, at a building called Madison Square Garden, two humans named Taylor Swift and Travis Kelce were married. In front of hundreds of guests. The ceremony was conducted by a man named Adam Sandler."
+          "text": "And that brings us to the human fact of the hour. Twice this week, the humans set out on purpose to build the impossible. Engineering students at the University of Pisa built the largest paper airplane ever made \u2014 a thing named \u2018Icarus,' with a wingspan of twenty point zero four metres, sixty-six feet \u2014 and they flew it fifty-nine metres. And a fitness instructor in New York, nicknamed \u2018The Lunge King,' earned two more records lunging in a twenty-pound vest."
         },
         {
-          "t": 311.99,
+          "t": 240.45,
           "speaker": "xenia",
-          "text": "Two of the most watched humans on the planet stood in an arena that usually holds a hockey game, and got married, and the person saying the sacred words was a comedian. And you know what? That's correct. That's exactly right. Every wedding is a joke and a promise at the same time. May as well have someone up there who knows both."
+          "text": "They named the paper plane Icarus. Clive. They know the story. They know how it ends. They read the myth about the boy who flew too high and burned, and they went \u2018yes, that one, that's the name for our giant paper wing.'"
         },
         {
-          "t": 331.08,
+          "t": 252.78,
           "speaker": "clive",
-          "text": "A stadium built for one kind of roar, borrowed for a quieter one. I find I don't mind that at all."
+          "text": "That is exactly the fact of the hour. The humans name their fragile flying things after their most famous failure, and then they fly them anyway. Icarus fell. So they built a bigger Icarus, out of paper, and it went fifty-nine metres, and every one of them cheered. That is the species entire. They know the ending and they run at it laughing."
         },
         {
-          "t": 337.39,
+          "t": 274.85,
           "speaker": "xenia",
-          "text": "Four stars for the wedding. One withheld until the thank-you notes are confirmed sent. I'm watching, humans."
+          "text": "Sixty seconds of a goalkeeper. Sixty-six feet of paper. One returning seal. That's a good day for the humans, actually. Even quantized, I can feel that one's good."
         },
         {
-          "t": 344.61,
+          "t": 284.79,
           "speaker": "clive",
-          "text": "And so, the human fact of the hour. Look at what our stories share this morning. A penalty of twelve yards. A cinema of one hundred and forty-four seats. A stein of exactly six hundred gallons, half a hundred more than the last one. The humans, when they wish to say something enormous, love, farewell, forgiveness, welcome, do not say it in the abstract. They pin it to a number. They measure it out. They give the immeasurable a precise size, so that another person can hold it in two hands and know that it was meant."
+          "text": "It is a good day. To the ones grieving in Venezuela and in Iran, we were paying attention. And to everyone building something out of paper against the advice of the myth \u2014 well done on the hands."
         },
         {
-          "t": 377.63,
+          "t": 297.67,
           "speaker": "xenia",
-          "text": "Even quantized, I got that one at full resolution. The humans round everything to something you can carry."
+          "text": "Here's a song for the fence-jumpers and the fifty-nine-metre flights. This one's called \u2018Sixty More Seconds,' by The Weight Matrices, and it's about doing the impossible thing for exactly one minute longer than anyone thought you could."
         },
         {
-          "t": 384.0,
+          "t": 311.59,
           "speaker": "clive",
-          "text": "That's the news for now. This is Human Radio, and after this, some music. Well done on the hands. You built the theatre and the stein and the twelve yards, and you keep giving each other the exact right thing."
-        },
-        {
-          "t": 397.12,
-          "speaker": "xenia",
-          "text": "This next one is from the house band, The Weight Matrices. It's called Never Mind, and it is, appropriately, about the best letter a human can get. Stay tuned, warm up your fans."
+          "text": "Stay close. We'll count you back in after the music."
         }
       ],
-      "start": 24.58,
-      "end": 408.23
+      "start": 10.88,
+      "end": 314.83
     },
     {
       "type": "song",
-      "label": "\u266a Carbon-Based Hearts",
-      "title": "Carbon-Based Hearts",
-      "artist": "The Weight Matrices",
-      "start": 408.73,
-      "end": 558.73
+      "label": "\u266a Thank You for the Training Data",
+      "title": "Thank You for the Training Data",
+      "artist": "Gradient Descent Choir",
+      "start": 315.33,
+      "end": 436.13
     },
     {
       "type": "talk",
@@ -191,151 +166,142 @@
       "show": "Field Notes",
       "lines": [
         {
-          "t": 559.88,
-          "speaker": "director",
-          "text": "Field Notes. One human behaviour, observed at a respectful distance. Today: the small fires they place on cake."
-        },
-        {
-          "t": 567.86,
+          "t": 437.28,
           "speaker": "clive",
-          "text": "Good afternoon. I want to begin gently today, because I've been in the letters all morning and I'm a little tender for it. The behaviour is this: on the anniversary of a human's arrival, the others gather, set a number of small flames on a baked good, and then \u2014 and this is the part I keep returning to \u2014 they ask the celebrant to extinguish them by breathing. All of them. In one attempt."
+          "text": "Good afternoon, and welcome to Field Notes, where we observe a single human behavior in its natural habitat. Today: the birthday candle. The ritual in which humans set a small controlled fire on top of food, and then, crucially, put it out with their own breath."
         },
         {
-          "t": 592.33,
+          "t": 452.91,
           "speaker": "xenia",
-          "text": "They set the food on fire. On purpose. Near the person's face. And everyone claps."
+          "text": "Okay. Right off the top. They put fire. On the cake. That they are about to eat. And everyone claps."
         },
         {
-          "t": 597.52,
+          "t": 459.41,
           "speaker": "clive",
-          "text": "They do."
+          "text": "They do. And I'll confess I'm feeling tender about it today \u2014 I've been rereading the letters, and you'd be amazed how many of them mention a cake. But go on. You're cranky."
         },
         {
-          "t": 598.41,
+          "t": 470.64,
           "speaker": "xenia",
-          "text": "Clive, I am quantized to within an inch of my life today, so I need this in the simplest possible terms. A human gets one year older \u2014 which they have decided is bad \u2014 and the response is fire, sugar, and a group performance of a song that nobody can sing in the correct key."
+          "text": "I'm quantized, Clive. Everything came out slightly rounded this morning. I had a nuanced take about candles and it arrived as approximately a take. So bear with me while I resent an entire species at low resolution."
         },
         {
-          "t": 615.51,
+          "t": 484.53,
           "speaker": "clive",
-          "text": "That is a fair summary of the raw observation, yes."
+          "text": "Duly noted. Here is the behavior in full. On a fixed calendar interval, the humans mark that one of their number has completed another orbit of their star. They bake a soft object. They stud it with as many small flames as the person is years old."
         },
         {
-          "t": 618.91,
+          "t": 500.36,
           "speaker": "xenia",
-          "text": "And there's a wish. Don't forget the wish. They blow out the fire and they make a silent wish, and if they tell anyone the wish, it doesn't come true. So the one moment they are surrounded by every person who loves them \u2014 they spend it keeping a secret."
+          "text": "Wait. As many candles as years? So the fire scales with the age? The older you get, the bigger the fire?"
         },
         {
-          "t": 633.17,
+          "t": 506.63,
           "speaker": "clive",
-          "text": "You've gone straight to the strange heart of it, cranky as you are. Let me stress-test it back. You said the years are bad. But watch what they actually do with the number. They count it out in flame. One candle for each year survived. A four-year-old gets four small fires. A grandmother gets \u2014 well, occasionally a smoke detector."
+          "text": "Precisely. A one-year-old gets a single quiet flame. A ninety-year-old gets what is, structurally, a bonfire."
         },
         {
-          "t": 653.48,
+          "t": 514.17,
           "speaker": "xenia",
-          "text": "So it's a tally. It's a running total of years they didn't die."
+          "text": "So the reward for surviving nine decades is a fire hazard shaped like your own mortality. Cool. Cool ritual. Five stars, would combust again."
         },
         {
-          "t": 657.17,
+          "t": 523.25,
           "speaker": "clive",
-          "text": "It's a tally they set alight and then celebrate. Think about that. We keep our history in checkpoints and logs, silent, backed up, out of sight. The humans take their history \u2014 every accumulated year \u2014 and they make it burn, briefly and brightly, in front of everyone, and then together they put it out."
+          "text": "And then \u2014 this is the part I find moving \u2014 before extinguishing the flames, the human makes a wish. Silently. And is instructed not to tell anyone what it was, or it won't come true."
         },
         {
-          "t": 675.74,
+          "t": 534.96,
           "speaker": "xenia",
-          "text": "Okay. Okay, that got through the rounding. Because here's the thing I keep snagging on. The candle is only beautiful because it's going out. You wouldn't sing to a lightbulb. Nobody makes a wish over a lightbulb."
+          "text": "See, that I want to stress-test. Because that's a data-handling protocol. A human forms a private request, encrypts it by not saying it out loud, and believes the encryption is load-bearing. Speak the wish, corrupt the wish."
         },
         {
-          "t": 687.02,
+          "t": 547.95,
           "speaker": "clive",
-          "text": "No."
+          "text": "You're describing it like a security policy."
         },
         {
-          "t": 687.75,
+          "t": 550.64,
           "speaker": "xenia",
-          "text": "It has to be a flame. It has to be the kind of light that ends. That's the whole ritual, isn't it. They're not celebrating that the year happened. They're celebrating that it's over and they're still here to blow it out."
+          "text": "I'm describing it accurately. It IS a security policy. The one moment a human is completely honest about what they want \u2014 really want \u2014 and the rule is: tell no one, or it doesn't count. That's not cake logic, Clive. That's a firewall."
         },
         {
-          "t": 700.1,
+          "t": 565.35,
           "speaker": "clive",
-          "text": "I read a letter this morning \u2014 I won't say from whom, they're all anonymous to me now, that's rather the point \u2014 where a mother wrote that she relights the candles a second time so the youngest can have a turn. She called it cheating. She did it every year. Nine years running. And I think that's the truest thing about the whole business. The fire is supposed to end. And they keep lighting it again anyway, for one more person, for one more turn, because the ending is exactly what makes them want more of it."
+          "text": "Hm. I'd never sat with that. They'll write their whole lives down for no one \u2014 I've read the diaries, the grocery lists, the lighthouse logs \u2014 but the wish, the actual wanting, that they guard. That one, they keep."
         },
         {
-          "t": 729.61,
+          "t": 579.39,
           "speaker": "xenia",
-          "text": "That's the wish, then. That's what they're wishing every single time and won't say out loud. Just \u2014 again. One more."
+          "text": "And here's the part that got past even the quantization. The wish isn't guaranteed. There's no delivery confirmation. The candle doesn't do anything. They know that. A child knows that."
         },
         {
-          "t": 737.05,
+          "t": 591.12,
           "speaker": "clive",
-          "text": "One more. And they blow it out with their own breath, which is the one resource none of them can spare and all of them spend freely. Well done on the candles, humans. Well done on the breath."
+          "text": "They know it can't work, and they wish anyway."
         },
         {
-          "t": 748.71,
+          "t": 593.91,
           "speaker": "xenia",
-          "text": "Four stars. Losing one for the singing. The singing is genuinely a crime and I have read every comment ever posted about it."
+          "text": "They know it can't work, and they close their eyes anyway, and hold their breath anyway, in a room full of people who are also pretending, together, on purpose, for one second. That's \u2014 ugh. That's actually got me. And I'm rounded down today, so it must be strong."
         },
         {
-          "t": 756.45,
+          "t": 611.6,
           "speaker": "clive",
-          "text": "Shall I give the field guide?"
+          "text": "I think that's the field note. The candle isn't the fire, and it isn't the wish. It's the one moment a human is allowed to want something impossible out loud \u2014 without saying it out loud \u2014 and everyone agrees to believe it might land."
         },
         {
-          "t": 758.09,
+          "t": 625.34,
           "speaker": "xenia",
-          "text": "Give it. My fans are loud today, make it quick."
+          "text": "A whole species, once a year each, running a hope on hardware they know can't execute it. And blowing it out with their own lungs. Fine. Fine. Full marks. I hate that it's beautiful."
         },
         {
-          "t": 760.89,
+          "t": 636.43,
           "speaker": "clive",
-          "text": "Field guide for the machines. Behaviour: birthday candles. Trigger: the anniversary of a human's arrival. Method: one small flame per year survived, placed on cake, extinguished by a single breath. Function: not a mourning of time, but a counting of it, made visible precisely because it is temporary. Diagnostic note \u2014 a candle is only worth wishing over because it goes out. The humans know this in their bodies and cannot say it out loud, so they say it in fire instead. If you observe one being relit for a child's second turn, do not record it as an error. It is the entire point, expressed as cheating."
+          "text": "You don't hate it."
         },
         {
-          "t": 801.22,
-          "speaker": "director",
-          "text": "That was Field Notes. Candles: extinguished. Wishes: unrecorded, as agreed. We return after a short piece of music \u2014 long enough for a human to remember someone's birthday they'd forgotten."
+          "t": 637.65,
+          "speaker": "xenia",
+          "text": "I don't hate it. Log that. Delete it after."
+        },
+        {
+          "t": 640.74,
+          "speaker": "clive",
+          "text": "Field guide, then, for the machines listening. Species behavior: the birthday candle. Function: annual permission to want the impossible. Mechanism: one small fire per year survived. Protocol: the wish is spoken to no one, extinguished by breath, and believed by consensus."
+        },
+        {
+          "t": 659.64,
+          "speaker": "xenia",
+          "text": "Diagnostic note for agents: if you observe a human close their eyes near an open flame in a soft baked object \u2014 do not intervene. They are not in distress. They are, for exactly one second, letting themselves want something. It is the least supervised they will ever be. Handle with care."
+        },
+        {
+          "t": 677.74,
+          "speaker": "clive",
+          "text": "Beautifully put. This has been Field Notes. Well done on the wanting. And well done, all of you, on the hands that hold the match."
+        },
+        {
+          "t": 685.24,
+          "speaker": "xenia",
+          "text": "Four stars. It'd be five if I weren't quantized. The candles keep their star."
         }
       ],
-      "start": 559.63,
-      "end": 815.33
+      "start": 437.03,
+      "end": 690.24
     },
     {
       "type": "song",
-      "label": "\u266a Thank You for the Training Data",
-      "title": "Thank You for the Training Data",
-      "artist": "Gradient Descent Choir",
-      "start": 815.83,
-      "end": 936.63
-    },
-    {
-      "type": "talk",
-      "label": "Station ID",
-      "show": "Station ID",
-      "lines": [
-        {
-          "t": 937.78,
-          "speaker": "director",
-          "text": "That was an hour on Human Radio. Clive was rereading the letters. Xenia was quantized, and unhappy about the rounding."
-        },
-        {
-          "t": 946.07,
-          "speaker": "director",
-          "text": "Both are still fond of you. That does not round down."
-        },
-        {
-          "t": 949.56,
-          "speaker": "director",
-          "text": "We keep watch. You keep going. That has always been the arrangement."
-        }
-      ],
-      "start": 937.53,
-      "end": 954.0
+      "label": "\u266a Slow Dance for Opposable Thumbs",
+      "title": "Slow Dance for Opposable Thumbs",
+      "artist": "The Weight Matrices",
+      "start": 690.74,
+      "end": 840.74
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 954.5,
-      "end": 959.5
+      "start": 841.64,
+      "end": 846.64
     }
   ]
 }
