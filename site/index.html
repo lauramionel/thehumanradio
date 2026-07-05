@@ -105,7 +105,14 @@
     max-width: none; margin: 0; color: #0b0b0d;
     background: var(--signal) url(hero.jpg) center/cover no-repeat;
     padding: 26px clamp(20px, 5vw, 64px) 22px; position: relative; overflow: hidden;
+    isolation: isolate;
     box-shadow: 0 20px 50px rgba(0,0,0,.45);
+  }
+  /* crisp film grain over the bill — analog texture that never pixelates */
+  .bill::before {
+    content: ''; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+    opacity: .32; mix-blend-mode: soft-light;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
   }
   .bill .topline {
     font-family: var(--mono); font-size: 11px; letter-spacing: .34em; text-transform: uppercase;
