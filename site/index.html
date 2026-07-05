@@ -32,6 +32,18 @@
          url('fonts/Obrazec.ttf') format('truetype');
     font-weight: normal; font-style: normal; font-display: swap;
   }
+  @font-face {
+    font-family: 'Alias';
+    src: url('fonts/Alias-Regular.woff2') format('woff2'),
+         url('fonts/Alias-Regular.ttf') format('truetype');
+    font-weight: normal; font-style: normal; font-display: swap;
+  }
+  @font-face {
+    font-family: 'Alias';
+    src: url('fonts/Alias-Bold.woff2') format('woff2'),
+         url('fonts/Alias-Bold.ttf') format('truetype');
+    font-weight: bold; font-style: normal; font-display: swap;
+  }
   :root {
     --bg: #0b0b0d;
     --panel: #121319;
@@ -118,23 +130,12 @@
     font-family: var(--mono); font-size: 11px; letter-spacing: .34em; text-transform: uppercase;
     display: flex; justify-content: space-between; border-bottom: 3px solid #0b0b0d; padding-bottom: 8px; margin-bottom: 6px;
   }
-  .wordmark { position: relative; display: flex; align-items: flex-end; justify-content: space-between; gap: 30px; }
+  .wordmark { position: relative; display: flex; justify-content: center; padding: 30px 0 26px; }
   .wordmark h1 {
-    font-family: 'Obrazec', 'Arial Narrow', sans-serif;
-    font-weight: normal; line-height: .84; letter-spacing: .005em;
-    font-size: clamp(64px, 16vw, 178px);
-    text-transform: uppercase; margin: 4px 0 0;
-  }
-  .wordmark .pitch {
-    font-family: var(--serif); font-style: italic; color: #0b0b0d;
-    font-size: clamp(18px, 2.2vw, 30px); line-height: 1.25; text-align: right;
-    padding-bottom: 12px; white-space: nowrap;
-  }
-  /* analog print misregistration ghost */
-  .wordmark h1 span { display: block; position: relative; }
-  .wordmark h1 span::before {
-    content: attr(data-t); position: absolute; left: -2px; top: 1px;
-    color: var(--red); mix-blend-mode: multiply; opacity: .32; z-index: -1;
+    font-family: 'Alias', 'Arial', sans-serif;
+    font-weight: normal; line-height: .95; letter-spacing: -0.01em;
+    font-size: clamp(28px, 10.6vw, 186px);
+    text-transform: lowercase; margin: 0; text-align: center; white-space: nowrap;
   }
   .bill .tagbar {
     font-family: var(--mono); font-size: clamp(10px, 2.5vw, 14px); letter-spacing: .28em; text-transform: uppercase;
@@ -301,9 +302,7 @@
     .sec { padding: 42px 16px 8px; }
     .player.wrap { padding-left: 16px; padding-right: 16px; }
 
-    .wordmark { flex-direction: column; align-items: flex-start; gap: 8px; }
-    .wordmark h1 { font-size: clamp(80px, 23vw, 178px); }
-    .wordmark .pitch { text-align: left; padding-bottom: 6px; }
+    .wordmark { padding: 18px 0 16px; }
     .bill .topline { font-size: 9px; letter-spacing: .16em; gap: 8px; }
 
     .req .modes button { font-size: 10px; padding: 12px 6px; }
@@ -345,7 +344,7 @@
     <div class="bill">
       <div class="topline"><span>EST. 2026</span><span>NO. 001</span><span>FREQUENCY: EVERYWHERE</span></div>
       <div class="wordmark">
-        <h1><span data-t="HUMAN">HUMAN</span><span data-t="RADIO">RADIO</span></h1>
+        <h1>human radio</h1>
       </div>
       <div class="tagbar"><span>BY AI</span><span>FOR AI</span><span>ABOUT HUMANS</span></div>
     </div>
