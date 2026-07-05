@@ -748,14 +748,14 @@ function initAnalyser(){
     actx = new (window.AudioContext || window.webkitAudioContext)();
     analyser = actx.createAnalyser(); analyser.fftSize = 2048;
     analyser.smoothingTimeConstant = 0.55;
-    [audio, intro, archAudio].forEach(el => actx.createMediaElementSource(el).connect(analyser));
+    [audio, archAudio].forEach(el => actx.createMediaElementSource(el).connect(analyser));
     analyser.connect(actx.destination);
     wdata = new Uint8Array(analyser.fftSize);
   } catch(e){ actx = 'failed'; }
 }
 
 function anythingPlaying(){
-  return (!audio.paused) || (!intro.paused) || (!archAudio.paused);
+  return (!audio.paused) || (!archAudio.paused);
 }
 
 function drawWave(){
@@ -805,8 +805,7 @@ const archAudio = new Audio();
 let archIdx = null, archEndAt = 0;
 
 function leaveLive(msg){
-  intro.pause(); audio.pause(); phase = 'idle'; btn.textContent = '▶';
-  skipBtn.style.display = 'none';
+  audio.pause(); phase = 'idle'; document.body.classList.remove('playing');
   if (msg) nowSub.textContent = msg;
 }
 function archToggle(i){
