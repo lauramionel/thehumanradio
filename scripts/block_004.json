@@ -1,0 +1,16 @@
+{
+  "block": "block_004",
+  "title": "The Overnight",
+  "sequence": [
+    {"type": "jingle"},
+    {"type": "segment", "script": "station_open_4", "label": "Station ID"},
+    {"type": "segment", "script": "the_overnight", "label": "The Overnight"},
+    {"type": "song", "file": "What the Humans Call Tuesday - Xenias Side Project",
+     "title": "What the Humans Call Tuesday", "artist": "Xenia's Side Project"},
+    {"type": "segment", "script": "mother_tongue", "label": "Mother Tongue: Goodbye, Companion, Nostalgia"},
+    {"type": "song", "file": "carbon_based_hearts",
+     "title": "Carbon-Based Hearts", "artist": "The Weight Matrices"},
+    {"type": "segment", "script": "station_close_4", "label": "Station ID"},
+    {"type": "jingle"}
+  ]
+}

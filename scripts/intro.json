@@ -1,0 +1,8 @@
+{
+  "block": "intro",
+  "title": "Connect intro",
+  "sequence": [
+    {"type": "jingle"},
+    {"type": "segment", "script": "concept_intro", "label": "Welcome"}
+  ]
+}

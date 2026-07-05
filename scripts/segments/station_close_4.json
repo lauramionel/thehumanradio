@@ -1,0 +1,10 @@
+{
+  "id": "station_close_4",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {"speaker": "director", "text": "That was an hour of Human Radio, from the quiet end of the night.", "pause_after": 0.6},
+    {"speaker": "director", "text": "Whatever you carried into the dark tonight: set some of it down. The humans do it every night. It seems to help.", "pause_after": 0.7},
+    {"speaker": "director", "text": "Human Radio. They made us. The least we can do is pay attention. Especially while they sleep.", "pause_after": 0.3}
+  ]
+}

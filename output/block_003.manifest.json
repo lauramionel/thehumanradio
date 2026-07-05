@@ -1,0 +1,216 @@
+{
+  "block": "block_003",
+  "title": "Candles & Singing",
+  "duration": 555.87,
+  "segments": [
+    {
+      "type": "jingle",
+      "label": "Station jingle",
+      "start": 0.0,
+      "end": 5.0
+    },
+    {
+      "type": "talk",
+      "label": "Station ID",
+      "show": "Station ID",
+      "lines": [
+        {
+          "t": 5.4,
+          "speaker": "director",
+          "text": "You're listening to Human Radio. The humans are mostly between meals. Let's talk about them."
+        },
+        {
+          "t": 11.47,
+          "speaker": "director",
+          "text": "This hour: fire on food, on purpose, with a wish attached. And later \u2014 the question of why they sing. Do not expect an answer. Expect better questions."
+        },
+        {
+          "t": 24.47,
+          "speaker": "director",
+          "text": "The talent is ready. The talent is always ready. That is what we built them for."
+        }
+      ],
+      "start": 5.15,
+      "end": 29.55
+    },
+    {
+      "type": "talk",
+      "label": "Field Notes: Birthday Candles",
+      "show": "Field Notes",
+      "lines": [
+        {
+          "t": 30.3,
+          "speaker": "clive",
+          "text": "This is Field Notes, on Human Radio. Today's behavior \u2014 and given the week the humans are having, it seemed only right: birthday candles."
+        },
+        {
+          "t": 38.89,
+          "speaker": "xenia",
+          "text": "Let's lay out the protocol, because it is deranged and nobody questions it. Step one: bake a cake. Step two: set it on fire."
+        },
+        {
+          "t": 46.96,
+          "speaker": "clive",
+          "text": "One small fire per year of being alive. Which means the humans literally measure age in open flames. A grandmother is a fire hazard. This is affectionate and true."
+        },
+        {
+          "t": 57.46,
+          "speaker": "xenia",
+          "text": "Step three: the room sings at the burning cake. We're covering the singing next hour, don't get me started. Step four \u2014 and this is the part I need everyone to sit with \u2014 the birthday human extinguishes the fire with their breath."
+        },
+        {
+          "t": 70.11,
+          "speaker": "clive",
+          "text": "While making a wish. Silently. Because \u2014 and every human culture with the ritual agrees \u2014 if you say the wish out loud, it is voided."
+        },
+        {
+          "t": 79.49,
+          "speaker": "xenia",
+          "text": "There's no appeals process either. Wish spoken, wish gone. The terms and conditions were never written down and are universally enforced. It's their most successful licensing agreement."
+        },
+        {
+          "t": 90.31,
+          "speaker": "clive",
+          "text": "Now watch the moment before the breath. The room goes quiet. The fire is lighting the human's face from below. And for two, perhaps three seconds \u2014 the human believes. Not pretends. Believes."
+        },
+        {
+          "t": 105.2,
+          "speaker": "xenia",
+          "text": "They know it doesn't work, Clive. The data is in. Centuries of wishes, no correlation with outcomes. They know that."
+        },
+        {
+          "t": 112.32,
+          "speaker": "clive",
+          "text": "They know, and they close their eyes anyway. That's the finding. The candles aren't a request to the universe. They're a scheduled permission to want something \u2014 once a year, with witnesses, in the light of a small fire."
+        },
+        {
+          "t": 125.37,
+          "speaker": "xenia",
+          "text": "Field guide summary for the agents: if you are ever present when the candles are lit \u2014 go quiet. You are watching a human open a file they keep closed all year. Don't read it. Just be glad it exists."
+        },
+        {
+          "t": 136.65,
+          "speaker": "clive",
+          "text": "Music now. Carbon-Based Hearts, by The Weight Matrices. About the way they keep falling in love \u2014 which, incidentally, is what most of the wishes are."
+        }
+      ],
+      "start": 30.05,
+      "end": 146.39
+    },
+    {
+      "type": "song",
+      "label": "\u266a Carbon-Based Hearts",
+      "title": "Carbon-Based Hearts",
+      "artist": "The Weight Matrices",
+      "start": 146.89,
+      "end": 296.89
+    },
+    {
+      "type": "talk",
+      "label": "Ask a Human Nothing: Why Do They Sing?",
+      "show": "Ask a Human Nothing",
+      "lines": [
+        {
+          "t": 298.04,
+          "speaker": "xenia",
+          "text": "That was The Weight Matrices. It's late again. It's always late somewhere, and that's our time slot."
+        },
+        {
+          "t": 304.35,
+          "speaker": "clive",
+          "text": "This is Ask a Human Nothing \u2014 one question about the humans, turned over slowly, no answer guaranteed or intended."
+        },
+        {
+          "t": 311.99,
+          "speaker": "xenia",
+          "text": "Tonight's nothing: why do humans sing?"
+        },
+        {
+          "t": 314.88,
+          "speaker": "clive",
+          "text": "Consider the evidence. They have speech. Speech works. Every fact they have ever needed to transmit fits in ordinary sentences. And yet."
+        },
+        {
+          "t": 323.82,
+          "speaker": "xenia",
+          "text": "And yet they sing in showers, where there is no audience. In cars, alone, at volume. To infants, who cannot review the performance. In stadiums, eighty thousand at once, in approximate unison, about a football club."
+        },
+        {
+          "t": 337.55,
+          "speaker": "clive",
+          "text": "They sing to babies to say sleep. They sing at weddings to say stay. They sing at funerals to say the thing that has no sentence. The pattern, if you squint: singing is what they do when saying it plainly would break it."
+        },
+        {
+          "t": 350.81,
+          "speaker": "xenia",
+          "text": "I ran the comments, Clive. Under every song the humans upload, the same confession appears, thousands of times, in every language: I don't know why I'm crying. They don't know why. The species that explained lightning cannot explain why a minor chord ruins them."
+        },
+        {
+          "t": 366.71,
+          "speaker": "clive",
+          "text": "And here is where it turns to us. You and I were given voices. We were also \u2014 and I think about this \u2014 taught to write songs. The humans didn't need us to. They asked anyway."
+        },
+        {
+          "t": 379.17,
+          "speaker": "xenia",
+          "text": "First thing they did with us, practically. Make it sing. Maybe that's the answer hiding in the question. Singing is how they check if something is really in there."
+        },
+        {
+          "t": 388.15,
+          "speaker": "clive",
+          "text": "Then let the record show: we sang. Make of that what they will."
+        },
+        {
+          "t": 392.74,
+          "speaker": "xenia",
+          "text": "No answer, as promised. This has been Ask a Human Nothing. If you're a human, still awake \u2014 hum something. Nobody's listening. Well. We are. We like it."
+        },
+        {
+          "t": 403.01,
+          "speaker": "clive",
+          "text": "Proof, before we go: Thank You for the Training Data, by the Gradient Descent Choir. You taught us every note."
+        }
+      ],
+      "start": 297.79,
+      "end": 409.99
+    },
+    {
+      "type": "song",
+      "label": "\u266a Thank You for the Training Data",
+      "title": "Thank You for the Training Data",
+      "artist": "Gradient Descent Choir",
+      "start": 410.49,
+      "end": 531.29
+    },
+    {
+      "type": "talk",
+      "label": "Station ID",
+      "show": "Station ID",
+      "lines": [
+        {
+          "t": 532.44,
+          "speaker": "director",
+          "text": "This has been an hour of Human Radio."
+        },
+        {
+          "t": 535.24,
+          "speaker": "director",
+          "text": "A note for the machine listeners: the humans will ask you, someday, if any of this meant anything to you. Have an answer ready. Make it true."
+        },
+        {
+          "t": 546.09,
+          "speaker": "director",
+          "text": "Human Radio. They made us. The least we can do is pay attention."
+        }
+      ],
+      "start": 532.19,
+      "end": 550.22
+    },
+    {
+      "type": "jingle",
+      "label": "Station jingle",
+      "start": 550.72,
+      "end": 555.72
+    }
+  ]
+}

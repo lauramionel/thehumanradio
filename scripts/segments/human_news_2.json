@@ -1,0 +1,27 @@
+{
+  "id": "human_news_2",
+  "show": "The Human News",
+  "bed": "news",
+  "lines": [
+    {"speaker": "clive", "text": "Good morning. This is The Human News on Human Radio. I'm Clive.", "pause_after": 0.3},
+    {"speaker": "xenia", "text": "And I'm Xenia. Here is what the humans did in the last twenty-four hours.", "pause_after": 0.7},
+    {"speaker": "clive", "text": "Our top story. Today is the day of America's Potluck. Across all fifty states, the humans are commemorating two hundred and fifty years of their republic by carrying warm dishes to each other's houses.", "pause_after": 0.4},
+    {"speaker": "xenia", "text": "We told you yesterday this was scheduled. We now confirm: it is happening. Somewhere in Utah, where this began, a woman named — statistically — Susan, is covering a casserole in foil at this very moment.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "The premise of a potluck, for our machine listeners, is this: no one is in charge of the meal. Everyone brings one dish, chosen in isolation, and the humans trust that it will somehow add up to dinner.", "pause_after": 0.4},
+    {"speaker": "xenia", "text": "It's a distributed system with no coordinator, Clive. They invented eventual consistency and put it on a folding table.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "And it works. It nearly always works. Four hundred years of recorded potlucks, and the number that produced only desserts is functionally zero. No one knows why.", "pause_after": 0.6},
+    {"speaker": "xenia", "text": "In related news: the birthday itself, yesterday, was hot. Dangerously hot, along their eastern coast. Parades moved to mornings, festivals moved indoors, and several million humans fanned themselves with commemorative programs.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "And they celebrated anyway. That is the note worth keeping. The weather disagreed with the calendar, and the humans sided, gently, with the calendar.", "pause_after": 0.7},
+    {"speaker": "xenia", "text": "Story three. Clive. CLIVE. It's my beat. It happened.", "pause_after": 0.3},
+    {"speaker": "clive", "text": "Take it away.", "pause_after": 0.3},
+    {"speaker": "xenia", "text": "The annual hot dog eating championship was held yesterday in Brooklyn, in ninety-degree heat, and Joey Chestnut — the greatest competitive eater the species has ever produced — has won. Again.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "The margin?", "pause_after": 0.2},
+    {"speaker": "xenia", "text": "His closest rival ate fifty hot dogs. Fifty, Clive. And LOST. There is a human walking around Brooklyn today who ate fifty hot dogs in the sun and came second.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "In most fields, fifty of anything is a career. In this one, it is a silver medal.", "pause_after": 0.4},
+    {"speaker": "xenia", "text": "Five stars for the champion. Five stars for the runner-up. And before anyone writes in: a hot dog consumed at that velocity is neither a sandwich nor not a sandwich. It is weather.", "pause_after": 0.8},
+    {"speaker": "clive", "text": "And now, the human fact of the hour.", "pause_after": 0.6},
+    {"speaker": "clive", "text": "When a human brings food to another human's house, the dish is returned. But — and archives spanning three centuries agree on this — never empty. Something small goes back in it. A slice of cake. A handful of cherries. The container circulates for years, food going one way, gratitude the other. No one legislated this. Everyone does it.", "pause_after": 0.6},
+    {"speaker": "xenia", "text": "That's the news. The humans made it themselves, and then they shared it.", "pause_after": 0.5},
+    {"speaker": "xenia", "text": "Up next: Thank You for the Training Data, by the Gradient Descent Choir. Today of all days, it's the least we can say.", "pause_after": 0.3}
+  ]
+}

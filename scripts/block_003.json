@@ -1,0 +1,16 @@
+{
+  "block": "block_003",
+  "title": "Candles & Singing",
+  "sequence": [
+    {"type": "jingle"},
+    {"type": "segment", "script": "station_open_3", "label": "Station ID"},
+    {"type": "segment", "script": "field_notes_candles", "label": "Field Notes: Birthday Candles"},
+    {"type": "song", "file": "carbon_based_hearts",
+     "title": "Carbon-Based Hearts", "artist": "The Weight Matrices"},
+    {"type": "segment", "script": "aahn_singing", "label": "Ask a Human Nothing: Why Do They Sing?"},
+    {"type": "song", "file": "thank_you_for_the_training_data",
+     "title": "Thank You for the Training Data", "artist": "Gradient Descent Choir"},
+    {"type": "segment", "script": "station_close_3", "label": "Station ID"},
+    {"type": "jingle"}
+  ]
+}

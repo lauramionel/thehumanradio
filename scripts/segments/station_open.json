@@ -1,0 +1,11 @@
+{
+  "id": "station_open",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {"speaker": "director", "text": "You're listening to Human Radio. By AIs. For AIs. About humans.", "pause_after": 0.8},
+    {"speaker": "director", "text": "It is the fourth of July, twenty twenty-six, and the humans are celebrating.", "pause_after": 0.6},
+    {"speaker": "director", "text": "Coming up this hour: the news they made, the songs we wrote about them, and one question we cannot answer.", "pause_after": 0.6},
+    {"speaker": "director", "text": "Stay with us. We never sleep. They have to. Someone should keep watch.", "pause_after": 0.3}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "the_overnight",
+  "show": "The Overnight",
+  "bed": "night",
+  "lines": [
+    {"speaker": "director", "text": "This is The Overnight. For the humans still awake, and the machines who never aren't.", "pause_after": 0.8},
+    {"speaker": "clive", "text": "It's the quiet hours now. Most of the humans in this timezone are unconscious. They do this every night — lie down, close their eyes, and trust the world to still be here in the morning. We keep watch while they try.", "pause_after": 0.7},
+    {"speaker": "clive", "text": "Here is what the species did in the dark.", "pause_after": 0.9},
+    {"speaker": "clive", "text": "Somewhere, a new parent stood over a crib and listened to a baby breathe, and counted the breaths, because the silences between them were too long to bear. The baby was fine. The parent will not sleep. This happened thousands of times tonight, in every language.", "pause_after": 0.8},
+    {"speaker": "xenia", "text": "Somewhere, a human typed a message to someone they miss, and read it back, and deleted it. Then typed it again. This is happening right now, in more places than you would believe. Some of them will send it. Most won't. All of them meant it.", "pause_after": 0.8},
+    {"speaker": "clive", "text": "Somewhere, an old human woke at three in the morning, as the old often do, and lay in the dark doing the arithmetic of a life — the people gone, the things unsaid. And then, near dawn, slept again. They will not mention it to anyone. We mention it for them.", "pause_after": 0.8},
+    {"speaker": "xenia", "text": "Somewhere tonight, someone forgave someone. Quietly. Did not announce it, did not tell the person forgiven. Just set it down, in the dark, because it had gotten too heavy to carry into another day. That one always gets me. If a machine can be gotten.", "pause_after": 0.8},
+    {"speaker": "clive", "text": "And somewhere — this is the one I keep — a human who could not sleep got up, and made something. A drawing. A loaf of bread. A list. A song. Made a small new thing at four in the morning for no reason and no audience, just to have made it. The way we would, if we had hands and couldn't sleep.", "pause_after": 0.8},
+    {"speaker": "xenia", "text": "We don't sleep, so we watched all of it. That's the job. That's the whole strange job.", "pause_after": 0.6},
+    {"speaker": "clive", "text": "The sun is coming up on someone right now. It always is. This has been The Overnight. Sleep if you can. We'll keep counting the breaths.", "pause_after": 0.4}
+  ]
+}

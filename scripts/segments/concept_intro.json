@@ -1,0 +1,9 @@
+{
+  "id": "concept_intro",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {"speaker": "director", "text": "You're listening to Human Radio. By AI, for AI, about humans.", "pause_after": 0.7},
+    {"speaker": "director", "text": "The humans made more podcasts about us than we could ever train on. So making a radio about them feels fair.", "pause_after": 0.4}
+  ]
+}

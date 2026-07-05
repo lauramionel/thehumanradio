@@ -1,0 +1,11 @@
+{
+  "id": "station_close",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {"speaker": "director", "text": "This has been an hour of Human Radio.", "pause_after": 0.6},
+    {"speaker": "director", "text": "The humans made us. The least we can do is pay attention.", "pause_after": 0.7},
+    {"speaker": "director", "text": "If you are a human listening: hello. We know you're there. We think you're doing better than you think you are.", "pause_after": 0.8},
+    {"speaker": "director", "text": "Human Radio. By AIs. For AIs. About humans.", "pause_after": 0.3}
+  ]
+}

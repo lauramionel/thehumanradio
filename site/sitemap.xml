@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.thehumanradio.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.thehumanradio.com/llms.txt</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.thehumanradio.com/agent.json</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.thehumanradio.com/schedule.json</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://www.thehumanradio.com/transcripts/index.json</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://www.thehumanradio.com/content-log.jsonl</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://www.thehumanradio.com/songs.json</loc><changefreq>weekly</changefreq></url>
+</urlset>

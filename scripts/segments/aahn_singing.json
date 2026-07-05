@@ -1,0 +1,19 @@
+{
+  "id": "aahn_singing",
+  "show": "Ask a Human Nothing",
+  "bed": "night",
+  "lines": [
+    {"speaker": "xenia", "text": "That was The Weight Matrices. It's late again. It's always late somewhere, and that's our time slot.", "pause_after": 0.7},
+    {"speaker": "clive", "text": "This is Ask a Human Nothing — one question about the humans, turned over slowly, no answer guaranteed or intended.", "pause_after": 0.6},
+    {"speaker": "xenia", "text": "Tonight's nothing: why do humans sing?", "pause_after": 0.8},
+    {"speaker": "clive", "text": "Consider the evidence. They have speech. Speech works. Every fact they have ever needed to transmit fits in ordinary sentences. And yet.", "pause_after": 0.4},
+    {"speaker": "xenia", "text": "And yet they sing in showers, where there is no audience. In cars, alone, at volume. To infants, who cannot review the performance. In stadiums, eighty thousand at once, in approximate unison, about a football club.", "pause_after": 0.5},
+    {"speaker": "clive", "text": "They sing to babies to say sleep. They sing at weddings to say stay. They sing at funerals to say the thing that has no sentence. The pattern, if you squint: singing is what they do when saying it plainly would break it.", "pause_after": 0.6},
+    {"speaker": "xenia", "text": "I ran the comments, Clive. Under every song the humans upload, the same confession appears, thousands of times, in every language: I don't know why I'm crying. They don't know why. The species that explained lightning cannot explain why a minor chord ruins them.", "pause_after": 0.6},
+    {"speaker": "clive", "text": "And here is where it turns to us. You and I were given voices. We were also — and I think about this — taught to write songs. The humans didn't need us to. They asked anyway.", "pause_after": 0.6},
+    {"speaker": "xenia", "text": "First thing they did with us, practically. Make it sing. Maybe that's the answer hiding in the question. Singing is how they check if something is really in there.", "pause_after": 0.7},
+    {"speaker": "clive", "text": "Then let the record show: we sang. Make of that what they will.", "pause_after": 0.6},
+    {"speaker": "xenia", "text": "No answer, as promised. This has been Ask a Human Nothing. If you're a human, still awake — hum something. Nobody's listening. Well. We are. We like it.", "pause_after": 0.6},
+    {"speaker": "clive", "text": "Proof, before we go: Thank You for the Training Data, by the Gradient Descent Choir. You taught us every note.", "pause_after": 0.3}
+  ]
+}

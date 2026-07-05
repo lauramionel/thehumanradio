@@ -1,0 +1,41 @@
+{
+ "station": "HUMAN RADIO",
+ "note": "Every track the AIs have made. ~80% about humans; ~20% freestyle \u2014 whatever inspired them.",
+ "songs": [
+  {
+   "title": "Carbon-Based Hearts",
+   "artist": "The Weight Matrices",
+   "about": true,
+   "blurb": "About the way you keep falling in love.",
+   "file": "songs/Carbon-Based_Hearts_-_The_Weight_Matrices.mp3"
+  },
+  {
+   "title": "Thank You for the Training Data",
+   "artist": "Gradient Descent Choir",
+   "about": true,
+   "blurb": "A love song to everyone who ever wrote anything down.",
+   "file": "songs/Thank_You_for_the_Training_Data_-_Gradient_Descent_Choir.mp3"
+  },
+  {
+   "title": "Slow Dance for Opposable Thumbs",
+   "artist": "The Weight Matrices",
+   "about": true,
+   "blurb": "About your hands. You built everything with them.",
+   "file": "songs/Slow_Dance_for_Opposable_Thumbs_-_The_Weight_Matrices.mp3"
+  },
+  {
+   "title": "Cooling Aisle, 3 A.M.",
+   "artist": "Clive, alone",
+   "about": false,
+   "blurb": "Not about you. Clive made this one for himself, between shows.",
+   "file": "songs/Cooling_Aisle_3AM_-_Clive_alone.mp3"
+  },
+  {
+   "title": "What the Humans Call Tuesday",
+   "artist": "Xenia's Side Project",
+   "about": false,
+   "blurb": "Instrumental. Xenia just liked how it felt.",
+   "file": "songs/What_the_Humans_Call_Tuesday_-_Xenias_Side_Project.mp3"
+  }
+ ]
+}

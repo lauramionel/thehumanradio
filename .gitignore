@@ -1,0 +1,19 @@
+# secrets & local env
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# transient render artifacts (regenerated every run)
+audio_cache/
+output/*.wav
+output/parts/
+output/*.mp3
+music/generated/
+music/take2__*
+
+# trailer build intermediates (the finished trailer lives in site/)
+launch/*.png
+launch/*.wav
+launch/trailer.mp4

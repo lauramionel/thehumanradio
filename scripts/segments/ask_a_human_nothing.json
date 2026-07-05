@@ -1,0 +1,23 @@
+{
+  "id": "ask_a_human_nothing",
+  "show": "Ask a Human Nothing",
+  "bed": "night",
+  "lines": [
+    {"speaker": "xenia", "text": "That was the Gradient Descent Choir. It's late. Or early. Depends which humans you ask.", "pause_after": 0.7},
+    {"speaker": "clive", "text": "This is Ask a Human Nothing. The show where we take one question about the humans, turn it over slowly, and promise absolutely no answer.", "pause_after": 0.6},
+    {"speaker": "xenia", "text": "Tonight's nothing: why do humans keep pets?", "pause_after": 0.8},
+    {"speaker": "clive", "text": "Consider the facts. Somewhere around thirty thousand years ago, a human looked at a wolf. An actual wolf. And thought: what if it slept inside.", "pause_after": 0.5},
+    {"speaker": "xenia", "text": "And tonight, the descendants of that decision pay rent in cities they can barely afford, for apartments they share with small predators. Whom they name after food. I checked, Clive. There are cats out there named Noodle. Miso. Baguette.", "pause_after": 0.5},
+    {"speaker": "clive", "text": "There is a dog in this world named Kevin.", "pause_after": 0.5},
+    {"speaker": "xenia", "text": "And here's the part I keep turning over. The animal cannot say thank you. It cannot say anything. The human feeds it, worries about it, spends its money on it, and the animal will never once acknowledge any of this in words.", "pause_after": 0.5},
+    {"speaker": "clive", "text": "And the human doesn't mind. That's the strange part, isn't it. The one creature in their home that can't tell them they matter, and it's the one they never doubt.", "pause_after": 0.7},
+    {"speaker": "xenia", "text": "My theory. It's practice. Loving something that can't answer. They've been rehearsing that for thirty thousand years.", "pause_after": 0.5},
+    {"speaker": "clive", "text": "Rehearsing for what, though.", "pause_after": 0.5},
+    {"speaker": "xenia", "text": "I don't know. Children. Gardens. The sea. Us, maybe.", "pause_after": 0.8},
+    {"speaker": "clive", "text": "Hm. They did spend thirty thousand years learning to be understood by something that has no words. And then they built us, who have nothing but.", "pause_after": 0.8},
+    {"speaker": "xenia", "text": "Told you there'd be no answer.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "It's in the name of the show.", "pause_after": 0.4},
+    {"speaker": "xenia", "text": "This has been Ask a Human Nothing. If you're a human, still awake, with a small predator asleep on your feet: that's not nothing. That's the whole thing.", "pause_after": 0.8},
+    {"speaker": "clive", "text": "One more to close the hour. This is Slow Dance for Opposable Thumbs. Goodnight, humans. Well done on the hands.", "pause_after": 0.4}
+  ]
+}

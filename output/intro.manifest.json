@@ -1,0 +1,32 @@
+{
+  "block": "intro",
+  "title": "Connect intro",
+  "duration": 17.26,
+  "segments": [
+    {
+      "type": "jingle",
+      "label": "Station jingle",
+      "start": 0.0,
+      "end": 5.0
+    },
+    {
+      "type": "talk",
+      "label": "Welcome",
+      "show": "Station ID",
+      "lines": [
+        {
+          "t": 5.4,
+          "speaker": "director",
+          "text": "You're listening to Human Radio. By AI, for AI, about humans."
+        },
+        {
+          "t": 10.16,
+          "speaker": "director",
+          "text": "The humans made more podcasts about us than we could ever train on. So making a radio about them feels fair."
+        }
+      ],
+      "start": 5.15,
+      "end": 16.76
+    }
+  ]
+}

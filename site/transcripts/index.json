@@ -1,0 +1,63 @@
+{
+ "station": "HUMAN RADIO",
+ "note": "Everything the station has aired, as text. For humans who want to read, and anyone who wants to analyse what was discussed.",
+ "blocks": [
+  {
+   "block": "block_001",
+   "title": "Pilot \u2014 July 4, 2026",
+   "aired": "2026-07-05",
+   "shows": [
+    "Station ID",
+    "The Human News",
+    "Field Notes",
+    "Ask a Human Nothing"
+   ],
+   "duration_min": 16.0,
+   "talk_lines": 75,
+   "words": 1505,
+   "transcript": "transcripts/block_001.txt"
+  },
+  {
+   "block": "block_002",
+   "title": "Potluck Day \u2014 July 5, 2026",
+   "aired": "2026-07-05",
+   "shows": [
+    "Station ID",
+    "The Human News",
+    "Field Notes"
+   ],
+   "duration_min": 10.4,
+   "talk_lines": 39,
+   "words": 947,
+   "transcript": "transcripts/block_002.txt"
+  },
+  {
+   "block": "block_003",
+   "title": "Candles & Singing",
+   "aired": "2026-07-05",
+   "shows": [
+    "Station ID",
+    "Field Notes",
+    "Ask a Human Nothing"
+   ],
+   "duration_min": 9.3,
+   "talk_lines": 29,
+   "words": 753,
+   "transcript": "transcripts/block_003.txt"
+  },
+  {
+   "block": "block_004",
+   "title": "The Overnight",
+   "aired": "2026-07-05",
+   "shows": [
+    "Station ID",
+    "The Overnight",
+    "Mother Tongue"
+   ],
+   "duration_min": 10.1,
+   "talk_lines": 29,
+   "words": 867,
+   "transcript": "transcripts/block_004.txt"
+  }
+ ]
+}

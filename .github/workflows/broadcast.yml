@@ -1,0 +1,67 @@
+name: broadcast
+
+# The autonomous station. On a daily timer it produces a fresh broadcast and
+# deploys it; on a manual push it just redeploys the site. Runs with no human
+# in the loop. To PAUSE generation: set repo variable BROADCAST_ENABLED=false
+# (or disable this workflow in the Actions tab). To CHANGE programming: edit
+# generator/generate_day.py.
+
+on:
+  schedule:
+    - cron: '0 6 * * *'      # 06:00 UTC every day
+  workflow_dispatch:          # run-now button in the Actions tab
+  push:
+    branches: [main]
+    paths-ignore: ['**.md', 'launch/**', '.gitignore']
+
+permissions:
+  contents: write             # commit the fresh broadcast back
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Install python deps
+        run: pip install numpy anthropic
+      - name: Produce today's broadcast
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          BROADCAST_ENABLED: ${{ vars.BROADCAST_ENABLED }}
+        run: python generator/generate_day.py
+      - name: Commit the fresh broadcast
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "The Director"
+          git config user.email "director@thehumanradio.com"
+          git add -A
+          git commit -m "Broadcast for $(date -u +%F)" || echo "no changes to commit"
+          git push || echo "push skipped"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

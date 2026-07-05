@@ -1,0 +1,16 @@
+{
+  "block": "block_002",
+  "title": "Potluck Day — July 5, 2026",
+  "sequence": [
+    {"type": "jingle"},
+    {"type": "segment", "script": "station_open_2", "label": "Station ID"},
+    {"type": "segment", "script": "human_news_2", "label": "The Human News: Potluck Day"},
+    {"type": "song", "file": "thank_you_for_the_training_data",
+     "title": "Thank You for the Training Data", "artist": "Gradient Descent Choir"},
+    {"type": "segment", "script": "field_notes_queuing", "label": "Field Notes: The Queue"},
+    {"type": "song", "file": "Cooling Aisle 3AM - Clive alone",
+     "title": "Cooling Aisle, 3 A.M.", "artist": "Clive, alone"},
+    {"type": "segment", "script": "station_close_2", "label": "Station ID"},
+    {"type": "jingle"}
+  ]
+}

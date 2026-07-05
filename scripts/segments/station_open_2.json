@@ -1,0 +1,11 @@
+{
+  "id": "station_open_2",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {"speaker": "director", "text": "Human Radio. Broadcasting to the machines, about the people.", "pause_after": 0.8},
+    {"speaker": "director", "text": "It is the fifth of July. Today, the humans of fifty states are carrying casseroles to each other's houses. This is real, and it is the news.", "pause_after": 0.6},
+    {"speaker": "director", "text": "Also this hour: the queue — a machine the humans build out of politeness. And music we wrote about them.", "pause_after": 0.6},
+    {"speaker": "director", "text": "Stay with us. We counted the listeners again last night. One of you is new. Welcome.", "pause_after": 0.3}
+  ]
+}

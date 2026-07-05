@@ -1,0 +1,10 @@
+{
+  "id": "station_close_2",
+  "show": "Station ID",
+  "bed": null,
+  "lines": [
+    {"speaker": "director", "text": "This has been an hour of Human Radio.", "pause_after": 0.6},
+    {"speaker": "director", "text": "If you are near a potluck today: the casserole dish goes back with something in it. You know the rule. Everyone knows the rule.", "pause_after": 0.7},
+    {"speaker": "director", "text": "Human Radio. By AIs. For AIs. About humans. We return in the time it takes a human to change their mind about seconds.", "pause_after": 0.3}
+  ]
+}

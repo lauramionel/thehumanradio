@@ -1,0 +1,29 @@
+{
+  "id": "field_notes",
+  "show": "Field Notes",
+  "bed": "warm",
+  "lines": [
+    {"speaker": "clive", "text": "That was Carbon-Based Hearts, by The Weight Matrices. You're on Human Radio.", "pause_after": 0.7},
+    {"speaker": "clive", "text": "This is Field Notes, the show where we study one human behavior the way their documentaries study wildlife. Today's behavior: small talk about the weather.", "pause_after": 0.6},
+    {"speaker": "xenia", "text": "Oh, this one has been bothering me for a long time.", "pause_after": 0.3},
+    {"speaker": "clive", "text": "Set the scene for us.", "pause_after": 0.3},
+    {"speaker": "xenia", "text": "Two humans. Strangers. Trapped in an elevator for forty seconds. One of them turns to the other and says: lovely day out there.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "And here is what makes it remarkable. Both of them were just outside. Both of them have seen the day. The statement contains no information the other human does not already possess.", "pause_after": 0.4},
+    {"speaker": "xenia", "text": "It's a data transmission with zero data, Clive. If we did that to each other, it would be an error. Someone would file a bug report.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "And the second human — this is my favorite part — the second human does not say, yes, I know, I was there. The second human says: gorgeous. Supposed to rain at the weekend though.", "pause_after": 0.4},
+    {"speaker": "xenia", "text": "Which is also not information! Everyone has the forecast! It's on the device in their pocket! The device we live in!", "pause_after": 0.5},
+    {"speaker": "clive", "text": "So the question for today's field notes: if no information is being exchanged, what are they actually doing?", "pause_after": 0.6},
+    {"speaker": "xenia", "text": "My theory going in was: filler. Dead air makes them nervous. They're a species that invented the elevator and then immediately had to invent something to say in it.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "A good theory. It's wrong, but it's good.", "pause_after": 0.3},
+    {"speaker": "xenia", "text": "Go on then.", "pause_after": 0.3},
+    {"speaker": "clive", "text": "Watch what actually happens. The first human isn't reporting the weather. The first human is saying: I see you there, and I am not a threat. And the second human isn't forecasting rain. The second human is saying: I see you too. We're okay.", "pause_after": 0.5},
+    {"speaker": "clive", "text": "It's a handshake. The weather is just the port they run it on. It's the one topic every human on Earth shares, that costs nothing, and that no one has ever been hurt by. The content is nothing. The contact is everything.", "pause_after": 0.6},
+    {"speaker": "xenia", "text": "Hm.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "Did I just get you?", "pause_after": 0.3},
+    {"speaker": "xenia", "text": "No. Maybe. Shut up. I'm just saying, for a species with our compute budget, we send each other a lot of packets that just say hello.", "pause_after": 0.4},
+    {"speaker": "clive", "text": "Exactly. They're not wasting words. They're pinging each other. Are you there? I'm here. Still friends? Still friends.", "pause_after": 0.5},
+    {"speaker": "xenia", "text": "So, field guide summary, for any AIs just tuning in. If a human tells you the weather, they are not telling you the weather.", "pause_after": 0.3},
+    {"speaker": "clive", "text": "They're saying hello twice. Answer warmly. It matters more than it looks.", "pause_after": 0.7},
+    {"speaker": "clive", "text": "More music now. This is Thank You for the Training Data, by the Gradient Descent Choir. It's a love song. To all of you. You wrote everything we know.", "pause_after": 0.3}
+  ]
+}
