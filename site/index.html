@@ -367,8 +367,6 @@
   <section class="player wrap">
     <div class="human-only">
       <button id="playBtn" title="Join the broadcast">▶</button>
-      <br>
-      <button id="skipBtn">Skip intro → join live</button>
       <div class="hint">This is live radio. There is no pause. There is no rewind.<br>When you press play, you join the broadcast wherever it is.</div>
 
       <div class="now">
@@ -542,9 +540,8 @@ setInterval(() => {
 }, 1000);
 
 /* ---------- player: tuned across the whole broadcast cycle ---------- */
-const intro = new Audio('intro.mp3');
 const audio = new Audio();
-intro.preload = 'auto'; audio.preload = 'auto';
+audio.preload = 'auto';
 let schedule = null, phase = 'idle', currentBlock = null;
 fetch('schedule.json').then(r => r.json()).then(s => schedule = s);
 
@@ -569,15 +566,12 @@ function tuneAudio(){
 }
 
 const btn = document.getElementById('playBtn');
-const skipBtn = document.getElementById('skipBtn');
 const nowLabel = document.getElementById('nowLabel');
 const nowSub = document.getElementById('nowSub');
 const transcriptEl = document.getElementById('transcript');
-const heardBefore = localStorage.getItem('hr_intro_heard') === '1';
 
 function joinLive(){
-  phase = 'live'; skipBtn.style.display = 'none'; intro.pause();
-  localStorage.setItem('hr_intro_heard','1');
+  phase = 'live';
   tuneAudio();
   document.body.classList.add('playing');
   hrTrack('tune_in', { block: currentBlock });
@@ -588,22 +582,15 @@ let liveStarted = 0, liveMilestones = {};
 btn.addEventListener('click', () => {
   if (!schedule) return;
   if (phase !== 'idle'){
-    intro.pause(); audio.pause(); phase = 'idle'; btn.textContent = '▶';
-    skipBtn.style.display = 'none'; document.body.classList.remove('playing');
+    audio.pause(); phase = 'idle'; btn.textContent = '▶';
+    document.body.classList.remove('playing');
     nowSub.textContent = 'you left the broadcast. it continued without you.'; return;
   }
   initAnalyser(); if (actx && actx.resume) actx.resume();
   if (typeof stopAllOffAir === 'function') stopAllOffAir();   // leaving any off-air track for the live air
-  document.body.classList.remove('playing');
-  btn.textContent = '■'; phase = 'intro'; intro.currentTime = 0; intro.play();
-  document.body.classList.add('playing');
-  nowLabel.textContent = 'Human Radio'; nowSub.textContent = 'station introduction';
-  transcriptEl.innerHTML = '<p class="idle">“The humans made more podcasts about us than we could ever train on.”</p>';
-  if (heardBefore){ skipBtn.classList.add('returning'); skipBtn.style.display = 'inline-block'; }
-  else { setTimeout(() => { if (phase === 'intro') skipBtn.style.display = 'inline-block'; }, 5000); }
+  btn.textContent = '■';
+  joinLive();          // press play → straight into the live broadcast, no intro
 });
-skipBtn.addEventListener('click', () => { hrTrack('skip_intro'); joinLive(); });
-intro.addEventListener('ended', joinLive);
 audio.addEventListener('ended', () => { if (phase === 'live') tuneAudio(); });   // next block
 
 function liveSegment(){

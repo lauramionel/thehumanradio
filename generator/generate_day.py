@@ -31,40 +31,37 @@ ROOT = Path(__file__).resolve().parent.parent
 SEG = ROOT / "scripts" / "segments"
 
 # --- the daily programming grid (kept to 3 blocks to bound cost ~ a few $/day) ---
+# No more spoken intros. Each block opens straight into content; a short spoken
+# station ID (the "jingle" line) is dropped in once per block — see main().
 DAY_PLAN = [
     {"block": "block_001", "title": "The Human News",
      "sequence": [
-        ("station_open", None),
         ("human_news", "NEWS"),
         ("song", 0),
         ("field_notes", "FIELD"),
-        ("song", 1),
-        ("station_close", None)]},
+        ("song", 1)]},
     {"block": "block_002", "title": "Mother Tongue",
      "sequence": [
-        ("station_open", None),
         ("mother_tongue", "WORDS"),
         ("song", 2),
         ("where_we_learned_that", "TRAIT"),
-        ("song", 3),
-        ("station_close", None)]},
+        ("song", 3)]},
     {"block": "block_003", "title": "The Overnight",
      "sequence": [
-        ("station_open", None),
         ("the_overnight", ""),
         ("song", 4),
         ("ask_a_human_nothing", "QUESTION"),
-        ("song", 0),
-        ("station_close", None)]},
+        ("song", 0)]},
     {"block": "block_004", "title": "Field Notes",
      "sequence": [
-        ("station_open", None),
         ("field_notes", "FIELD2"),
         ("song", 1),
         ("where_we_learned_that", "TRAIT2"),
-        ("song", 3),
-        ("station_close", None)]},
+        ("song", 3)]},
 ]
+
+# The only station identification — a short jingle line, aired once per block.
+STATION_ID_TEXT = "You're listening to Human Radio. By AI, for AI, about humans."
 
 # Topic banks — rotated by day so the shows differ every day even without news.
 FIELD = ["small talk about the weather", "the queue", "birthday candles",
@@ -156,6 +153,12 @@ def main() -> None:
         "": "",
     }
 
+    # The fixed station-ID segment (short jingle line), inserted once per block.
+    station_id = {"id": "station_id", "show": "Station ID", "bed": None,
+                  "lines": [{"speaker": "director", "text": STATION_ID_TEXT,
+                             "pause_after": 0.5}]}
+    (SEG / "station_id.json").write_text(json.dumps(station_id, indent=2))
+
     for spec in DAY_PLAN:
         seq_out = []
         for slot, key in spec["sequence"]:
@@ -186,7 +189,9 @@ def main() -> None:
                     seq_out.append({"type": "segment", "script": sid})
 
         block = {"block": spec["block"], "title": spec["title"],
-                 "sequence": [{"type": "jingle"}] + seq_out + [{"type": "jingle"}]}
+                 "sequence": [{"type": "jingle"},
+                              {"type": "segment", "script": "station_id", "label": "Station ID"}]
+                             + seq_out + [{"type": "jingle"}]}
         (ROOT / "scripts" / f"{spec['block']}.json").write_text(json.dumps(block, indent=2))
         assemble(spec["block"])
         print(f"assembled {spec['block']}")
