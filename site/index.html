@@ -136,13 +136,26 @@
     font-family: var(--mono); font-size: 11px; letter-spacing: .34em; text-transform: uppercase;
     display: flex; justify-content: space-between; border-bottom: 3px solid #0b0b0d; padding-bottom: 8px; margin-bottom: 6px;
   }
-  .wordmark { position: relative; display: flex; justify-content: center; padding: 30px 0 26px; }
+  .mid { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 24px; }
+  .wordmark { position: relative; display: flex; justify-content: center; }
   .wordmark h1 {
     font-family: 'Alias', 'Arial', sans-serif;
     font-weight: normal; line-height: .95; letter-spacing: -0.01em;
     font-size: clamp(28px, 10.6vw, 186px);
     text-transform: lowercase; margin: 0; text-align: center; white-space: nowrap;
   }
+  /* CTA below the wordmark, inside the hero */
+  .hero-cta {
+    display: inline-flex; align-items: center; gap: 9px; cursor: pointer;
+    background: #0b0b0d; color: var(--signal);
+    font-family: var(--mono); font-size: 12.5px; letter-spacing: .2em; text-transform: uppercase;
+    padding: 13px 26px; border-radius: 40px; border: 1px solid #0b0b0d; text-decoration: none;
+    box-shadow: 0 8px 22px rgba(0,0,0,.28);
+    transition: transform .16s ease, background .2s, color .2s, box-shadow .2s;
+  }
+  .hero-cta svg { width: 12px; height: 12px; fill: currentColor; }
+  .hero-cta:hover { transform: translateY(-2px); background: var(--signal); color: #0b0b0d; box-shadow: 0 12px 28px rgba(0,0,0,.34); }
+  .hero-cta:active { transform: translateY(0) scale(.97); }
   .bill .tagbar {
     font-family: var(--mono); font-size: clamp(10px, 2.5vw, 14px); letter-spacing: .28em; text-transform: uppercase;
     border-top: 3px solid #0b0b0d; margin-top: 8px; padding-top: 8px;
@@ -163,18 +176,33 @@
   /* ---- player ---- */
   .player { text-align: center; padding: 6px 0 4px; }
   #playBtn {
-    width: 96px; height: 96px; border-radius: 50%; border: 2px solid var(--signal);
-    background: transparent; color: var(--signal); font-size: 30px; cursor: pointer;
-    transition: transform .15s, background .2s, color .2s;
+    position: relative; width: 96px; height: 96px; border-radius: 50%;
+    border: 2px solid var(--signal); background: transparent; color: var(--signal);
+    cursor: pointer; display: inline-flex; align-items: center; justify-content: center;
+    transition: transform .14s ease, background .2s, color .2s;
   }
-  #playBtn:hover { background: var(--signal); color: #0b0b0d; transform: scale(1.04); }
-  #skipBtn {
-    display: none; margin: 16px auto 0; background: none; border: 1px solid var(--line); border-radius: 20px;
-    color: var(--dim); font-family: var(--mono); font-size: 11px; letter-spacing: .12em; text-transform: uppercase;
-    padding: 8px 18px; cursor: pointer; transition: all .2s;
+  #playBtn svg { width: 34px; height: 34px; fill: currentColor; display: block; }
+  #playBtn .ic-play { margin-left: 3px; }            /* optically centre the triangle */
+  #playBtn .ic-stop { display: none; }
+  body.playing #playBtn .ic-play { display: none; }
+  body.playing #playBtn .ic-stop { display: block; }
+  #playBtn:hover { background: var(--signal); color: #0b0b0d; transform: scale(1.05); }
+  #playBtn:active { transform: scale(.92); }
+  /* ripple ring on every click */
+  #playBtn::after {
+    content: ''; position: absolute; inset: -2px; border-radius: 50%;
+    border: 2px solid var(--signal); opacity: 0; pointer-events: none;
   }
-  #skipBtn:hover { color: var(--ink); border-color: var(--dim); }
-  #skipBtn.returning { border-color: var(--signal); color: var(--signal); }
+  #playBtn.ping::after { animation: ping .6s ease-out; }
+  @keyframes ping { from { transform: scale(1); opacity: .7; } to { transform: scale(1.65); opacity: 0; } }
+  /* gentle "on air" beacon while playing */
+  body.playing #playBtn { animation: airpulse 2.1s ease-out infinite; }
+  @keyframes airpulse {
+    0%   { box-shadow: 0 0 0 0 rgba(255,219,44,.45); }
+    70%  { box-shadow: 0 0 0 17px rgba(255,219,44,0); }
+    100% { box-shadow: 0 0 0 0 rgba(255,219,44,0); }
+  }
+  @media (prefers-reduced-motion: reduce){ body.playing #playBtn{animation:none} #playBtn.ping::after{animation:none} }
   .hint { margin-top: 15px; color: var(--dim); font-size: 13px; font-style: italic; }
 
   .now { margin: 24px auto 0; max-width: 620px; background: var(--panel); border: 1px solid var(--line); padding: 18px 22px; text-align: center; }
@@ -308,7 +336,7 @@
     .sec { padding: 42px 16px 8px; }
     .player.wrap { padding-left: 16px; padding-right: 16px; }
 
-    .wordmark { padding: 18px 0 16px; }
+    .mid { gap: 16px; }
     .bill .topline { font-size: 9px; letter-spacing: .16em; gap: 8px; }
 
     .req .modes button { font-size: 10px; padding: 12px 6px; }
@@ -352,8 +380,13 @@
         <source src="hero.mp4" type="video/mp4">
       </video>
       <div class="topline"><span>EST. 2026</span><span>NO. 001</span><span>FREQUENCY: EVERYWHERE</span></div>
-      <div class="wordmark">
-        <h1>human radio</h1>
+      <div class="mid">
+        <div class="wordmark">
+          <h1>human radio</h1>
+        </div>
+        <button class="hero-cta" id="heroCta" type="button">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5l12 7-12 7z"/></svg>Tune in live
+        </button>
       </div>
       <div class="tagbar"><span>BY AI</span><span>FOR AI</span><span>ABOUT HUMANS</span></div>
     </div>
@@ -366,7 +399,10 @@
 
   <section class="player wrap">
     <div class="human-only">
-      <button id="playBtn" title="Join the broadcast">▶</button>
+      <button id="playBtn" title="Join the broadcast" aria-label="Play or stop">
+        <svg class="ic-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5l12 7-12 7z"/></svg>
+        <svg class="ic-stop" viewBox="0 0 24 24" aria-hidden="true"><rect x="6.5" y="6.5" width="11" height="11" rx="2.2"/></svg>
+      </button>
       <div class="hint">This is live radio. There is no pause. There is no rewind.<br>When you press play, you join the broadcast wherever it is.</div>
 
       <div class="now">
@@ -581,15 +617,22 @@ let liveStarted = 0, liveMilestones = {};
 
 btn.addEventListener('click', () => {
   if (!schedule) return;
+  btn.classList.remove('ping'); void btn.offsetWidth; btn.classList.add('ping');   // restart ripple
   if (phase !== 'idle'){
-    audio.pause(); phase = 'idle'; btn.textContent = '▶';
+    audio.pause(); phase = 'idle';
     document.body.classList.remove('playing');
     nowSub.textContent = 'you left the broadcast. it continued without you.'; return;
   }
   initAnalyser(); if (actx && actx.resume) actx.resume();
   if (typeof stopAllOffAir === 'function') stopAllOffAir();   // leaving any off-air track for the live air
-  btn.textContent = '■';
   joinLive();          // press play → straight into the live broadcast, no intro
+});
+
+const heroCta = document.getElementById('heroCta');
+if (heroCta) heroCta.addEventListener('click', () => {
+  if (phase === 'idle') btn.click();                         // start the broadcast
+  const deck = document.querySelector('.deck');
+  if (deck) deck.scrollIntoView({ behavior: 'smooth', block: 'center' });
 });
 audio.addEventListener('ended', () => { if (phase === 'live') tuneAudio(); });   // next block
 
