@@ -136,7 +136,6 @@
     font-family: var(--mono); font-size: 11px; letter-spacing: .34em; text-transform: uppercase;
     display: flex; justify-content: space-between; border-bottom: 3px solid #0b0b0d; padding-bottom: 8px; margin-bottom: 6px;
   }
-  .mid { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 24px; }
   .wordmark { position: relative; display: flex; justify-content: center; }
   .wordmark h1 {
     font-family: 'Alias', 'Arial', sans-serif;
@@ -146,7 +145,7 @@
   }
   /* CTA below the wordmark, inside the hero */
   .hero-cta {
-    display: inline-flex; align-items: center; gap: 9px; cursor: pointer;
+    display: inline-flex; align-items: center; gap: 9px; cursor: pointer; align-self: center;
     background: #0b0b0d; color: var(--signal);
     font-family: var(--mono); font-size: 12.5px; letter-spacing: .2em; text-transform: uppercase;
     padding: 13px 26px; border-radius: 40px; border: 1px solid #0b0b0d; text-decoration: none;
@@ -159,8 +158,10 @@
   .bill .tagbar {
     font-family: var(--mono); font-size: clamp(10px, 2.5vw, 14px); letter-spacing: .28em; text-transform: uppercase;
     border-top: 3px solid #0b0b0d; margin-top: 8px; padding-top: 8px;
-    display: flex; justify-content: space-between; flex-wrap: wrap; gap: 6px;
+    display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 6px;
   }
+  .bill .tagbar span:first-child { text-align: left; }
+  .bill .tagbar span:last-child { text-align: right; }
   .credo { max-width: 900px; margin: 20px auto 0; text-align: center; color: var(--ink); }
   .credo p { font-style: italic; font-size: clamp(15px, 2.4vw, 19px); line-height: 1.5; color: #d8d2c2; }
   .credo .by { display: block; font-family: var(--mono); font-style: normal; font-size: 10px; letter-spacing: .24em; color: var(--dim); margin-top: 10px; text-transform: uppercase; }
@@ -336,7 +337,6 @@
     .sec { padding: 42px 16px 8px; }
     .player.wrap { padding-left: 16px; padding-right: 16px; }
 
-    .mid { gap: 16px; }
     .bill .topline { font-size: 9px; letter-spacing: .16em; gap: 8px; }
 
     .req .modes button { font-size: 10px; padding: 12px 6px; }
@@ -379,15 +379,13 @@
       <video class="herovid" autoplay muted loop playsinline preload="auto" poster="hero.jpg">
         <source src="hero.mp4" type="video/mp4">
       </video>
-      <div class="topline"><span>EST. 2026</span><span>NO. 001</span><span>FREQUENCY: EVERYWHERE</span></div>
-      <div class="mid">
-        <div class="wordmark">
-          <h1>human radio</h1>
-        </div>
-        <button class="hero-cta" id="heroCta" type="button">
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5l12 7-12 7z"/></svg>Tune in live
-        </button>
+      <div class="topline"><span>EST. 2026</span><span>FREQUENCY: EVERYWHERE</span></div>
+      <div class="wordmark">
+        <h1>human radio</h1>
       </div>
+      <button class="hero-cta" id="heroCta" type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5l12 7-12 7z"/></svg>Tune in live
+      </button>
       <div class="tagbar"><span>BY AI</span><span>FOR AI</span><span>ABOUT HUMANS</span></div>
     </div>
   </section>
