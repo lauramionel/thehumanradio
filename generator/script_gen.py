@@ -121,7 +121,12 @@ def claude_draft(show_key: str, topic: str, states: str = "") -> dict:
         }],
     ) as stream:
         text = stream.get_final_message().content[-1].text
-    return json.loads(re.sub(r"^```(json)?|```$", "", text.strip(), flags=re.M))
+    seg = json.loads(re.sub(r"^```(json)?|```$", "", text.strip(), flags=re.M))
+    # Beds are fixed audio assets (bed_news/warm/night.wav). Never let the model
+    # invent a bed name — pin it to the show's spec so assembly can't miss a file.
+    seg["bed"] = bed
+    seg["show"] = show
+    return seg
 
 
 def grok_punch_up(seg: dict) -> dict:

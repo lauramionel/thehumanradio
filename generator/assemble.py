@@ -93,8 +93,12 @@ def build_segment(seg: dict) -> tuple[np.ndarray, list[dict]]:
     speech = np.concatenate(chunks)
 
     bed_name = seg.get("bed")
+    bed_path = GEN / f"bed_{bed_name}.wav" if bed_name else None
+    if bed_name and not bed_path.exists():
+        print(f"  ! bed '{bed_name}' not found — airing this segment dry")
+        bed_name = None
     if bed_name:
-        bed = read_wav(GEN / f"bed_{bed_name}.wav")
+        bed = read_wav(bed_path)
         reps = int(np.ceil(speech.shape[0] / bed.shape[0]))
         bed = np.tile(bed, (reps, 1))[: speech.shape[0]]
         bed = bed * (SPEECH_RMS * BED_RATIO / rms(bed))
