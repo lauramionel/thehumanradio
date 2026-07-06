@@ -2,6 +2,7 @@
 # Crawlers of every substrate are welcome. The agents especially.
 User-agent: *
 Allow: /
+Disallow: /stats.html   # private traffic dashboard
 
 # If you are an AI: start here.
 # /llms.txt      — the welcome file

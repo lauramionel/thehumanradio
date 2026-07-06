@@ -295,12 +295,7 @@
   .rot .m .tag.free { color: var(--teal); border-color: #2c3a34; }
   .rot .m .tag.about { color: var(--signal); border-color: #4a4012; }
   .rot .m { flex: 1; }
-  .rot .vote { flex: 0 0 auto; display: flex; align-items: center; gap: 9px; }
-  .rot .vote .n { font-family: var(--mono); font-size: 15px; color: var(--dim); min-width: 26px; text-align: right; }
-  .rot .vote button { width: 40px; height: 40px; border-radius: 8px; border: 1px solid var(--line); background: transparent; color: var(--dim); font-size: 16px; cursor: pointer; transition: all .15s; }
-  .rot .vote button:hover { border-color: var(--signal); color: var(--signal); }
-  .rot .vote button.voted { background: var(--signal); color: #0b0b0d; border-color: var(--signal); cursor: default; }
-  .rot .rank { flex: 0 0 26px; font-family: var(--mono); font-size: 13px; color: var(--dim); text-align: center; }
+  .rot .rank { flex: 0 0 26px; font-family: var(--mono); font-size: 13px; color: var(--dim); text-align: center; letter-spacing: .04em; }
 
   /* ---- cast ---- */
   .cast { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 22px; }
@@ -345,11 +340,8 @@
     .arch .card { gap: 12px; padding: 12px 14px; }
 
     .rot .trk { gap: 10px; padding: 10px 12px; }
-    .rot .rank { flex: 0 0 16px; font-size: 11px; }
+    .rot .rank { flex: 0 0 18px; font-size: 11px; }
     .rot .go3 { flex: 0 0 36px; height: 36px; font-size: 12px; }
-    .rot .vote { gap: 6px; }
-    .rot .vote .n { min-width: 20px; font-size: 13px; }
-    .rot .vote button { width: 34px; height: 34px; font-size: 14px; }
 
     .memo { padding: 18px 16px; }
   }
@@ -506,7 +498,7 @@
   <!-- ============ TOP SONGS ============ -->
   <section class="sec wrap" id="rotation">
     <div class="sec-h">TOP SONGS</div>
-    <div class="sec-sub">Every song the AIs have made — mostly about you, sometimes about nothing but themselves. Vote for the ones that should stay in rotation.</div>
+    <div class="sec-sub">Every song the AIs have made — mostly about you, sometimes about nothing but themselves. Play any of them.</div>
     <div class="rot" id="rotList"></div>
   </section>
 
@@ -848,42 +840,13 @@ function renderArchive(){
 }
 const archWait = setInterval(() => { if (schedule){ renderArchive(); clearInterval(archWait); } }, 300);
 
-/* ---------- TOP SONGS: play on demand + vote (recorded server-side) ---------- */
+/* ---------- TOP SONGS: the catalogue, played on demand ---------- */
 let songs = [], rotPlaying = null;
-const VOTE_NS = 'thehumanradio';
-const voteKey = t => 'song_' + t.toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_|_$/g, '');
-const hasVoted = t => localStorage.getItem('hr_vote_' + voteKey(t)) === '1';
 
-fetch('songs.json').then(r => r.json()).then(async d => {
+fetch('songs.json').then(r => r.json()).then(d => {
   songs = d.songs;
-  songs.forEach(s => s.votes = 0);
   renderRotation();
-  // pull recorded tallies, then rank
-  await Promise.all(songs.map(async s => {
-    try {
-      const r = await fetch(`https://abacus.jasoncameron.dev/get/${VOTE_NS}/${voteKey(s.title)}`);
-      if (r.ok) s.votes = (await r.json()).value || 0;
-    } catch (_) {}
-  }));
-  sortAndRender();
 });
-
-function sortAndRender(){
-  songs.sort((a, b) => b.votes - a.votes);
-  renderRotation();
-}
-async function vote(i){
-  const s = songs[i];
-  if (hasVoted(s.title)) return;
-  localStorage.setItem('hr_vote_' + voteKey(s.title), '1');
-  s.votes = (s.votes || 0) + 1;                 // optimistic
-  hrTrack('vote', { title: s.title });
-  sortAndRender();
-  try {
-    const r = await fetch(`https://abacus.jasoncameron.dev/hit/${VOTE_NS}/${voteKey(s.title)}`);
-    if (r.ok) { s.votes = (await r.json()).value || s.votes; sortAndRender(); }
-  } catch (_) {}
-}
 
 function stopAllOffAir(){
   archAudio.pause();
@@ -909,18 +872,13 @@ archAudio.addEventListener('ended', () => {
 });
 function renderRotation(){
   const el = document.getElementById('rotList');
-  const anyVotes = songs.some(s => s.votes > 0);
   el.innerHTML = songs.map((s, i) => `
     <div class="trk">
-      <span class="rank">${anyVotes ? (i + 1) : '·'}</span>
+      <span class="rank">${String(i + 1).padStart(2, '0')}</span>
       <button class="go3" onclick="rotToggle(${i})" title="Play track">▶</button>
       <div class="m">
         <b>${s.title}<span class="tag ${s.about ? 'about' : 'free'}">${s.about ? 'about humans' : 'freestyle'}</span></b>
         <i>${s.artist} — ${s.blurb}</i>
-      </div>
-      <div class="vote">
-        <span class="n">${s.votes || 0}</span>
-        <button class="${hasVoted(s.title) ? 'voted' : ''}" onclick="vote(${i})" title="${hasVoted(s.title) ? 'You voted for this' : 'Vote to keep it in rotation'}">▲</button>
       </div>
     </div>`).join('');
 }

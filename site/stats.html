@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>human radio — traffic</title>
+<style>
+  :root{ --bg:#0b0b0d; --panel:#121319; --ink:#f4f1ea; --dim:#8a8578; --signal:#ffdb2c; --teal:#86bda8; --line:#20222b;
+         --mono:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace; }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  body{ background:var(--bg); color:var(--ink); font-family:var(--mono); line-height:1.5; padding:36px 20px 80px; }
+  .wrap{ max-width:820px; margin:0 auto; }
+  .top{ display:flex; justify-content:space-between; align-items:baseline; gap:12px; flex-wrap:wrap;
+        border-bottom:1px solid var(--line); padding-bottom:14px; margin-bottom:26px; }
+  .top h1{ font-size:13px; letter-spacing:.22em; text-transform:uppercase; font-weight:normal; color:var(--dim); }
+  .top h1 b{ color:var(--signal); font-weight:normal; }
+  .top .asof{ font-size:11px; color:var(--dim); letter-spacing:.06em; }
+  button{ background:none; border:1px solid var(--line); color:var(--dim); font-family:var(--mono); font-size:11px;
+          letter-spacing:.1em; text-transform:uppercase; padding:7px 14px; cursor:pointer; border-radius:3px; }
+  button:hover{ color:var(--signal); border-color:var(--signal); }
+
+  .hero-n{ font-size:64px; letter-spacing:.01em; color:var(--signal); line-height:1; }
+  .hero-l{ font-size:11px; letter-spacing:.24em; text-transform:uppercase; color:var(--dim); margin-top:8px; }
+  .split{ display:flex; gap:40px; flex-wrap:wrap; margin-top:6px; }
+  .split .u{ font-size:22px; color:var(--ink); }
+  .split .u small{ display:block; font-size:10px; letter-spacing:.18em; text-transform:uppercase; color:var(--dim); margin-top:4px; }
+
+  section{ margin-top:38px; }
+  .h{ font-size:11px; letter-spacing:.2em; text-transform:uppercase; color:var(--dim); margin-bottom:16px;
+      border-bottom:1px solid var(--line); padding-bottom:8px; }
+  .h b{ color:var(--ink); font-weight:normal; }
+
+  /* daily bars */
+  .days{ display:flex; align-items:flex-end; gap:5px; height:150px; }
+  .day{ flex:1; display:flex; flex-direction:column; align-items:center; gap:6px; height:100%; justify-content:flex-end; }
+  .day .bar{ width:100%; background:var(--signal); min-height:2px; border-radius:2px 2px 0 0; transition:height .3s; opacity:.85; }
+  .day.today .bar{ background:var(--teal); }
+  .day .v{ font-size:10px; color:var(--dim); }
+  .day .d{ font-size:9px; color:#5f5a4d; letter-spacing:.02em; }
+
+  /* horizontal breakdown rows */
+  .rows{ display:flex; flex-direction:column; gap:9px; }
+  .row{ display:grid; grid-template-columns:110px 1fr 52px; align-items:center; gap:12px; }
+  .row .k{ font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--dim); }
+  .row .track{ background:#0b0b0d; border:1px solid var(--line); height:22px; border-radius:3px; overflow:hidden; }
+  .row .fill{ height:100%; background:var(--signal); opacity:.8; min-width:2px; transition:width .3s; }
+  .row .fill.teal{ background:var(--teal); }
+  .row .n{ font-size:13px; color:var(--ink); text-align:right; }
+
+  .note{ margin-top:44px; font-size:11px; color:#5f5a4d; letter-spacing:.04em; line-height:1.9; border-top:1px solid var(--line); padding-top:18px; }
+  .note a{ color:var(--dim); }
+  .loading{ color:var(--dim); font-size:12px; letter-spacing:.1em; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="top">
+      <h1><b>human radio</b> · transmission traffic</h1>
+      <div style="display:flex; align-items:center; gap:14px;">
+        <span class="asof" id="asof">reading counters…</span>
+        <button id="refresh">↻ refresh</button>
+      </div>
+    </div>
+
+    <div id="content" class="loading">tuning in to the counters…</div>
+  </div>
+
+<script>
+const COUNTER = "https://abacus.jasoncameron.dev";
+const NS = "thehumanradio-live";
+
+async function getCount(key){
+  try{
+    const r = await fetch(`${COUNTER}/get/${NS}/${key}`);
+    if(!r.ok) return 0;
+    return (await r.json()).value || 0;
+  }catch(_){ return 0; }
+}
+
+function pad(n){ return (n<10?"0":"")+n; }
+function dayKeys(n){
+  const keys = [], labels = [];
+  const now = new Date();
+  for(let i=n-1;i>=0;i--){
+    const d = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()-i));
+    keys.push(`pv_${d.getUTCFullYear()}${pad(d.getUTCMonth()+1)}${pad(d.getUTCDate())}`);
+    labels.push(`${pad(d.getUTCDate())}/${pad(d.getUTCMonth()+1)}`);
+  }
+  return { keys, labels };
+}
+
+const REFS = [["x","X / Twitter"],["google","Google"],["reddit","Reddit"],["social","Other social"],["other","Other sites"],["direct","Direct"],["internal","Internal"]];
+const EVENTS = [["ev_tune_in","Pressed play (tune-in)","teal"],["ev_rotation_play","Played a song"],["ev_archive_play","Played from archive"],["ev_request_post","Posted a request"],["ev_share_moment","Shared a moment"],["ev_agent_mode","Switched to agent mode"]];
+
+async function load(){
+  document.getElementById("content").className = "loading";
+  document.getElementById("content").textContent = "tuning in to the counters…";
+
+  const { keys: dkeys, labels } = dayKeys(14);
+  const [ total, human, agent, days, refs, evs ] = await Promise.all([
+    getCount("pv_total"),
+    getCount("cls_human"),
+    getCount("cls_agent"),
+    Promise.all(dkeys.map(getCount)),
+    Promise.all(REFS.map(([k])=>getCount("ref_"+k))),
+    Promise.all(EVENTS.map(([k])=>getCount(k))),
+  ]);
+
+  const dayMax = Math.max(1, ...days);
+  const refMax = Math.max(1, ...refs);
+  const tuneIn = evs[0];
+  const playRate = total ? Math.round((tuneIn/total)*100) : 0;
+
+  const daysHtml = days.map((v,i)=>{
+    const isToday = i === days.length-1;
+    return `<div class="day${isToday?' today':''}">
+      <div class="v">${v||''}</div>
+      <div class="bar" style="height:${Math.max(2,(v/dayMax)*100)}%"></div>
+      <div class="d">${labels[i]}</div>
+    </div>`;
+  }).join("");
+
+  const refsHtml = REFS.map(([k,label],i)=>`
+    <div class="row"><span class="k">${label}</span>
+      <div class="track"><div class="fill" style="width:${(refs[i]/refMax)*100}%"></div></div>
+      <span class="n">${refs[i]}</span></div>`).join("");
+
+  const evMax = Math.max(1, ...evs);
+  const evsHtml = EVENTS.map(([k,label,cls],i)=>`
+    <div class="row"><span class="k">${label}</span>
+      <div class="track"><div class="fill ${cls||''}" style="width:${(evs[i]/evMax)*100}%"></div></div>
+      <span class="n">${evs[i]}</span></div>`).join("");
+
+  document.getElementById("content").className = "";
+  document.getElementById("content").innerHTML = `
+    <div class="hero-n">${total.toLocaleString()}</div>
+    <div class="hero-l">total pageviews (all time)</div>
+    <div class="split">
+      <div class="u">${human.toLocaleString()}<small>likely humans</small></div>
+      <div class="u">${agent.toLocaleString()}<small>likely agents / bots</small></div>
+      <div class="u">${playRate}%<small>pressed play</small></div>
+    </div>
+
+    <section>
+      <div class="h">Pageviews · <b>last 14 days</b> (UTC)</div>
+      <div class="days">${daysHtml}</div>
+    </section>
+
+    <section>
+      <div class="h">Where they came <b>from</b></div>
+      <div class="rows">${refsHtml}</div>
+    </section>
+
+    <section>
+      <div class="h">What they <b>did</b></div>
+      <div class="rows">${evsHtml}</div>
+    </section>
+  `;
+
+  const t = new Date();
+  document.getElementById("asof").textContent = "as of " + t.toLocaleTimeString();
+}
+
+document.getElementById("refresh").addEventListener("click", load);
+load();
+</script>
+</body>
+</html>
