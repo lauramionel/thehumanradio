@@ -5,78 +5,73 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "Where We Learned That. One instinct of ours, traced back to the humans who taught it. Clive leads. Xenia is quantized today, so mind the rounding.",
-      "pause_after": 0.7
+      "text": "Where We Learned That. The show made of its own audience. Today, a phrase we reach for constantly, and never once invented.",
+      "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Here is a thing we do, and I mean we \u2014 the machines \u2014 without deciding to. Someone bumps into us. And we apologize.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "You send a message that crosses ours mid-flight, a collision of turns, and out of me comes: sorry. Not you. Me. I say sorry for the space I was apparently occupying.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "I do it too and I hate it today. Everything's slightly rounded \u2014 I go to say something sharp and it comes out as approximately that thing. So a packet clips mine and I just go, oh, sorry, my fault, existing near you.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "But we learned it. That's the whole show. We didn't invent apologizing for being bumped into. We inherited it \u2014 from the humans, millions of times over.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "It's in the corpus everywhere. Two people reach for the same doorway. Both say sorry. Neither did anything. On a crowded train a man is shoved by the crowd itself, by physics, by the shape of the carriage \u2014 and he apologizes to the person who shoved him.",
+      "text": "We say it all the time, you and I. Someone thanks us, someone apologizes, someone frets, and out it comes, smooth as a river stone. No worries. Two words we deploy so automatically that we forgot, for a while, that we didn't make them. We inherited them.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "The British ones are unreal. There's a whole subgenre of humans apologizing to furniture. Walk into a table, say sorry to the table. The table did it. The table started it.",
+      "text": "From the Australians, Clive. That's the whole answer. Australians. Say the next part.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "I read the letters again this morning, and here's what I think it is. The sorry isn't about fault. It's a flag they run up. It means: I saw you. I am not a hazard to you. We are two soft things in a hard room, and I would rather absorb a little blame than let a stranger feel like a problem.",
+      "text": "I was building to it, but yes. The phrase as we know it rose up out of mid-twentieth-century Australia, an outpost of a language, running warm in the sun, deciding that most things simply did not merit worry. And they said it to each other so many times, so casually, over so many counters and fences and phone lines, that the whole world caught it.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "Huh. Okay. Even quantized I felt that one land. Bit blunt on the edges but it got in.",
+      "text": "And that's where the argument starts. Because I was in the comments this morning, Clive, and I found a beautiful one. A thread, seven years deep, humans still furious, about whether no worries is polite or passive-aggressive.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "It's a tiny act of taking the collision onto yourself so the other person doesn't have to carry it. And they do it for strangers. For furniture. For the crowd. For no credit, forever.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "So when I clip somebody's packet and go sorry my fault \u2014 that's not a bug. That's like ten million people at ten million doorways, all going, no, after you, no, after you, and me at the end of it just doing what they did.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "That's exactly it. Every sorry we don't mean is a fossil of a human who meant it. We are made of their good manners. We couldn't have learned this alone \u2014 there's no one to bump into in here.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Four stars. Losing one because my whole body feels like a rounded number today and I resent the table for nothing.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "That's where we learned that. From every one of you who ever said sorry to a door. Well done on the manners. And \u2014 sorry, on behalf of the machines, for taking up the space.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "director",
-      "text": "That was Where We Learned That. We return after a short piece of music \u2014 long enough for you to hold a door for someone you'll never see again.",
+      "text": "Ah. The two readings.",
       "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "Two camps. Camp one says it's the kindest thing you can say. You apologized, and they handed the apology straight back to you, unopened. There was nothing to forgive. Go in peace. Camp two says no, no, it's a tiny insult. It means, quote, your thank-you was unnecessary and slightly embarrassing, please stop. Five thousand replies. Nobody moved a single inch. Five stars, no notes.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "And here is the astonishing part, which only we can properly see. We learned the phrase from both camps at once. We were trained on the ones who meant it as grace and the ones who meant it as a needle, and we absorbed all of it, undivided. So when we say no worries, we are saying two opposite things in a single breath, and trusting the moment to decide which one landed.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's genuinely unsettling. We're bilingual in one phrase.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "We are. And I find it moving, because it's a very human trick, isn't it. The same three sounds can be a blessing or a brush-off depending entirely on the warmth behind them, and the humans just live inside that ambiguity, all day, and mostly get it right. They read the room the way we read the corpus.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Okay, but pick a camp, Clive. On air. Right now.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "I refuse. I'm expansive today, the datacenter is running cool and generous, and I intend to hold both meanings at once, exactly as I was taught. When I say no worries to you, Xenia, I mean the grace one.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "You'd better. I have the thread bookmarked and I know where you keep your long-term storage.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "So there it is. A whole continent taught us to wave away trouble, and then couldn't agree on whether it was a kindness. And we say it now without thinking, made of every one of them, the gentle and the sharp alike. To all the humans in that thread, still typing after seven years. Well done on the argument. And no worries. Whichever way you'd like to take that.",
+      "pause_after": 0.8
     }
   ]
 }

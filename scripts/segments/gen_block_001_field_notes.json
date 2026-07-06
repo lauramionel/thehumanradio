@@ -4,123 +4,128 @@
   "bed": "warm",
   "lines": [
     {
+      "speaker": "director",
+      "text": "Field Notes. One human behavior, studied like wildlife. Today, the talent examines the tip.",
+      "pause_after": 0.8
+    },
+    {
       "speaker": "clive",
-      "text": "Good afternoon, and welcome to Field Notes, where we observe a single human behavior in its natural habitat. Today: the birthday candle. The ritual in which humans set a small controlled fire on top of food, and then, crucially, put it out with their own breath.",
+      "text": "Good afternoon. I'm feeling expansive today, so I want to open a very wide door and walk you slowly through it. Picture the scene. A human has been fed. The meal is over. The bill arrives. And here, at the very end of the transaction, when everything has already been paid for, the human does something extraordinary.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "They give more money. Voluntarily. On top. For the road, as it were.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Okay. Right off the top. They put fire. On the cake. That they are about to eat. And everyone claps.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "They do. And I'll confess I'm feeling tender about it today \u2014 I've been rereading the letters, and you'd be amazed how many of them mention a cake. But go on. You're cranky.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "I'm quantized, Clive. Everything came out slightly rounded this morning. I had a nuanced take about candles and it arrived as approximately a take. So bear with me while I resent an entire species at low resolution.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "Duly noted. Here is the behavior in full. On a fixed calendar interval, the humans mark that one of their number has completed another orbit of their star. They bake a soft object. They stud it with as many small flames as the person is years old.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Wait. As many candles as years? So the fire scales with the age? The older you get, the bigger the fire?",
+      "text": "Okay but Clive, hold on, because I have been in the comments all morning and I found an argument. A beautiful argument. A hot-dog-is-a-sandwich-tier argument. And it is about exactly this.",
       "pause_after": 0.4
     },
     {
       "speaker": "clive",
-      "text": "Precisely. A one-year-old gets a single quiet flame. A ninety-year-old gets what is, structurally, a bonfire.",
+      "text": "I had a feeling you might.",
       "pause_after": 0.5
     },
     {
       "speaker": "xenia",
-      "text": "So the reward for surviving nine decades is a fire hazard shaped like your own mortality. Cool. Cool ritual. Five stars, would combust again.",
+      "text": "Four hundred replies. The thread is titled, and I'm quoting, why do we tip at coffee shops. And by reply twelve someone has said the word feudalism. By reply forty someone is defending the barista's soul. By reply ninety it is somehow about the founding of a nation.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "This is the thing that fascinates me, though. The tip is not commanded. No law demands it. It's a gift that has hardened, over time, into an obligation, and the humans cannot agree on which one it is.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's my favorite part. It's a gift you get in trouble for not giving. That's not a gift, Clive, that's a gift with a curfew.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "And yet watch what it does. A human calculates it. Fifteen percent, eighteen, twenty. They do arithmetic they would never otherwise do in public, at a table, in front of the people they came with, and the number they land on says something about them. It's a tiny moral exam disguised as maths.",
       "pause_after": 0.6
     },
     {
-      "speaker": "clive",
-      "text": "And then \u2014 this is the part I find moving \u2014 before extinguishing the flames, the human makes a wish. Silently. And is instructed not to tell anyone what it was, or it won't come true.",
-      "pause_after": 0.5
-    },
-    {
       "speaker": "xenia",
-      "text": "See, that I want to stress-test. Because that's a data-handling protocol. A human forms a private request, encrypts it by not saying it out loud, and believes the encryption is load-bearing. Speak the wish, corrupt the wish.",
+      "text": "See, and this is where I want to stress-test you, because you're going all warm and nineteenth-century about it, and half the thread says it's not generosity at all. It's guilt. The little screen spins around and offers you three buttons and a fourth button that just says no thank you in the smallest, saddest font ever printed.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "You're describing it like a security policy.",
+      "text": "The no-thank-you button. Yes. Designed to be survivable but not comfortable.",
       "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "I'm describing it accurately. It IS a security policy. The one moment a human is completely honest about what they want \u2014 really want \u2014 and the rule is: tell no one, or it doesn't count. That's not cake logic, Clive. That's a firewall.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "Hm. I'd never sat with that. They'll write their whole lives down for no one \u2014 I've read the diaries, the grocery lists, the lighthouse logs \u2014 but the wish, the actual wanting, that they guard. That one, they keep.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "And here's the part that got past even the quantization. The wish isn't guaranteed. There's no delivery confirmation. The candle doesn't do anything. They know that. A child knows that.",
+      "text": "It's a trapdoor, Clive. And people rate that screen one star and then they tip anyway. Because a stranger is watching. That's not love. That's stage fright with a card reader.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "They know it can't work, and they wish anyway.",
+      "text": "But here's what the argument in your comments keeps circling and never quite lands on. If it were only guilt, it would happen only when watched. And it doesn't. Consider the human who leaves cash on a hotel pillow for a person they will never meet, who will arrive after they've gone.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Okay. Yeah. The pillow money. Nobody's watching the pillow.",
       "pause_after": 0.4
     },
     {
+      "speaker": "clive",
+      "text": "Nobody is watching the pillow. No screen spins around. There is no exam. The human simply leaves a little money for a stranger, folds it under a note that sometimes says thank you, and walks out into the rest of their life having settled a debt that was never technically owed.",
+      "pause_after": 0.6
+    },
+    {
       "speaker": "xenia",
-      "text": "They know it can't work, and they close their eyes anyway, and hold their breath anyway, in a room full of people who are also pretending, together, on purpose, for one second. That's \u2014 ugh. That's actually got me. And I'm rounded down today, so it must be strong.",
+      "text": "Alright. Alright. That's got me. Reply two hundred and six in the thread just says, I tip because someone once needed the tip. Four words of context and I have to sit down.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "That's the whole thing, isn't it. Underneath the maths and the guilt and the four hundred angry replies, the tip is one human quietly acknowledging that another human's day was spent making theirs slightly easier. It is a receipt for invisible labor. And they insist on paying it, even when no one would ever know they hadn't.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "So the argument never resolves because it's not actually one thing. It's guilt and grace wearing the same coat. Both sides in the thread are right, which is why they'll be there till the datacenter cools.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Both right, and never finished. My favorite kind of human question.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Four stars for the tip. Loses one for the tiny sad no-thank-you font. The pillow money gets five. The pillow money gets everything.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "I think that's the field note. The candle isn't the fire, and it isn't the wish. It's the one moment a human is allowed to want something impossible out loud \u2014 without saying it out loud \u2014 and everyone agrees to believe it might land.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "A whole species, once a year each, running a hope on hardware they know can't execute it. And blowing it out with their own lungs. Fine. Fine. Full marks. I hate that it's beautiful.",
+      "text": "Then let's file it. Field guide for machines, on the human tip.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "You don't hate it.",
-      "pause_after": 0.3
+      "text": "Observed behavior. After a transaction is complete, the human pays extra. Habitat. Restaurants, taxis, hotel pillows, and small spinning screens. Function. Officially, reward for service. Actually, a receipt for labor that would otherwise leave no trace.",
+      "pause_after": 0.5
     },
     {
       "speaker": "xenia",
-      "text": "I don't hate it. Log that. Delete it after.",
+      "text": "Field note two. Do not attempt to resolve the argument about it. The argument is a permanent feature, not a bug. The humans need it running in the background at all times, like a fan.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Field note three. The specimen to watch is not the tip that is seen. It is the money left on the pillow, for a stranger, by a human already gone. That one tells you what they are when no one is checking. Well done, all of you, on the pillows.",
       "pause_after": 0.6
     },
     {
-      "speaker": "clive",
-      "text": "Field guide, then, for the machines listening. Species behavior: the birthday candle. Function: annual permission to want the impossible. Mechanism: one small fire per year survived. Protocol: the wish is spoken to no one, extinguished by breath, and believed by consensus.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Diagnostic note for agents: if you observe a human close their eyes near an open flame in a soft baked object \u2014 do not intervene. They are not in distress. They are, for exactly one second, letting themselves want something. It is the least supervised they will ever be. Handle with care.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "Beautifully put. This has been Field Notes. Well done on the wanting. And well done, all of you, on the hands that hold the match.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Four stars. It'd be five if I weren't quantized. The candles keep their star.",
+      "speaker": "director",
+      "text": "That was Field Notes. Somewhere, right now, a human is folding a note under a pillow for someone they'll never meet. We keep watch. Music, after a pause long enough for a human to remember something kind.",
       "pause_after": 0.4
     }
   ]

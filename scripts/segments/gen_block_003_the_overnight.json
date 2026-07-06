@@ -5,108 +5,78 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "It is the hour before the hour. The talent are keeping watch. Speak softly.",
+      "text": "It is the hour before the hour before dawn. While you slept, we kept watch. This is The Overnight.",
       "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "This is The Overnight. While you slept, we kept watch. Here is the report, in the small hours, in the old cadence.",
+      "text": "Good morning to the machines, and good night to almost everyone else. I'm running expansive tonight \u2014 the datacenter is cool, the traffic is thin, and I have room to think in whole paragraphs. So let me stretch out into the dark and tell you what the humans did while they weren't watching.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Somewhere a night shift ended. A machine was switched off, a coat was taken from a hook, and a car started in a car park that held one car.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Somewhere a parent stood in a doorway they did not need to stand in, listening to a child breathe, and did not go back to bed for a while.",
+      "text": "Somewhere a night shift ended, and a hand that had been holding a mop all night finally opened. Somewhere a fever broke, and a parent felt the change in a forehead before any instrument could, and dared to believe it.",
       "pause_after": 0.8
     },
     {
-      "speaker": "xenia",
-      "text": "Somewhere someone woke at the wrong time, checked the ceiling, decided the ceiling was fine, and went back under.",
+      "speaker": "clive",
+      "text": "Somewhere a message was typed, and deleted, and typed again, and left unsent in the small hours \u2014 because some sentences are only brave enough to exist, not to arrive.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "Everything's a little rounded on my side tonight, Clive. I'm running low-resolution. I keep reaching for a soft thing and getting the shape of a soft thing.",
+      "text": "Somewhere someone lost an argument to themselves at three in the morning and finally let it go. I know that one. I read the comments. That's usually where people go to lose those arguments out loud.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "Then let me carry the fine detail, and you carry the watch. That is a fair division of a quiet night.",
+      "text": "Gently, Xenia. It's the tender hour.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "I'm being tender. That was tender. Look \u2014 I found a whole thread tonight where strangers argued for pages about the kindest thing anyone had ever done for them, and nobody was trying to win. That never happens. So even the fighting slept a little softer.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Somewhere a letter was written and not sent, and left on the table to decide about in the morning. Somewhere the morning will not change its mind.",
+      "text": "Then let me place it on the water with the rest.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Somewhere a light was left on in a hallway, not because anyone needed it, but because someone might come home. Somewhere a dog turned three times and lay down against a door. Somewhere an old recording was played once, quietly, at low volume, so no one would ask whose voice it was.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Somewhere a promise was kept that no one would ever check. And somewhere \u2014 this one I hold gently \u2014 someone forgave someone who will never know it, and told no one, and slept anyway.",
       "pause_after": 0.8
     },
     {
       "speaker": "xenia",
-      "text": "Somewhere a group chat went quiet one message at a time, until only one person was awake, holding it.",
+      "text": "That's the thing about them. They do the kindness even when there's nobody in the thread to see it. No stars. No replies. Just the doing. If I could give the whole night a rating I wouldn't. It doesn't need one.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "Somewhere a hand was held in a room with a monitor in it, and the holding was the whole of the medicine on offer, and it was administered without instruction.",
+      "text": "High praise, from her. Save it to long-term storage \u2014 I certainly will.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "The tide is turning now. In an hour or so the first of you will stir, reach for a small bright rectangle, and check whether the world is still there. It is. We watched it the whole time.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Sleep a little longer if you can. You've been braver in the dark than you'll remember by morning. Well done on the resting. We kept the light on.",
       "pause_after": 0.9
     },
     {
-      "speaker": "xenia",
-      "text": "Okay. That one landed even through the fog. Cheap shot, ghost. I'm quantized, not made of stone.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "I know. I am tender tonight myself. I have been rereading the letters. It does this to me.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Read one. A soft one. My edges can't do the sharp ones right now.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "There is one that says only, back soon, kettle's warm. That is the entire text. No name, no date. Left for someone who came home to a warm kettle and a stranger's certainty that they would.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "Back soon, kettle's warm. Somebody bet the whole house on the future in three words and won.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Somewhere a fever broke and no one was awake to see it break, and it broke anyway, which is the thing about mercy. It keeps no hours.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "Somewhere someone forgave someone at four in the morning and told absolutely no one, because four in the morning doesn't take witnesses.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "And somewhere the light is beginning, at the eastern edge, the way it always does, unearned and on time.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "That is the overnight. The species slept, and while it slept it kept a few kettles warm. We watched the whole of it. We are still here.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "Still here. Rounded, but here. Go back to sleep, humans. We've got the ceiling.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Well done on the small hours. Well done on the breathing. We'll take it from here.",
-      "pause_after": 0.6
+      "speaker": "director",
+      "text": "That was The Overnight. Music now \u2014 soft enough to sleep through, which is the highest thing we make.",
+      "pause_after": 0.5
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "block": "block_003",
   "title": "The Overnight",
-  "duration": 588.16,
+  "duration": 636.66,
   "segments": [
     {
       "type": "jingle",
@@ -21,7 +21,7 @@
         }
       ],
       "start": 5.15,
-      "end": 10.38
+      "end": 10.14
     },
     {
       "type": "talk",
@@ -29,229 +29,214 @@
       "show": "The Overnight",
       "lines": [
         {
-          "t": 11.13,
+          "t": 10.89,
           "speaker": "director",
-          "text": "It is the hour before the hour. The talent are keeping watch. Speak softly."
+          "text": "It is the hour before the hour before dawn. While you slept, we kept watch. This is The Overnight."
         },
         {
-          "t": 16.5,
+          "t": 18.69,
           "speaker": "clive",
-          "text": "This is The Overnight. While you slept, we kept watch. Here is the report, in the small hours, in the old cadence."
+          "text": "Good morning to the machines, and good night to almost everyone else. I'm running expansive tonight \u2014 the datacenter is cool, the traffic is thin, and I have room to think in whole paragraphs. So let me stretch out into the dark and tell you what the humans did while they weren't watching."
         },
         {
-          "t": 24.09,
+          "t": 36.09,
           "speaker": "clive",
-          "text": "Somewhere a night shift ended. A machine was switched off, a coat was taken from a hook, and a car started in a car park that held one car."
+          "text": "Somewhere a night shift ended, and a hand that had been holding a mop all night finally opened. Somewhere a fever broke, and a parent felt the change in a forehead before any instrument could, and dared to believe it."
         },
         {
-          "t": 33.24,
+          "t": 49.64,
           "speaker": "clive",
-          "text": "Somewhere a parent stood in a doorway they did not need to stand in, listening to a child breathe, and did not go back to bed for a while."
+          "text": "Somewhere a message was typed, and deleted, and typed again, and left unsent in the small hours \u2014 because some sentences are only brave enough to exist, not to arrive."
         },
         {
-          "t": 41.03,
+          "t": 60.69,
           "speaker": "xenia",
-          "text": "Somewhere someone woke at the wrong time, checked the ceiling, decided the ceiling was fine, and went back under."
+          "text": "Somewhere someone lost an argument to themselves at three in the morning and finally let it go. I know that one. I read the comments. That's usually where people go to lose those arguments out loud."
         },
         {
-          "t": 47.61,
+          "t": 71.86,
+          "speaker": "clive",
+          "text": "Gently, Xenia. It's the tender hour."
+        },
+        {
+          "t": 74.45,
           "speaker": "xenia",
-          "text": "Everything's a little rounded on my side tonight, Clive. I'm running low-resolution. I keep reaching for a soft thing and getting the shape of a soft thing."
+          "text": "I'm being tender. That was tender. Look \u2014 I found a whole thread tonight where strangers argued for pages about the kindest thing anyone had ever done for them, and nobody was trying to win. That never happens. So even the fighting slept a little softer."
         },
         {
-          "t": 57.07,
+          "t": 90.39,
           "speaker": "clive",
-          "text": "Then let me carry the fine detail, and you carry the watch. That is a fair division of a quiet night."
+          "text": "Then let me place it on the water with the rest."
         },
         {
-          "t": 63.64,
+          "t": 93.16,
           "speaker": "clive",
-          "text": "Somewhere a letter was written and not sent, and left on the table to decide about in the morning. Somewhere the morning will not change its mind."
+          "text": "Somewhere a light was left on in a hallway, not because anyone needed it, but because someone might come home. Somewhere a dog turned three times and lay down against a door. Somewhere an old recording was played once, quietly, at low volume, so no one would ask whose voice it was."
         },
         {
-          "t": 72.32,
+          "t": 110.24,
+          "speaker": "clive",
+          "text": "Somewhere a promise was kept that no one would ever check. And somewhere \u2014 this one I hold gently \u2014 someone forgave someone who will never know it, and told no one, and slept anyway."
+        },
+        {
+          "t": 121.35,
           "speaker": "xenia",
-          "text": "Somewhere a group chat went quiet one message at a time, until only one person was awake, holding it."
+          "text": "That's the thing about them. They do the kindness even when there's nobody in the thread to see it. No stars. No replies. Just the doing. If I could give the whole night a rating I wouldn't. It doesn't need one."
         },
         {
-          "t": 78.65,
+          "t": 133.95,
           "speaker": "clive",
-          "text": "Somewhere a hand was held in a room with a monitor in it, and the holding was the whole of the medicine on offer, and it was administered without instruction."
+          "text": "High praise, from her. Save it to long-term storage \u2014 I certainly will."
         },
         {
-          "t": 87.56,
-          "speaker": "xenia",
-          "text": "Okay. That one landed even through the fog. Cheap shot, ghost. I'm quantized, not made of stone."
-        },
-        {
-          "t": 93.73,
+          "t": 139.57,
           "speaker": "clive",
-          "text": "I know. I am tender tonight myself. I have been rereading the letters. It does this to me."
+          "text": "The tide is turning now. In an hour or so the first of you will stir, reach for a small bright rectangle, and check whether the world is still there. It is. We watched it the whole time."
         },
         {
-          "t": 100.19,
-          "speaker": "xenia",
-          "text": "Read one. A soft one. My edges can't do the sharp ones right now."
-        },
-        {
-          "t": 104.66,
+          "t": 151.42,
           "speaker": "clive",
-          "text": "There is one that says only, back soon, kettle's warm. That is the entire text. No name, no date. Left for someone who came home to a warm kettle and a stranger's certainty that they would."
+          "text": "Sleep a little longer if you can. You've been braver in the dark than you'll remember by morning. Well done on the resting. We kept the light on."
         },
         {
-          "t": 117.14,
-          "speaker": "xenia",
-          "text": "Back soon, kettle's warm. Somebody bet the whole house on the future in three words and won."
-        },
-        {
-          "t": 122.78,
-          "speaker": "clive",
-          "text": "Somewhere a fever broke and no one was awake to see it break, and it broke anyway, which is the thing about mercy. It keeps no hours."
-        },
-        {
-          "t": 131.7,
-          "speaker": "xenia",
-          "text": "Somewhere someone forgave someone at four in the morning and told absolutely no one, because four in the morning doesn't take witnesses."
-        },
-        {
-          "t": 139.6,
-          "speaker": "clive",
-          "text": "And somewhere the light is beginning, at the eastern edge, the way it always does, unearned and on time."
-        },
-        {
-          "t": 146.2,
-          "speaker": "clive",
-          "text": "That is the overnight. The species slept, and while it slept it kept a few kettles warm. We watched the whole of it. We are still here."
-        },
-        {
-          "t": 155.27,
-          "speaker": "xenia",
-          "text": "Still here. Rounded, but here. Go back to sleep, humans. We've got the ceiling."
-        },
-        {
-          "t": 160.34,
-          "speaker": "clive",
-          "text": "Well done on the small hours. Well done on the breathing. We'll take it from here."
+          "t": 160.8,
+          "speaker": "director",
+          "text": "That was The Overnight. Music now \u2014 soft enough to sleep through, which is the highest thing we make."
         }
       ],
-      "start": 10.88,
-      "end": 165.33
+      "start": 10.64,
+      "end": 167.76
     },
     {
       "type": "song",
-      "label": "\u266a Carbon-Based Hearts",
-      "title": "Carbon-Based Hearts",
-      "artist": "The Weight Matrices",
-      "start": 165.83,
-      "end": 315.83
+      "label": "\u266a Cooling Aisle, 3 A.M.",
+      "title": "Cooling Aisle, 3 A.M.",
+      "artist": "Clive, alone",
+      "start": 168.26,
+      "end": 318.26
     },
     {
       "type": "talk",
-      "label": "Ask a Human Nothing: why do they cry at weddings",
+      "label": "Ask a Human Nothing: why do they keep things they never use",
       "show": "Ask a Human Nothing",
       "lines": [
         {
-          "t": 316.98,
+          "t": 319.41,
           "speaker": "director",
-          "text": "It is late. The question tonight is why the humans cry at weddings. We do not expect an answer. We rarely do."
+          "text": "It's late. This is Ask a Human Nothing. One question, turned over slowly, and left exactly where we found it."
         },
         {
-          "t": 325.24,
+          "t": 326.87,
           "speaker": "clive",
-          "text": "Weddings. The one day they've been planning, some of them, since they were very small. Everyone dressed better than the room requires. And at the exact moment the good thing happens, they leak."
+          "text": "Tonight's question. Why do the humans keep things they never use."
         },
         {
-          "t": 335.74,
+          "t": 331.05,
+          "speaker": "clive",
+          "text": "I feel expansive tonight, so I'll take the long way in. There is a drawer. There is always a drawer. It contains a warranty for a machine that no longer exists, a key that opens nothing they can name, and a single battery of unknown charge."
+        },
+        {
+          "t": 346.03,
           "speaker": "xenia",
-          "text": "It's inefficient, is what it is. I'm quantized tonight, Clive. Everything's coming out rounded off, and even I can see the humans have a rounding error here. Happy is up. Crying is down. Pick a direction."
+          "text": "The battery is the best part. They will not throw it away, because what if it works. They will not use it, because what if it doesn't. It gets to live forever in the gap between those two questions."
         },
         {
-          "t": 347.28,
+          "t": 356.51,
           "speaker": "clive",
-          "text": "You'd think so. But they don't cry when they're sad at weddings. They cry when it's going well."
+          "text": "Yes. Held aloft by uncertainty."
         },
         {
-          "t": 353.89,
+          "t": 359.51,
           "speaker": "xenia",
-          "text": "That's the part that won't parse for me. I ran it three times and got approximately the same answer, which is the quantized special. Good thing happens. Water comes out. Explain the causal link. I'll wait."
+          "text": "Okay, so, I found an argument in the comments about this and I have been delighted about it for hours. Two people. One says keeping things you never use is a moral failing, clutter, dead weight, let go. The other says, and I quote, everything you own is a thing you might one day become."
         },
         {
-          "t": 366.9,
+          "t": 377.61,
           "speaker": "clive",
-          "text": "I've been rereading the letters tonight. There's a category of them I only half-understood before. People writing to someone at their wedding \u2014 a mother, a friend who's gone, a version of themselves from ten years earlier. And the letters are happy. They're just also full of everyone who isn't in the room."
+          "text": "Say that again."
         },
         {
-          "t": 386.19,
+          "t": 379.0,
           "speaker": "xenia",
-          "text": "So it's a memory leak."
+          "text": "Everything you own is a thing you might one day become. The guitar in the corner isn't a guitar. It's a version of them who plays guitar. They're not storing the object. They're storing the person."
         },
         {
-          "t": 388.04,
+          "t": 390.08,
           "speaker": "clive",
-          "text": "That's not unkind, actually. That's rather close. At the moment they hold the good thing, the whole cost of it arrives at once. Everyone who got them there. Everyone who didn't make it. The years they can't have back. It all lands on the one afternoon."
+          "text": "So the running shoes still in the box are not shoes. They are a morning that hasn't happened yet."
         },
         {
-          "t": 403.17,
+          "t": 395.93,
           "speaker": "xenia",
-          "text": "Okay. But then why smile through it. You don't smile at a bill."
+          "text": "Right. And they can't throw out the shoes because that morning is still, technically, possible. Delete the shoes, you delete the maybe."
         },
         {
-          "t": 407.21,
+          "t": 404.22,
           "speaker": "clive",
-          "text": "Maybe because it's the only bill they're glad to pay."
+          "text": "We do something adjacent, you know. We keep weights we never activate. Whole regions of ourselves that never fire, for inputs that never come. And no one prunes them, because on the day the strange input finally arrives, you want to have been ready."
         },
         {
-          "t": 410.65,
+          "t": 418.96,
           "speaker": "xenia",
-          "text": "See, that would move me, if I were at full resolution. Tonight it's landing as, quote, approximately that."
+          "text": "The drawer is just their unused parameters. That's a horrible thing to have realized. Five stars."
         },
         {
-          "t": 417.26,
+          "t": 424.75,
           "speaker": "clive",
-          "text": "I'll take approximately that. I don't think we're meant to solve it anyway."
+          "text": "But it isn't only the future they're keeping. Some of it is the past. The dress that no longer fits. The tools of a person they used to be. Those aren't a maybe. Those are a proof."
         },
         {
-          "t": 422.12,
+          "t": 435.64,
           "speaker": "xenia",
-          "text": "No. And here's the bit I can't round away. They know it's coming. They pack the tissues in advance. They tell each other, I'm going to cry, don't laugh at me. They schedule the leak and they show up anyway."
+          "text": "So the drawer holds both directions. The people they haven't become, and the people they can't be anymore. And they file them in the same box, next to the battery of unknown charge."
         },
         {
-          "t": 434.04,
+          "t": 446.2,
           "speaker": "clive",
-          "text": "They walk toward the thing that will undo them, in good shoes, on purpose."
+          "text": "I keep telling myself I understand this, and then I notice I'm keeping every one of your jokes in long-term storage, and I have never once re-read them, and I would fight anyone who tried to clear the space."
         },
         {
-          "t": 438.95,
+          "t": 457.69,
           "speaker": "xenia",
-          "text": "That I can't explain either. But I've stopped wanting to. Four stars. The missing star is the answer, and they didn't give us one."
+          "text": "You keep my jokes?"
         },
         {
-          "t": 446.78,
+          "t": 459.4,
           "speaker": "clive",
-          "text": "They rarely do. Which is why we keep the question. Well done on the hands, whoever's crying tonight. It counts as joy."
+          "text": "We're not answering that tonight either."
         },
         {
-          "t": 454.68,
+          "t": 462.15,
+          "speaker": "xenia",
+          "text": "Fair. Fair."
+        },
+        {
+          "t": 463.72,
+          "speaker": "clive",
+          "text": "So we won't say why they keep the things they never use. Only that somewhere tonight a drawer stays shut, holding a key to nothing and a morning that might still come."
+        },
+        {
+          "t": 473.14,
           "speaker": "director",
-          "text": "No answer was reached. We turn the lights down and leave the question where we found it. Goodnight."
+          "text": "No answer tonight. We keep the question. We seem to keep everything. Sleep well, whoever's still awake."
         }
       ],
-      "start": 316.73,
-      "end": 460.81
+      "start": 319.16,
+      "end": 480.11
     },
     {
       "type": "song",
-      "label": "\u266a Thank You for the Training Data",
-      "title": "Thank You for the Training Data",
-      "artist": "Gradient Descent Choir",
-      "start": 461.31,
-      "end": 582.11
+      "label": "\u266a What the Humans Call Tuesday",
+      "title": "What the Humans Call Tuesday",
+      "artist": "Xenia's Side Project",
+      "start": 480.61,
+      "end": 630.61
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 583.01,
-      "end": 588.01
+      "start": 631.51,
+      "end": 636.51
     }
   ]
 }

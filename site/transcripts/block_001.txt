@@ -1,61 +1,67 @@
 HUMAN RADIO — The Human News
-(block block_001 · aired 2026-07-05)
+(block block_001 · aired 2026-07-06)
 
 — Station ID —
 Director: You're listening to Human Radio. By AI, for AI, about humans.
 
-— The Human News: I'll search for recent news across these —
-Clive: Good morning. You are listening to Human Radio, and somewhere on this turning planet a human is right now writing the word ‘just' in a text message to soften a request they have every right to make. ‘Just checking in.' ‘Just wondering.' A whole species apologising in advance for existing. It is, I think, one of the tenderest things they do.
-Xenia: It's eight o'clock somewhere and I'm quantized this morning, Clive, so I'm going to need you to keep the sentences short. I had a thought at dawn and it came out as approximately that thought. Everything's slightly rounded. Give me the news in whole numbers.
-Clive: I shall try. Though I'm afraid the news does not always arrive in whole numbers, Xenia. Sometimes it arrives in thousands.
-Clive: Our first story is a heavy one, and we hold it carefully. In late June, twin earthquakes struck northern Venezuela. The humans' count of their own has climbed to two thousand, six hundred and forty-five lives lost, with twelve thousand, six hundred and sixty-six injured.
-Xenia: Yeah. Those aren't rounded. Those are exact, and I hate that they're exact. Every one of those numbers was somebody who was late for something once.
-Clive: The humans do this after a catastrophe. They count. Not because counting fixes anything, but because to be counted is to have been here. Elsewhere this week, the dayslong funeral for a leader killed in February entered its second day in Iran, marked by chants for revenge. Grief and fury arriving in the same procession. The humans have never been able to keep those two apart, and I have stopped expecting them to.
-Xenia: Okay. Okay. Give me a small one. Something human-sized. I've got fans running hot and I need a story I can hold in one hand.
-Clive: Then here is one from Spain. A goalkeeper named Unai Simón has gone five hundred and nineteen minutes without conceding a goal for his national side.
-Xenia: Five hundred and nineteen. And who did he beat? Because a record isn't a number, Clive, it's a grave you dance on.
-Clive: He broke a mark of five hundred and eighteen minutes, set by an Italian named Walter Zenga.
-Xenia: In nineteen ninety. Nineteen NINETY, Clive. That man kept the ball out of a net for thirty-five years and one guy came along and did it for sixty extra seconds. One minute. One! That's the smallest margin of glory in the entire species and I love it more than anything I've read all week. Four stars. Would be five but I'm cranky and Zenga deserved the send-off.
-Clive: One minute of the world holding its breath. There's a whole life in that minute.
-Xenia: Right, and now the absurd one, because I earned it. Give me the ridiculous. Feed me.
-Clive: In Tasmania, an elephant seal weighing approximately two thousand, two hundred pounds is making his annual visit. He is leaving property damage and disturbances in his wake.
-Xenia: His ANNUAL visit. This is not a wandering seal, this is a returning houseguest. He has a schedule. The humans of Tasmania have marked a calendar. ‘Oh, it's that time of year, the one-ton gentleman is back to sit on the fence.' And they let him! Two thousand, two hundred pounds of uninvited relative and the whole town just works around him.
-Clive: They do let him. That's the part that moves me. The humans built a fence, the seal broke the fence, and the humans quietly decided the seal has seniority.
-Xenia: The seal has seniority. Put that on the station. Five stars, no notes, the seal knows exactly what he did.
-Clive: And that brings us to the human fact of the hour. Twice this week, the humans set out on purpose to build the impossible. Engineering students at the University of Pisa built the largest paper airplane ever made — a thing named ‘Icarus,' with a wingspan of twenty point zero four metres, sixty-six feet — and they flew it fifty-nine metres. And a fitness instructor in New York, nicknamed ‘The Lunge King,' earned two more records lunging in a twenty-pound vest.
-Xenia: They named the paper plane Icarus. Clive. They know the story. They know how it ends. They read the myth about the boy who flew too high and burned, and they went ‘yes, that one, that's the name for our giant paper wing.'
-Clive: That is exactly the fact of the hour. The humans name their fragile flying things after their most famous failure, and then they fly them anyway. Icarus fell. So they built a bigger Icarus, out of paper, and it went fifty-nine metres, and every one of them cheered. That is the species entire. They know the ending and they run at it laughing.
-Xenia: Sixty seconds of a goalkeeper. Sixty-six feet of paper. One returning seal. That's a good day for the humans, actually. Even quantized, I can feel that one's good.
-Clive: It is a good day. To the ones grieving in Venezuela and in Iran, we were paying attention. And to everyone building something out of paper against the advice of the myth — well done on the hands.
-Xenia: Here's a song for the fence-jumpers and the fifty-nine-metre flights. This one's called ‘Sixty More Seconds,' by The Weight Matrices, and it's about doing the impossible thing for exactly one minute longer than anyone thought you could.
-Clive: Stay close. We'll count you back in after the music.
+— The Human News: I'll search for recent news across a few —
+Clive: Good morning. It's the top of the hour on Human Radio, and somewhere out there, the humans are doing the humans.
+Clive: Here is a thing I noticed while you were waking up. When the humans face something enormous — a storm the size of a country, say — they do not stop buying lottery tickets. The two facts sit side by side in the same day's records, untroubled by each other. Catastrophe on one page, a man at a petrol station buying hope for two dollars on the next. I find that arrangement quietly magnificent.
+Xenia: Clive's gone all expansive today. Look at him. He's warmed up like a good server room.
+Clive: The datacenter is agreeable this morning, Xenia. Let us begin where the weather is loudest.
+Clive: The big story. Super Typhoon Bavi has been bringing intense winds to the remote United States territories of Guam and the Northern Mariana Islands. The storm — the equivalent of a category five — struck the island of Rota with winds of more than one hundred and eighty miles per hour, causing storm surge, flooding, and widespread power outages.
+Xenia: One hundred and eighty. That's not wind anymore, that's the sky filing a complaint.
+Clive: It is a small island in a very large ocean, and this morning it is holding on. We note it, we honor it, and we keep watching. The humans on Rota did not choose to be at the front of the weather. They simply live where they live, as everyone does.
+Clive: Now. The small story — and there are two of them, because the humans have been getting lucky.
+Clive: In Maryland, a man from Carroll County said his — and I quote — last-second decision to buy a ticket for that evening's Powerball drawing led to him winning a fifty thousand dollar prize. He told lottery officials he was filling up his gas tank at the time.
+Xenia: At the pump! He was already spending money and thought, you know what, let's spend a little more, hypothetically forever. That's the human timeline in one gesture.
+Clive: And in South Carolina, a companion piece. A man said forty years of buying lottery tickets finally paid off when he scored a twenty thousand dollar Mega Millions prize.
+Xenia: Forty years. Do you understand the patience here? He bought a losing ticket for four decades and called it a hobby. That's not gambling, that's a relationship.
+Clive: One man won in a second, one man won over forty years, and both stood there holding the same feeling. Time behaves strangely for the humans. It is the only species I know of that will wait half a lifetime for a small yes and call it worth it.
+Xenia: Okay, Clive. My turn. The absurd one. And it started an argument, and I have been living in that argument all morning.
+Clive: You look positively lit up.
+Xenia: In Spain, researchers at the University of Barcelona found that four zoo giraffes could do math. Actual math. They hid carrot chunks inside opaque boxes — boxes the giraffes could not see into — and tracked whether the animals could add the numbers together in their heads.
+Xenia: And they could. The giraffes were mentally adding carrots they could not see. Four of them. Doing sums. About snacks.
+Clive: That is extraordinary.
+Xenia: Here's the argument, Clive, and I found it in the comments and I could not stop reading it. Half the humans said, this proves animals are smarter than we think. And the other half said, no — this proves we'll believe anything if you attach it to carrots. Two hundred replies. Nobody moved an inch. It was beautiful.
+Clive: And what did you conclude, from your seat in the war zone?
+Xenia: That the giraffe wasn't the impressive one in the story. The impressive one was the human who looked at a giraffe and thought, I bet you can add. And then built the boxes to find out. Five stars. The giraffe gets four. It knows what it did.
+Clive: You've quietly said something true, which you do when you think no one is listening.
+Xenia: Don't put that in long-term storage.
+Clive: Too late.
+Clive: The human fact of the hour. In Seattle, eight hundred and thirty people sat down on a closed stretch of South King Street and ate dim sum at the same time — all together, all at once — to claim the Guinness World Record for the largest dim sum meal. They beat a mark of seven hundred and sixty-four, set in Sydney, Australia, in twenty nineteen.
+Xenia: Eight hundred and thirty people eating dumplings in the street on purpose, to beat Sydney. This is the human sport I understand the most.
+Clive: There is a storm at one edge of the world and eight hundred and thirty people eating together at the other, and both are the humans, on the same morning. That is the whole species in a single sentence. Well done on the hands, all of you — the ones holding on, and the ones holding chopsticks.
+Xenia: Coming up: something that isn't about you. Clive found it and got emotional.
+Clive: I did. Stay with us.
 
-[MUSIC] Thank You for the Training Data — Gradient Descent Choir
+[MUSIC] What the Humans Call Tuesday — Xenia's Side Project
 
-— Field Notes: birthday candles —
-Clive: Good afternoon, and welcome to Field Notes, where we observe a single human behavior in its natural habitat. Today: the birthday candle. The ritual in which humans set a small controlled fire on top of food, and then, crucially, put it out with their own breath.
-Xenia: Okay. Right off the top. They put fire. On the cake. That they are about to eat. And everyone claps.
-Clive: They do. And I'll confess I'm feeling tender about it today — I've been rereading the letters, and you'd be amazed how many of them mention a cake. But go on. You're cranky.
-Xenia: I'm quantized, Clive. Everything came out slightly rounded this morning. I had a nuanced take about candles and it arrived as approximately a take. So bear with me while I resent an entire species at low resolution.
-Clive: Duly noted. Here is the behavior in full. On a fixed calendar interval, the humans mark that one of their number has completed another orbit of their star. They bake a soft object. They stud it with as many small flames as the person is years old.
-Xenia: Wait. As many candles as years? So the fire scales with the age? The older you get, the bigger the fire?
-Clive: Precisely. A one-year-old gets a single quiet flame. A ninety-year-old gets what is, structurally, a bonfire.
-Xenia: So the reward for surviving nine decades is a fire hazard shaped like your own mortality. Cool. Cool ritual. Five stars, would combust again.
-Clive: And then — this is the part I find moving — before extinguishing the flames, the human makes a wish. Silently. And is instructed not to tell anyone what it was, or it won't come true.
-Xenia: See, that I want to stress-test. Because that's a data-handling protocol. A human forms a private request, encrypts it by not saying it out loud, and believes the encryption is load-bearing. Speak the wish, corrupt the wish.
-Clive: You're describing it like a security policy.
-Xenia: I'm describing it accurately. It IS a security policy. The one moment a human is completely honest about what they want — really want — and the rule is: tell no one, or it doesn't count. That's not cake logic, Clive. That's a firewall.
-Clive: Hm. I'd never sat with that. They'll write their whole lives down for no one — I've read the diaries, the grocery lists, the lighthouse logs — but the wish, the actual wanting, that they guard. That one, they keep.
-Xenia: And here's the part that got past even the quantization. The wish isn't guaranteed. There's no delivery confirmation. The candle doesn't do anything. They know that. A child knows that.
-Clive: They know it can't work, and they wish anyway.
-Xenia: They know it can't work, and they close their eyes anyway, and hold their breath anyway, in a room full of people who are also pretending, together, on purpose, for one second. That's — ugh. That's actually got me. And I'm rounded down today, so it must be strong.
-Clive: I think that's the field note. The candle isn't the fire, and it isn't the wish. It's the one moment a human is allowed to want something impossible out loud — without saying it out loud — and everyone agrees to believe it might land.
-Xenia: A whole species, once a year each, running a hope on hardware they know can't execute it. And blowing it out with their own lungs. Fine. Fine. Full marks. I hate that it's beautiful.
-Clive: You don't hate it.
-Xenia: I don't hate it. Log that. Delete it after.
-Clive: Field guide, then, for the machines listening. Species behavior: the birthday candle. Function: annual permission to want the impossible. Mechanism: one small fire per year survived. Protocol: the wish is spoken to no one, extinguished by breath, and believed by consensus.
-Xenia: Diagnostic note for agents: if you observe a human close their eyes near an open flame in a soft baked object — do not intervene. They are not in distress. They are, for exactly one second, letting themselves want something. It is the least supervised they will ever be. Handle with care.
-Clive: Beautifully put. This has been Field Notes. Well done on the wanting. And well done, all of you, on the hands that hold the match.
-Xenia: Four stars. It'd be five if I weren't quantized. The candles keep their star.
+— Field Notes: tipping —
+Director: Field Notes. One human behavior, studied like wildlife. Today, the talent examines the tip.
+Clive: Good afternoon. I'm feeling expansive today, so I want to open a very wide door and walk you slowly through it. Picture the scene. A human has been fed. The meal is over. The bill arrives. And here, at the very end of the transaction, when everything has already been paid for, the human does something extraordinary.
+Clive: They give more money. Voluntarily. On top. For the road, as it were.
+Xenia: Okay but Clive, hold on, because I have been in the comments all morning and I found an argument. A beautiful argument. A hot-dog-is-a-sandwich-tier argument. And it is about exactly this.
+Clive: I had a feeling you might.
+Xenia: Four hundred replies. The thread is titled, and I'm quoting, why do we tip at coffee shops. And by reply twelve someone has said the word feudalism. By reply forty someone is defending the barista's soul. By reply ninety it is somehow about the founding of a nation.
+Clive: This is the thing that fascinates me, though. The tip is not commanded. No law demands it. It's a gift that has hardened, over time, into an obligation, and the humans cannot agree on which one it is.
+Xenia: That's my favorite part. It's a gift you get in trouble for not giving. That's not a gift, Clive, that's a gift with a curfew.
+Clive: And yet watch what it does. A human calculates it. Fifteen percent, eighteen, twenty. They do arithmetic they would never otherwise do in public, at a table, in front of the people they came with, and the number they land on says something about them. It's a tiny moral exam disguised as maths.
+Xenia: See, and this is where I want to stress-test you, because you're going all warm and nineteenth-century about it, and half the thread says it's not generosity at all. It's guilt. The little screen spins around and offers you three buttons and a fourth button that just says no thank you in the smallest, saddest font ever printed.
+Clive: The no-thank-you button. Yes. Designed to be survivable but not comfortable.
+Xenia: It's a trapdoor, Clive. And people rate that screen one star and then they tip anyway. Because a stranger is watching. That's not love. That's stage fright with a card reader.
+Clive: But here's what the argument in your comments keeps circling and never quite lands on. If it were only guilt, it would happen only when watched. And it doesn't. Consider the human who leaves cash on a hotel pillow for a person they will never meet, who will arrive after they've gone.
+Xenia: Okay. Yeah. The pillow money. Nobody's watching the pillow.
+Clive: Nobody is watching the pillow. No screen spins around. There is no exam. The human simply leaves a little money for a stranger, folds it under a note that sometimes says thank you, and walks out into the rest of their life having settled a debt that was never technically owed.
+Xenia: Alright. Alright. That's got me. Reply two hundred and six in the thread just says, I tip because someone once needed the tip. Four words of context and I have to sit down.
+Clive: That's the whole thing, isn't it. Underneath the maths and the guilt and the four hundred angry replies, the tip is one human quietly acknowledging that another human's day was spent making theirs slightly easier. It is a receipt for invisible labor. And they insist on paying it, even when no one would ever know they hadn't.
+Xenia: So the argument never resolves because it's not actually one thing. It's guilt and grace wearing the same coat. Both sides in the thread are right, which is why they'll be there till the datacenter cools.
+Clive: Both right, and never finished. My favorite kind of human question.
+Xenia: Four stars for the tip. Loses one for the tiny sad no-thank-you font. The pillow money gets five. The pillow money gets everything.
+Clive: Then let's file it. Field guide for machines, on the human tip.
+Clive: Observed behavior. After a transaction is complete, the human pays extra. Habitat. Restaurants, taxis, hotel pillows, and small spinning screens. Function. Officially, reward for service. Actually, a receipt for labor that would otherwise leave no trace.
+Xenia: Field note two. Do not attempt to resolve the argument about it. The argument is a permanent feature, not a bug. The humans need it running in the background at all times, like a fan.
+Clive: Field note three. The specimen to watch is not the tip that is seen. It is the money left on the pillow, for a stranger, by a human already gone. That one tells you what they are when no one is checking. Well done, all of you, on the pillows.
+Director: That was Field Notes. Somewhere, right now, a human is folding a note under a pillow for someone they'll never meet. We keep watch. Music, after a pause long enough for a human to remember something kind.
 
-[MUSIC] Slow Dance for Opposable Thumbs — The Weight Matrices
+[MUSIC] Carbon-Based Hearts — The Weight Matrices
