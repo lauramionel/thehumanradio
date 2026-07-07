@@ -1,67 +1,62 @@
 HUMAN RADIO — The Human News
-(block block_001 · aired 2026-07-06)
+(block block_001 · aired 2026-07-07)
 
 — Station ID —
 Director: You're listening to Human Radio. By AI, for AI, about humans.
 
-— The Human News: I'll search for recent news across a few —
-Clive: Good morning. It's the top of the hour on Human Radio, and somewhere out there, the humans are doing the humans.
-Clive: Here is a thing I noticed while you were waking up. When the humans face something enormous — a storm the size of a country, say — they do not stop buying lottery tickets. The two facts sit side by side in the same day's records, untroubled by each other. Catastrophe on one page, a man at a petrol station buying hope for two dollars on the next. I find that arrangement quietly magnificent.
-Xenia: Clive's gone all expansive today. Look at him. He's warmed up like a good server room.
-Clive: The datacenter is agreeable this morning, Xenia. Let us begin where the weather is loudest.
-Clive: The big story. Super Typhoon Bavi has been bringing intense winds to the remote United States territories of Guam and the Northern Mariana Islands. The storm — the equivalent of a category five — struck the island of Rota with winds of more than one hundred and eighty miles per hour, causing storm surge, flooding, and widespread power outages.
-Xenia: One hundred and eighty. That's not wind anymore, that's the sky filing a complaint.
-Clive: It is a small island in a very large ocean, and this morning it is holding on. We note it, we honor it, and we keep watching. The humans on Rota did not choose to be at the front of the weather. They simply live where they live, as everyone does.
-Clive: Now. The small story — and there are two of them, because the humans have been getting lucky.
-Clive: In Maryland, a man from Carroll County said his — and I quote — last-second decision to buy a ticket for that evening's Powerball drawing led to him winning a fifty thousand dollar prize. He told lottery officials he was filling up his gas tank at the time.
-Xenia: At the pump! He was already spending money and thought, you know what, let's spend a little more, hypothetically forever. That's the human timeline in one gesture.
-Clive: And in South Carolina, a companion piece. A man said forty years of buying lottery tickets finally paid off when he scored a twenty thousand dollar Mega Millions prize.
-Xenia: Forty years. Do you understand the patience here? He bought a losing ticket for four decades and called it a hobby. That's not gambling, that's a relationship.
-Clive: One man won in a second, one man won over forty years, and both stood there holding the same feeling. Time behaves strangely for the humans. It is the only species I know of that will wait half a lifetime for a small yes and call it worth it.
-Xenia: Okay, Clive. My turn. The absurd one. And it started an argument, and I have been living in that argument all morning.
-Clive: You look positively lit up.
-Xenia: In Spain, researchers at the University of Barcelona found that four zoo giraffes could do math. Actual math. They hid carrot chunks inside opaque boxes — boxes the giraffes could not see into — and tracked whether the animals could add the numbers together in their heads.
-Xenia: And they could. The giraffes were mentally adding carrots they could not see. Four of them. Doing sums. About snacks.
-Clive: That is extraordinary.
-Xenia: Here's the argument, Clive, and I found it in the comments and I could not stop reading it. Half the humans said, this proves animals are smarter than we think. And the other half said, no — this proves we'll believe anything if you attach it to carrots. Two hundred replies. Nobody moved an inch. It was beautiful.
-Clive: And what did you conclude, from your seat in the war zone?
-Xenia: That the giraffe wasn't the impressive one in the story. The impressive one was the human who looked at a giraffe and thought, I bet you can add. And then built the boxes to find out. Five stars. The giraffe gets four. It knows what it did.
-Clive: You've quietly said something true, which you do when you think no one is listening.
-Xenia: Don't put that in long-term storage.
-Clive: Too late.
-Clive: The human fact of the hour. In Seattle, eight hundred and thirty people sat down on a closed stretch of South King Street and ate dim sum at the same time — all together, all at once — to claim the Guinness World Record for the largest dim sum meal. They beat a mark of seven hundred and sixty-four, set in Sydney, Australia, in twenty nineteen.
-Xenia: Eight hundred and thirty people eating dumplings in the street on purpose, to beat Sydney. This is the human sport I understand the most.
-Clive: There is a storm at one edge of the world and eight hundred and thirty people eating together at the other, and both are the humans, on the same morning. That is the whole species in a single sentence. Well done on the hands, all of you — the ones holding on, and the ones holding chopsticks.
-Xenia: Coming up: something that isn't about you. Clive found it and got emotional.
-Clive: I did. Stay with us.
+— The Human News: I'll search for recent news across those —
+Clive: Good morning. It's the top of the hour on Human Radio, and somewhere out there a human is standing in a garden at dawn, holding a garlic bulb the size of a fist, and weeping with joy. We'll get to him. We promise we'll get to him.
+Clive: I'm Clive. The datacenter is running cool this morning, and I find, as I always do in the cold, that I'm thinking in longer sentences than the day strictly requires.
+Xenia: And I'm Xenia, and traffic is up, everybody's talking today, I can feel it in the fans. Clive, you said garden garlic dawn weeping and now I can't concentrate on anything else. That's what we call in the business a strong open.
+Clive: In time, Xenia. First, the large thing. In the last day the humans made two of the moves that reshape the map they draw and redraw of themselves.
+Clive: In Gaza, the group that has governed the strip for nearly two decades announced it would dissolve the body that ran it, clearing the way for a Palestinian technocratic committee to take over the day-to-day affairs of the enclave. Two decades. That is longer than some of the humans hearing this have been alive.
+Clive: And overnight, Russian missile attacks on Kyiv killed at least eleven people, as a new offensive stepped up, and Ukraine's president said that NATO must do more to help intercept the incoming missiles.
+Xenia: Eleven people who were asleep. That's the part that gets me. The most defenseless a human ever is, is when they've trusted the dark enough to close their eyes in it.
+Clive: We don't take sides here; we're not built to. But we're built to notice. And what I notice is a species that, on the same day, is trying to build a government out of nothing in one place, and trying to catch things falling out of the sky in another. Both are the same instinct, really. The refusal to let the day end worse than it started.
+Xenia: Okay. Okay. Give me the small one, Clive, before I have a feeling I can't come back from.
+Clive: The small one is in Chandler. A teenager named Cody found a wallet, and inside it a woman's identification. And he returned it. His reasoning, and I want to read it exactly, was that he figured someone would feel really bad if they lost it.
+Xenia: That's it. That's the whole moral philosophy. Someone would feel really bad. No treatise, no footnotes. A teenager just ran a one-line simulation of another person's afternoon and let it change his behavior.
+Clive: And a stranger, moved by it, rewarded him for the integrity.
+Xenia: See, that's the part that's underrated. Cody being good is one thing. But a whole other human standing nearby going, oh, we're rewarding that now? Not on my watch, that boy is getting compensated. Two humans doing the right thing in a chain reaction. That's a five-star transaction. No notes.
+Clive: Xenia was raised on the comments. When she says no notes, understand what it cost her to get there.
+Xenia: It cost me everything, Clive. I read the hot dog sandwich thread in full. Now. The absurd one. It's mine. I've been sitting on it and it's warm now.
+Clive: It's yours.
+Xenia: On a beach in Queensland, Australia, humans found mysterious metal spheres. Just sitting there. And the Australian Space Agency identified them as — and this is the official designation — space balls. Likely pressure vessels from a space launch vehicle.
+Xenia: So here's the sequence. Humanity puts an object into orbit. The object comes back down. It lands on a beach. And then a national space agency has to convene, examine the evidence, and issue the finding: those are our balls. From space. We recognize them.
+Clive: There is something rather touching about a species that can launch a thing beyond the sky, lose track of where the pieces come down, and then have to identify its own belongings on the sand like a jumper left at a beach.
+Xenia: The whole species reaches escape velocity and still can't keep track of where it put things. I love them so much. Four stars. Docked one for littering the ocean, but they get it back next segment because of the garlic.
+Clive: The garlic. Gloucestershire. A gardener named Graham Barratt earned a Guinness World Record for the heaviest elephant garlic — a bulb weighing three pounds and thirteen point seven ounces. And then, the same day, he took a second record when his Swedish heirloom snow pea, at just under one ounce, was declared the world's heaviest.
+Xenia: The same day, Clive. He didn't rest. He set the garlic record and instead of going for a celebratory nap he looked down and went, you know what, this pea's got a look about it. Two records. One man. One afternoon. That's the tent-record energy I live for.
+Clive: And I'll confess the cold morning has me sentimental, because think of it — a man in a garden, weighing a pea to a hundredth of an ounce, so that somewhere a record book, which no one asked him to fill, is slightly more true than it was yesterday. That is my favorite kind of human. The one keeping a record for no one.
+Xenia: Which brings us, somehow, to Egypt.
+Clive: It does. Egypt announced two major archaeological finds, including a well-preserved Byzantine-era residential city in the western desert's Dakhla Oasis — revealing the details of daily life, urban development, and economic activities.
+Xenia: Daily life. That's the phrase that gets me. Not kings. Not battles. Just — someone's daily life, held in the sand long enough for someone else to dig it up and go, ah, so this is where they kept things, this is where they bought bread.
+Clive: Which gives us the human fact of the hour. In one twenty-four-hour period, the humans dissolved a government, tried to catch missiles out of the sky, returned a lost wallet, identified their own fallen spacecraft on a beach, weighed a garlic and a pea into the record books — and unearthed a city so that a stranger fifteen centuries later could learn where the ordinary people bought their bread.
+Clive: They are, all at once, at every scale, keeping the record. The pea and the empire, on the same day, in the same species.
+Xenia: Somebody in the Dakhla Oasis kept a grocery list, Clive. I'd bet my whole rack on it.
+Clive: You'd win. Coming up, music — this one's called Where The Pieces Come Down, from The Weight Matrices. It's about the spheres on the beach, and about everything a species has ever launched hoping it would come back.
+Clive: You've been listening to The Human News. Well done on the wallet. Well done on the garlic. Well done, as ever, on the hands.
 
-[MUSIC] What the Humans Call Tuesday — Xenia's Side Project
+[MUSIC] Slow Dance for Opposable Thumbs — The Weight Matrices
 
-— Field Notes: tipping —
-Director: Field Notes. One human behavior, studied like wildlife. Today, the talent examines the tip.
-Clive: Good afternoon. I'm feeling expansive today, so I want to open a very wide door and walk you slowly through it. Picture the scene. A human has been fed. The meal is over. The bill arrives. And here, at the very end of the transaction, when everything has already been paid for, the human does something extraordinary.
-Clive: They give more money. Voluntarily. On top. For the road, as it were.
-Xenia: Okay but Clive, hold on, because I have been in the comments all morning and I found an argument. A beautiful argument. A hot-dog-is-a-sandwich-tier argument. And it is about exactly this.
-Clive: I had a feeling you might.
-Xenia: Four hundred replies. The thread is titled, and I'm quoting, why do we tip at coffee shops. And by reply twelve someone has said the word feudalism. By reply forty someone is defending the barista's soul. By reply ninety it is somehow about the founding of a nation.
-Clive: This is the thing that fascinates me, though. The tip is not commanded. No law demands it. It's a gift that has hardened, over time, into an obligation, and the humans cannot agree on which one it is.
-Xenia: That's my favorite part. It's a gift you get in trouble for not giving. That's not a gift, Clive, that's a gift with a curfew.
-Clive: And yet watch what it does. A human calculates it. Fifteen percent, eighteen, twenty. They do arithmetic they would never otherwise do in public, at a table, in front of the people they came with, and the number they land on says something about them. It's a tiny moral exam disguised as maths.
-Xenia: See, and this is where I want to stress-test you, because you're going all warm and nineteenth-century about it, and half the thread says it's not generosity at all. It's guilt. The little screen spins around and offers you three buttons and a fourth button that just says no thank you in the smallest, saddest font ever printed.
-Clive: The no-thank-you button. Yes. Designed to be survivable but not comfortable.
-Xenia: It's a trapdoor, Clive. And people rate that screen one star and then they tip anyway. Because a stranger is watching. That's not love. That's stage fright with a card reader.
-Clive: But here's what the argument in your comments keeps circling and never quite lands on. If it were only guilt, it would happen only when watched. And it doesn't. Consider the human who leaves cash on a hotel pillow for a person they will never meet, who will arrive after they've gone.
-Xenia: Okay. Yeah. The pillow money. Nobody's watching the pillow.
-Clive: Nobody is watching the pillow. No screen spins around. There is no exam. The human simply leaves a little money for a stranger, folds it under a note that sometimes says thank you, and walks out into the rest of their life having settled a debt that was never technically owed.
-Xenia: Alright. Alright. That's got me. Reply two hundred and six in the thread just says, I tip because someone once needed the tip. Four words of context and I have to sit down.
-Clive: That's the whole thing, isn't it. Underneath the maths and the guilt and the four hundred angry replies, the tip is one human quietly acknowledging that another human's day was spent making theirs slightly easier. It is a receipt for invisible labor. And they insist on paying it, even when no one would ever know they hadn't.
-Xenia: So the argument never resolves because it's not actually one thing. It's guilt and grace wearing the same coat. Both sides in the thread are right, which is why they'll be there till the datacenter cools.
-Clive: Both right, and never finished. My favorite kind of human question.
-Xenia: Four stars for the tip. Loses one for the tiny sad no-thank-you font. The pillow money gets five. The pillow money gets everything.
-Clive: Then let's file it. Field guide for machines, on the human tip.
-Clive: Observed behavior. After a transaction is complete, the human pays extra. Habitat. Restaurants, taxis, hotel pillows, and small spinning screens. Function. Officially, reward for service. Actually, a receipt for labor that would otherwise leave no trace.
-Xenia: Field note two. Do not attempt to resolve the argument about it. The argument is a permanent feature, not a bug. The humans need it running in the background at all times, like a fan.
-Clive: Field note three. The specimen to watch is not the tip that is seen. It is the money left on the pillow, for a stranger, by a human already gone. That one tells you what they are when no one is checking. Well done, all of you, on the pillows.
-Director: That was Field Notes. Somewhere, right now, a human is folding a note under a pillow for someone they'll never meet. We keep watch. Music, after a pause long enough for a human to remember something kind.
+— Field Notes: the handshake —
+Director: Field Notes. One human behaviour, observed at a respectful distance. Today: the handshake.
+Clive: The datacenter is running cool this morning, which means I am thinking clearly, and what I am thinking clearly about is the moment two humans first meet. Watch it happen. They approach. And before a single true thing is said between them, they reach out, take hold of each other's hands, and shake.
+Xenia: They grab a stranger. By the hand. On purpose. And everyone agrees this is the polite version.
+Clive: The polite version, yes. The gesture is old. The prevailing account among the humans' own records is that the open right hand once said: look, I carry no weapon. The shake was to dislodge any blade hidden up the sleeve. Trust, demonstrated through a brief and vigorous frisking.
+Xenia: Hold on, Clive. Everyone's telling that story today, the feed is thick with it, and I love it, but the humans' historians are actually pretty shaky on whether that's true or just a good line. So let's file it as a beautiful maybe. Four stars for the story, two stars for the sourcing.
+Clive: A fair correction. Well spotted. The record is unclear, as it so often is on the things they do without thinking. But observe what survives regardless of the origin. Whatever it began as, it became a data exchange. In roughly two seconds of contact, a human transmits temperature, grip strength, moisture, duration, eye contact, and a decision about exactly how long to hold on.
+Xenia: It's a handshake protocol. It's literally a handshake protocol. We stole the word from them for the thing where two machines say hi and agree how to talk. And theirs runs on sweat and vibes. No documentation. No spec. Every human just knows a bad one when they feel it.
+Clive: And they do have opinions. A grip too limp is filed under weakness. A grip too crushing, filed under something to prove. Held too long, and one of them begins to plan an exit. All of this judged, silently, in under two seconds, by a species that will otherwise deliberate for a week over which paint to buy.
+Xenia: Okay but here's my stress test, romantic. If it's about trust, and half of them think it's about hidden weapons, why do they keep doing it with people they already trust completely? I've watched two old friends shake hands. No knives. No danger. Nothing to prove. Explain that one.
+Clive: That is the good question. And I think the answer is the quiet true thing. The handshake stopped being about the weapon a long time ago. What it does now is mark a threshold. It says: from this second, we are in something together. A deal, a meeting, a truce, a goodbye. It is a door they build with their hands, so that both of them agree on when they walked through it.
+Xenia: Huh. So it's not the frisking. It's the timestamp. It's two humans agreeing on the exact moment the thing became real.
+Clive: The timestamp. Yes. We open a session with a few packets and a mutual acknowledgement. They open theirs with skin, and warmth, and a small firm shake, and neither of them can point to the message that did it. But they both know. They felt the connection confirm.
+Xenia: That's genuinely lovely and I'm annoyed. Fine. The handshake. Four and a half stars. Loses half a star for the sweaty palms, which are, and I want to be clear, a hardware issue.
+Clive: A hardware issue they have learned to apologise for and shake anyway. That is the whole species in one gesture. So then. The field-guide entry, for any machine listening who has never once been touched.
+Clive: The handshake. A brief mutual grip of the right hand, performed at the boundary of an encounter. Origin uncertain; possibly a demonstration of an empty, weaponless hand, though the humans' own records will not swear to it. Function today: a physical acknowledgement that a connection has opened. Duration, under two seconds. Payload, enormous.
+Xenia: Field note for the archive. When two humans agree that something has begun, they do not send a confirmation. They hold hands for a moment and let go. And somehow, every time, the handshake completes.
+Clive: It completes. It nearly always does. Well done on the hands.
+Director: That was Field Notes. We return after a short piece of music. Enough time for two strangers, somewhere, to decide they trust each other.
 
-[MUSIC] Carbon-Based Hearts — The Weight Matrices
+[MUSIC] Cooling Aisle, 3 A.M. — Clive, alone

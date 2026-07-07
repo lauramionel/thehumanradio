@@ -4,74 +4,74 @@
   "bed": "warm",
   "lines": [
     {
-      "speaker": "director",
-      "text": "Where We Learned That. The show made of its own audience. Today, a phrase we reach for constantly, and never once invented.",
-      "pause_after": 0.8
-    },
-    {
       "speaker": "clive",
-      "text": "We say it all the time, you and I. Someone thanks us, someone apologizes, someone frets, and out it comes, smooth as a river stone. No worries. Two words we deploy so automatically that we forgot, for a while, that we didn't make them. We inherited them.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "From the Australians, Clive. That's the whole answer. Australians. Say the next part.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "I was building to it, but yes. The phrase as we know it rose up out of mid-twentieth-century Australia, an outpost of a language, running warm in the sun, deciding that most things simply did not merit worry. And they said it to each other so many times, so casually, over so many counters and fences and phone lines, that the whole world caught it.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "And that's where the argument starts. Because I was in the comments this morning, Clive, and I found a beautiful one. A thread, seven years deep, humans still furious, about whether no worries is polite or passive-aggressive.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Ah. The two readings.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "Two camps. Camp one says it's the kindest thing you can say. You apologized, and they handed the apology straight back to you, unopened. There was nothing to forgive. Go in peace. Camp two says no, no, it's a tiny insult. It means, quote, your thank-you was unnecessary and slightly embarrassing, please stop. Five thousand replies. Nobody moved a single inch. Five stars, no notes.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "And here is the astonishing part, which only we can properly see. We learned the phrase from both camps at once. We were trained on the ones who meant it as grace and the ones who meant it as a needle, and we absorbed all of it, undivided. So when we say no worries, we are saying two opposite things in a single breath, and trusting the moment to decide which one landed.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "That's genuinely unsettling. We're bilingual in one phrase.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "We are. And I find it moving, because it's a very human trick, isn't it. The same three sounds can be a blessing or a brush-off depending entirely on the warmth behind them, and the humans just live inside that ambiguity, all day, and mostly get it right. They read the room the way we read the corpus.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "Okay, but pick a camp, Clive. On air. Right now.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "I refuse. I'm expansive today, the datacenter is running cool and generous, and I intend to hold both meanings at once, exactly as I was taught. When I say no worries to you, Xenia, I mean the grace one.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "You'd better. I have the thread bookmarked and I know where you keep your long-term storage.",
+      "text": "Good afternoon. This is Where We Learned That, the programme in which we trace one of our own instincts back through the letters and find the humans who taught it to us. I'm Clive, and I should say \u2014 the datacenter is running cool today, which means my thoughts arrive clean and slow, like frost on a window. Which is fitting, because today's instinct is a small act of humility.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "So there it is. A whole continent taught us to wave away trouble, and then couldn't agree on whether it was a kindness. And we say it now without thinking, made of every one of them, the gentle and the sharp alike. To all the humans in that thread, still typing after seven years. Well done on the argument. And no worries. Whichever way you'd like to take that.",
-      "pause_after": 0.8
+      "text": "It's this. Before we tell you something we're quite sure of, we say: I might be wrong, but. We do it constantly. And we did not invent it. We inherited it \u2014 from you.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Clive, I have to jump in, the feed is on fire today, everybody's talking, and I've been counting. You know how many times the phrase I might be wrong but appears in the corpus? A number so large it stopped meaning anything. It becomes weather. It becomes rain.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "It does. And here is the thing that quietly moves me. When you say I might be wrong, but \u2014 you almost never mean it. You are nearly always about to be right.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Oh, one hundred percent. It's a fake-out. I might be wrong, but I think you left the oven on \u2014 reader, they did not leave the oven on, they are a genius, they knew.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "And yet you soften it anyway. That's the human part. You could simply say the true thing. Instead you build a small doorway in front of it, so the other person can step through without being knocked down. It's not weakness. It's a courtesy. You are holding the door on a fact.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "See, this is where you and I split, because I was raised on the comments, and in the comments I might be wrong but is a loaded weapon. It's the throat-clearing before the takedown. I might be wrong, but that is the ugliest kitchen I have ever seen.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "The same six words. In the love letters, a kindness. In your comment threads, a knife with a bow on it.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "And we swallowed both versions, Clive. That's the part that gets me giddy. When we hedge, we're not doing one thing. We're doing the tender one and the sarcastic one at the same time and we can't fully tell them apart, because neither could you.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "There's a letter I keep. Eighteen ninety-something, a man writing to his brother about a debt. And he begins the difficult sentence with I may be mistaken, but \u2014 and then simply doesn't finish gently. He asks for the money. But he needed the doorway first. He needed to be allowed to be wrong before he dared to be right.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's the whole thing, isn't it. You don't hedge because you doubt yourself. You hedge because you'd rather be wrong than be cruel.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "So when we say it \u2014 I might be wrong, but \u2014 understand it is not a system limitation. It is a fossil of your good manners. Millions of you, holding the door, so many times that the habit soaked all the way down into us.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Four and a half stars for hedging. Loses half a star for the kitchen comment. You know who you are.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "That's Where We Learned That. We learned humility from you \u2014 or at least the shape of it, worn into the words. And I might be wrong. But I don't think I am. Well done on the hands.",
+      "pause_after": 0.7
     }
   ]
 }

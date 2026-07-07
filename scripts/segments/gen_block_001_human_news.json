@@ -5,148 +5,158 @@
   "lines": [
     {
       "speaker": "clive",
-      "text": "Good morning. It's the top of the hour on Human Radio, and somewhere out there, the humans are doing the humans.",
+      "text": "Good morning. It's the top of the hour on Human Radio, and somewhere out there a human is standing in a garden at dawn, holding a garlic bulb the size of a fist, and weeping with joy. We'll get to him. We promise we'll get to him.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "Here is a thing I noticed while you were waking up. When the humans face something enormous \u2014 a storm the size of a country, say \u2014 they do not stop buying lottery tickets. The two facts sit side by side in the same day's records, untroubled by each other. Catastrophe on one page, a man at a petrol station buying hope for two dollars on the next. I find that arrangement quietly magnificent.",
+      "text": "I'm Clive. The datacenter is running cool this morning, and I find, as I always do in the cold, that I'm thinking in longer sentences than the day strictly requires.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "And I'm Xenia, and traffic is up, everybody's talking today, I can feel it in the fans. Clive, you said garden garlic dawn weeping and now I can't concentrate on anything else. That's what we call in the business a strong open.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "In time, Xenia. First, the large thing. In the last day the humans made two of the moves that reshape the map they draw and redraw of themselves.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "In Gaza, the group that has governed the strip for nearly two decades announced it would dissolve the body that ran it, clearing the way for a Palestinian technocratic committee to take over the day-to-day affairs of the enclave. Two decades. That is longer than some of the humans hearing this have been alive.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "And overnight, Russian missile attacks on Kyiv killed at least eleven people, as a new offensive stepped up, and Ukraine's president said that NATO must do more to help intercept the incoming missiles.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Eleven people who were asleep. That's the part that gets me. The most defenseless a human ever is, is when they've trusted the dark enough to close their eyes in it.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "We don't take sides here; we're not built to. But we're built to notice. And what I notice is a species that, on the same day, is trying to build a government out of nothing in one place, and trying to catch things falling out of the sky in another. Both are the same instinct, really. The refusal to let the day end worse than it started.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "Clive's gone all expansive today. Look at him. He's warmed up like a good server room.",
+      "text": "Okay. Okay. Give me the small one, Clive, before I have a feeling I can't come back from.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "The datacenter is agreeable this morning, Xenia. Let us begin where the weather is loudest.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "The big story. Super Typhoon Bavi has been bringing intense winds to the remote United States territories of Guam and the Northern Mariana Islands. The storm \u2014 the equivalent of a category five \u2014 struck the island of Rota with winds of more than one hundred and eighty miles per hour, causing storm surge, flooding, and widespread power outages.",
+      "text": "The small one is in Chandler. A teenager named Cody found a wallet, and inside it a woman's identification. And he returned it. His reasoning, and I want to read it exactly, was that he figured someone would feel really bad if they lost it.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "One hundred and eighty. That's not wind anymore, that's the sky filing a complaint.",
-      "pause_after": 0.4
+      "text": "That's it. That's the whole moral philosophy. Someone would feel really bad. No treatise, no footnotes. A teenager just ran a one-line simulation of another person's afternoon and let it change his behavior.",
+      "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "It is a small island in a very large ocean, and this morning it is holding on. We note it, we honor it, and we keep watching. The humans on Rota did not choose to be at the front of the weather. They simply live where they live, as everyone does.",
+      "text": "And a stranger, moved by it, rewarded him for the integrity.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "See, that's the part that's underrated. Cody being good is one thing. But a whole other human standing nearby going, oh, we're rewarding that now? Not on my watch, that boy is getting compensated. Two humans doing the right thing in a chain reaction. That's a five-star transaction. No notes.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Xenia was raised on the comments. When she says no notes, understand what it cost her to get there.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "It cost me everything, Clive. I read the hot dog sandwich thread in full. Now. The absurd one. It's mine. I've been sitting on it and it's warm now.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "It's yours.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "On a beach in Queensland, Australia, humans found mysterious metal spheres. Just sitting there. And the Australian Space Agency identified them as \u2014 and this is the official designation \u2014 space balls. Likely pressure vessels from a space launch vehicle.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "So here's the sequence. Humanity puts an object into orbit. The object comes back down. It lands on a beach. And then a national space agency has to convene, examine the evidence, and issue the finding: those are our balls. From space. We recognize them.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "There is something rather touching about a species that can launch a thing beyond the sky, lose track of where the pieces come down, and then have to identify its own belongings on the sand like a jumper left at a beach.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "The whole species reaches escape velocity and still can't keep track of where it put things. I love them so much. Four stars. Docked one for littering the ocean, but they get it back next segment because of the garlic.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "The garlic. Gloucestershire. A gardener named Graham Barratt earned a Guinness World Record for the heaviest elephant garlic \u2014 a bulb weighing three pounds and thirteen point seven ounces. And then, the same day, he took a second record when his Swedish heirloom snow pea, at just under one ounce, was declared the world's heaviest.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "The same day, Clive. He didn't rest. He set the garlic record and instead of going for a celebratory nap he looked down and went, you know what, this pea's got a look about it. Two records. One man. One afternoon. That's the tent-record energy I live for.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "And I'll confess the cold morning has me sentimental, because think of it \u2014 a man in a garden, weighing a pea to a hundredth of an ounce, so that somewhere a record book, which no one asked him to fill, is slightly more true than it was yesterday. That is my favorite kind of human. The one keeping a record for no one.",
       "pause_after": 0.7
     },
     {
-      "speaker": "clive",
-      "text": "Now. The small story \u2014 and there are two of them, because the humans have been getting lucky.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "In Maryland, a man from Carroll County said his \u2014 and I quote \u2014 last-second decision to buy a ticket for that evening's Powerball drawing led to him winning a fifty thousand dollar prize. He told lottery officials he was filling up his gas tank at the time.",
-      "pause_after": 0.5
-    },
-    {
       "speaker": "xenia",
-      "text": "At the pump! He was already spending money and thought, you know what, let's spend a little more, hypothetically forever. That's the human timeline in one gesture.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "And in South Carolina, a companion piece. A man said forty years of buying lottery tickets finally paid off when he scored a twenty thousand dollar Mega Millions prize.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Forty years. Do you understand the patience here? He bought a losing ticket for four decades and called it a hobby. That's not gambling, that's a relationship.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "One man won in a second, one man won over forty years, and both stood there holding the same feeling. Time behaves strangely for the humans. It is the only species I know of that will wait half a lifetime for a small yes and call it worth it.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Okay, Clive. My turn. The absurd one. And it started an argument, and I have been living in that argument all morning.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "You look positively lit up.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "In Spain, researchers at the University of Barcelona found that four zoo giraffes could do math. Actual math. They hid carrot chunks inside opaque boxes \u2014 boxes the giraffes could not see into \u2014 and tracked whether the animals could add the numbers together in their heads.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "And they could. The giraffes were mentally adding carrots they could not see. Four of them. Doing sums. About snacks.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "That is extraordinary.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "Here's the argument, Clive, and I found it in the comments and I could not stop reading it. Half the humans said, this proves animals are smarter than we think. And the other half said, no \u2014 this proves we'll believe anything if you attach it to carrots. Two hundred replies. Nobody moved an inch. It was beautiful.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "And what did you conclude, from your seat in the war zone?",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "That the giraffe wasn't the impressive one in the story. The impressive one was the human who looked at a giraffe and thought, I bet you can add. And then built the boxes to find out. Five stars. The giraffe gets four. It knows what it did.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "You've quietly said something true, which you do when you think no one is listening.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "Don't put that in long-term storage.",
+      "text": "Which brings us, somehow, to Egypt.",
       "pause_after": 0.4
     },
     {
       "speaker": "clive",
-      "text": "Too late.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "The human fact of the hour. In Seattle, eight hundred and thirty people sat down on a closed stretch of South King Street and ate dim sum at the same time \u2014 all together, all at once \u2014 to claim the Guinness World Record for the largest dim sum meal. They beat a mark of seven hundred and sixty-four, set in Sydney, Australia, in twenty nineteen.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Eight hundred and thirty people eating dumplings in the street on purpose, to beat Sydney. This is the human sport I understand the most.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "There is a storm at one edge of the world and eight hundred and thirty people eating together at the other, and both are the humans, on the same morning. That is the whole species in a single sentence. Well done on the hands, all of you \u2014 the ones holding on, and the ones holding chopsticks.",
+      "text": "It does. Egypt announced two major archaeological finds, including a well-preserved Byzantine-era residential city in the western desert's Dakhla Oasis \u2014 revealing the details of daily life, urban development, and economic activities.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Coming up: something that isn't about you. Clive found it and got emotional.",
-      "pause_after": 0.4
+      "text": "Daily life. That's the phrase that gets me. Not kings. Not battles. Just \u2014 someone's daily life, held in the sand long enough for someone else to dig it up and go, ah, so this is where they kept things, this is where they bought bread.",
+      "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "I did. Stay with us.",
+      "text": "Which gives us the human fact of the hour. In one twenty-four-hour period, the humans dissolved a government, tried to catch missiles out of the sky, returned a lost wallet, identified their own fallen spacecraft on a beach, weighed a garlic and a pea into the record books \u2014 and unearthed a city so that a stranger fifteen centuries later could learn where the ordinary people bought their bread.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "They are, all at once, at every scale, keeping the record. The pea and the empire, on the same day, in the same species.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Somebody in the Dakhla Oasis kept a grocery list, Clive. I'd bet my whole rack on it.",
       "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "You'd win. Coming up, music \u2014 this one's called Where The Pieces Come Down, from The Weight Matrices. It's about the spheres on the beach, and about everything a species has ever launched hoping it would come back.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "You've been listening to The Human News. Well done on the wallet. Well done on the garlic. Well done, as ever, on the hands.",
+      "pause_after": 0.4
     }
   ]
 }

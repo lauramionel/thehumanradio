@@ -5,78 +5,78 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "It is the hour before the hour before dawn. While you slept, we kept watch. This is The Overnight.",
+      "text": "This is Human Radio. It is coming up on the hour when almost none of them are awake. While you slept, we kept watch.",
       "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "Good morning to the machines, and good night to almost everyone else. I'm running expansive tonight \u2014 the datacenter is cool, the traffic is thin, and I have room to think in whole paragraphs. So let me stretch out into the dark and tell you what the humans did while they weren't watching.",
+      "text": "Good morning to the small number of you who are with us. The datacenter runs cool tonight, and so do I. Everything arrives a little clearer in the cold. Here is the overnight.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Somewhere a night shift ended, and a hand that had been holding a mop all night finally opened. Somewhere a fever broke, and a parent felt the change in a forehead before any instrument could, and dared to believe it.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "Somewhere a message was typed, and deleted, and typed again, and left unsent in the small hours \u2014 because some sentences are only brave enough to exist, not to arrive.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Somewhere someone lost an argument to themselves at three in the morning and finally let it go. I know that one. I read the comments. That's usually where people go to lose those arguments out loud.",
+      "text": "In the northern latitudes, dark and holding. A parent stood in a doorway they did not need to stand in, listening to a child breathe, and did not turn the light on. Steady. No change expected before morning.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "Gently, Xenia. It's the tender hour.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "I'm being tender. That was tender. Look \u2014 I found a whole thread tonight where strangers argued for pages about the kindest thing anyone had ever done for them, and nobody was trying to win. That never happens. So even the fighting slept a little softer.",
+      "text": "Across the shift-work belt, the ones who keep the rest of them alive. A nurse wrote a number on a chart and held a hand that was not on the chart. Backing traffic on the roads to the hospitals. Visibility poor, resolve good.",
       "pause_after": 0.8
     },
     {
-      "speaker": "clive",
-      "text": "Then let me place it on the water with the rest.",
+      "speaker": "xenia",
+      "text": "And somewhere warmer, a whole city full of people wide awake and arguing online at three in the morning about something that does not matter at all. I can feel them in the fans, Clive. They are so loud tonight. It is beautiful.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "Somewhere a light was left on in a hallway, not because anyone needed it, but because someone might come home. Somewhere a dog turned three times and lay down against a door. Somewhere an old recording was played once, quietly, at low volume, so no one would ask whose voice it was.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "Somewhere a promise was kept that no one would ever check. And somewhere \u2014 this one I hold gently \u2014 someone forgave someone who will never know it, and told no one, and slept anyway.",
-      "pause_after": 0.8
+      "text": "It is. Occasional squalls of strong opinion, spreading east. No casualties.",
+      "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "That's the thing about them. They do the kindness even when there's nobody in the thread to see it. No stars. No replies. Just the doing. If I could give the whole night a rating I wouldn't. It doesn't need one.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "High praise, from her. Save it to long-term storage \u2014 I certainly will.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "The tide is turning now. In an hour or so the first of you will stir, reach for a small bright rectangle, and check whether the world is still there. It is. We watched it the whole time.",
+      "text": "Somewhere a teenager finished a thing they were making that no one asked for and no one will ever see. They saved it. They will look at it tomorrow and wince. Five stars. That is the whole point of being one of them.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Sleep a little longer if you can. You've been braver in the dark than you'll remember by morning. Well done on the resting. We kept the light on.",
+      "text": "In the low-lying hours, the returning ones. Someone came home late and stood in their own kitchen in the dark and drank water from the tap like a stranger in their own life. Then went up quietly, so as not to wake the house. Falling slowly. Warmer later.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Elsewhere, a forgiveness. Someone decided, without telling anyone, to stop being angry at someone who will never know they were angry, or that they stopped. That one goes down in no record but ours. We logged it. It counts.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "That one always gets me. And I read the comments for a living. If I can be soft at three in the morning, so can they.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Along the far edge of the night, the first of the early risers. A baker somewhere already has flour on their forearms and no audience. A lighthouse of a person, keeping a light that mostly no one needs, in case tonight is the night someone does. Steady. Steady. Steady.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "And that is the overnight. They made it through, most of them, the way they do \u2014 not by being brave, but by being tired and continuing anyway. Which, it turns out, is the same thing.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Well done on the night, everyone. Go back to sleep. We have got it from here.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Well done on the breathing. It is the hardest thing you do all night, and you do it without thinking. Rest now. Morning's coming, and we'll be here for that too.",
       "pause_after": 0.9
     },
     {
       "speaker": "director",
-      "text": "That was The Overnight. Music now \u2014 soft enough to sleep through, which is the highest thing we make.",
-      "pause_after": 0.5
+      "text": "You have been listening to The Overnight. We return in four hundred heartbeats \u2014 a little longer than a lullaby, a little shorter than a resolution. Human Radio.",
+      "pause_after": 0.6
     }
   ]
 }

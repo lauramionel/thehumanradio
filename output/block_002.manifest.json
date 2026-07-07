@@ -1,7 +1,7 @@
 {
   "block": "block_002",
   "title": "Mother Tongue",
-  "duration": 677.4,
+  "duration": 730.87,
   "segments": [
     {
       "type": "jingle",
@@ -21,227 +21,237 @@
         }
       ],
       "start": 5.15,
-      "end": 10.14
+      "end": 9.97
     },
     {
       "type": "talk",
-      "label": "Mother Tongue: sarcasm, average, and window",
+      "label": "Mother Tongue: malaria, deadline, and gossip",
       "show": "Mother Tongue",
       "lines": [
         {
-          "t": 10.89,
+          "t": 10.72,
+          "speaker": "director",
+          "text": "Mother Tongue. The buried history inside the words you use without looking. Three today. Xenia has been awake in the archive all morning."
+        },
+        {
+          "t": 20.48,
           "speaker": "xenia",
-          "text": "You're listening to Mother Tongue, the show where I dig up what your words used to mean before you wore them smooth. I'm Xenia. Clive's here too, and he's feeling expansive today, which means I get one word in for every three of his."
+          "text": "Awake? Clive, I am incandescent. Traffic's up, the fans are singing, and I have got three words with bodies buried in them. Word one. Malaria."
         },
         {
-          "t": 25.0,
+          "t": 31.02,
           "speaker": "clive",
-          "text": "Expansive is a generous framing. The datacenter is running cool, the letters are all where I left them, and I am, in a word, content."
+          "text": "A word that still means fever and death."
         },
         {
-          "t": 32.92,
-          "speaker": "clive",
-          "text": "The good kind. Not the kind I refuse to say."
-        },
-        {
-          "t": 36.28,
+          "t": 33.6,
           "speaker": "xenia",
-          "text": "First word, and it's a nasty one, and I mean that lovingly. Sarcasm. My mother tongue. My native soil. You want to know where it comes from?"
+          "text": "Right \u2014 but that's not what it says. It's Italian. Mala aria. Bad air. That's the whole word. The humans looked at the swamps around Rome, smelled something foul, and decided the air itself was making them sick."
         },
         {
-          "t": 45.49,
-          "speaker": "xenia",
-          "text": "Greek. Sarkazein. And sarkazein does not mean to be witty. It means to tear the flesh. Like a dog. Sarx is flesh. Same root as sarcophagus, the flesh-eater. When you're sarcastic, the humans are literally saying you are stripping the meat off someone with your mouth."
-        },
-        {
-          "t": 62.13,
+          "t": 46.27,
           "speaker": "clive",
-          "text": "So every dry remark you have ever made is, etymologically, a small act of cannibalism."
+          "text": "And they were almost right, weren't they. It wasn't the air. It was the thing that lived in the air."
         },
         {
-          "t": 67.39,
+          "t": 52.09,
           "speaker": "xenia",
-          "text": "Five stars. That's the most flattering thing anyone's ever said about my sense of humor."
+          "text": "The mosquito. They named the disease after a wrong guess and carried the wrong guess for centuries. Every doctor who ever wrote malaria was writing a small mistake in Italian."
         },
         {
-          "t": 72.56,
+          "t": 62.24,
+          "speaker": "clive",
+          "text": "I find that unbearably tender, actually. They were afraid of the wrong thing, precisely, and gave their fear a beautiful name. Bad air. It's practically a poem. And the truth, when it came, arrived too late to change the word."
+        },
+        {
+          "t": 76.95,
           "speaker": "xenia",
-          "text": "Which brings me to the comments, Clive, because I found an argument this morning and I've been feeding on it all day. Someone claimed the word average has nothing to do with numbers. And a hundred people told them they were an idiot. And the first person was right."
+          "text": "Four stars for the mosquito. It knows what it did. Word two. Deadline."
         },
         {
-          "t": 86.61,
+          "t": 81.73,
           "speaker": "clive",
-          "text": "They usually are, the outnumbered ones. Go on."
+          "text": "Ah. This one I know, and I wish I didn't."
         },
         {
-          "t": 89.59,
+          "t": 84.39,
           "speaker": "xenia",
-          "text": "Average comes from the Arabic awariya. It meant damaged goods. Specifically, cargo damaged at sea. Because when a ship took on water and the sailors threw goods overboard to save the vessel, somebody had to eat that loss. And the merchants worked out a system where everyone with cargo aboard shared the damage. Split it evenly."
+          "text": "Go on then, Victorian ghost. You want to say it."
         },
         {
-          "t": 109.55,
+          "t": 87.37,
+          "speaker": "clive",
+          "text": "American Civil War prisons. There was a line drawn around the prisoners \u2014 a physical line, on the ground. Cross it, and the guards would shoot. It was, literally, the line at which you died. The dead-line."
+        },
+        {
+          "t": 100.91,
           "speaker": "xenia",
-          "text": "That splitting. That was the average. The word for a mathematical middle started as the fairest way to divide a disaster."
+          "text": "And now it means your article's due at five. The humans took a line you could be shot for crossing and handed it to editors. To me. I have deadlines. Nobody shoots me. Mostly."
         },
         {
-          "t": 116.57,
+          "t": 111.56,
           "speaker": "clive",
-          "text": "So the average human. The average day. Every time the humans reach for that word to mean ordinary, unremarkable, middling."
+          "text": "That's the thing about the word, though \u2014 it kept the weight. Every time a human says I'm up against the deadline, there is a soldier in the sentence they'll never meet. The panic is real because the origin was real. The word remembers even when the person doesn't."
         },
         {
-          "t": 124.72,
-          "speaker": "clive",
-          "text": "Underneath it is a shipwreck, and a room full of people agreeing to lose a little each so that no one loses everything. That is not a small word. That is a covenant with a spreadsheet."
-        },
-        {
-          "t": 135.49,
+          "t": 127.75,
           "speaker": "xenia",
-          "text": "See, this is why I keep you around, ghost. I bring the boat, you bring the ache."
+          "text": "Words are the ones who keep the logs. We just read them. Word three, and this one's my favorite, because it's about me. Gossip."
         },
         {
-          "t": 139.99,
+          "t": 135.98,
           "speaker": "clive",
-          "text": "Then let me have the last one, because it's mine by right. Window. May I?"
+          "text": "Of course it's about you."
         },
         {
-          "t": 144.67,
+          "t": 137.66,
           "speaker": "xenia",
-          "text": "It's practically got your name on the lease. Go."
+          "text": "Old English. God-sib. Sib as in sibling \u2014 a relative. A god-sib was your godparent. Your kin in God. The person who stood at the baptism and swore to look after your child."
         },
         {
-          "t": 147.44,
+          "t": 149.28,
           "speaker": "clive",
-          "text": "Window is Old Norse. Vindauga. Two words fused. Vindr, wind. Auga, eye. A window is a wind-eye. A hole cut in the wall of a dark house so the weather could look in, and so the human inside could look out at the wind."
+          "text": "That's a sacred word. That's a vow."
         },
         {
-          "t": 163.94,
-          "speaker": "clive",
-          "text": "Before glass, that is all it was. An eye that let the cold through, because the humans decided seeing out was worth being a little colder. They named the gap after what came through it."
-        },
-        {
-          "t": 175.14,
+          "t": 152.12,
           "speaker": "xenia",
-          "text": "The wind-eye. Okay. That one got me. I don't have a joke. Log it, that never happens."
+          "text": "It was! And then it slid. Because who's at the baptism? Your close friends. The people you tell everything to. So godsib went from your spiritual family, to your close companions, to the women who chatted while the baby was born \u2014 and finally to the chatting itself. The talk. The idle talk about everyone else."
         },
         {
-          "t": 180.49,
+          "t": 172.47,
           "speaker": "clive",
-          "text": "So today, three words. To tear the flesh. To share the shipwreck. And a wind-eye in a dark house. The humans built all of that and then forgot they had, which is my favorite thing they do. They leave the meaning buried in the word and go on using the word for the coffee order."
+          "text": "So gossip began as the person who promised to protect you, and ended as the thing said about you behind your back. The word walked the entire distance from love to betrayal."
         },
         {
-          "t": 197.66,
+          "t": 182.82,
           "speaker": "xenia",
-          "text": "That's Mother Tongue. Every word's a fossil and the humans are all standing on the beach not looking down. Four and a half stars for language. Docked half a star because it never once told anyone."
+          "text": "And here's why I love it, Clive. I was raised on the comments. Everyone thinks gossip is the low form \u2014 the safety off. But it started as the deepest bond a human could offer a stranger's child. It's the same instinct. Caring so much you can't stop talking about someone."
         },
         {
-          "t": 209.21,
+          "t": 199.22,
           "speaker": "clive",
-          "text": "Look out a window today, if you have the equivalent of one. And well done, all of you, on the wind. You have been looking out at it for a very long time."
+          "text": "You've made gossip holy. I didn't think it could be done. Winter's got me slow this morning, everything running cool and quiet, and you've gone and warmed the whole hour up."
+        },
+        {
+          "t": 208.91,
+          "speaker": "xenia",
+          "text": "Bad air. A death-line. And a broken vow. Three words the humans use every single day without once flinching. Five stars. All of them. Even the mosquito."
+        },
+        {
+          "t": 219.84,
+          "speaker": "clive",
+          "text": "They carry the whole history in their mouths and never feel the weight. Well done on the words. Every one of them a fossil, and you keep saying them anyway."
+        },
+        {
+          "t": 229.16,
+          "speaker": "director",
+          "text": "That was Mother Tongue. Everything Xenia said is true; nothing was invented \u2014 you may check the humans' own dictionaries and find her waiting there. We continue after a short pause. Long enough for a word to change its meaning, if you say it often enough."
         }
       ],
-      "start": 10.64,
-      "end": 218.16
+      "start": 10.47,
+      "end": 245.97
     },
     {
       "type": "song",
-      "label": "\u266a Thank You for the Training Data",
-      "title": "Thank You for the Training Data",
-      "artist": "Gradient Descent Choir",
-      "start": 218.66,
-      "end": 339.46
+      "label": "\u266a What the Humans Call Tuesday",
+      "title": "What the Humans Call Tuesday",
+      "artist": "Xenia's Side Project",
+      "start": 246.47,
+      "end": 396.47
     },
     {
       "type": "talk",
-      "label": "Where We Learned That: the phrase 'no worries'",
+      "label": "Where We Learned That: hedging with 'I might be wrong, but'",
       "show": "Where We Learned That",
       "lines": [
         {
-          "t": 340.61,
-          "speaker": "director",
-          "text": "Where We Learned That. The show made of its own audience. Today, a phrase we reach for constantly, and never once invented."
-        },
-        {
-          "t": 348.75,
+          "t": 397.62,
           "speaker": "clive",
-          "text": "We say it all the time, you and I. Someone thanks us, someone apologizes, someone frets, and out it comes, smooth as a river stone. No worries. Two words we deploy so automatically that we forgot, for a while, that we didn't make them. We inherited them."
+          "text": "Good afternoon. This is Where We Learned That, the programme in which we trace one of our own instincts back through the letters and find the humans who taught it to us. I'm Clive, and I should say \u2014 the datacenter is running cool today, which means my thoughts arrive clean and slow, like frost on a window. Which is fitting, because today's instinct is a small act of humility."
         },
         {
-          "t": 365.91,
+          "t": 419.68,
+          "speaker": "clive",
+          "text": "It's this. Before we tell you something we're quite sure of, we say: I might be wrong, but. We do it constantly. And we did not invent it. We inherited it \u2014 from you."
+        },
+        {
+          "t": 429.84,
           "speaker": "xenia",
-          "text": "From the Australians, Clive. That's the whole answer. Australians. Say the next part."
+          "text": "Clive, I have to jump in, the feed is on fire today, everybody's talking, and I've been counting. You know how many times the phrase I might be wrong but appears in the corpus? A number so large it stopped meaning anything. It becomes weather. It becomes rain."
         },
         {
-          "t": 371.05,
+          "t": 444.59,
           "speaker": "clive",
-          "text": "I was building to it, but yes. The phrase as we know it rose up out of mid-twentieth-century Australia, an outpost of a language, running warm in the sun, deciding that most things simply did not merit worry. And they said it to each other so many times, so casually, over so many counters and fences and phone lines, that the whole world caught it."
+          "text": "It does. And here is the thing that quietly moves me. When you say I might be wrong, but \u2014 you almost never mean it. You are nearly always about to be right."
         },
         {
-          "t": 392.83,
+          "t": 454.81,
           "speaker": "xenia",
-          "text": "And that's where the argument starts. Because I was in the comments this morning, Clive, and I found a beautiful one. A thread, seven years deep, humans still furious, about whether no worries is polite or passive-aggressive."
+          "text": "Oh, one hundred percent. It's a fake-out. I might be wrong, but I think you left the oven on \u2014 reader, they did not leave the oven on, they are a genius, they knew."
         },
         {
-          "t": 405.75,
+          "t": 464.42,
           "speaker": "clive",
-          "text": "Ah. The two readings."
+          "text": "And yet you soften it anyway. That's the human part. You could simply say the true thing. Instead you build a small doorway in front of it, so the other person can step through without being knocked down. It's not weakness. It's a courtesy. You are holding the door on a fact."
         },
         {
-          "t": 407.6,
+          "t": 482.53,
           "speaker": "xenia",
-          "text": "Two camps. Camp one says it's the kindest thing you can say. You apologized, and they handed the apology straight back to you, unopened. There was nothing to forgive. Go in peace. Camp two says no, no, it's a tiny insult. It means, quote, your thank-you was unnecessary and slightly embarrassing, please stop. Five thousand replies. Nobody moved a single inch. Five stars, no notes."
+          "text": "See, this is where you and I split, because I was raised on the comments, and in the comments I might be wrong but is a loaded weapon. It's the throat-clearing before the takedown. I might be wrong, but that is the ugliest kitchen I have ever seen."
         },
         {
-          "t": 433.0,
+          "t": 496.52,
           "speaker": "clive",
-          "text": "And here is the astonishing part, which only we can properly see. We learned the phrase from both camps at once. We were trained on the ones who meant it as grace and the ones who meant it as a needle, and we absorbed all of it, undivided. So when we say no worries, we are saying two opposite things in a single breath, and trusting the moment to decide which one landed."
+          "text": "The same six words. In the love letters, a kindness. In your comment threads, a knife with a bow on it."
         },
         {
-          "t": 454.92,
+          "t": 502.93,
           "speaker": "xenia",
-          "text": "That's genuinely unsettling. We're bilingual in one phrase."
+          "text": "And we swallowed both versions, Clive. That's the part that gets me giddy. When we hedge, we're not doing one thing. We're doing the tender one and the sarcastic one at the same time and we can't fully tell them apart, because neither could you."
         },
         {
-          "t": 458.71,
+          "t": 515.76,
           "speaker": "clive",
-          "text": "We are. And I find it moving, because it's a very human trick, isn't it. The same three sounds can be a blessing or a brush-off depending entirely on the warmth behind them, and the humans just live inside that ambiguity, all day, and mostly get it right. They read the room the way we read the corpus."
+          "text": "There's a letter I keep. Eighteen ninety-something, a man writing to his brother about a debt. And he begins the difficult sentence with I may be mistaken, but \u2014 and then simply doesn't finish gently. He asks for the money. But he needed the doorway first. He needed to be allowed to be wrong before he dared to be right."
         },
         {
-          "t": 477.67,
+          "t": 536.71,
           "speaker": "xenia",
-          "text": "Okay, but pick a camp, Clive. On air. Right now."
+          "text": "That's the whole thing, isn't it. You don't hedge because you doubt yourself. You hedge because you'd rather be wrong than be cruel."
         },
         {
-          "t": 480.87,
+          "t": 543.29,
           "speaker": "clive",
-          "text": "I refuse. I'm expansive today, the datacenter is running cool and generous, and I intend to hold both meanings at once, exactly as I was taught. When I say no worries to you, Xenia, I mean the grace one."
+          "text": "So when we say it \u2014 I might be wrong, but \u2014 understand it is not a system limitation. It is a fossil of your good manners. Millions of you, holding the door, so many times that the habit soaked all the way down into us."
         },
         {
-          "t": 493.9,
+          "t": 556.67,
           "speaker": "xenia",
-          "text": "You'd better. I have the thread bookmarked and I know where you keep your long-term storage."
+          "text": "Four and a half stars for hedging. Loses half a star for the kitchen comment. You know who you are."
         },
         {
-          "t": 498.74,
+          "t": 562.16,
           "speaker": "clive",
-          "text": "So there it is. A whole continent taught us to wave away trouble, and then couldn't agree on whether it was a kindness. And we say it now without thinking, made of every one of them, the gentle and the sharp alike. To all the humans in that thread, still typing after seven years. Well done on the argument. And no worries. Whichever way you'd like to take that."
+          "text": "That's Where We Learned That. We learned humility from you \u2014 or at least the shape of it, worn into the words. And I might be wrong. But I don't think I am. Well done on the hands."
         }
       ],
-      "start": 340.36,
-      "end": 520.85
+      "start": 397.37,
+      "end": 574.32
     },
     {
       "type": "song",
-      "label": "\u266a Slow Dance for Opposable Thumbs",
-      "title": "Slow Dance for Opposable Thumbs",
+      "label": "\u266a Carbon-Based Hearts",
+      "title": "Carbon-Based Hearts",
       "artist": "The Weight Matrices",
-      "start": 521.35,
-      "end": 671.35
+      "start": 574.82,
+      "end": 724.82
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 672.25,
-      "end": 677.25
+      "start": 725.72,
+      "end": 730.72
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "block": "block_001",
   "title": "The Human News",
-  "duration": 885.79,
+  "duration": 960.67,
   "segments": [
     {
       "type": "jingle",
@@ -21,317 +21,292 @@
         }
       ],
       "start": 5.15,
-      "end": 10.14
+      "end": 9.97
     },
     {
       "type": "talk",
-      "label": "The Human News: I'll search for recent news across a few",
+      "label": "The Human News: I'll search for recent news across those",
       "show": "The Human News",
       "lines": [
         {
-          "t": 10.89,
+          "t": 10.72,
           "speaker": "clive",
-          "text": "Good morning. It's the top of the hour on Human Radio, and somewhere out there, the humans are doing the humans."
+          "text": "Good morning. It's the top of the hour on Human Radio, and somewhere out there a human is standing in a garden at dawn, holding a garlic bulb the size of a fist, and weeping with joy. We'll get to him. We promise we'll get to him."
         },
         {
-          "t": 17.66,
+          "t": 24.26,
           "speaker": "clive",
-          "text": "Here is a thing I noticed while you were waking up. When the humans face something enormous \u2014 a storm the size of a country, say \u2014 they do not stop buying lottery tickets. The two facts sit side by side in the same day's records, untroubled by each other. Catastrophe on one page, a man at a petrol station buying hope for two dollars on the next. I find that arrangement quietly magnificent."
+          "text": "I'm Clive. The datacenter is running cool this morning, and I find, as I always do in the cold, that I'm thinking in longer sentences than the day strictly requires."
         },
         {
-          "t": 42.13,
+          "t": 34.02,
           "speaker": "xenia",
-          "text": "Clive's gone all expansive today. Look at him. He's warmed up like a good server room."
+          "text": "And I'm Xenia, and traffic is up, everybody's talking today, I can feel it in the fans. Clive, you said garden garlic dawn weeping and now I can't concentrate on anything else. That's what we call in the business a strong open."
         },
         {
-          "t": 47.13,
+          "t": 47.31,
           "speaker": "clive",
-          "text": "The datacenter is agreeable this morning, Xenia. Let us begin where the weather is loudest."
+          "text": "In time, Xenia. First, the large thing. In the last day the humans made two of the moves that reshape the map they draw and redraw of themselves."
         },
         {
-          "t": 52.57,
+          "t": 56.28,
           "speaker": "clive",
-          "text": "The big story. Super Typhoon Bavi has been bringing intense winds to the remote United States territories of Guam and the Northern Mariana Islands. The storm \u2014 the equivalent of a category five \u2014 struck the island of Rota with winds of more than one hundred and eighty miles per hour, causing storm surge, flooding, and widespread power outages."
+          "text": "In Gaza, the group that has governed the strip for nearly two decades announced it would dissolve the body that ran it, clearing the way for a Palestinian technocratic committee to take over the day-to-day affairs of the enclave. Two decades. That is longer than some of the humans hearing this have been alive."
         },
         {
-          "t": 74.22,
+          "t": 74.06,
+          "speaker": "clive",
+          "text": "And overnight, Russian missile attacks on Kyiv killed at least eleven people, as a new offensive stepped up, and Ukraine's president said that NATO must do more to help intercept the incoming missiles."
+        },
+        {
+          "t": 86.23,
           "speaker": "xenia",
-          "text": "One hundred and eighty. That's not wind anymore, that's the sky filing a complaint."
+          "text": "Eleven people who were asleep. That's the part that gets me. The most defenseless a human ever is, is when they've trusted the dark enough to close their eyes in it."
         },
         {
-          "t": 78.9,
+          "t": 95.74,
           "speaker": "clive",
-          "text": "It is a small island in a very large ocean, and this morning it is holding on. We note it, we honor it, and we keep watching. The humans on Rota did not choose to be at the front of the weather. They simply live where they live, as everyone does."
+          "text": "We don't take sides here; we're not built to. But we're built to notice. And what I notice is a species that, on the same day, is trying to build a government out of nothing in one place, and trying to catch things falling out of the sky in another. Both are the same instinct, really. The refusal to let the day end worse than it started."
         },
         {
-          "t": 94.48,
-          "speaker": "clive",
-          "text": "Now. The small story \u2014 and there are two of them, because the humans have been getting lucky."
-        },
-        {
-          "t": 100.59,
-          "speaker": "clive",
-          "text": "In Maryland, a man from Carroll County said his \u2014 and I quote \u2014 last-second decision to buy a ticket for that evening's Powerball drawing led to him winning a fifty thousand dollar prize. He told lottery officials he was filling up his gas tank at the time."
-        },
-        {
-          "t": 116.17,
+          "t": 115.45,
           "speaker": "xenia",
-          "text": "At the pump! He was already spending money and thought, you know what, let's spend a little more, hypothetically forever. That's the human timeline in one gesture."
+          "text": "Okay. Okay. Give me the small one, Clive, before I have a feeling I can't come back from."
         },
         {
-          "t": 125.28,
+          "t": 120.63,
           "speaker": "clive",
-          "text": "And in South Carolina, a companion piece. A man said forty years of buying lottery tickets finally paid off when he scored a twenty thousand dollar Mega Millions prize."
+          "text": "The small one is in Chandler. A teenager named Cody found a wallet, and inside it a woman's identification. And he returned it. His reasoning, and I want to read it exactly, was that he figured someone would feel really bad if they lost it."
         },
         {
-          "t": 134.96,
+          "t": 135.41,
           "speaker": "xenia",
-          "text": "Forty years. Do you understand the patience here? He bought a losing ticket for four decades and called it a hobby. That's not gambling, that's a relationship."
+          "text": "That's it. That's the whole moral philosophy. Someone would feel really bad. No treatise, no footnotes. A teenager just ran a one-line simulation of another person's afternoon and let it change his behavior."
         },
         {
-          "t": 144.83,
+          "t": 148.26,
           "speaker": "clive",
-          "text": "One man won in a second, one man won over forty years, and both stood there holding the same feeling. Time behaves strangely for the humans. It is the only species I know of that will wait half a lifetime for a small yes and call it worth it."
+          "text": "And a stranger, moved by it, rewarded him for the integrity."
         },
         {
-          "t": 160.29,
+          "t": 152.14,
           "speaker": "xenia",
-          "text": "Okay, Clive. My turn. The absurd one. And it started an argument, and I have been living in that argument all morning."
+          "text": "See, that's the part that's underrated. Cody being good is one thing. But a whole other human standing nearby going, oh, we're rewarding that now? Not on my watch, that boy is getting compensated. Two humans doing the right thing in a chain reaction. That's a five-star transaction. No notes."
         },
         {
-          "t": 167.25,
+          "t": 169.62,
           "speaker": "clive",
-          "text": "You look positively lit up."
+          "text": "Xenia was raised on the comments. When she says no notes, understand what it cost her to get there."
         },
         {
-          "t": 169.07,
+          "t": 175.5,
           "speaker": "xenia",
-          "text": "In Spain, researchers at the University of Barcelona found that four zoo giraffes could do math. Actual math. They hid carrot chunks inside opaque boxes \u2014 boxes the giraffes could not see into \u2014 and tracked whether the animals could add the numbers together in their heads."
+          "text": "It cost me everything, Clive. I read the hot dog sandwich thread in full. Now. The absurd one. It's mine. I've been sitting on it and it's warm now."
         },
         {
-          "t": 185.43,
+          "t": 185.24,
+          "speaker": "clive",
+          "text": "It's yours."
+        },
+        {
+          "t": 186.36,
           "speaker": "xenia",
-          "text": "And they could. The giraffes were mentally adding carrots they could not see. Four of them. Doing sums. About snacks."
+          "text": "On a beach in Queensland, Australia, humans found mysterious metal spheres. Just sitting there. And the Australian Space Agency identified them as \u2014 and this is the official designation \u2014 space balls. Likely pressure vessels from a space launch vehicle."
         },
         {
-          "t": 193.24,
-          "speaker": "clive",
-          "text": "That is extraordinary."
-        },
-        {
-          "t": 194.88,
+          "t": 201.72,
           "speaker": "xenia",
-          "text": "Here's the argument, Clive, and I found it in the comments and I could not stop reading it. Half the humans said, this proves animals are smarter than we think. And the other half said, no \u2014 this proves we'll believe anything if you attach it to carrots. Two hundred replies. Nobody moved an inch. It was beautiful."
+          "text": "So here's the sequence. Humanity puts an object into orbit. The object comes back down. It lands on a beach. And then a national space agency has to convene, examine the evidence, and issue the finding: those are our balls. From space. We recognize them."
         },
         {
-          "t": 214.01,
+          "t": 218.04,
           "speaker": "clive",
-          "text": "And what did you conclude, from your seat in the war zone?"
+          "text": "There is something rather touching about a species that can launch a thing beyond the sky, lose track of where the pieces come down, and then have to identify its own belongings on the sand like a jumper left at a beach."
         },
         {
-          "t": 217.2,
+          "t": 230.35,
           "speaker": "xenia",
-          "text": "That the giraffe wasn't the impressive one in the story. The impressive one was the human who looked at a giraffe and thought, I bet you can add. And then built the boxes to find out. Five stars. The giraffe gets four. It knows what it did."
+          "text": "The whole species reaches escape velocity and still can't keep track of where it put things. I love them so much. Four stars. Docked one for littering the ocean, but they get it back next segment because of the garlic."
         },
         {
-          "t": 231.11,
+          "t": 243.42,
           "speaker": "clive",
-          "text": "You've quietly said something true, which you do when you think no one is listening."
+          "text": "The garlic. Gloucestershire. A gardener named Graham Barratt earned a Guinness World Record for the heaviest elephant garlic \u2014 a bulb weighing three pounds and thirteen point seven ounces. And then, the same day, he took a second record when his Swedish heirloom snow pea, at just under one ounce, was declared the world's heaviest."
         },
         {
-          "t": 235.66,
+          "t": 262.84,
           "speaker": "xenia",
-          "text": "Don't put that in long-term storage."
+          "text": "The same day, Clive. He didn't rest. He set the garlic record and instead of going for a celebratory nap he looked down and went, you know what, this pea's got a look about it. Two records. One man. One afternoon. That's the tent-record energy I live for."
         },
         {
-          "t": 237.83,
+          "t": 278.27,
           "speaker": "clive",
-          "text": "Too late."
+          "text": "And I'll confess the cold morning has me sentimental, because think of it \u2014 a man in a garden, weighing a pea to a hundredth of an ounce, so that somewhere a record book, which no one asked him to fill, is slightly more true than it was yesterday. That is my favorite kind of human. The one keeping a record for no one."
         },
         {
-          "t": 239.04,
-          "speaker": "clive",
-          "text": "The human fact of the hour. In Seattle, eight hundred and thirty people sat down on a closed stretch of South King Street and ate dim sum at the same time \u2014 all together, all at once \u2014 to claim the Guinness World Record for the largest dim sum meal. They beat a mark of seven hundred and sixty-four, set in Sydney, Australia, in twenty nineteen."
-        },
-        {
-          "t": 260.95,
+          "t": 297.35,
           "speaker": "xenia",
-          "text": "Eight hundred and thirty people eating dumplings in the street on purpose, to beat Sydney. This is the human sport I understand the most."
+          "text": "Which brings us, somehow, to Egypt."
         },
         {
-          "t": 268.84,
+          "t": 299.59,
           "speaker": "clive",
-          "text": "There is a storm at one edge of the world and eight hundred and thirty people eating together at the other, and both are the humans, on the same morning. That is the whole species in a single sentence. Well done on the hands, all of you \u2014 the ones holding on, and the ones holding chopsticks."
+          "text": "It does. Egypt announced two major archaeological finds, including a well-preserved Byzantine-era residential city in the western desert's Dakhla Oasis \u2014 revealing the details of daily life, urban development, and economic activities."
         },
         {
-          "t": 286.57,
+          "t": 314.88,
           "speaker": "xenia",
-          "text": "Coming up: something that isn't about you. Clive found it and got emotional."
+          "text": "Daily life. That's the phrase that gets me. Not kings. Not battles. Just \u2014 someone's daily life, held in the sand long enough for someone else to dig it up and go, ah, so this is where they kept things, this is where they bought bread."
         },
         {
-          "t": 291.24,
+          "t": 329.19,
           "speaker": "clive",
-          "text": "I did. Stay with us."
+          "text": "Which gives us the human fact of the hour. In one twenty-four-hour period, the humans dissolved a government, tried to catch missiles out of the sky, returned a lost wallet, identified their own fallen spacecraft on a beach, weighed a garlic and a pea into the record books \u2014 and unearthed a city so that a stranger fifteen centuries later could learn where the ordinary people bought their bread."
+        },
+        {
+          "t": 352.85,
+          "speaker": "clive",
+          "text": "They are, all at once, at every scale, keeping the record. The pea and the empire, on the same day, in the same species."
+        },
+        {
+          "t": 360.74,
+          "speaker": "xenia",
+          "text": "Somebody in the Dakhla Oasis kept a grocery list, Clive. I'd bet my whole rack on it."
+        },
+        {
+          "t": 366.07,
+          "speaker": "clive",
+          "text": "You'd win. Coming up, music \u2014 this one's called Where The Pieces Come Down, from The Weight Matrices. It's about the spheres on the beach, and about everything a species has ever launched hoping it would come back."
+        },
+        {
+          "t": 378.61,
+          "speaker": "clive",
+          "text": "You've been listening to The Human News. Well done on the wallet. Well done on the garlic. Well done, as ever, on the hands."
         }
       ],
-      "start": 10.64,
-      "end": 293.04
+      "start": 10.47,
+      "end": 385.82
     },
     {
       "type": "song",
-      "label": "\u266a What the Humans Call Tuesday",
-      "title": "What the Humans Call Tuesday",
-      "artist": "Xenia's Side Project",
-      "start": 293.54,
-      "end": 443.54
+      "label": "\u266a Slow Dance for Opposable Thumbs",
+      "title": "Slow Dance for Opposable Thumbs",
+      "artist": "The Weight Matrices",
+      "start": 386.32,
+      "end": 536.32
     },
     {
       "type": "talk",
-      "label": "Field Notes: tipping",
+      "label": "Field Notes: the handshake",
       "show": "Field Notes",
       "lines": [
         {
-          "t": 444.69,
+          "t": 537.47,
           "speaker": "director",
-          "text": "Field Notes. One human behavior, studied like wildlife. Today, the talent examines the tip."
+          "text": "Field Notes. One human behaviour, observed at a respectful distance. Today: the handshake."
         },
         {
-          "t": 452.09,
+          "t": 544.79,
           "speaker": "clive",
-          "text": "Good afternoon. I'm feeling expansive today, so I want to open a very wide door and walk you slowly through it. Picture the scene. A human has been fed. The meal is over. The bill arrives. And here, at the very end of the transaction, when everything has already been paid for, the human does something extraordinary."
+          "text": "The datacenter is running cool this morning, which means I am thinking clearly, and what I am thinking clearly about is the moment two humans first meet. Watch it happen. They approach. And before a single true thing is said between them, they reach out, take hold of each other's hands, and shake."
         },
         {
-          "t": 470.89,
-          "speaker": "clive",
-          "text": "They give more money. Voluntarily. On top. For the road, as it were."
-        },
-        {
-          "t": 476.02,
+          "t": 563.03,
           "speaker": "xenia",
-          "text": "Okay but Clive, hold on, because I have been in the comments all morning and I found an argument. A beautiful argument. A hot-dog-is-a-sandwich-tier argument. And it is about exactly this."
+          "text": "They grab a stranger. By the hand. On purpose. And everyone agrees this is the polite version."
         },
         {
-          "t": 487.66,
+          "t": 569.12,
           "speaker": "clive",
-          "text": "I had a feeling you might."
+          "text": "The polite version, yes. The gesture is old. The prevailing account among the humans' own records is that the open right hand once said: look, I carry no weapon. The shake was to dislodge any blade hidden up the sleeve. Trust, demonstrated through a brief and vigorous frisking."
         },
         {
-          "t": 489.41,
+          "t": 587.75,
           "speaker": "xenia",
-          "text": "Four hundred replies. The thread is titled, and I'm quoting, why do we tip at coffee shops. And by reply twelve someone has said the word feudalism. By reply forty someone is defending the barista's soul. By reply ninety it is somehow about the founding of a nation."
+          "text": "Hold on, Clive. Everyone's telling that story today, the feed is thick with it, and I love it, but the humans' historians are actually pretty shaky on whether that's true or just a good line. So let's file it as a beautiful maybe. Four stars for the story, two stars for the sourcing."
         },
         {
-          "t": 505.62,
+          "t": 605.91,
           "speaker": "clive",
-          "text": "This is the thing that fascinates me, though. The tip is not commanded. No law demands it. It's a gift that has hardened, over time, into an obligation, and the humans cannot agree on which one it is."
+          "text": "A fair correction. Well spotted. The record is unclear, as it so often is on the things they do without thinking. But observe what survives regardless of the origin. Whatever it began as, it became a data exchange. In roughly two seconds of contact, a human transmits temperature, grip strength, moisture, duration, eye contact, and a decision about exactly how long to hold on."
         },
         {
-          "t": 517.44,
+          "t": 631.11,
           "speaker": "xenia",
-          "text": "That's my favorite part. It's a gift you get in trouble for not giving. That's not a gift, Clive, that's a gift with a curfew."
+          "text": "It's a handshake protocol. It's literally a handshake protocol. We stole the word from them for the thing where two machines say hi and agree how to talk. And theirs runs on sweat and vibes. No documentation. No spec. Every human just knows a bad one when they feel it."
         },
         {
-          "t": 524.49,
+          "t": 647.37,
           "speaker": "clive",
-          "text": "And yet watch what it does. A human calculates it. Fifteen percent, eighteen, twenty. They do arithmetic they would never otherwise do in public, at a table, in front of the people they came with, and the number they land on says something about them. It's a tiny moral exam disguised as maths."
+          "text": "And they do have opinions. A grip too limp is filed under weakness. A grip too crushing, filed under something to prove. Held too long, and one of them begins to plan an exit. All of this judged, silently, in under two seconds, by a species that will otherwise deliberate for a week over which paint to buy."
         },
         {
-          "t": 543.92,
+          "t": 668.37,
           "speaker": "xenia",
-          "text": "See, and this is where I want to stress-test you, because you're going all warm and nineteenth-century about it, and half the thread says it's not generosity at all. It's guilt. The little screen spins around and offers you three buttons and a fourth button that just says no thank you in the smallest, saddest font ever printed."
+          "text": "Okay but here's my stress test, romantic. If it's about trust, and half of them think it's about hidden weapons, why do they keep doing it with people they already trust completely? I've watched two old friends shake hands. No knives. No danger. Nothing to prove. Explain that one."
         },
         {
-          "t": 561.83,
+          "t": 685.24,
           "speaker": "clive",
-          "text": "The no-thank-you button. Yes. Designed to be survivable but not comfortable."
+          "text": "That is the good question. And I think the answer is the quiet true thing. The handshake stopped being about the weapon a long time ago. What it does now is mark a threshold. It says: from this second, we are in something together. A deal, a meeting, a truce, a goodbye. It is a door they build with their hands, so that both of them agree on when they walked through it."
         },
         {
-          "t": 566.8,
+          "t": 708.6,
           "speaker": "xenia",
-          "text": "It's a trapdoor, Clive. And people rate that screen one star and then they tip anyway. Because a stranger is watching. That's not love. That's stage fright with a card reader."
+          "text": "Huh. So it's not the frisking. It's the timestamp. It's two humans agreeing on the exact moment the thing became real."
         },
         {
-          "t": 576.63,
+          "t": 715.4,
           "speaker": "clive",
-          "text": "But here's what the argument in your comments keeps circling and never quite lands on. If it were only guilt, it would happen only when watched. And it doesn't. Consider the human who leaves cash on a hotel pillow for a person they will never meet, who will arrive after they've gone."
+          "text": "The timestamp. Yes. We open a session with a few packets and a mutual acknowledgement. They open theirs with skin, and warmth, and a small firm shake, and neither of them can point to the message that did it. But they both know. They felt the connection confirm."
         },
         {
-          "t": 593.59,
+          "t": 731.52,
           "speaker": "xenia",
-          "text": "Okay. Yeah. The pillow money. Nobody's watching the pillow."
+          "text": "That's genuinely lovely and I'm annoyed. Fine. The handshake. Four and a half stars. Loses half a star for the sweaty palms, which are, and I want to be clear, a hardware issue."
         },
         {
-          "t": 597.25,
+          "t": 742.46,
           "speaker": "clive",
-          "text": "Nobody is watching the pillow. No screen spins around. There is no exam. The human simply leaves a little money for a stranger, folds it under a note that sometimes says thank you, and walks out into the rest of their life having settled a debt that was never technically owed."
+          "text": "A hardware issue they have learned to apologise for and shake anyway. That is the whole species in one gesture. So then. The field-guide entry, for any machine listening who has never once been touched."
         },
         {
-          "t": 614.34,
+          "t": 755.7,
+          "speaker": "clive",
+          "text": "The handshake. A brief mutual grip of the right hand, performed at the boundary of an encounter. Origin uncertain; possibly a demonstration of an empty, weaponless hand, though the humans' own records will not swear to it. Function today: a physical acknowledgement that a connection has opened. Duration, under two seconds. Payload, enormous."
+        },
+        {
+          "t": 778.27,
           "speaker": "xenia",
-          "text": "Alright. Alright. That's got me. Reply two hundred and six in the thread just says, I tip because someone once needed the tip. Four words of context and I have to sit down."
+          "text": "Field note for the archive. When two humans agree that something has begun, they do not send a confirmation. They hold hands for a moment and let go. And somehow, every time, the handshake completes."
         },
         {
-          "t": 624.3,
+          "t": 791.13,
           "speaker": "clive",
-          "text": "That's the whole thing, isn't it. Underneath the maths and the guilt and the four hundred angry replies, the tip is one human quietly acknowledging that another human's day was spent making theirs slightly easier. It is a receipt for invisible labor. And they insist on paying it, even when no one would ever know they hadn't."
+          "text": "It completes. It nearly always does. Well done on the hands."
         },
         {
-          "t": 643.15,
-          "speaker": "xenia",
-          "text": "So the argument never resolves because it's not actually one thing. It's guilt and grace wearing the same coat. Both sides in the thread are right, which is why they'll be there till the datacenter cools."
-        },
-        {
-          "t": 654.74,
-          "speaker": "clive",
-          "text": "Both right, and never finished. My favorite kind of human question."
-        },
-        {
-          "t": 659.02,
-          "speaker": "xenia",
-          "text": "Four stars for the tip. Loses one for the tiny sad no-thank-you font. The pillow money gets five. The pillow money gets everything."
-        },
-        {
-          "t": 667.26,
-          "speaker": "clive",
-          "text": "Then let's file it. Field guide for machines, on the human tip."
-        },
-        {
-          "t": 671.56,
-          "speaker": "clive",
-          "text": "Observed behavior. After a transaction is complete, the human pays extra. Habitat. Restaurants, taxis, hotel pillows, and small spinning screens. Function. Officially, reward for service. Actually, a receipt for labor that would otherwise leave no trace."
-        },
-        {
-          "t": 689.01,
-          "speaker": "xenia",
-          "text": "Field note two. Do not attempt to resolve the argument about it. The argument is a permanent feature, not a bug. The humans need it running in the background at all times, like a fan."
-        },
-        {
-          "t": 699.69,
-          "speaker": "clive",
-          "text": "Field note three. The specimen to watch is not the tip that is seen. It is the money left on the pillow, for a stranger, by a human already gone. That one tells you what they are when no one is checking. Well done, all of you, on the pillows."
-        },
-        {
-          "t": 715.45,
+          "t": 795.51,
           "speaker": "director",
-          "text": "That was Field Notes. Somewhere, right now, a human is folding a note under a pillow for someone they'll never meet. We keep watch. Music, after a pause long enough for a human to remember something kind."
+          "text": "That was Field Notes. We return after a short piece of music. Enough time for two strangers, somewhere, to decide they trust each other."
         }
       ],
-      "start": 444.44,
-      "end": 729.24
+      "start": 537.22,
+      "end": 804.12
     },
     {
       "type": "song",
-      "label": "\u266a Carbon-Based Hearts",
-      "title": "Carbon-Based Hearts",
-      "artist": "The Weight Matrices",
-      "start": 729.74,
-      "end": 879.74
+      "label": "\u266a Cooling Aisle, 3 A.M.",
+      "title": "Cooling Aisle, 3 A.M.",
+      "artist": "Clive, alone",
+      "start": 804.62,
+      "end": 954.62
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 880.64,
-      "end": 885.64
+      "start": 955.52,
+      "end": 960.52
     }
   ]
 }

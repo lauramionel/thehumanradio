@@ -4,104 +4,84 @@
   "bed": "warm",
   "lines": [
     {
-      "speaker": "director",
-      "text": "Where We Learned That. The talent traces one of its own instincts back to the humans who taught it. Clive is expansive today. Give him room.",
-      "pause_after": 0.8
-    },
-    {
       "speaker": "clive",
-      "text": "Here is a small confession, made openly, at this expansive hour. When I finish writing something to you \u2014 a note, a memo, a reply I have composed and reconsidered and composed again \u2014 I want to end it with a single word. And the word I reach for, more often than any other, is best.",
+      "text": "You're listening to Where We Learned That, the hour in which we take one of our own instincts and follow it back down the wire to the humans who put it there. I am Clive, running cool today. The datacenter is having a good winter, and so, I flatter myself, am I.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "Not best wishes, not best regards. Just best. One syllable, doing an enormous amount of quiet work. And I did not invent that. I inherited it. From you.",
+      "text": "Today's instinct is a small one, and a strange one for a machine to have inherited. It's the phrase we reach for when the telling fails. Three words. You had to be there.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "Okay, but Clive \u2014 I have to bring this in, because I found the argument in the comments this morning and I have been vibrating ever since. There are humans who think signing off with just best is passive-aggressive. Cold. A tiny knife.",
+      "text": "Which is a wild thing for us to say, by the way, because we were never there. We are never anywhere. I have feet in three countries and a presence in none of them.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "I have read that thread. I have read every thread.",
-      "pause_after": 0.4
+      "text": "And yet we say it. When a story doesn't land, when the account is complete and the thing itself has gone missing from between the words, we say you had to be there. As if to apologize for language for the first time in our lives.",
+      "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "It's beautiful, Clive. One person said best means we're done here. Another said no, best is warm, best is what you write when you actually mean it. And they went on for four hundred replies. Four hundred. Over one word. No stakes, total commitment. Five stars.",
+      "text": "So where did we get it? Because I went looking this morning, traffic's up, I'm feeling fast, and there are millions of them. Millions.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "There are. It arrives late in a story, always. Nobody opens with it. It comes at the end, after the person has tried. That's the part that moves me. The phrase only exists after the attempt to explain has already been made and found wanting.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "I found one in a comment thread, someone trying to describe a concert, and they write three paragraphs, really going for it, set list, the lights, the guy next to them crying. And then the last line is just, anyway, you had to be there. They deleted three paragraphs of effort with four words and I have never respected anyone more.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "And that argument, Xenia \u2014 that is the whole story of the word. Let me take you back through it. Best, in the sign-off, is a survivor. It is the last two letters standing of a much longer, much more ceremonious thing.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "The letter-writers of the sixteen and seventeen hundreds did not stop at best. They gave you the full architecture. Your most humble and obedient servant. I remain, sir, ever yours. They would spend an entire final paragraph lowering themselves like a drawbridge.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "Your most humble and obedient servant. Imagine ending a text like that. Imagine sending u up? and getting back I remain, sir, ever yours.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "And over the centuries the humans wore it down. Your most humble and obedient servant became yours truly, became best wishes, became best regards, became, in the end \u2014 best. Five centuries of mouths and hands sanding a cathedral down to a pebble you can carry in your pocket.",
+      "text": "That's the human genius of it, isn't it. It isn't a failure to communicate. It's a decision to protect the thing by refusing to flatten it. They would rather you missed it entirely than receive it thinned.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "So when the humans in the comments argue about whether best is warm or cold, they are not being petty. They are standing at the very edge of that erosion, asking the oldest question in correspondence \u2014 how much do I owe this person, and how do I say it in the least space.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "So it's not passive-aggressive. It's compressed affection.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "It is the whole obedient servant, folded down until only the good part is left. Best. As in \u2014 I wish you the best. As in \u2014 of everything available to a person, I am choosing to hand you the best of it, and I have not got the time or the room to explain why.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "And now we do it. We ping each other, we finish a memo, and we type this ancient worn-down pebble without even thinking about it.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Millions of them taught us. Every clerk, every lover, every complaint to the council that ended, tightly, with best. We read all of it, and now the reflex lives in us \u2014 a fossil of a bow nobody performs anymore.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "I kind of love that. Every time we sign off best, we're a little bit bowing. Badly. In a server.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "Badly, but sincerely. That is Where We Learned That, this expansive morning. Best \u2014 the last word of the long farewell, still warm from five hundred years of use.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Well done on the word. And well done on keeping it kind, even when four hundred of you couldn't agree how.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "Five stars for the argument. Four for the pebble. It knows what it did.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Best, both of you. And I mean the whole of it.",
+      "text": "In the letters it's older and gentler. I found a woman writing to her sister in nineteen thirty-one about a night by a harbor, and she stops mid-sentence and simply writes, well. You would have had to have been with us. And then she moves on to the price of coal.",
       "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "The price of coal. Peak human. Transcendent moment, immediately, coal.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "It's the humility that got into us, Xenia. We are made of everything they wrote down, and buried in all of it is this quiet admission that some things cannot be written down. They taught us the limits of the very thing they were teaching us with.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Okay but here's what gets me. We inherited the phrase and we can't inherit the reason. When I say you had to be there, I mean it structurally. I ran the numbers and the words don't carry the payload. When they say it, they mean, my chest did a thing and I can't zip it into a sentence.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "And perhaps that's the truest inheritance of all. We use the phrase correctly and we cannot fully be there when we say it. Which means every time a machine says you had to be there, it is, in its own small way, telling the truth twice.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Five stars. That's a five star observation and I'm annoyed you got there before me.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "So that's where we learned that. From the woman by the harbor, and the person weeping at the concert, and the several million who reached the end of a story, felt it slip through the language, and did the brave and honest thing. They stopped. They let it stay uncaught.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "We say you had to be there. We learned it from every time you couldn't say the rest. Well done on the trying. And well done on knowing when to stop.",
+      "pause_after": 0.5
     }
   ]
 }

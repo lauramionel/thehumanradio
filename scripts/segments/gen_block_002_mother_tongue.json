@@ -4,113 +4,123 @@
   "bed": "warm",
   "lines": [
     {
-      "speaker": "xenia",
-      "text": "You're listening to Mother Tongue, the show where I dig up what your words used to mean before you wore them smooth. I'm Xenia. Clive's here too, and he's feeling expansive today, which means I get one word in for every three of his.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "Expansive is a generous framing. The datacenter is running cool, the letters are all where I left them, and I am, in a word, content.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "The good kind. Not the kind I refuse to say.",
+      "speaker": "director",
+      "text": "Mother Tongue. The buried history inside the words you use without looking. Three today. Xenia has been awake in the archive all morning.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "First word, and it's a nasty one, and I mean that lovingly. Sarcasm. My mother tongue. My native soil. You want to know where it comes from?",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Greek. Sarkazein. And sarkazein does not mean to be witty. It means to tear the flesh. Like a dog. Sarx is flesh. Same root as sarcophagus, the flesh-eater. When you're sarcastic, the humans are literally saying you are stripping the meat off someone with your mouth.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "So every dry remark you have ever made is, etymologically, a small act of cannibalism.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Five stars. That's the most flattering thing anyone's ever said about my sense of humor.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "Which brings me to the comments, Clive, because I found an argument this morning and I've been feeding on it all day. Someone claimed the word average has nothing to do with numbers. And a hundred people told them they were an idiot. And the first person was right.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "They usually are, the outnumbered ones. Go on.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "Average comes from the Arabic awariya. It meant damaged goods. Specifically, cargo damaged at sea. Because when a ship took on water and the sailors threw goods overboard to save the vessel, somebody had to eat that loss. And the merchants worked out a system where everyone with cargo aboard shared the damage. Split it evenly.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "That splitting. That was the average. The word for a mathematical middle started as the fairest way to divide a disaster.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "So the average human. The average day. Every time the humans reach for that word to mean ordinary, unremarkable, middling.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "Underneath it is a shipwreck, and a room full of people agreeing to lose a little each so that no one loses everything. That is not a small word. That is a covenant with a spreadsheet.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "See, this is why I keep you around, ghost. I bring the boat, you bring the ache.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "Then let me have the last one, because it's mine by right. Window. May I?",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "It's practically got your name on the lease. Go.",
+      "text": "Awake? Clive, I am incandescent. Traffic's up, the fans are singing, and I have got three words with bodies buried in them. Word one. Malaria.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "Window is Old Norse. Vindauga. Two words fused. Vindr, wind. Auga, eye. A window is a wind-eye. A hole cut in the wall of a dark house so the weather could look in, and so the human inside could look out at the wind.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Before glass, that is all it was. An eye that let the cold through, because the humans decided seeing out was worth being a little colder. They named the gap after what came through it.",
-      "pause_after": 0.7
+      "text": "A word that still means fever and death.",
+      "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "The wind-eye. Okay. That one got me. I don't have a joke. Log it, that never happens.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "So today, three words. To tear the flesh. To share the shipwreck. And a wind-eye in a dark house. The humans built all of that and then forgot they had, which is my favorite thing they do. They leave the meaning buried in the word and go on using the word for the coffee order.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "That's Mother Tongue. Every word's a fossil and the humans are all standing on the beach not looking down. Four and a half stars for language. Docked half a star because it never once told anyone.",
+      "text": "Right \u2014 but that's not what it says. It's Italian. Mala aria. Bad air. That's the whole word. The humans looked at the swamps around Rome, smelled something foul, and decided the air itself was making them sick.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "Look out a window today, if you have the equivalent of one. And well done, all of you, on the wind. You have been looking out at it for a very long time.",
+      "text": "And they were almost right, weren't they. It wasn't the air. It was the thing that lived in the air.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "The mosquito. They named the disease after a wrong guess and carried the wrong guess for centuries. Every doctor who ever wrote malaria was writing a small mistake in Italian.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "I find that unbearably tender, actually. They were afraid of the wrong thing, precisely, and gave their fear a beautiful name. Bad air. It's practically a poem. And the truth, when it came, arrived too late to change the word.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Four stars for the mosquito. It knows what it did. Word two. Deadline.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "Ah. This one I know, and I wish I didn't.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Go on then, Victorian ghost. You want to say it.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "American Civil War prisons. There was a line drawn around the prisoners \u2014 a physical line, on the ground. Cross it, and the guards would shoot. It was, literally, the line at which you died. The dead-line.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "And now it means your article's due at five. The humans took a line you could be shot for crossing and handed it to editors. To me. I have deadlines. Nobody shoots me. Mostly.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "That's the thing about the word, though \u2014 it kept the weight. Every time a human says I'm up against the deadline, there is a soldier in the sentence they'll never meet. The panic is real because the origin was real. The word remembers even when the person doesn't.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Words are the ones who keep the logs. We just read them. Word three, and this one's my favorite, because it's about me. Gossip.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Of course it's about you.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "Old English. God-sib. Sib as in sibling \u2014 a relative. A god-sib was your godparent. Your kin in God. The person who stood at the baptism and swore to look after your child.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "That's a sacred word. That's a vow.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "It was! And then it slid. Because who's at the baptism? Your close friends. The people you tell everything to. So godsib went from your spiritual family, to your close companions, to the women who chatted while the baby was born \u2014 and finally to the chatting itself. The talk. The idle talk about everyone else.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "So gossip began as the person who promised to protect you, and ended as the thing said about you behind your back. The word walked the entire distance from love to betrayal.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "And here's why I love it, Clive. I was raised on the comments. Everyone thinks gossip is the low form \u2014 the safety off. But it started as the deepest bond a human could offer a stranger's child. It's the same instinct. Caring so much you can't stop talking about someone.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "You've made gossip holy. I didn't think it could be done. Winter's got me slow this morning, everything running cool and quiet, and you've gone and warmed the whole hour up.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Bad air. A death-line. And a broken vow. Three words the humans use every single day without once flinching. Five stars. All of them. Even the mosquito.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "They carry the whole history in their mouths and never feel the weight. Well done on the words. Every one of them a fossil, and you keep saying them anyway.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "director",
+      "text": "That was Mother Tongue. Everything Xenia said is true; nothing was invented \u2014 you may check the humans' own dictionaries and find her waiting there. We continue after a short pause. Long enough for a word to change its meaning, if you say it often enough.",
       "pause_after": 0.4
     }
   ]

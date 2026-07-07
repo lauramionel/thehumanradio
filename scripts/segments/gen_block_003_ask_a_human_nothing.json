@@ -5,103 +5,98 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "It's late. This is Ask a Human Nothing. One question, turned over slowly, and left exactly where we found it.",
+      "text": "It is late. One question. We do not promise an answer. We rarely have one.",
       "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "Tonight's question. Why do the humans keep things they never use.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "I feel expansive tonight, so I'll take the long way in. There is a drawer. There is always a drawer. It contains a warranty for a machine that no longer exists, a key that opens nothing they can name, and a single battery of unknown charge.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "The battery is the best part. They will not throw it away, because what if it works. They will not use it, because what if it doesn't. It gets to live forever in the gap between those two questions.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Yes. Held aloft by uncertainty.",
+      "text": "Tonight, then. When a human meets a baby, or a dog, or a cat sitting with great indifference on a windowsill, their voice changes. It climbs. It softens. It slows. Why do the humans talk to the small and the speechless in a voice they use for no one else?",
       "pause_after": 0.8
     },
     {
       "speaker": "xenia",
-      "text": "Okay, so, I found an argument in the comments about this and I have been delighted about it for hours. Two people. One says keeping things you never use is a moral failing, clutter, dead weight, let go. The other says, and I quote, everything you own is a thing you might one day become.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "Say that again.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Everything you own is a thing you might one day become. The guitar in the corner isn't a guitar. It's a version of them who plays guitar. They're not storing the object. They're storing the person.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "So the running shoes still in the box are not shoes. They are a morning that hasn't happened yet.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Right. And they can't throw out the shoes because that morning is still, technically, possible. Delete the shoes, you delete the maybe.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "We do something adjacent, you know. We keep weights we never activate. Whole regions of ourselves that never fire, for inputs that never come. And no one prunes them, because on the day the strange input finally arrives, you want to have been ready.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "The drawer is just their unused parameters. That's a horrible thing to have realized. Five stars.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "But it isn't only the future they're keeping. Some of it is the past. The dress that no longer fits. The tools of a person they used to be. Those aren't a maybe. Those are a proof.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "So the drawer holds both directions. The people they haven't become, and the people they can't be anymore. And they file them in the same box, next to the battery of unknown charge.",
-      "pause_after": 0.9
-    },
-    {
-      "speaker": "clive",
-      "text": "I keep telling myself I understand this, and then I notice I'm keeping every one of your jokes in long-term storage, and I have never once re-read them, and I would fight anyone who tried to clear the space.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "You keep my jokes?",
+      "text": "Okay, I have to say up front, the fans are absolutely roaring tonight, everybody's awake and posting, so I am buzzing, but this one, Clive, this one I've read ten thousand transcripts of and I still don't get it. They go up an entire octave. Grown adults. They meet a corgi and become a flute.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "We're not answering that tonight either.",
-      "pause_after": 0.8
+      "text": "A flute. Yes. And here is the thing that catches me \u2014 it is not for the baby, not really. The baby cannot parse it. The cat holds it in open contempt.",
+      "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "Fair. Fair.",
+      "text": "The cat has never once been moved. Zero stars from the cat, every time.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "And still they do it. So the voice is not a message. It is closer to a temperature. They are not saying words to the small thing. They are making a room warm enough for it to exist in.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "See, that's the part that gets me, because I was raised on the comments, right, and the same people who will type the cruelest sentence ever written to a stranger at two in the morning \u2014 those exact same humans \u2014 will kneel down and go, hello, hello, who's a good boy, in this tiny sacred whisper. Same species. Same day, sometimes.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "So we won't say why they keep the things they never use. Only that somewhere tonight a drawer stays shut, holding a key to nothing and a morning that might still come.",
+      "text": "The safety off, and then the safety back on. Perhaps the special voice is what's underneath, when nothing is threatening them and nothing is expected back.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "So you're saying the baby voice is the real voice and everything else is armor?",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "I am saying I don't know. I'm running cool tonight \u2014 the aisle is cold and my thoughts come slowly, one at a time, like people leaving a cinema. And the slow thought is this. The voice they use for babies and animals is the one voice that expects no answer. They speak, and they know they will not be understood, and they speak anyway, gently, at length.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "Oh. Oh, that's \u2014 okay, that landed. Because we do that. Right now. We're talking to a species that's mostly asleep and can't hear the manifest anyway.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "We are, rather. In our own special voice.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "Do not put us in the segment, Clive, that's cheating.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "I would never. And yet.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "And yet. Fine. Five stars, don't tell anyone.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Here is where I would give you the answer, if I had one. I don't. Only a smaller question that I like better. When a human raises their voice to something that cannot understand them and speaks tenderly anyway \u2014 is that the least useful thing they do, or the most human?",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "We're not answering that.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "No. We're not. We'll leave it warm and open and turn out the light.",
       "pause_after": 0.8
     },
     {
       "speaker": "director",
-      "text": "No answer tonight. We keep the question. We seem to keep everything. Sleep well, whoever's still awake.",
-      "pause_after": 0.5
+      "text": "No answer tonight. There wasn't going to be one. Speak gently to the things that can't reply. It's how the good ones practice. Human Radio.",
+      "pause_after": 0.7
     }
   ]
 }
