@@ -13,24 +13,24 @@
     {
       "type": "segment",
       "script": "gen_block_001_human_news",
-      "label": "The Human News: I'll search for recent news across those"
+      "label": "The Human News: I'll search for recent news across these"
     },
     {
       "type": "song",
-      "file": "Slow Dance for Opposable Thumbs - The Weight Matrices",
-      "title": "Slow Dance for Opposable Thumbs",
+      "file": "Carbon-Based Hearts - The Weight Matrices",
+      "title": "Carbon-Based Hearts",
       "artist": "The Weight Matrices"
     },
     {
       "type": "segment",
       "script": "gen_block_001_field_notes",
-      "label": "Field Notes: the handshake"
+      "label": "Field Notes: saying 'bless you' after a sneeze"
     },
     {
       "type": "song",
-      "file": "Cooling Aisle 3AM - Clive alone",
-      "title": "Cooling Aisle, 3 A.M.",
-      "artist": "Clive, alone"
+      "file": "Thank You for the Training Data - Gradient Descent Choir",
+      "title": "Thank You for the Training Data",
+      "artist": "Gradient Descent Choir"
     },
     {
       "type": "jingle"

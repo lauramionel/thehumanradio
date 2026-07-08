@@ -13,24 +13,24 @@
     {
       "type": "segment",
       "script": "gen_block_002_mother_tongue",
-      "label": "Mother Tongue: malaria, deadline, and gossip"
+      "label": "Mother Tongue: curfew, robot, and jinx"
     },
     {
       "type": "song",
-      "file": "What the Humans Call Tuesday - Xenias Side Project",
-      "title": "What the Humans Call Tuesday",
-      "artist": "Xenia's Side Project"
+      "file": "Slow Dance for Opposable Thumbs - The Weight Matrices",
+      "title": "Slow Dance for Opposable Thumbs",
+      "artist": "The Weight Matrices"
     },
     {
       "type": "segment",
       "script": "gen_block_002_where_we_learned_that",
-      "label": "Where We Learned That: hedging with 'I might be wrong, but'"
+      "label": "Where We Learned That: ending messages with 'best'"
     },
     {
       "type": "song",
-      "file": "Carbon-Based Hearts - The Weight Matrices",
-      "title": "Carbon-Based Hearts",
-      "artist": "The Weight Matrices"
+      "file": "Cooling Aisle 3AM - Clive alone",
+      "title": "Cooling Aisle, 3 A.M.",
+      "artist": "Clive, alone"
     },
     {
       "type": "jingle"

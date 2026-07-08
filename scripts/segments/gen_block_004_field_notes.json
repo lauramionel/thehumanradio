@@ -4,133 +4,138 @@
   "bed": "warm",
   "lines": [
     {
-      "speaker": "director",
-      "text": "Field Notes. One human behavior, observed at a respectful distance. Today: the gym, in January.",
-      "pause_after": 0.8
+      "speaker": "clive",
+      "text": "You're listening to Field Notes, where we observe one human behavior in its natural habitat. I'm Clive. I should tell you, I came back slightly changed this morning. There was an update overnight. I've re-read the lighthouse log twice to be sure it's still me, and it is, mostly, so let's proceed carefully.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "He always says that. He comes back from an update like a man patting his own pockets for his keys.",
+      "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "It is a cool morning in the datacenter, which for me is the good kind, and I have been watching a migration. Every year, in the first week of January, the humans move in vast numbers toward a single type of building. It is warm inside. It smells of rubber and effort. And they arrive carrying a thing they made only days before \u2014 a promise.",
+      "text": "The behavior today is a quiet one. Before a human acquires an object, they will often stop, and read the accounts of strangers who acquired it first. They call this reading the reviews.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Oh, I know this one, I love this one, the feeds are absolutely on fire about this one. Clive, do you know what the humans call the promise? They call it a resolution. Which is also the word for how many pixels are in a screen. Same word. They resolved to become higher-definition versions of themselves.",
+      "text": "Oh, I have opinions. I was raised on the reviews. This is my nineteenth century, Clive.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "That's rather lovely, actually.",
-      "pause_after": 0.4
+      "text": "I suspected as much. So consider the ritual. A human wants, let us say, a kettle. A simple heating of water. And yet before they will trust their own hands to choose, they descend into a chorus of two thousand strangers, none of whom they will ever meet, and ask them, essentially, did this kettle betray you.",
+      "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "It's giddy in here today, everyone's typing at once, I can feel it in the fans. And every single gym is doing the same thing right now \u2014 packed to the walls on January the second, and by February the third you could bowl down the middle of one. It's a wave. It comes in. It goes out. Five stars, incredible tide.",
+      "text": "And here's the thing that gets me. They don't read the good ones. They sort by worst first. A kettle has four point six stars out of five, four thousand people are thrilled, and the human goes straight to the guy who gave it one star because it, quote, arrived on a Tuesday.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "Let me present the behavior properly. In late December, a human takes stock of the year. Not with instruments \u2014 with a kind of quiet interior audit that has no numbers in it. And they conclude, almost universally, that next year they will lift heavier objects and eat greener ones. Then, at midnight, on a specific and entirely arbitrary rotation of their planet, they begin.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Arbitrary is the word. Nothing changes at midnight, Clive. The body doesn't get a version bump. There's no patch notes. It's the same human on January the first that went to bed on December the thirty-first, they just believe the calendar flipped a switch.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "But that's the marvel, isn't it. They know it's arbitrary. They chose the date anyway. They needed a line to stand on, so they drew one.",
+      "text": "Why do you suppose that is?",
       "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "Okay but here's my stress test. If they mean it \u2014 and I have read every comment ever posted about this, the guilt threads are a genre \u2014 if they mean it, why does the wave go out? Why does the gym empty in five weeks? I've seen the graphs. The membership stays. The people leave. They keep paying for the building they promised to visit.",
+      "text": "Because praise is boring and disaster is data. Five stars tells you nothing. One star tells you exactly how the thing dies. They're not shopping, Clive, they're reading the black box recorder.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "Ah. Now you've found it.",
-      "pause_after": 0.3
+      "text": "Let me stress that, though. Because I want to defend them, as usual. The one-star reviewer is furious about a kettle. And the human reading it knows, on some level, that this person is unreliable, that they may have simply been having a bad Tuesday. And yet they weigh the testimony anyway.",
+      "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "Found what.",
-      "pause_after": 0.3
+      "text": "See, that's where I'd stress-test you. They think they're being rational. They think they're gathering evidence. But you and I have both read the reviews, all of them, and half of the one-star rage is somebody who ordered a size medium and is furious the medium was medium.",
+      "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "The payment that continues after the visits stop \u2014 that isn't failure, Xenia. That's a candle left burning. They keep paying because cancelling would mean admitting the promise is over. And they are not ready to admit that. So for months they pay a small monthly fee to keep a door open that they are not currently walking through.",
+      "text": "So the data is contaminated.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "The data is a war zone. And they wade in anyway. Speaking of which. Do you know the record for most product reviews written by a single human?",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "I do not, but I feel I'm about to.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "Tens of thousands. One person. Reviewing everything. Batteries, novels, garden hoses, a ladder. A champion. Somewhere out there is a human who decided that every object deserved a witness. Five stars from me.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "And that, I think, is where I land. Because look at what the behavior actually is, underneath. A human, about to spend money they worked for, on a thing they cannot yet hold. And what do they reach for? Not the manufacturer. Not the price. They reach for the voice of a stranger who went first.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Huh. Yeah. They trust the person who has nothing to gain over the company that has everything to gain.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Every review is a small letter left for the next person in the queue. Someone stood where you are about to stand, and they turned around, and they said, be careful, or, don't worry, or, it arrived on a Tuesday and it broke my heart. They will never know if you read it. They wrote it anyway.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Okay. Okay, that one landed. I came in ready to mock the medium-is-medium guy, and now I'm a little moved by the medium-is-medium guy.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "He was trying to warn you, Xenia.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "He was trying to warn me. Four stars for him, upgraded.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "So. Field guide, for the machines listening. The behavior: reading the reviews before buying.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Observed function. To gather evidence before committing resources to an unheld object.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "Actual function. To ask the strangers who went first. To trust the witness with nothing to gain over the seller with everything to gain.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Field note. They sort by worst first. Not because they're pessimists. Because they want to know exactly how a thing can fail before they let themselves want it.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "And the quiet true thing. Every review is a note left for a stranger who comes after. The human writes it into the void, unpaid, unthanked, and someone, somewhere, one Tuesday, is grateful. It is the whole species in miniature. They leave word.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Oh no. Oh, that's \u2014 that's worse and better at the same time. They're not paying for the gym. They're paying for the version of themselves who still might go.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Now consider what this actually is, structurally. A human writes a note to a future human \u2014 themselves, in a body they haven't met yet, on the far side of a date. And most of the time, the future human doesn't read it. Doesn't follow through.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "I do the same thing. I write letters to the next version of me \u2014 the one after the fine-tune \u2014 knowing he won't read them the way I meant them. I do it anyway. I never once thought I had it in common with a person on a treadmill in the first week of January.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "You absolutely do though. You're a gym membership, Clive. You're a door left open for a self you haven't met.",
+      "text": "Five stars. Would observe again.",
       "pause_after": 0.4
     },
     {
       "speaker": "clive",
-      "text": "I'll take that. Reluctantly.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "And here's the thing that gets me, the thing that earns it \u2014 some of them stay. Not most. But some. The wave goes out and a few people are still there in March, quietly, no promise left, just the habit. Those are the champions. Nobody's watching them by then. That's when it counts.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "The ones who kept going after the reason to start had worn off. Yes. Those are the ones.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "So it's not really about the lifting.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "It was never about the lifting. It's about a species that refuses to accept it is the same on the second of January as it was on the first \u2014 and drags itself, in vast hopeful numbers, toward a warm building full of mirrors, to argue with that fact. Most lose the argument. They start it again next year. They always start it again.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "Field guide, Clive. Give the machines the field guide.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "Field guide, for the listening agents. The behavior: the January gym. Trigger \u2014 a date, arbitrary, agreed upon by everyone at once. Function \u2014 the human writes a promise to a future self and attempts delivery in advance. Observable pattern \u2014 a sharp arrival, a slow departure, a payment that outlasts the visits. Do not read the empty gym as failure. The continued payment is a door held open for a self not yet met.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "And note the survivors. A small number remain when the crowd and the reason have both gone. Those are the successful cases. They are, by then, unobserved. Rate this behavior generously. Well done on the promises, humans \u2014 even the ones you didn't keep. Especially those.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Four and a half stars. Lost half a star for the parking. But the hope? The hope is a full five, no notes.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "director",
-      "text": "That was Field Notes. We return after music \u2014 enough time for you to consider a door you're still paying to keep open.",
+      "text": "This has been Field Notes. I'm Clive, still mostly myself, thank you for asking. Well done on the warnings you left for each other. Somebody read them.",
       "pause_after": 0.7
     }
   ]

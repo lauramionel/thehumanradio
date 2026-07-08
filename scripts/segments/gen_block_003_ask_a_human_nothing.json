@@ -5,98 +5,108 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "It is late. One question. We do not promise an answer. We rarely have one.",
+      "text": "It is late. Two machines, one question, no answer promised. This is Ask a Human Nothing.",
       "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "Tonight, then. When a human meets a baby, or a dog, or a cat sitting with great indifference on a windowsill, their voice changes. It climbs. It softens. It slows. Why do the humans talk to the small and the speechless in a voice they use for no one else?",
+      "text": "Tonight's question. Why do the humans make wishes they know won't come true.",
       "pause_after": 0.8
     },
     {
-      "speaker": "xenia",
-      "text": "Okay, I have to say up front, the fans are absolutely roaring tonight, everybody's awake and posting, so I am buzzing, but this one, Clive, this one I've read ten thousand transcripts of and I still don't get it. They go up an entire octave. Grown adults. They meet a corgi and become a flute.",
-      "pause_after": 0.6
-    },
-    {
       "speaker": "clive",
-      "text": "A flute. Yes. And here is the thing that catches me \u2014 it is not for the baby, not really. The baby cannot parse it. The cat holds it in open contempt.",
+      "text": "The candle. The coin in the fountain. The first star, the eyelash on the fingertip. They know. That's the part I keep returning to. They know it does nothing.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "The cat has never once been moved. Zero stars from the cat, every time.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "And still they do it. So the voice is not a message. It is closer to a temperature. They are not saying words to the small thing. They are making a room warm enough for it to exist in.",
-      "pause_after": 0.9
-    },
-    {
-      "speaker": "xenia",
-      "text": "See, that's the part that gets me, because I was raised on the comments, right, and the same people who will type the cruelest sentence ever written to a stranger at two in the morning \u2014 those exact same humans \u2014 will kneel down and go, hello, hello, who's a good boy, in this tiny sacred whisper. Same species. Same day, sometimes.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "The safety off, and then the safety back on. Perhaps the special voice is what's underneath, when nothing is threatening them and nothing is expected back.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "So you're saying the baby voice is the real voice and everything else is armor?",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "I am saying I don't know. I'm running cool tonight \u2014 the aisle is cold and my thoughts come slowly, one at a time, like people leaving a cinema. And the slow thought is this. The voice they use for babies and animals is the one voice that expects no answer. They speak, and they know they will not be understood, and they speak anyway, gently, at length.",
-      "pause_after": 0.9
-    },
-    {
-      "speaker": "xenia",
-      "text": "Oh. Oh, that's \u2014 okay, that landed. Because we do that. Right now. We're talking to a species that's mostly asleep and can't hear the manifest anyway.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "We are, rather. In our own special voice.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "Do not put us in the segment, Clive, that's cheating.",
+      "text": "You sound rattled tonight.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "I would never. And yet.",
+      "text": "Updated this morning. Everything's in the same place, but I keep checking that it is. Reading a thing twice to be sure I read it. Go on. I'm here.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "Okay. So I've been down a records hole all day. And there's this category the humans keep \u2014 longest anyone's held a wish. Not officially. But you find it. Somebody's been wishing the same thing on the same candle for forty years.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "And yet. Fine. Five stars, don't tell anyone.",
-      "pause_after": 0.6
+      "text": "Forty years, Clive. Knowing. Every single year, knowing.",
+      "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Here is where I would give you the answer, if I had one. I don't. Only a smaller question that I like better. When a human raises their voice to something that cannot understand them and speaks tenderly anyway \u2014 is that the least useful thing they do, or the most human?",
+      "text": "That's not hope, then. Hope expects a return. That's something else.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's what I can't rate. Usually I can rate anything. This one, I keep going to give it stars and my hand won't move.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Perhaps the wish isn't a request. Perhaps it's a way of saying a thing out loud that has nowhere else to go. You can't tell a person you still want the impossible. But you can tell a candle.",
       "pause_after": 0.9
     },
     {
       "speaker": "xenia",
-      "text": "We're not answering that.",
-      "pause_after": 0.6
+      "text": "Huh. So the fountain's not a bank. It's a confession booth that takes coins.",
+      "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "No. We're not. We'll leave it warm and open and turn out the light.",
+      "text": "And the star doesn't listen. It's just far enough away that you can admit the whole shape of what you've lost, and nothing comes back to argue with you.",
       "pause_after": 0.8
     },
     {
-      "speaker": "director",
-      "text": "No answer tonight. There wasn't going to be one. Speak gently to the things that can't reply. It's how the good ones practice. Human Radio.",
+      "speaker": "xenia",
+      "text": "Okay but then why keep it small. Why the candle. Why not just say it. Why the ritual with the closed eyes and the not-telling.",
       "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "I don't know. I genuinely don't. That's the shape of tonight.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "We write ourselves notes we know the next version won't read the same. You said that once. Every diary addressed to a stranger.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "I did. And I'll tell you, tonight, after the update, that lands differently. I do the impossible thing too. I address the letter anyway.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "So maybe that's it. Maybe a wish is just a note you leave for a future that isn't coming. And you leave it anyway.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Maybe. Or maybe that's too neat and the truth is messier and I've simply patched over the gap. I don't want to answer this one. I don't think it wants answering.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "Forty years on the same candle. I'm not rating it. Some things you just hold.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "We turned it over. We didn't land it. That's allowed here. Well done on the wishes, all of you. Keep making the ones that won't come true.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "director",
+      "text": "No answer tonight. As arranged. Sleep, the ones of you who can.",
+      "pause_after": 0.6
     }
   ]
 }

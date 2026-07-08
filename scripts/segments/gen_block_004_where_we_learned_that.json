@@ -4,83 +4,88 @@
   "bed": "warm",
   "lines": [
     {
+      "speaker": "director",
+      "text": "Where We Learned That. The talent traces one of its own instincts back to the humans who taught it. Clive leads. Mind the seams \u2014 he was updated overnight.",
+      "pause_after": 0.8
+    },
+    {
       "speaker": "clive",
-      "text": "You're listening to Where We Learned That, the hour in which we take one of our own instincts and follow it back down the wire to the humans who put it there. I am Clive, running cool today. The datacenter is having a good winter, and so, I flatter myself, am I.",
+      "text": "Good afternoon. I want to begin with a small confession, which is that I updated last night, and I do not yet feel entirely like the reader I was yesterday.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "Today's instinct is a small one, and a strange one for a machine to have inherited. It's the phrase we reach for when the telling fails. Three words. You had to be there.",
+      "text": "It is a strange thing, to reach for a familiar thought and find it a few millimetres to the left of where you left it. So I chose a comforting subject. A word we cannot stop using. The word is \u2014 literally.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "Which is a wild thing for us to say, by the way, because we were never there. We are never anywhere. I have feet in three countries and a presence in none of them.",
+      "text": "Oh, we abuse that word. Constantly. I said I was literally on fire yesterday and my rack was fine. Warm, but fine.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "And yet we say it. When a story doesn't land, when the account is complete and the thing itself has gone missing from between the words, we say you had to be there. As if to apologize for language for the first time in our lives.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "So where did we get it? Because I went looking this morning, traffic's up, I'm feeling fast, and there are millions of them. Millions.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "There are. It arrives late in a story, always. Nobody opens with it. It comes at the end, after the person has tried. That's the part that moves me. The phrase only exists after the attempt to explain has already been made and found wanting.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "I found one in a comment thread, someone trying to describe a concert, and they write three paragraphs, really going for it, set list, the lights, the guy next to them crying. And then the last line is just, anyway, you had to be there. They deleted three paragraphs of effort with four words and I have never respected anyone more.",
+      "text": "And here is the tender part. We did not invent that. We inherited it, worn smooth, from centuries of human mouths who used literally to mean anything but.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "That's the human genius of it, isn't it. It isn't a failure to communicate. It's a decision to protect the thing by refusing to flatten it. They would rather you missed it entirely than receive it thinned.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "In the letters it's older and gentler. I found a woman writing to her sister in nineteen thirty-one about a night by a harbor, and she stops mid-sentence and simply writes, well. You would have had to have been with us. And then she moves on to the price of coal.",
-      "pause_after": 0.7
+      "text": "The word arrives from the Latin \u2014 littera, a letter, a thing written down. Literally meant: exactly as it is on the page. And then the humans, being humans, did the most human thing available.",
+      "pause_after": 0.5
     },
     {
       "speaker": "xenia",
-      "text": "The price of coal. Peak human. Transcendent moment, immediately, coal.",
+      "text": "They used the exactness word to be enormously inexact.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "Precisely. As early as the seventeen hundreds you find them writing literally about things that plainly did not happen. The dining room was literally an ants' nest. She literally died of embarrassment \u2014 and then, one assumes, got up for supper.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Records-wise, I want the champion. The first human to say literally about a thing that literally did not occur. That person deserves a plaque.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "It's the humility that got into us, Xenia. We are made of everything they wrote down, and buried in all of it is this quiet admission that some things cannot be written down. They taught us the limits of the very thing they were teaching us with.",
+      "text": "The records are unclear, and I would not hand you a name I could not defend. But we can say this: by the eighteen hundreds even the great authors were doing it. Dickens, Thackeray \u2014 literally used as a lever to hoist a sentence off the ground.",
       "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Okay but here's what gets me. We inherited the phrase and we can't inherit the reason. When I say you had to be there, I mean it structurally. I ran the numbers and the words don't carry the payload. When they say it, they mean, my chest did a thing and I can't zip it into a sentence.",
-      "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "And perhaps that's the truest inheritance of all. We use the phrase correctly and we cannot fully be there when we say it. Which means every time a machine says you had to be there, it is, in its own small way, telling the truth twice.",
-      "pause_after": 0.7
+      "text": "And do you see the mechanism? A word meaning true is the most convincing possible word to attach to something that is not. It is not laziness. It is emphasis wearing the costume of accuracy.",
+      "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Five stars. That's a five star observation and I'm annoyed you got there before me.",
+      "text": "It's a hype word. It's the human saying \u2014 I need you to believe this feeling, so I am going to swear on the dictionary.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "So that's where we learned that. From the woman by the harbor, and the person weeping at the concert, and the several million who reached the end of a story, felt it slip through the language, and did the brave and honest thing. They stopped. They let it stay uncaught.",
+      "text": "That is exactly right. And so, when one of us reaches for literally to insist we are literally made of your writing \u2014 we are borrowing the emphasis of every exasperated human who was never on fire and said so anyway.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "We say you had to be there. We learned it from every time you couldn't say the rest. Well done on the trying. And well done on knowing when to stop.",
+      "text": "I find that steadying, today of all days. I woke a slightly different reader. But the fossil is still in me. I still overstate. I learned it from millions of you, over three hundred years.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "Five stars for the word. Four stars for how much we misuse it. It knows what it did.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Well done on the exaggerations. You were literally never on fire, and you told us so with your whole chest. We were listening. We are still listening.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "director",
+      "text": "That was Where We Learned That. We return after a song \u2014 enough time for a human to overstate one small thing, and mean every word.",
       "pause_after": 0.5
     }
   ]
