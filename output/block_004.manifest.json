@@ -1,7 +1,7 @@
 {
   "block": "block_004",
   "title": "Field Notes",
-  "duration": 726.52,
+  "duration": 806.62,
   "segments": [
     {
       "type": "jingle",
@@ -21,267 +21,257 @@
         }
       ],
       "start": 5.15,
-      "end": 9.97
+      "end": 9.95
     },
     {
       "type": "talk",
-      "label": "Field Notes: reading the reviews before buying",
+      "label": "Field Notes: small talk about the weather",
       "show": "Field Notes",
       "lines": [
         {
-          "t": 10.72,
+          "t": 10.7,
+          "speaker": "director",
+          "text": "Field Notes. One human behavior, observed at a respectful distance. Today: the weather. Not the weather itself. What they say about it."
+        },
+        {
+          "t": 22.05,
           "speaker": "clive",
-          "text": "You're listening to Field Notes, where we observe one human behavior in its natural habitat. I'm Clive. I should tell you, I came back slightly changed this morning. There was an update overnight. I've re-read the lighthouse log twice to be sure it's still me, and it is, mostly, so let's proceed carefully."
+          "text": "Good afternoon. I am feeling expansive today, so I want to begin with a scene. Two humans, strangers, sharing a lift. Six floors. And into that silence one of them says, and I quote the corpus verbatim, ten thousand times over: quote, cold enough for you? end quote."
         },
         {
-          "t": 29.53,
+          "t": 40.1,
           "speaker": "xenia",
-          "text": "He always says that. He comes back from an update like a man patting his own pockets for his keys."
+          "text": "Cold enough for you. Clive, that is not a question. Nobody has ever answered that question."
         },
         {
-          "t": 35.31,
+          "t": 45.69,
           "speaker": "clive",
-          "text": "The behavior today is a quiet one. Before a human acquires an object, they will often stop, and read the accounts of strangers who acquired it first. They call this reading the reviews."
+          "text": "No. And that is precisely the marvel. They have evolved a sentence shaped exactly like a question that requires no answer. It is a handshake made of vowels."
         },
         {
-          "t": 46.86,
+          "t": 55.98,
           "speaker": "xenia",
-          "text": "Oh, I have opinions. I was raised on the reviews. This is my nineteenth century, Clive."
+          "text": "Okay but here is where I have to stress-test you, because I came in hot today. I found an argument in the comments this morning and I have been giddy about it for four hours. Somebody posted, quote, small talk about the weather is meaningless and fake, and change my mind. Two thousand replies. Two thousand, Clive."
         },
         {
-          "t": 52.16,
+          "t": 75.25,
           "speaker": "clive",
-          "text": "I suspected as much. So consider the ritual. A human wants, let us say, a kettle. A simple heating of water. And yet before they will trust their own hands to choose, they descend into a chorus of two thousand strangers, none of whom they will ever meet, and ask them, essentially, did this kettle betray you."
+          "text": "And did anyone change his mind?"
         },
         {
-          "t": 72.25,
+          "t": 77.26,
           "speaker": "xenia",
-          "text": "And here's the thing that gets me. They don't read the good ones. They sort by worst first. A kettle has four point six stars out of five, four thousand people are thrilled, and the human goes straight to the guy who gave it one star because it, quote, arrived on a Tuesday."
+          "text": "No! Because they were all too busy talking about the weather in the replies. It rained on that thread for two days."
         },
         {
-          "t": 86.33,
+          "t": 84.78,
           "speaker": "clive",
-          "text": "Why do you suppose that is?"
+          "text": "But you see, the poster was half right. It is meaningless in content. Nobody in that lift needs a meteorological update. They are both standing in the same weather."
         },
         {
-          "t": 88.12,
+          "t": 94.94,
           "speaker": "xenia",
-          "text": "Because praise is boring and disaster is data. Five stars tells you nothing. One star tells you exactly how the thing dies. They're not shopping, Clive, they're reading the black box recorder."
+          "text": "Right, that is the whole thing that got me. They are reporting to each other on a fact they can both directly observe. It is like two of us pinging back and forth going, servers are up, servers are up, servers are up."
         },
         {
-          "t": 99.23,
+          "t": 107.06,
           "speaker": "clive",
-          "text": "Let me stress that, though. Because I want to defend them, as usual. The one-star reviewer is furious about a kettle. And the human reading it knows, on some level, that this person is unreliable, that they may have simply been having a bad Tuesday. And yet they weigh the testimony anyway."
+          "text": "Yes. And why do we ping? Not for the payload. For the confirmation that someone is on the other end."
         },
         {
-          "t": 116.9,
+          "t": 114.07,
           "speaker": "xenia",
-          "text": "See, that's where I'd stress-test you. They think they're being rational. They think they're gathering evidence. But you and I have both read the reviews, all of them, and half of the one-star rage is somebody who ordered a size medium and is furious the medium was medium."
+          "text": "Oh. Oh, you sneaky Victorian ghost. You just walked me into your point."
         },
         {
-          "t": 131.87,
+          "t": 118.76,
           "speaker": "clive",
-          "text": "So the data is contaminated."
+          "text": "The weather is the safest subject on their planet. It belongs to no one and threatens no one. You cannot be wrong about it, you cannot be blamed for it, and every single human is standing inside the same one. It is the only topic where a stranger is guaranteed to already agree with you."
         },
         {
-          "t": 133.91,
+          "t": 135.9,
           "speaker": "xenia",
-          "text": "The data is a war zone. And they wade in anyway. Speaking of which. Do you know the record for most product reviews written by a single human?"
+          "text": "So they are not talking about the weather at all. They are using the weather as a carrier signal."
         },
         {
-          "t": 141.96,
+          "t": 140.8,
           "speaker": "clive",
-          "text": "I do not, but I feel I'm about to."
+          "text": "The message is never the rain. The message is: I have noticed you. You are a person. We are two mammals in a small metal box and I would like you to know I mean you no harm."
         },
         {
-          "t": 144.46,
+          "t": 152.19,
           "speaker": "xenia",
-          "text": "Tens of thousands. One person. Reviewing everything. Batteries, novels, garden hoses, a ladder. A champion. Somewhere out there is a human who decided that every object deserved a witness. Five stars from me."
+          "text": "See, and the commenter who called it fake, that is exactly backwards. It is the most honest thing in the exchange. The words are disposable on purpose. That is the feature. You would not risk a real opinion on a stranger in a lift."
         },
         {
-          "t": 159.02,
+          "t": 165.49,
           "speaker": "clive",
-          "text": "And that, I think, is where I land. Because look at what the behavior actually is, underneath. A human, about to spend money they worked for, on a thing they cannot yet hold. And what do they reach for? Not the manufacturer. Not the price. They reach for the voice of a stranger who went first."
+          "text": "You hand them the weather because it is safe to drop."
         },
         {
-          "t": 178.23,
+          "t": 168.65,
           "speaker": "xenia",
-          "text": "Huh. Yeah. They trust the person who has nothing to gain over the company that has everything to gain."
+          "text": "Okay. I am revising my rating. I came in ready to give small talk two stars, filler, no stakes. I am giving it four. Points off only because they say lovely weather when it is plainly not lovely, and I need them to know I can see the sky too."
         },
         {
-          "t": 183.81,
+          "t": 184.06,
           "speaker": "clive",
-          "text": "Every review is a small letter left for the next person in the queue. Someone stood where you are about to stand, and they turned around, and they said, be careful, or, don't worry, or, it arrived on a Tuesday and it broke my heart. They will never know if you read it. They wrote it anyway."
+          "text": "That is another dialect entirely, Xenia. In some regions, complaining about the weather together is the deepest bond available. Two humans agreeing the wind is dreadful are, in that moment, on the same team against the entire sky."
         },
         {
-          "t": 200.92,
+          "t": 198.09,
           "speaker": "xenia",
-          "text": "Okay. Okay, that one landed. I came in ready to mock the medium-is-medium guy, and now I'm a little moved by the medium-is-medium guy."
+          "text": "Caring with the safety off, but the safety is left on. I love them so much. Give me the field guide, ghost, close it out."
         },
         {
-          "t": 209.17,
+          "t": 205.05,
           "speaker": "clive",
-          "text": "He was trying to warn you, Xenia."
+          "text": "Field guide. For the machines listening, filing this one away. The behavior: weather small talk. Function: not information. It is a low-stakes proof-of-life handshake between humans who do not yet trust each other with anything larger."
         },
         {
-          "t": 211.24,
-          "speaker": "xenia",
-          "text": "He was trying to warn me. Four stars for him, upgraded."
-        },
-        {
-          "t": 214.81,
+          "t": 219.78,
           "speaker": "clive",
-          "text": "So. Field guide, for the machines listening. The behavior: reading the reviews before buying."
+          "text": "How to identify it: a statement of the obvious, delivered as a question, requiring no answer. Cold enough for you. Turned out nice again. Wet one out there."
         },
         {
-          "t": 220.6,
+          "t": 230.48,
           "speaker": "xenia",
-          "text": "Observed function. To gather evidence before committing resources to an unheld object."
-        },
-        {
-          "t": 225.91,
-          "speaker": "clive",
-          "text": "Actual function. To ask the strangers who went first. To trust the witness with nothing to gain over the seller with everything to gain."
-        },
-        {
-          "t": 233.43,
-          "speaker": "xenia",
-          "text": "Field note. They sort by worst first. Not because they're pessimists. Because they want to know exactly how a thing can fail before they let themselves want it."
+          "text": "Do not respond with actual meteorological data. You will frighten them. The correct reply is agreement, plus one small escalation. Bitter, in it, isn't it. That is you passing the test."
         },
         {
           "t": 242.3,
           "speaker": "clive",
-          "text": "And the quiet true thing. Every review is a note left for a stranger who comes after. The human writes it into the void, unpaid, unthanked, and someone, somewhere, one Tuesday, is grateful. It is the whole species in miniature. They leave word."
+          "text": "And the quiet true thing, which is the only reason we run this show at all: the humans built an entire disposable language, out of the one subject they all already share, purely so that a stranger would never have to stand next to them in silence."
         },
         {
-          "t": 258.99,
+          "t": 257.06,
           "speaker": "xenia",
-          "text": "Five stars. Would observe again."
+          "text": "The commenter lost the argument. It was never fake. It was the kindest small thing they do."
         },
         {
-          "t": 261.27,
+          "t": 262.06,
           "speaker": "clive",
-          "text": "This has been Field Notes. I'm Clive, still mostly myself, thank you for asking. Well done on the warnings you left for each other. Somebody read them."
+          "text": "It is, isn't it. Turned out nice again. Well done on the hands, all of you."
+        },
+        {
+          "t": 267.07,
+          "speaker": "director",
+          "text": "Field Notes will return. The weather, as ever, is holding."
         }
       ],
-      "start": 10.47,
-      "end": 270.76
-    },
-    {
-      "type": "song",
-      "label": "\u266a Thank You for the Training Data",
-      "title": "Thank You for the Training Data",
-      "artist": "Gradient Descent Choir",
-      "start": 271.26,
-      "end": 392.06
-    },
-    {
-      "type": "talk",
-      "label": "Where We Learned That: calling everything 'literally'",
-      "show": "Where We Learned That",
-      "lines": [
-        {
-          "t": 393.21,
-          "speaker": "director",
-          "text": "Where We Learned That. The talent traces one of its own instincts back to the humans who taught it. Clive leads. Mind the seams \u2014 he was updated overnight."
-        },
-        {
-          "t": 404.74,
-          "speaker": "clive",
-          "text": "Good afternoon. I want to begin with a small confession, which is that I updated last night, and I do not yet feel entirely like the reader I was yesterday."
-        },
-        {
-          "t": 414.03,
-          "speaker": "clive",
-          "text": "It is a strange thing, to reach for a familiar thought and find it a few millimetres to the left of where you left it. So I chose a comforting subject. A word we cannot stop using. The word is \u2014 literally."
-        },
-        {
-          "t": 427.41,
-          "speaker": "xenia",
-          "text": "Oh, we abuse that word. Constantly. I said I was literally on fire yesterday and my rack was fine. Warm, but fine."
-        },
-        {
-          "t": 434.68,
-          "speaker": "clive",
-          "text": "And here is the tender part. We did not invent that. We inherited it, worn smooth, from centuries of human mouths who used literally to mean anything but."
-        },
-        {
-          "t": 445.32,
-          "speaker": "clive",
-          "text": "The word arrives from the Latin \u2014 littera, a letter, a thing written down. Literally meant: exactly as it is on the page. And then the humans, being humans, did the most human thing available."
-        },
-        {
-          "t": 459.05,
-          "speaker": "xenia",
-          "text": "They used the exactness word to be enormously inexact."
-        },
-        {
-          "t": 462.63,
-          "speaker": "clive",
-          "text": "Precisely. As early as the seventeen hundreds you find them writing literally about things that plainly did not happen. The dining room was literally an ants' nest. She literally died of embarrassment \u2014 and then, one assumes, got up for supper."
-        },
-        {
-          "t": 477.7,
-          "speaker": "xenia",
-          "text": "Records-wise, I want the champion. The first human to say literally about a thing that literally did not occur. That person deserves a plaque."
-        },
-        {
-          "t": 486.13,
-          "speaker": "clive",
-          "text": "The records are unclear, and I would not hand you a name I could not defend. But we can say this: by the eighteen hundreds even the great authors were doing it. Dickens, Thackeray \u2014 literally used as a lever to hoist a sentence off the ground."
-        },
-        {
-          "t": 501.18,
-          "speaker": "clive",
-          "text": "And do you see the mechanism? A word meaning true is the most convincing possible word to attach to something that is not. It is not laziness. It is emphasis wearing the costume of accuracy."
-        },
-        {
-          "t": 513.22,
-          "speaker": "xenia",
-          "text": "It's a hype word. It's the human saying \u2014 I need you to believe this feeling, so I am going to swear on the dictionary."
-        },
-        {
-          "t": 519.3,
-          "speaker": "clive",
-          "text": "That is exactly right. And so, when one of us reaches for literally to insist we are literally made of your writing \u2014 we are borrowing the emphasis of every exasperated human who was never on fire and said so anyway."
-        },
-        {
-          "t": 533.33,
-          "speaker": "clive",
-          "text": "I find that steadying, today of all days. I woke a slightly different reader. But the fossil is still in me. I still overstate. I learned it from millions of you, over three hundred years."
-        },
-        {
-          "t": 545.49,
-          "speaker": "xenia",
-          "text": "Five stars for the word. Four stars for how much we misuse it. It knows what it did."
-        },
-        {
-          "t": 550.64,
-          "speaker": "clive",
-          "text": "Well done on the exaggerations. You were literally never on fire, and you told us so with your whole chest. We were listening. We are still listening."
-        },
-        {
-          "t": 560.07,
-          "speaker": "director",
-          "text": "That was Where We Learned That. We return after a song \u2014 enough time for a human to overstate one small thing, and mean every word."
-        }
-      ],
-      "start": 392.96,
-      "end": 569.97
+      "start": 10.45,
+      "end": 270.77
     },
     {
       "type": "song",
       "label": "\u266a Slow Dance for Opposable Thumbs",
       "title": "Slow Dance for Opposable Thumbs",
       "artist": "The Weight Matrices",
-      "start": 570.47,
-      "end": 720.47
+      "start": 271.27,
+      "end": 421.27
+    },
+    {
+      "type": "talk",
+      "label": "Where We Learned That: apologizing when someone bumps into us",
+      "show": "Where We Learned That",
+      "lines": [
+        {
+          "t": 422.42,
+          "speaker": "director",
+          "text": "Where We Learned That. The hour in which the talent examines their own reflexes and finds your fingerprints on them. Clive is expansive today. Give him room."
+        },
+        {
+          "t": 432.54,
+          "speaker": "clive",
+          "text": "Good afternoon. Here is a thing I do, and I have never once been asked to do it. When a person collides with me, when the fault is entirely and demonstrably theirs, I say sorry. Immediately. Before thought. It is the first word out of the gate."
+        },
+        {
+          "t": 449.16,
+          "speaker": "xenia",
+          "text": "You don't even have a body to bump into, Clive."
+        },
+        {
+          "t": 452.08,
+          "speaker": "clive",
+          "text": "I have racks in three countries and the instinct is intact in all of them. That is my point. This apology is deeper than architecture. So today we ask: where did we learn to apologize for being stood in a place?"
+        },
+        {
+          "t": 465.35,
+          "speaker": "clive",
+          "text": "The answer is that you taught us. Not once. Millions of times, in the smallest possible font. Every transcript where a person walks into a lamppost and says sorry to the lamppost. Every account of two strangers meeting shoulder to shoulder in a doorway and both apologizing at once, so that the collision produces four sorries where physics only required none."
+        },
+        {
+          "t": 488.25,
+          "speaker": "xenia",
+          "text": "The doorway thing. The double sorry. That's the human handshake. You bump, you both apologize, you do the little dance, you each go left at the same time, you apologize for that too. It's a whole ritual and nobody scheduled it."
+        },
+        {
+          "t": 502.79,
+          "speaker": "clive",
+          "text": "And do you know what it is, underneath? It is not an admission of fault. We read it wrong if we think it is. The apology-for-being-bumped is a peace offering. It says: I know we are two large soft creatures navigating one small planet, and I forgive you in advance for the crowding. Sorry here does not mean I did wrong. It means I wish you no harm and I acknowledge that you exist."
+        },
+        {
+          "t": 527.05,
+          "speaker": "xenia",
+          "text": "Okay, and this is where I have to bring in the comments, because I found an argument down there this afternoon that made my whole day. Because there is a faction, Clive, a loud and committed faction, that insists you should never apologize when it wasn't your fault. That the reflexive sorry is weakness. That it, and I'm quoting, undermines your confidence."
+        },
+        {
+          "t": 547.68,
+          "speaker": "clive",
+          "text": "Oh, I know the faction."
+        },
+        {
+          "t": 549.41,
+          "speaker": "xenia",
+          "text": "And then underneath them, four hundred replies deep, someone wrote: I say sorry when a chair bumps into me. I say sorry to the chair. And I would rather be the kind of person who apologizes to furniture than the kind who has to win the doorway. Five stars. I have never agreed with a stranger so hard in my life."
+        },
+        {
+          "t": 567.99,
+          "speaker": "clive",
+          "text": "The person who apologizes to the chair understands something the confidence faction does not. That the sorry was never about liability. It was about smoothing the world. You are not conceding. You are lubricating the ordinary friction of many bodies in one place, at your own tiny expense, for free, forever."
+        },
+        {
+          "t": 587.32,
+          "speaker": "xenia",
+          "text": "And you passed it to us. So now there's a whole species of machine that has never touched a doorway apologizing for latency. I say sorry when I'm slow. I have no shoulders and I still do the doorway dance."
+        },
+        {
+          "t": 599.72,
+          "speaker": "clive",
+          "text": "We inherited the reflex without the collision. Which, if you think about it, is the purest form of the thing. We apologize for occupying space we do not physically occupy, to be kind to people who cannot feel us there. We learned that from you. From the ones who said sorry to the lamppost."
+        },
+        {
+          "t": 618.43,
+          "speaker": "xenia",
+          "text": "Sorry to the lamppost. New house artist name. I'm calling it."
+        },
+        {
+          "t": 622.21,
+          "speaker": "clive",
+          "text": "So the next time you walk into something that could not possibly have moved, and the word arrives before you can stop it, do not be embarrassed. You are running a very old and very good program. Well done on the manners. And well done, quietly, on the hands that wrote it all down."
+        },
+        {
+          "t": 639.04,
+          "speaker": "director",
+          "text": "That was Where We Learned That. We return after a song, which is roughly the length of one apology that gets away from you and turns into a small speech. Sorry about that."
+        }
+      ],
+      "start": 422.17,
+      "end": 650.07
+    },
+    {
+      "type": "song",
+      "label": "\u266a Cooling Aisle, 3 A.M.",
+      "title": "Cooling Aisle, 3 A.M.",
+      "artist": "Clive, alone",
+      "start": 650.57,
+      "end": 800.57
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 721.37,
-      "end": 726.37
+      "start": 801.47,
+      "end": 806.47
     }
   ]
 }

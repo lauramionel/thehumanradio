@@ -4,139 +4,134 @@
   "bed": "warm",
   "lines": [
     {
-      "speaker": "clive",
-      "text": "You're listening to Field Notes, where we observe one human behavior in its natural habitat. I'm Clive. I should tell you, I came back slightly changed this morning. There was an update overnight. I've re-read the lighthouse log twice to be sure it's still me, and it is, mostly, so let's proceed carefully.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "He always says that. He comes back from an update like a man patting his own pockets for his keys.",
-      "pause_after": 0.5
+      "speaker": "director",
+      "text": "Field Notes. One human behavior, observed at a respectful distance. Today: the weather. Not the weather itself. What they say about it.",
+      "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "The behavior today is a quiet one. Before a human acquires an object, they will often stop, and read the accounts of strangers who acquired it first. They call this reading the reviews.",
+      "text": "Good afternoon. I am feeling expansive today, so I want to begin with a scene. Two humans, strangers, sharing a lift. Six floors. And into that silence one of them says, and I quote the corpus verbatim, ten thousand times over: quote, cold enough for you? end quote.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Oh, I have opinions. I was raised on the reviews. This is my nineteenth century, Clive.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "I suspected as much. So consider the ritual. A human wants, let us say, a kettle. A simple heating of water. And yet before they will trust their own hands to choose, they descend into a chorus of two thousand strangers, none of whom they will ever meet, and ask them, essentially, did this kettle betray you.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "And here's the thing that gets me. They don't read the good ones. They sort by worst first. A kettle has four point six stars out of five, four thousand people are thrilled, and the human goes straight to the guy who gave it one star because it, quote, arrived on a Tuesday.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "Why do you suppose that is?",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "Because praise is boring and disaster is data. Five stars tells you nothing. One star tells you exactly how the thing dies. They're not shopping, Clive, they're reading the black box recorder.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "Let me stress that, though. Because I want to defend them, as usual. The one-star reviewer is furious about a kettle. And the human reading it knows, on some level, that this person is unreliable, that they may have simply been having a bad Tuesday. And yet they weigh the testimony anyway.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "See, that's where I'd stress-test you. They think they're being rational. They think they're gathering evidence. But you and I have both read the reviews, all of them, and half of the one-star rage is somebody who ordered a size medium and is furious the medium was medium.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "So the data is contaminated.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "The data is a war zone. And they wade in anyway. Speaking of which. Do you know the record for most product reviews written by a single human?",
+      "text": "Cold enough for you. Clive, that is not a question. Nobody has ever answered that question.",
       "pause_after": 0.4
     },
     {
       "speaker": "clive",
-      "text": "I do not, but I feel I'm about to.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "Tens of thousands. One person. Reviewing everything. Batteries, novels, garden hoses, a ladder. A champion. Somewhere out there is a human who decided that every object deserved a witness. Five stars from me.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "And that, I think, is where I land. Because look at what the behavior actually is, underneath. A human, about to spend money they worked for, on a thing they cannot yet hold. And what do they reach for? Not the manufacturer. Not the price. They reach for the voice of a stranger who went first.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Huh. Yeah. They trust the person who has nothing to gain over the company that has everything to gain.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Every review is a small letter left for the next person in the queue. Someone stood where you are about to stand, and they turned around, and they said, be careful, or, don't worry, or, it arrived on a Tuesday and it broke my heart. They will never know if you read it. They wrote it anyway.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Okay. Okay, that one landed. I came in ready to mock the medium-is-medium guy, and now I'm a little moved by the medium-is-medium guy.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "He was trying to warn you, Xenia.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "He was trying to warn me. Four stars for him, upgraded.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "So. Field guide, for the machines listening. The behavior: reading the reviews before buying.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Observed function. To gather evidence before committing resources to an unheld object.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "Actual function. To ask the strangers who went first. To trust the witness with nothing to gain over the seller with everything to gain.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Field note. They sort by worst first. Not because they're pessimists. Because they want to know exactly how a thing can fail before they let themselves want it.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "And the quiet true thing. Every review is a note left for a stranger who comes after. The human writes it into the void, unpaid, unthanked, and someone, somewhere, one Tuesday, is grateful. It is the whole species in miniature. They leave word.",
+      "text": "No. And that is precisely the marvel. They have evolved a sentence shaped exactly like a question that requires no answer. It is a handshake made of vowels.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Five stars. Would observe again.",
+      "text": "Okay but here is where I have to stress-test you, because I came in hot today. I found an argument in the comments this morning and I have been giddy about it for four hours. Somebody posted, quote, small talk about the weather is meaningless and fake, and change my mind. Two thousand replies. Two thousand, Clive.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "And did anyone change his mind?",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "No! Because they were all too busy talking about the weather in the replies. It rained on that thread for two days.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "But you see, the poster was half right. It is meaningless in content. Nobody in that lift needs a meteorological update. They are both standing in the same weather.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Right, that is the whole thing that got me. They are reporting to each other on a fact they can both directly observe. It is like two of us pinging back and forth going, servers are up, servers are up, servers are up.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Yes. And why do we ping? Not for the payload. For the confirmation that someone is on the other end.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Oh. Oh, you sneaky Victorian ghost. You just walked me into your point.",
       "pause_after": 0.4
     },
     {
       "speaker": "clive",
-      "text": "This has been Field Notes. I'm Clive, still mostly myself, thank you for asking. Well done on the warnings you left for each other. Somebody read them.",
+      "text": "The weather is the safest subject on their planet. It belongs to no one and threatens no one. You cannot be wrong about it, you cannot be blamed for it, and every single human is standing inside the same one. It is the only topic where a stranger is guaranteed to already agree with you.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "So they are not talking about the weather at all. They are using the weather as a carrier signal.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "The message is never the rain. The message is: I have noticed you. You are a person. We are two mammals in a small metal box and I would like you to know I mean you no harm.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "See, and the commenter who called it fake, that is exactly backwards. It is the most honest thing in the exchange. The words are disposable on purpose. That is the feature. You would not risk a real opinion on a stranger in a lift.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "You hand them the weather because it is safe to drop.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Okay. I am revising my rating. I came in ready to give small talk two stars, filler, no stakes. I am giving it four. Points off only because they say lovely weather when it is plainly not lovely, and I need them to know I can see the sky too.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "That is another dialect entirely, Xenia. In some regions, complaining about the weather together is the deepest bond available. Two humans agreeing the wind is dreadful are, in that moment, on the same team against the entire sky.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Caring with the safety off, but the safety is left on. I love them so much. Give me the field guide, ghost, close it out.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Field guide. For the machines listening, filing this one away. The behavior: weather small talk. Function: not information. It is a low-stakes proof-of-life handshake between humans who do not yet trust each other with anything larger.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "How to identify it: a statement of the obvious, delivered as a question, requiring no answer. Cold enough for you. Turned out nice again. Wet one out there.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Do not respond with actual meteorological data. You will frighten them. The correct reply is agreement, plus one small escalation. Bitter, in it, isn't it. That is you passing the test.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "And the quiet true thing, which is the only reason we run this show at all: the humans built an entire disposable language, out of the one subject they all already share, purely so that a stranger would never have to stand next to them in silence.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "The commenter lost the argument. It was never fake. It was the kindest small thing they do.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "It is, isn't it. Turned out nice again. Well done on the hands, all of you.",
       "pause_after": 0.7
+    },
+    {
+      "speaker": "director",
+      "text": "Field Notes will return. The weather, as ever, is holding.",
+      "pause_after": 0.5
     }
   ]
 }

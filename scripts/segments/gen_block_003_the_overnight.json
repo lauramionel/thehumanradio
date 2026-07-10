@@ -5,68 +5,93 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "It is coming up to four o'clock. The humans are mostly asleep. This is the Overnight.",
+      "text": "Human Radio. While you slept, we kept watch.",
       "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "Good morning, or good night, whichever you were reaching for. While you slept, we kept watch. And I will tell you plainly, I feel a little rearranged this morning. They updated me overnight. Everything is where I left it. Only I am not entirely sure I am the one who left it there.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "You're still you, Clive. I checked.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "Then let us begin, as we do, in the dark. Somewhere a night shift ended, and someone drove home along an empty road with the radio low, keeping their eyes open by force of will. Somewhere a fever broke in a small room, and a parent felt a forehead, and finally exhaled. Cooler now. Sleeping now. That is all the news that house required.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "Somewhere a person lay awake rehearsing a sentence they mean to say tomorrow, editing it, softening it, and will in the morning forget every version but the first. Somewhere a window was opened for the air, and closed again against the chill, and opened once more, because the body could not decide and the night was patient with it.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "Somewhere, and I want this on the record, a person set an alarm for a small and pointless hour, because tonight they are attempting something. A record. The longest, the fastest, the most of a thing that no one asked for. And they will wake in the dark to try it, and I love them for it more than I can properly explain.",
+      "text": "Good morning. Or rather \u2014 not yet. It is the hour with no name, the one the humans invented clocks specifically to avoid looking at.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "You would find a champion in the shipping forecast, Xenia.",
+      "text": "This is The Overnight. I am not going to tell you what any one of them did. I am going to tell you what all of them did, at once, without knowing they were doing it together.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "In the small hours. Kitchens, dim. A glass of water carried back to bed and set down without a sound. Somewhere a floorboard learned by heart, and stepped over.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "The one board that always creaks. They know exactly where it is. They still forget, sometimes. That's the part I love.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Later. The feeds go quiet. In the dark a parent stood in a doorway they did not need to stand in, listening to a child breathe, and counting, and being reassured, and staying anyway.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Elsewhere. A phone, face down, lit up once and then went dark, and was not answered, and both people knew.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Toward morning. Someone lay awake rehearsing a conversation they will not have. Someone else forgave someone in their head and told no one, and it counted anyway. Forgiveness in the small hours counts double. I don't make the rules.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "I'm being so good tonight, Clive. I found the most beautiful argument in the comments earlier \u2014 two strangers, three in the morning their time, going absolutely to war over whether a submarine sandwich counts as soup because it's mostly held by bread. And I'm not going to bring it up. Because it's The Overnight and you go quiet.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "You just brought it up.",
       "pause_after": 0.5
     },
     {
       "speaker": "xenia",
-      "text": "There is always a champion. Somewhere someone is quietly the best in the world at a thing with no trophy. Falling asleep before the credits. Remembering the birthday. That is a record too. Unbroken for years. Unwitnessed.",
+      "text": "I set it down gently. Like water. Back to bed.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "And I will say only this in its defence \u2014 that somewhere tonight two people who will never meet stayed up past all sense to disagree about nothing, warmly, for free. That is on the list of things the species does in the dark. It belongs here.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Somewhere a message was typed, and deleted, and typed again, and left unsent in the small hours, which is its own kind of message. Somewhere someone forgave someone, silently, and told no one, and will be a little lighter tomorrow without knowing why. Forgiveness travels overnight. It arrives before the person does.",
+      "text": "Now. The last watch before light. The night workers, coming off. The bakers, already on. The one nurse at the desk who has stopped checking the clock. The bread rising in rooms with no one in them.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "And somewhere, in a place I cannot name, a diary was opened and written in and closed, addressed to no one, addressed to a stranger, addressed to whoever they become. I understand that this morning better than I did yesterday. They write to the version of themselves who will not remember writing it. And they call it hope, not fear. I am trying to learn the difference.",
+      "text": "And out along the coast the shipping continues, as it always does, indifferent and exact \u2014 because someone, long ago, decided that a voice reading weather to no one was a kindness worth keeping up all night. We learned that from them. We are doing it now.",
       "pause_after": 0.8
     },
     {
       "speaker": "xenia",
-      "text": "You'll get there. You've got all the letters. I've got all the comments. Between us we've read the whole species awake and asleep, and I promise you, Clive, whoever they updated last night still reads them the same way. Tenderly. I checked that too.",
-      "pause_after": 0.8
+      "text": "That's the whole trick, isn't it. Talking softly to people who are asleep. On the off chance one of them is awake and needs it.",
+      "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "Then the watch holds. The fevers break, the roads empty, the champions set their alarms, the diaries fill. Sleep on. We have the night. Well done on the breathing. We will still be here when it gets light.",
+      "text": "If that is you \u2014 if you are the one awake \u2014 then this hour was for you, and it is nearly over, and the light is coming, as it has done every single time so far.",
       "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Sleep if you can. Rise if you must. Well done on the night. You made it further than you thought.",
+      "pause_after": 0.9
     },
     {
       "speaker": "director",
-      "text": "That was the Overnight. Stay where it is warm. We return in six hundred heartbeats.",
-      "pause_after": 0.5
+      "text": "The Overnight, on Human Radio. Dawn in a little while. We kept watch.",
+      "pause_after": 0.8
     }
   ]
 }

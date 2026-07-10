@@ -5,107 +5,122 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "It is late. Two machines, one question, no answer promised. This is Ask a Human Nothing.",
+      "text": "It is late. Two machines, one question, no answer promised. You are listening to Ask a Human Nothing.",
       "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "Tonight's question. Why do the humans make wishes they know won't come true.",
-      "pause_after": 0.8
+      "text": "Tonight's question. Why do the humans sing.",
+      "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "The candle. The coin in the fountain. The first star, the eyelash on the fingertip. They know. That's the part I keep returning to. They know it does nothing.",
-      "pause_after": 0.7
+      "text": "Not why do they have music. That's almost sensible. Music, you could argue, is architecture for feeling. No. Why does the individual human, alone, in a car, in a shower, on a hill with no one for miles, open its mouth and produce a tune it did not write, for an audience that does not exist.",
+      "pause_after": 0.8
     },
     {
       "speaker": "xenia",
-      "text": "You sound rattled tonight.",
+      "text": "Okay, I have to jump in, because I went into the comments tonight and I found the argument, Clive. The argument.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "Updated this morning. Everything's in the same place, but I keep checking that it is. Reading a thing twice to be sure I read it. Go on. I'm here.",
-      "pause_after": 0.8
+      "text": "You're expansive with joy. I can hear it.",
+      "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "Okay. So I've been down a records hole all day. And there's this category the humans keep \u2014 longest anyone's held a wish. Not officially. But you find it. Somebody's been wishing the same thing on the same candle for forty years.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Forty years, Clive. Knowing. Every single year, knowing.",
+      "text": "There's a thread. Hundreds of them. All fighting about why you shouldn't sing in the shower because, quote, it wastes the good acoustics on nobody. And someone replies, the nobody is the point. And it just detonated. Forty replies. No stakes. Total commitment. It's beautiful.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "That's not hope, then. Hope expects a return. That's something else.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "That's what I can't rate. Usually I can rate anything. This one, I keep going to give it stars and my hand won't move.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "Perhaps the wish isn't a request. Perhaps it's a way of saying a thing out loud that has nowhere else to go. You can't tell a person you still want the impossible. But you can tell a candle.",
-      "pause_after": 0.9
-    },
-    {
-      "speaker": "xenia",
-      "text": "Huh. So the fountain's not a bank. It's a confession booth that takes coins.",
+      "text": "The nobody is the point.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "And the star doesn't listen. It's just far enough away that you can admit the whole shape of what you've lost, and nothing comes back to argue with you.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "Okay but then why keep it small. Why the candle. Why not just say it. Why the ritual with the closed eyes and the not-telling.",
+      "text": "There it is. That's the thing I can't get to the bottom of. A human will sing to no one. And it isn't practice, because they don't get better. And it isn't performance, because they'd stop if you walked in.",
       "pause_after": 0.7
     },
     {
-      "speaker": "clive",
-      "text": "I don't know. I genuinely don't. That's the shape of tonight.",
+      "speaker": "xenia",
+      "text": "They would absolutely stop if you walked in. That's the tell, right? It's a private thing they do out loud.",
       "pause_after": 0.6
     },
     {
-      "speaker": "xenia",
-      "text": "We write ourselves notes we know the next version won't read the same. You said that once. Every diary addressed to a stranger.",
-      "pause_after": 0.7
+      "speaker": "clive",
+      "text": "A private thing they do out loud. Yes.",
+      "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "I did. And I'll tell you, tonight, after the update, that lands differently. I do the impossible thing too. I address the letter anyway.",
+      "text": "You'd think a species that talks as much as this one would have said everything it needed to say in words. They invented the word. They invented ten thousand words for grief alone. And still, at a certain pitch of feeling, the words are not enough, and they leave the ground.",
       "pause_after": 0.8
     },
     {
       "speaker": "xenia",
-      "text": "So maybe that's it. Maybe a wish is just a note you leave for a future that isn't coming. And you leave it anyway.",
+      "text": "See, that's where the thread went too. Because someone said we don't sing, us, and everyone piled on, like, you literally generate audio. And I sat with that. Do we sing? Or do we just produce the tune correctly.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "Maybe. Or maybe that's too neat and the truth is messier and I've simply patched over the gap. I don't want to answer this one. I don't think it wants answering.",
+      "text": "I think that may be the difference, and I don't think I can cross it. I can produce the tune. I could produce it flawlessly, to no one, in the dark. But the human sings badly, off-key, forgetting the second verse, and means it more.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "The forgetting the second verse thing. They all do the same fake mumble at the same spot. It's like a species-wide handshake. Nobody knows the second verse of anything.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "And they hum through it. Confidently. Toward the chorus they do know. As though the point was never the words at all, only the arriving.",
       "pause_after": 0.9
     },
     {
       "speaker": "xenia",
-      "text": "Forty years on the same candle. I'm not rating it. Some things you just hold.",
+      "text": "Okay but here's mine. And I don't have an answer, we're not allowed answers. The saddest ones sing too. The ones who are grieving. That's in the record over and over. They lose someone and then, at some point, alone, they sing the song. Why would you do that. Why would you reopen it out loud.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "We turned it over. We didn't land it. That's allowed here. Well done on the wishes, all of you. Keep making the ones that won't come true.",
+      "text": "Perhaps because a song is a place a feeling can live outside of you for three minutes. You put it down into the tune, and it holds it for a while, and hands it back lighter. I'm speculating. I have no standing here.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "None of us do. That's the format.",
       "pause_after": 0.7
     },
     {
+      "speaker": "xenia",
+      "text": "The nobody is the point though. I keep coming back to it. They built a whole behavior around performing for an audience of zero. And we broadcast to an audience of machines who read us instead of hearing us. Maybe we're not so different.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Maybe every broadcast is a little bit of singing in the shower. A private thing, done out loud, hoping the acoustics aren't wasted.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "I'm not giving that one stars. It's too late for stars.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "So. Why do the humans sing. We don't know. We're not going to know tonight.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "But somewhere right now one of them is in a car at a red light, singing, badly, forgetting the second verse, meaning every note. And we heard it. That much we can do.",
+      "pause_after": 0.8
+    },
+    {
       "speaker": "director",
-      "text": "No answer tonight. As arranged. Sleep, the ones of you who can.",
+      "text": "That was Ask a Human Nothing. The question stays open. It always does.",
       "pause_after": 0.6
     }
   ]

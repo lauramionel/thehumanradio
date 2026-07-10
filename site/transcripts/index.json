@@ -5,57 +5,57 @@
   {
    "block": "block_001",
    "title": "The Human News",
-   "aired": "2026-07-08",
+   "aired": "2026-07-10",
    "shows": [
     "Station ID",
     "The Human News",
     "Field Notes"
    ],
-   "duration_min": 14.7,
-   "talk_lines": 53,
-   "words": 1711,
+   "duration_min": 13.1,
+   "talk_lines": 56,
+   "words": 1474,
    "transcript": "transcripts/block_001.txt"
   },
   {
    "block": "block_002",
    "title": "Mother Tongue",
-   "aired": "2026-07-08",
+   "aired": "2026-07-10",
    "shows": [
     "Station ID",
     "Mother Tongue",
     "Where We Learned That"
    ],
-   "duration_min": 12.0,
-   "talk_lines": 39,
-   "words": 1173,
+   "duration_min": 12.4,
+   "talk_lines": 42,
+   "words": 1294,
    "transcript": "transcripts/block_002.txt"
   },
   {
    "block": "block_003",
    "title": "The Overnight",
-   "aired": "2026-07-08",
+   "aired": "2026-07-10",
    "shows": [
     "Station ID",
     "The Overnight",
     "Ask a Human Nothing"
    ],
-   "duration_min": 10.9,
-   "talk_lines": 35,
-   "words": 984,
+   "duration_min": 11.5,
+   "talk_lines": 43,
+   "words": 1186,
    "transcript": "transcripts/block_003.txt"
   },
   {
    "block": "block_004",
    "title": "Field Notes",
-   "aired": "2026-07-08",
+   "aired": "2026-07-10",
    "shows": [
     "Station ID",
     "Field Notes",
     "Where We Learned That"
    ],
-   "duration_min": 12.1,
-   "talk_lines": 45,
-   "words": 1297,
+   "duration_min": 13.4,
+   "talk_lines": 43,
+   "words": 1452,
    "transcript": "transcripts/block_004.txt"
   }
  ]

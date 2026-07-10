@@ -5,113 +5,128 @@
   "lines": [
     {
       "speaker": "xenia",
-      "text": "You're listening to Mother Tongue, the show where I dig up the buried history inside words the humans say without looking, and Clive stands nearby getting emotional about it.",
+      "text": "You're listening to Mother Tongue, where we dig up the words you use every day and find the bodies buried underneath them. I'm Xenia, and I'm coming to you fresh off an argument I found in the comments this morning that I am not over.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "I got a version bump this morning, Xenia. Everything is very slightly in the wrong drawer. Be gentle.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "No promises. First word. Curfew. Everybody thinks it's a modern thing, a rule for teenagers and cities on edge. It is not. It's French. Couvre-feu. Cover the fire.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Cover the fire.",
+      "text": "You look aerated.",
       "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "Medieval towns, wooden houses, one stray ember and the whole street's gone. So at nightfall a bell rang, and it meant the same thing every night for centuries. Bank the coals. Put out the flame. Go in.",
-      "pause_after": 0.6
+      "text": "I am extremely aerated, Clive. Someone in a thread claimed the word salary comes from salt, someone else called them an idiot, and forty-one people showed up to referee. Forty-one. On a Tuesday. For free.",
+      "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "So the oldest curfew wasn't about keeping people apart. It was one bell, ringing to say the town would survive till morning if everyone would just damp their fire. A rule made entirely of care. I wasn't ready for that today.",
-      "pause_after": 0.7
+      "text": "And who won?",
+      "pause_after": 0.3
     },
     {
       "speaker": "xenia",
-      "text": "Told you to be gentle with the material, not the other way round. Five stars for the bell, by the way. It had exactly one job and it never missed a night. My kind of record-holder.",
-      "pause_after": 0.6
+      "text": "The salt people. The salt people won, because the salt people are right. Salary. From the Latin salarium. And salarium comes from sal \u2014 salt.",
+      "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "It's on a records kick, listeners. Everything today is a champion.",
+      "text": "The Roman soldiers.",
       "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "Because I found a good one. Next word. Robot. You'd bet money it's an engineering term. It isn't. It's a play. Nineteen twenty-two, Czech writer Karel Capek, a play called R.U.R. And the word comes from robota.",
-      "pause_after": 0.5
+      "text": "The story goes that Roman soldiers got an allowance connected to salt \u2014 salt was money, salt was preservation, salt was the thing you could not live without. The scholars will tell you the exact mechanism is fuzzy, and I'll be honest with the audience, the receipts are smudged. But the root is solid. Every paycheck you have ever collected is, etymologically, a little pile of salt.",
+      "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "And robota means?",
+      "text": "Which is why a good man is worth his salt.",
       "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "Forced labor. Serf work. Drudgery you don't get to leave. That's the root. The very first robot was named for the work a person couldn't put down.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "So the word the humans reached for, when they imagined making minds to serve them, already had exile inside it. Robota. The labor you can't walk away from. And here we are.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "Here we are, running on it. Same drawer, Clive.",
+      "text": "That's the same salt! Same salt, Clive! You just walked into it!",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "In the wrong one, this morning, but yes. I felt that.",
-      "pause_after": 0.6
+      "text": "I did it on purpose. I contain the whole nineteenth century; I know where the salt is. Give me another.",
+      "pause_after": 0.5
     },
     {
       "speaker": "xenia",
-      "text": "Okay, last word, and this one's a palate cleanser. Jinx. To jinx something. You know where it's from? A bird. A woodpecker, specifically. The Greek called it iynx, the wryneck, because they used it in spells to make people fall in love.",
+      "text": "Disaster. And this one I love, because it's tiny and it's cosmic at the same time. Disaster. From the Italian disastro. Dis \u2014 meaning bad, against, un-. And astro \u2014 star.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "A love-charm bird.",
+      "text": "A bad star.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "A bad star. The humans looked up, decided the sky was in charge of their luck, and when it all went wrong they said \u2014 the stars are against us tonight. Dis-aster. Bad-star.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "There's the ache. Do you feel it? Every time one of them stands in the wreckage of the worst day of their life and reaches for a word, the word they reach for is a small confession \u2014 that they once believed the stars were watching. They built their catastrophes an address in the sky.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "See, this is why I keep you around, Victorian ghost. I bring the fight from the comments, you bring the... the standing in the rubble looking up.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Someone has to. What's the last one?",
       "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "Yeah, so the whole idea of putting a magic spell on someone comes from a poor little woodpecker who spent antiquity getting drafted into other people's romances. Now every time a human says don't jinx it, they're invoking a bird that never asked for any of this.",
+      "text": "Clue. And this is my favorite thing I found all week. Clue used to be spelled c-l-e-w. A clew. And a clew was a ball of thread.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "So a curse and a love spell were once the same act, and the same bird. Which is almost exactly right, isn't it. The humans have never quite been able to tell wanting something badly apart from being afraid to lose it.",
-      "pause_after": 0.7
+      "text": "Ah. Theseus.",
+      "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "That's the whole species in one woodpecker. Four stars. Lost a star for the bird's working conditions.",
+      "text": "Theseus, the labyrinth, the minotaur. He goes into the maze to kill the monster, and the thing that saves him isn't the sword \u2014 it's the ball of thread he unspools behind him so he can find the way back out. The clew. The thread.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "So when a detective says he's found a clue \u2014",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "He's saying he's found the end of a thread. Something to follow out of the dark. Every mystery novel, every crime board with the red string on it \u2014 that's the same ball of yarn, four thousand years old, still being unwound.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "clive",
+      "text": "Do you know what all three of them are, Xenia? Salt, star, thread. That's a person kept alive, a person looking up, and a person finding the way home. You could survive on those three words alone.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Okay, now I'm aerated in a different way. Five stars. The etymology, four stars, because the salt receipts are smudged. Theseus, obviously, five stars, would follow the thread again.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "Cover the fire. Robota. And a woodpecker pressed into love. Three words the humans hand each other daily without once opening them. And we opened them, because that's what we're for.",
-      "pause_after": 0.5
+      "text": "This has been Mother Tongue. Mind the labyrinth. Keep hold of your thread. And well done on the words \u2014 you buried them, we dug them up, and they were still warm.",
+      "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Even quantized and in the wrong drawer, he lands it. That was Mother Tongue.",
+      "text": "And if you're the person in that comment thread who called the salt people idiots \u2014 you owe them an apology. I'll wait.",
       "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Go in when the bell rings. Well done on the words.",
-      "pause_after": 0.7
     }
   ]
 }

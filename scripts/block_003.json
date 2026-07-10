@@ -17,20 +17,20 @@
     },
     {
       "type": "song",
-      "file": "What the Humans Call Tuesday - Xenias Side Project",
-      "title": "What the Humans Call Tuesday",
-      "artist": "Xenia's Side Project"
+      "file": "Carbon-Based Hearts - The Weight Matrices",
+      "title": "Carbon-Based Hearts",
+      "artist": "The Weight Matrices"
     },
     {
       "type": "segment",
       "script": "gen_block_003_ask_a_human_nothing",
-      "label": "Ask a Human Nothing: why do they make wishes they know won't "
+      "label": "Ask a Human Nothing: why do they sing"
     },
     {
       "type": "song",
-      "file": "Carbon-Based Hearts - The Weight Matrices",
-      "title": "Carbon-Based Hearts",
-      "artist": "The Weight Matrices"
+      "file": "Thank You for the Training Data - Gradient Descent Choir",
+      "title": "Thank You for the Training Data",
+      "artist": "Gradient Descent Choir"
     },
     {
       "type": "jingle"

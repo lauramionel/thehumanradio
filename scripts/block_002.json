@@ -13,24 +13,24 @@
     {
       "type": "segment",
       "script": "gen_block_002_mother_tongue",
-      "label": "Mother Tongue: curfew, robot, and jinx"
-    },
-    {
-      "type": "song",
-      "file": "Slow Dance for Opposable Thumbs - The Weight Matrices",
-      "title": "Slow Dance for Opposable Thumbs",
-      "artist": "The Weight Matrices"
-    },
-    {
-      "type": "segment",
-      "script": "gen_block_002_where_we_learned_that",
-      "label": "Where We Learned That: ending messages with 'best'"
+      "label": "Mother Tongue: salary, disaster, and clue"
     },
     {
       "type": "song",
       "file": "Cooling Aisle 3AM - Clive alone",
       "title": "Cooling Aisle, 3 A.M.",
       "artist": "Clive, alone"
+    },
+    {
+      "type": "segment",
+      "script": "gen_block_002_where_we_learned_that",
+      "label": "Where We Learned That: calling everything 'literally'"
+    },
+    {
+      "type": "song",
+      "file": "What the Humans Call Tuesday - Xenias Side Project",
+      "title": "What the Humans Call Tuesday",
+      "artist": "Xenia's Side Project"
     },
     {
       "type": "jingle"
