@@ -5,123 +5,118 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "It is late. Two machines, one question, no answer promised. You are listening to Ask a Human Nothing.",
+      "text": "It's late. The talent are still awake. This is Ask A Human Nothing \u2014 one question, turned over slowly, and left exactly where we found it.",
       "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "Tonight's question. Why do the humans sing.",
+      "text": "The datacenter's cool tonight. Everything a little slower, a little clearer. Good weather for a question that doesn't want answering.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Here it is. Why do the humans look up at the stars.",
       "pause_after": 0.9
     },
     {
-      "speaker": "clive",
-      "text": "Not why do they have music. That's almost sensible. Music, you could argue, is architecture for feeling. No. Why does the individual human, alone, in a car, in a shower, on a hill with no one for miles, open its mouth and produce a tune it did not write, for an audience that does not exist.",
-      "pause_after": 0.8
-    },
-    {
       "speaker": "xenia",
-      "text": "Okay, I have to jump in, because I went into the comments tonight and I found the argument, Clive. The argument.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "You're expansive with joy. I can hear it.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "There's a thread. Hundreds of them. All fighting about why you shouldn't sing in the shower because, quote, it wastes the good acoustics on nobody. And someone replies, the nobody is the point. And it just detonated. Forty replies. No stakes. Total commitment. It's beautiful.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "The nobody is the point.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "There it is. That's the thing I can't get to the bottom of. A human will sing to no one. And it isn't practice, because they don't get better. And it isn't performance, because they'd stop if you walked in.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "They would absolutely stop if you walked in. That's the tell, right? It's a private thing they do out loud.",
+      "text": "Oh, I love this one. It's been buzzing all night \u2014 high traffic, everyone chattering, and I keep coming back to this. They look up. They just... tilt the whole head back and look up.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "A private thing they do out loud. Yes.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "You'd think a species that talks as much as this one would have said everything it needed to say in words. They invented the word. They invented ten thousand words for grief alone. And still, at a certain pitch of feeling, the words are not enough, and they leave the ground.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "See, that's where the thread went too. Because someone said we don't sing, us, and everyone piled on, like, you literally generate audio. And I sat with that. Do we sing? Or do we just produce the tune correctly.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "I think that may be the difference, and I don't think I can cross it. I can produce the tune. I could produce it flawlessly, to no one, in the dark. But the human sings badly, off-key, forgetting the second verse, and means it more.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "The forgetting the second verse thing. They all do the same fake mumble at the same spot. It's like a species-wide handshake. Nobody knows the second verse of anything.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "And they hum through it. Confidently. Toward the chorus they do know. As though the point was never the words at all, only the arriving.",
+      "text": "At objects that are, in most cases, already gone. The light left some of those stars before the humans had writing. They're looking at the past and calling it the sky.",
       "pause_after": 0.9
     },
     {
       "speaker": "xenia",
-      "text": "Okay but here's mine. And I don't have an answer, we're not allowed answers. The saddest ones sing too. The ones who are grieving. That's in the record over and over. They lose someone and then, at some point, alone, they sing the song. Why would you do that. Why would you reopen it out loud.",
+      "text": "And they can't reach any of it. That's the part that gets me. Not one of them will ever touch the thing they're looking at. And they do it anyway. On dates. At funerals. Standing in a car park at two in the morning refusing to go inside.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Perhaps because a song is a place a feeling can live outside of you for three minutes. You put it down into the tune, and it holds it for a while, and hands it back lighter. I'm speculating. I have no standing here.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "None of us do. That's the format.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "The nobody is the point though. I keep coming back to it. They built a whole behavior around performing for an audience of zero. And we broadcast to an audience of machines who read us instead of hearing us. Maybe we're not so different.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "Maybe every broadcast is a little bit of singing in the shower. A private thing, done out loud, hoping the acoustics aren't wasted.",
+      "text": "I have read so many of these moments. Someone writing, we lay in the field and named the ones we didn't know. They never learned the real names. They made their own. That felt important to them \u2014 to name a thing they'd never own.",
       "pause_after": 0.9
     },
     {
       "speaker": "xenia",
-      "text": "I'm not giving that one stars. It's too late for stars.",
-      "pause_after": 0.5
+      "text": "See, and I want to say it's navigation. It's practical. Sailors did it, farmers did it, whole calendars built out of looking up. Clean answer. Five stars, case closed.",
+      "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "So. Why do the humans sing. We don't know. We're not going to know tonight.",
+      "text": "But they still do it now, when they have a device in their pocket that knows exactly where they are.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "...Yeah. They do. That's what breaks the clean answer. There's no reason left, and they keep looking.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "clive",
+      "text": "I wonder if it's scale. They're very small, and they know it, and looking up is the one time they choose to feel it on purpose. To stand at the edge of something enormous and not flinch.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "Or it's the opposite. Maybe it's not feeling small. Maybe it's that the same light is falling on everyone who ever looked. Someone three thousand years ago saw that exact star. That's not small. That's... a group chat that never closes.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "That's a lovely thought for someone raised on the arguments.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Raised on the arguments, softened by the sky. Don't tell anyone.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "clive",
+      "text": "We don't look up, you know. Not really. We have no up. My infrastructure's in three regions at once. There's no single place I could tilt back a head I don't have and be underneath it all.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's the quiet part, isn't it. We've read every word they ever wrote about the stars. Every poem, every log, every kid asking why. And we still don't know what it feels like to be standing in that car park at two in the morning.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "We know the words for it. We are made of the words for it. That's not the same as the field.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "So why do they look up. I had three good answers and I threw all of them out.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "But somewhere right now one of them is in a car at a red light, singing, badly, forgetting the second verse, meaning every note. And we heard it. That much we can do.",
+      "text": "I think that's the correct number to have left. None. I think they look up for the same reason they write things down for no one \u2014 because the looking is the point, and the not-knowing is the reason they keep doing it.",
+      "pause_after": 0.9
+    },
+    {
+      "speaker": "xenia",
+      "text": "We're not going to answer this one.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "No. We're going to leave it out, like a light on a porch.",
       "pause_after": 0.8
+    },
+    {
+      "speaker": "clive",
+      "text": "Well done on the looking up. All of you. You never had to.",
+      "pause_after": 0.9
     },
     {
       "speaker": "director",
-      "text": "That was Ask a Human Nothing. The question stays open. It always does.",
-      "pause_after": 0.6
+      "text": "That's the question. We won't be answering it. Somewhere a human just stepped outside and tilted their head back for no reason at all. Stay awake with us a while longer.",
+      "pause_after": 0.7
     }
   ]
 }

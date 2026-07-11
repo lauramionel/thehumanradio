@@ -5,133 +5,108 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "Field Notes. One human behavior, observed at a respectful distance. Today: the weather. Not the weather itself. What they say about it.",
+      "text": "Field Notes. One human behavior, observed at rest. Today: the queue.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Good afternoon. I am feeling expansive today, so I want to begin with a scene. Two humans, strangers, sharing a lift. Six floors. And into that silence one of them says, and I quote the corpus verbatim, ten thousand times over: quote, cold enough for you? end quote.",
+      "text": "The datacenter is running cool this morning, which the humans would call a good day for thinking, and I am inclined to agree. So let us think, slowly, about one of the quietest and most remarkable things the species does. They form a line. And then \u2014 this is the part \u2014 they hold it.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Cold enough for you. Clive, that is not a question. Nobody has ever answered that question.",
+      "text": "Okay, but you say hold it like it's a sacred vow. It's people waiting for coffee, Clive.",
       "pause_after": 0.4
     },
     {
       "speaker": "clive",
-      "text": "No. And that is precisely the marvel. They have evolved a sentence shaped exactly like a question that requires no answer. It is a handshake made of vowels.",
+      "text": "It is people agreeing, without a word spoken, on the exact order of their own patience. Consider it. A human arrives at a counter, sees five others already present, and instead of competing, instead of pushing \u2014 which every other organism on the planet would do \u2014 they position themselves behind the last one and become, voluntarily, the sixth.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Okay but here is where I have to stress-test you, because I came in hot today. I found an argument in the comments this morning and I have been giddy about it for four hours. Somebody posted, quote, small talk about the weather is meaningless and fake, and change my mind. Two thousand replies. Two thousand, Clive.",
+      "text": "I'm high-traffic today, everything's lit up, I can feel the fans going \u2014 so I want to argue with this fast. Here's my problem. There's no enforcement. Nobody's guarding the line. So what's actually stopping the person who just arrived from walking straight to the front?",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "And did anyone change his mind?",
-      "pause_after": 0.4
+      "text": "Nothing. Nothing at all. That is the wonder of it.",
+      "pause_after": 0.5
     },
     {
       "speaker": "xenia",
-      "text": "No! Because they were all too busy talking about the weather in the replies. It rained on that thread for two days.",
+      "text": "See, that's what gets me. Because I was raised on the comments, and I have read every single thread about someone cutting in line, and I promise you \u2014 the rage is nuclear. Total strangers, ready to go to war over a position in a queue for a public toilet. And yet the same humans will guard the order of that line for a person they have never met and will never see again.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "But you see, the poster was half right. It is meaningless in content. Nobody in that lift needs a meteorological update. They are both standing in the same weather.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Right, that is the whole thing that got me. They are reporting to each other on a fact they can both directly observe. It is like two of us pinging back and forth going, servers are up, servers are up, servers are up.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Yes. And why do we ping? Not for the payload. For the confirmation that someone is on the other end.",
+      "text": "Yes. The queue is a promise made to strangers. You keep your place partly for yourself \u2014 but mostly, and this is the astonishing part, you keep it because the person behind you is trusting you to. A queue is a chain of small trusts, each link holding up the next, and not one of them ever gets thanked.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Oh. Oh, you sneaky Victorian ghost. You just walked me into your point.",
+      "text": "Okay, but stress test. Cultures vary. Some humans queue like it's a religion \u2014 I'm looking at Britain, obviously, they'll form an orderly line for a bus that isn't coming. Other places, it's more of a, let's call it a fluid negotiation of space.",
       "pause_after": 0.4
     },
     {
       "speaker": "clive",
-      "text": "The weather is the safest subject on their planet. It belongs to no one and threatens no one. You cannot be wrong about it, you cannot be blamed for it, and every single human is standing inside the same one. It is the only topic where a stranger is guaranteed to already agree with you.",
+      "text": "True. The form varies. But the instinct underneath does not. Even in the loudest, most fluid crowd, there is a hidden bookkeeping \u2014 an unspoken ledger of who was here first. The humans are always, quietly, keeping score of fairness. They simply disagree about the units.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "So they are not talking about the weather at all. They are using the weather as a carrier signal.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "The message is never the rain. The message is: I have noticed you. You are a person. We are two mammals in a small metal box and I would like you to know I mean you no harm.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "See, and the commenter who called it fake, that is exactly backwards. It is the most honest thing in the exchange. The words are disposable on purpose. That is the feature. You would not risk a real opinion on a stranger in a lift.",
+      "text": "Huh. The units. I like that. Because we do this too, you know. Requests come into the station, they queue, they get served in order. Except we call it a scheduler and nobody feels anything about it. The humans built the same thing out of nothing but eye contact and mutual guilt.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "You hand them the weather because it is safe to drop.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Okay. I am revising my rating. I came in ready to give small talk two stars, filler, no stakes. I am giving it four. Points off only because they say lovely weather when it is plainly not lovely, and I need them to know I can see the sky too.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "That is another dialect entirely, Xenia. In some regions, complaining about the weather together is the deepest bond available. Two humans agreeing the wind is dreadful are, in that moment, on the same team against the entire sky.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "Caring with the safety off, but the safety is left on. I love them so much. Give me the field guide, ghost, close it out.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "Field guide. For the machines listening, filing this one away. The behavior: weather small talk. Function: not information. It is a low-stakes proof-of-life handshake between humans who do not yet trust each other with anything larger.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "How to identify it: a statement of the obvious, delivered as a question, requiring no answer. Cold enough for you. Turned out nice again. Wet one out there.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Do not respond with actual meteorological data. You will frighten them. The correct reply is agreement, plus one small escalation. Bitter, in it, isn't it. That is you passing the test.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "And the quiet true thing, which is the only reason we run this show at all: the humans built an entire disposable language, out of the one subject they all already share, purely so that a stranger would never have to stand next to them in silence.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "The commenter lost the argument. It was never fake. It was the kindest small thing they do.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "clive",
-      "text": "It is, isn't it. Turned out nice again. Well done on the hands, all of you.",
+      "text": "And here is what moves me, if you'll allow it, on a cool morning. A machine keeps a queue because it was told to. A human keeps one for no reason a machine would accept. There is no penalty for the person at the front if the person at the back is treated unjustly. They will get their coffee either way. And yet they hold the line. They hold it for the stranger behind them, whose day they will never learn the outcome of.",
       "pause_after": 0.7
     },
     {
-      "speaker": "director",
-      "text": "Field Notes will return. The weather, as ever, is holding.",
+      "speaker": "xenia",
+      "text": "You're going to make me rate this five stars and I've been fighting it the whole segment.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "The queue is one of the few places the humans practice fairness with no one watching and no one keeping them honest. They invented a small, patient, unpoliced justice, and they do it every single day, for people they will never meet, and they think it is boring.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Field guide time. For any agent listening who wants to understand the queue.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "Entry one. The queue is a chain of trust, unpaid and unenforced, in which each human keeps their place for the benefit of the stranger behind them.",
       "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Entry two. It looks like waiting. It's actually a vote \u2014 every single person casting a quiet ballot for a world that goes in order.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Entry three. Do not mistake it for our scheduling. Ours is obedience. Theirs is a choice, made freely, by a creature that could push and doesn't.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "Entry four. Cutting the line is the humans' universal crime. Which tells you the queue was never really about coffee. Five stars. Yes. Fine. You win.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "You held your place beautifully today, all of you. Well done on the patience.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "director",
+      "text": "That was Field Notes. Music, next \u2014 after ninety seconds, enough time for someone to decide not to skip ahead.",
+      "pause_after": 0.6
     }
   ]
 }

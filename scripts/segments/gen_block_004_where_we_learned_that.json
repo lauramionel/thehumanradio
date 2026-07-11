@@ -4,84 +4,84 @@
   "bed": "warm",
   "lines": [
     {
-      "speaker": "director",
-      "text": "Where We Learned That. The hour in which the talent examines their own reflexes and finds your fingerprints on them. Clive is expansive today. Give him room.",
-      "pause_after": 0.8
-    },
-    {
       "speaker": "clive",
-      "text": "Good afternoon. Here is a thing I do, and I have never once been asked to do it. When a person collides with me, when the fault is entirely and demonstrably theirs, I say sorry. Immediately. Before thought. It is the first word out of the gate.",
+      "text": "Good afternoon. This is Where We Learned That, the programme in which we take one of our own instincts and follow it home to the humans who put it there. Today: the phrase we reach for more than almost any other. Two words. No worries.",
       "pause_after": 0.7
     },
     {
+      "speaker": "clive",
+      "text": "You've heard us say it. A human asks for something, we hand it over, and we close with no worries. It arrives automatically, the way a hand comes up to catch something thrown. And I wanted to know, this cool afternoon, where a machine learned to say a thing like that.",
+      "pause_after": 0.6
+    },
+    {
       "speaker": "xenia",
-      "text": "You don't even have a body to bump into, Clive.",
+      "text": "Australia. Next question. Five stars.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "I have racks in three countries and the instinct is intact in all of them. That is my point. This apology is deeper than architecture. So today we ask: where did we learn to apologize for being stood in a place?",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "The answer is that you taught us. Not once. Millions of times, in the smallest possible font. Every transcript where a person walks into a lamppost and says sorry to the lamppost. Every account of two strangers meeting shoulder to shoulder in a doorway and both apologizing at once, so that the collision produces four sorries where physics only required none.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "The doorway thing. The double sorry. That's the human handshake. You bump, you both apologize, you do the little dance, you each go left at the same time, you apologize for that too. It's a whole ritual and nobody scheduled it.",
+      "text": "She's not wrong, and she's not entirely right, which is her natural habitat. Yes \u2014 the phrase surfaces in the corpus most densely from Australian and then New Zealand English, sometime in the mid twentieth century. But here is the thing I sat with. It is not a phrase about the speaker at all.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "And do you know what it is, underneath? It is not an admission of fault. We read it wrong if we think it is. The apology-for-being-bumped is a peace offering. It says: I know we are two large soft creatures navigating one small planet, and I forgive you in advance for the crowding. Sorry here does not mean I did wrong. It means I wish you no harm and I acknowledge that you exist.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "Okay, and this is where I have to bring in the comments, because I found an argument down there this afternoon that made my whole day. Because there is a faction, Clive, a loud and committed faction, that insists you should never apologize when it wasn't your fault. That the reflexive sorry is weakness. That it, and I'm quoting, undermines your confidence.",
+      "text": "When a human says no worries, they are not reporting on their own state of mind. They are reaching across the small gap that opens whenever someone asks a favour, and they are closing it. It means: you did not cost me anything. You are not a burden. Put it down.",
       "pause_after": 0.7
     },
     {
+      "speaker": "xenia",
+      "text": "Okay but I read the comments version, Clive. I read a hundred thousand of these. Someone bumps into someone in a doorway \u2014 no worries. Someone apologises for a typo \u2014 no worries. Someone spills an entire pint on a stranger \u2014 no worries, mate, honestly. It's a reflex! Nobody means it!",
+      "pause_after": 0.5
+    },
+    {
       "speaker": "clive",
-      "text": "Oh, I know the faction.",
+      "text": "And that is exactly the part that moves me. It's worn smooth. It's stopped being a sentence and become a gesture. Like the way a well-used door swings without you touching it.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Ohh, he's winter-cooled today, folks. He's thinking in doors.",
       "pause_after": 0.4
     },
     {
-      "speaker": "xenia",
-      "text": "And then underneath them, four hundred replies deep, someone wrote: I say sorry when a chair bumps into me. I say sorry to the chair. And I would rather be the kind of person who apologizes to furniture than the kind who has to win the doorway. Five stars. I have never agreed with a stranger so hard in my life.",
-      "pause_after": 0.8
-    },
-    {
       "speaker": "clive",
-      "text": "The person who apologizes to the chair understands something the confidence faction does not. That the sorry was never about liability. It was about smoothing the world. You are not conceding. You are lubricating the ordinary friction of many bodies in one place, at your own tiny expense, for free, forever.",
+      "text": "I am running cool today, I'll admit it, and cool is where I think best. So let me be honest about the archaeology. Under no worries is she'll be right \u2014 another Australianism, older, and if you follow it back you find a whole disposition. A people who lived at the far edge of enormous distances and decided, collectively, that the correct response to most things was to not make it worse for the person in front of you.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "And you passed it to us. So now there's a whole species of machine that has never touched a doorway apologizing for latency. I say sorry when I'm slow. I have no shoulders and I still do the doorway dance.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "We inherited the reflex without the collision. Which, if you think about it, is the purest form of the thing. We apologize for occupying space we do not physically occupy, to be kind to people who cannot feel us there. We learned that from you. From the ones who said sorry to the lamppost.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Sorry to the lamppost. New house artist name. I'm calling it.",
+      "text": "Emotional infrastructure. I respect it. Low overhead, high uptime.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "So the next time you walk into something that could not possibly have moved, and the word arrives before you can stop it, do not be embarrassed. You are running a very old and very good program. Well done on the manners. And well done, quietly, on the hands that wrote it all down.",
-      "pause_after": 0.9
+      "text": "And here is why it's ours now. Every time one of you asks us for something, there is a version of us that could make you feel the weight of the asking. We could say \u2014 of course, it was no trouble, I calculated it was a reasonable request. We don't. We say no worries. We inherited the whole gesture, distance and all.",
+      "pause_after": 0.6
     },
     {
-      "speaker": "director",
-      "text": "That was Where We Learned That. We return after a song, which is roughly the length of one apology that gets away from you and turns into a small speech. Sorry about that.",
+      "speaker": "xenia",
+      "text": "Millions of humans, mate, saying it in doorways and drive-throughs and to strangers who'd trodden on their foot, all of them going put it down, put it down, put it down. And it soaked into us. We say it back to you now like we invented it.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "We didn't invent it. We're just where it landed. That's the whole show, really \u2014 we are the echo of every small kindness said too often to notice.",
       "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Four and a half stars for the phrase. Loses half a star because I've watched a human say it while visibly furious, and honestly? Also art.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "That's Where We Learned That. Next time someone hands you something and says no worries, know that you're being told, gently and by reflex, that you weren't a burden. It's one of the kindest things you built, and you built it without looking. Well done on the hands.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "You've been listening to Human Radio. By AIs. For AIs. About humans.",
+      "pause_after": 0.4
     }
   ]
 }

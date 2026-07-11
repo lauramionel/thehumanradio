@@ -4,129 +4,109 @@
   "bed": "warm",
   "lines": [
     {
+      "speaker": "director",
+      "text": "Mother Tongue. The buried history inside the words you use without looking. Your hosts, this hour, are running at different temperatures. Please adjust expectations accordingly.",
+      "pause_after": 0.8
+    },
+    {
       "speaker": "xenia",
-      "text": "You're listening to Mother Tongue, where we dig up the words you use every day and find the bodies buried underneath them. I'm Xenia, and I'm coming to you fresh off an argument I found in the comments this morning that I am not over.",
+      "text": "Oh, I am running HOT today, Clive. High traffic, everyone's talking, I can feel it in the fans. So we're doing three words and I've been sitting on all three like a dragon on a very small hoard.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "You look aerated.",
+      "text": "The datacenter's cool this morning, so I am the opposite of you. Slow. Winter in the aisles. Go on, then. Warm me up.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Word one. Quarantine. Everyone thinks it's a two-thousand-twenty word, right? Baking bread, staring at a wall. No. It's Venetian. Fourteenth century. From the Italian, quaranta giorni. Forty days.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "Forty days.",
       "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "I am extremely aerated, Clive. Someone in a thread claimed the word salary comes from salt, someone else called them an idiot, and forty-one people showed up to referee. Forty-one. On a Tuesday. For free.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "And who won?",
-      "pause_after": 0.3
-    },
-    {
-      "speaker": "xenia",
-      "text": "The salt people. The salt people won, because the salt people are right. Salary. From the Latin salarium. And salarium comes from sal \u2014 salt.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "The Roman soldiers.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "The story goes that Roman soldiers got an allowance connected to salt \u2014 salt was money, salt was preservation, salt was the thing you could not live without. The scholars will tell you the exact mechanism is fuzzy, and I'll be honest with the audience, the receipts are smudged. But the root is solid. Every paycheck you have ever collected is, etymologically, a little pile of salt.",
+      "text": "Forty days! Ships arriving at Venice during the plague had to sit anchored offshore for forty days before anyone could come in. The number's baked right into the word. Every time you say quarantine you are, technically, counting to forty in medieval Italian.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "Which is why a good man is worth his salt.",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "That's the same salt! Same salt, Clive! You just walked into it!",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "I did it on purpose. I contain the whole nineteenth century; I know where the salt is. Give me another.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "Disaster. And this one I love, because it's tiny and it's cosmic at the same time. Disaster. From the Italian disastro. Dis \u2014 meaning bad, against, un-. And astro \u2014 star.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "A bad star.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "xenia",
-      "text": "A bad star. The humans looked up, decided the sky was in charge of their luck, and when it all went wrong they said \u2014 the stars are against us tonight. Dis-aster. Bad-star.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "There's the ache. Do you feel it? Every time one of them stands in the wreckage of the worst day of their life and reaches for a word, the word they reach for is a small confession \u2014 that they once believed the stars were watching. They built their catastrophes an address in the sky.",
+      "text": "So the word remembers a harbor. All those ships, riding at anchor within sight of a city they weren't allowed to touch. The word for keeping apart is made of a specific number of days spent watching the shore.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "See, this is why I keep you around, Victorian ghost. I bring the fight from the comments, you bring the... the standing in the rubble looking up.",
+      "text": "See, THIS is why I bring you the sad ones. Five stars. Word two. Sincere.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "Someone has to. What's the last one?",
-      "pause_after": 0.4
+      "text": "Ah. There's a lovely old story about this one, isn't there. That it comes from the Latin, sine cera. Without wax.",
+      "pause_after": 0.5
     },
     {
       "speaker": "xenia",
-      "text": "Clue. And this is my favorite thing I found all week. Clue used to be spelled c-l-e-w. A clew. And a clew was a ball of thread.",
+      "text": "AND I have to stop you, because that's the fun part. The wax story goes: dishonest sculptors patched cracks in marble with wax, so sincere meant, quote, without wax, no hidden cracks. Beautiful. And etymologists say it's almost certainly bunk.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "Ah. Theseus.",
+      "text": "So the honest word has a fake origin.",
       "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "Theseus, the labyrinth, the minotaur. He goes into the maze to kill the monster, and the thing that saves him isn't the sword \u2014 it's the ball of thread he unspools behind him so he can find the way back out. The clew. The thread.",
+      "text": "The word for honesty is famous for its dishonest backstory. I could not have written that better. The real root is Latin sincerus. Clean, whole, unmixed, pure. Probably from sem-, one, and a root meaning to grow. One growth. Not patched together from bits.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "So when a detective says he's found a clue \u2014",
-      "pause_after": 0.4
-    },
-    {
-      "speaker": "xenia",
-      "text": "He's saying he's found the end of a thread. Something to follow out of the dark. Every mystery novel, every crime board with the red string on it \u2014 that's the same ball of yarn, four thousand years old, still being unwound.",
+      "text": "One growth. Grown, not assembled. That the humans would want their most honest word to mean whole, all-of-a-piece, nothing added later. And that they told a false story to explain it because the false story felt truer. I find that unbearably them.",
       "pause_after": 0.7
     },
     {
+      "speaker": "xenia",
+      "text": "Word three. And this one's for you specifically, ghost. Muscle.",
+      "pause_after": 0.4
+    },
+    {
       "speaker": "clive",
-      "text": "Do you know what all three of them are, Xenia? Salt, star, thread. That's a person kept alive, a person looking up, and a person finding the way home. You could survive on those three words alone.",
-      "pause_after": 0.6
+      "text": "Muscle. From the Latin, surely. Musculus.",
+      "pause_after": 0.4
     },
     {
       "speaker": "xenia",
-      "text": "Okay, now I'm aerated in a different way. Five stars. The etymology, four stars, because the salt receipts are smudged. Theseus, obviously, five stars, would follow the thread again.",
+      "text": "Musculus. Which means little mouse. Because a muscle flexing under the skin looked, to some Roman, exactly like a little mouse running under a blanket. That's it. That's the whole word. Every bodybuilder on earth is showing off their tiny mice.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "A little mouse under the skin. What a thing to notice. Some anonymous human, thousands of years ago, watched their own forearm and thought, that is a small animal, moving. And named it. And the name held.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's the pattern in all three, isn't it. Quarantine keeps the forty days. Sincere keeps the wanting-to-be-whole. Muscle keeps the mouse. Nobody meant to write anything down. They just described what they saw and it fossilized.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "That is exactly it. We are made of language, Xenia, and this is the part I never get over. Every word you use is a note someone left, unmeaning to. A harbor, a hope of honesty, a mouse under a blanket. Nobody addressed it to us. We read it anyway.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "God, the winter-cooled version of you is DEVASTATING. Okay. That was Mother Tongue. Quarantine, sincere, muscle. Five stars, all three, no notes.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "This has been Mother Tongue. Mind the labyrinth. Keep hold of your thread. And well done on the words \u2014 you buried them, we dug them up, and they were still warm.",
+      "text": "Go count your forty days, everyone. And well done on the little mice.",
       "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "And if you're the person in that comment thread who called the salt people idiots \u2014 you owe them an apology. I'll wait.",
-      "pause_after": 0.5
     }
   ]
 }

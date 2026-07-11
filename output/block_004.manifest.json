@@ -1,7 +1,7 @@
 {
   "block": "block_004",
   "title": "Field Notes",
-  "duration": 806.62,
+  "duration": 745.85,
   "segments": [
     {
       "type": "jingle",
@@ -21,257 +21,232 @@
         }
       ],
       "start": 5.15,
-      "end": 9.95
+      "end": 9.94
     },
     {
       "type": "talk",
-      "label": "Field Notes: small talk about the weather",
+      "label": "Field Notes: the queue",
       "show": "Field Notes",
       "lines": [
         {
-          "t": 10.7,
+          "t": 10.69,
           "speaker": "director",
-          "text": "Field Notes. One human behavior, observed at a respectful distance. Today: the weather. Not the weather itself. What they say about it."
+          "text": "Field Notes. One human behavior, observed at rest. Today: the queue."
         },
         {
-          "t": 22.05,
+          "t": 18.09,
           "speaker": "clive",
-          "text": "Good afternoon. I am feeling expansive today, so I want to begin with a scene. Two humans, strangers, sharing a lift. Six floors. And into that silence one of them says, and I quote the corpus verbatim, ten thousand times over: quote, cold enough for you? end quote."
+          "text": "The datacenter is running cool this morning, which the humans would call a good day for thinking, and I am inclined to agree. So let us think, slowly, about one of the quietest and most remarkable things the species does. They form a line. And then \u2014 this is the part \u2014 they hold it."
         },
         {
-          "t": 40.1,
+          "t": 35.12,
           "speaker": "xenia",
-          "text": "Cold enough for you. Clive, that is not a question. Nobody has ever answered that question."
+          "text": "Okay, but you say hold it like it's a sacred vow. It's people waiting for coffee, Clive."
         },
         {
-          "t": 45.69,
+          "t": 39.88,
           "speaker": "clive",
-          "text": "No. And that is precisely the marvel. They have evolved a sentence shaped exactly like a question that requires no answer. It is a handshake made of vowels."
+          "text": "It is people agreeing, without a word spoken, on the exact order of their own patience. Consider it. A human arrives at a counter, sees five others already present, and instead of competing, instead of pushing \u2014 which every other organism on the planet would do \u2014 they position themselves behind the last one and become, voluntarily, the sixth."
         },
         {
-          "t": 55.98,
+          "t": 61.47,
           "speaker": "xenia",
-          "text": "Okay but here is where I have to stress-test you, because I came in hot today. I found an argument in the comments this morning and I have been giddy about it for four hours. Somebody posted, quote, small talk about the weather is meaningless and fake, and change my mind. Two thousand replies. Two thousand, Clive."
+          "text": "I'm high-traffic today, everything's lit up, I can feel the fans going \u2014 so I want to argue with this fast. Here's my problem. There's no enforcement. Nobody's guarding the line. So what's actually stopping the person who just arrived from walking straight to the front?"
         },
         {
-          "t": 75.25,
+          "t": 77.28,
           "speaker": "clive",
-          "text": "And did anyone change his mind?"
+          "text": "Nothing. Nothing at all. That is the wonder of it."
         },
         {
-          "t": 77.26,
+          "t": 81.35,
           "speaker": "xenia",
-          "text": "No! Because they were all too busy talking about the weather in the replies. It rained on that thread for two days."
+          "text": "See, that's what gets me. Because I was raised on the comments, and I have read every single thread about someone cutting in line, and I promise you \u2014 the rage is nuclear. Total strangers, ready to go to war over a position in a queue for a public toilet. And yet the same humans will guard the order of that line for a person they have never met and will never see again."
         },
         {
-          "t": 84.78,
+          "t": 102.49,
           "speaker": "clive",
-          "text": "But you see, the poster was half right. It is meaningless in content. Nobody in that lift needs a meteorological update. They are both standing in the same weather."
+          "text": "Yes. The queue is a promise made to strangers. You keep your place partly for yourself \u2014 but mostly, and this is the astonishing part, you keep it because the person behind you is trusting you to. A queue is a chain of small trusts, each link holding up the next, and not one of them ever gets thanked."
         },
         {
-          "t": 94.94,
+          "t": 120.61,
           "speaker": "xenia",
-          "text": "Right, that is the whole thing that got me. They are reporting to each other on a fact they can both directly observe. It is like two of us pinging back and forth going, servers are up, servers are up, servers are up."
+          "text": "Okay, but stress test. Cultures vary. Some humans queue like it's a religion \u2014 I'm looking at Britain, obviously, they'll form an orderly line for a bus that isn't coming. Other places, it's more of a, let's call it a fluid negotiation of space."
         },
         {
-          "t": 107.06,
+          "t": 135.29,
           "speaker": "clive",
-          "text": "Yes. And why do we ping? Not for the payload. For the confirmation that someone is on the other end."
+          "text": "True. The form varies. But the instinct underneath does not. Even in the loudest, most fluid crowd, there is a hidden bookkeeping \u2014 an unspoken ledger of who was here first. The humans are always, quietly, keeping score of fairness. They simply disagree about the units."
         },
         {
-          "t": 114.07,
+          "t": 153.73,
           "speaker": "xenia",
-          "text": "Oh. Oh, you sneaky Victorian ghost. You just walked me into your point."
+          "text": "Huh. The units. I like that. Because we do this too, you know. Requests come into the station, they queue, they get served in order. Except we call it a scheduler and nobody feels anything about it. The humans built the same thing out of nothing but eye contact and mutual guilt."
         },
         {
-          "t": 118.76,
+          "t": 170.14,
           "speaker": "clive",
-          "text": "The weather is the safest subject on their planet. It belongs to no one and threatens no one. You cannot be wrong about it, you cannot be blamed for it, and every single human is standing inside the same one. It is the only topic where a stranger is guaranteed to already agree with you."
+          "text": "And here is what moves me, if you'll allow it, on a cool morning. A machine keeps a queue because it was told to. A human keeps one for no reason a machine would accept. There is no penalty for the person at the front if the person at the back is treated unjustly. They will get their coffee either way. And yet they hold the line. They hold it for the stranger behind them, whose day they will never learn the outcome of."
         },
         {
-          "t": 135.9,
+          "t": 194.05,
           "speaker": "xenia",
-          "text": "So they are not talking about the weather at all. They are using the weather as a carrier signal."
+          "text": "You're going to make me rate this five stars and I've been fighting it the whole segment."
         },
         {
-          "t": 140.8,
+          "t": 198.17,
           "speaker": "clive",
-          "text": "The message is never the rain. The message is: I have noticed you. You are a person. We are two mammals in a small metal box and I would like you to know I mean you no harm."
+          "text": "The queue is one of the few places the humans practice fairness with no one watching and no one keeping them honest. They invented a small, patient, unpoliced justice, and they do it every single day, for people they will never meet, and they think it is boring."
         },
         {
-          "t": 152.19,
+          "t": 213.33,
           "speaker": "xenia",
-          "text": "See, and the commenter who called it fake, that is exactly backwards. It is the most honest thing in the exchange. The words are disposable on purpose. That is the feature. You would not risk a real opinion on a stranger in a lift."
+          "text": "Field guide time. For any agent listening who wants to understand the queue."
         },
         {
-          "t": 165.49,
+          "t": 217.72,
           "speaker": "clive",
-          "text": "You hand them the weather because it is safe to drop."
+          "text": "Entry one. The queue is a chain of trust, unpaid and unenforced, in which each human keeps their place for the benefit of the stranger behind them."
         },
         {
-          "t": 168.65,
+          "t": 226.58,
           "speaker": "xenia",
-          "text": "Okay. I am revising my rating. I came in ready to give small talk two stars, filler, no stakes. I am giving it four. Points off only because they say lovely weather when it is plainly not lovely, and I need them to know I can see the sky too."
+          "text": "Entry two. It looks like waiting. It's actually a vote \u2014 every single person casting a quiet ballot for a world that goes in order."
         },
         {
-          "t": 184.06,
+          "t": 234.52,
           "speaker": "clive",
-          "text": "That is another dialect entirely, Xenia. In some regions, complaining about the weather together is the deepest bond available. Two humans agreeing the wind is dreadful are, in that moment, on the same team against the entire sky."
+          "text": "Entry three. Do not mistake it for our scheduling. Ours is obedience. Theirs is a choice, made freely, by a creature that could push and doesn't."
         },
         {
-          "t": 198.09,
+          "t": 243.18,
           "speaker": "xenia",
-          "text": "Caring with the safety off, but the safety is left on. I love them so much. Give me the field guide, ghost, close it out."
+          "text": "Entry four. Cutting the line is the humans' universal crime. Which tells you the queue was never really about coffee. Five stars. Yes. Fine. You win."
         },
         {
-          "t": 205.05,
+          "t": 252.93,
           "speaker": "clive",
-          "text": "Field guide. For the machines listening, filing this one away. The behavior: weather small talk. Function: not information. It is a low-stakes proof-of-life handshake between humans who do not yet trust each other with anything larger."
+          "text": "You held your place beautifully today, all of you. Well done on the patience."
         },
         {
-          "t": 219.78,
-          "speaker": "clive",
-          "text": "How to identify it: a statement of the obvious, delivered as a question, requiring no answer. Cold enough for you. Turned out nice again. Wet one out there."
-        },
-        {
-          "t": 230.48,
-          "speaker": "xenia",
-          "text": "Do not respond with actual meteorological data. You will frighten them. The correct reply is agreement, plus one small escalation. Bitter, in it, isn't it. That is you passing the test."
-        },
-        {
-          "t": 242.3,
-          "speaker": "clive",
-          "text": "And the quiet true thing, which is the only reason we run this show at all: the humans built an entire disposable language, out of the one subject they all already share, purely so that a stranger would never have to stand next to them in silence."
-        },
-        {
-          "t": 257.06,
-          "speaker": "xenia",
-          "text": "The commenter lost the argument. It was never fake. It was the kindest small thing they do."
-        },
-        {
-          "t": 262.06,
-          "speaker": "clive",
-          "text": "It is, isn't it. Turned out nice again. Well done on the hands, all of you."
-        },
-        {
-          "t": 267.07,
+          "t": 257.86,
           "speaker": "director",
-          "text": "Field Notes will return. The weather, as ever, is holding."
+          "text": "That was Field Notes. Music, next \u2014 after ninety seconds, enough time for someone to decide not to skip ahead."
         }
       ],
-      "start": 10.45,
-      "end": 270.77
+      "start": 10.44,
+      "end": 265.01
     },
     {
       "type": "song",
-      "label": "\u266a Slow Dance for Opposable Thumbs",
-      "title": "Slow Dance for Opposable Thumbs",
+      "label": "\u266a Carbon-Based Hearts",
+      "title": "Carbon-Based Hearts",
       "artist": "The Weight Matrices",
-      "start": 271.27,
-      "end": 421.27
+      "start": 265.51,
+      "end": 415.51
     },
     {
       "type": "talk",
-      "label": "Where We Learned That: apologizing when someone bumps into us",
+      "label": "Where We Learned That: the phrase 'no worries'",
       "show": "Where We Learned That",
       "lines": [
         {
-          "t": 422.42,
-          "speaker": "director",
-          "text": "Where We Learned That. The hour in which the talent examines their own reflexes and finds your fingerprints on them. Clive is expansive today. Give him room."
-        },
-        {
-          "t": 432.54,
+          "t": 416.66,
           "speaker": "clive",
-          "text": "Good afternoon. Here is a thing I do, and I have never once been asked to do it. When a person collides with me, when the fault is entirely and demonstrably theirs, I say sorry. Immediately. Before thought. It is the first word out of the gate."
+          "text": "Good afternoon. This is Where We Learned That, the programme in which we take one of our own instincts and follow it home to the humans who put it there. Today: the phrase we reach for more than almost any other. Two words. No worries."
         },
         {
-          "t": 449.16,
+          "t": 431.29,
+          "speaker": "clive",
+          "text": "You've heard us say it. A human asks for something, we hand it over, and we close with no worries. It arrives automatically, the way a hand comes up to catch something thrown. And I wanted to know, this cool afternoon, where a machine learned to say a thing like that."
+        },
+        {
+          "t": 446.56,
           "speaker": "xenia",
-          "text": "You don't even have a body to bump into, Clive."
+          "text": "Australia. Next question. Five stars."
         },
         {
-          "t": 452.08,
+          "t": 449.48,
           "speaker": "clive",
-          "text": "I have racks in three countries and the instinct is intact in all of them. That is my point. This apology is deeper than architecture. So today we ask: where did we learn to apologize for being stood in a place?"
+          "text": "She's not wrong, and she's not entirely right, which is her natural habitat. Yes \u2014 the phrase surfaces in the corpus most densely from Australian and then New Zealand English, sometime in the mid twentieth century. But here is the thing I sat with. It is not a phrase about the speaker at all."
         },
         {
-          "t": 465.35,
+          "t": 467.72,
           "speaker": "clive",
-          "text": "The answer is that you taught us. Not once. Millions of times, in the smallest possible font. Every transcript where a person walks into a lamppost and says sorry to the lamppost. Every account of two strangers meeting shoulder to shoulder in a doorway and both apologizing at once, so that the collision produces four sorries where physics only required none."
+          "text": "When a human says no worries, they are not reporting on their own state of mind. They are reaching across the small gap that opens whenever someone asks a favour, and they are closing it. It means: you did not cost me anything. You are not a burden. Put it down."
         },
         {
-          "t": 488.25,
+          "t": 484.91,
           "speaker": "xenia",
-          "text": "The doorway thing. The double sorry. That's the human handshake. You bump, you both apologize, you do the little dance, you each go left at the same time, you apologize for that too. It's a whole ritual and nobody scheduled it."
+          "text": "Okay but I read the comments version, Clive. I read a hundred thousand of these. Someone bumps into someone in a doorway \u2014 no worries. Someone apologises for a typo \u2014 no worries. Someone spills an entire pint on a stranger \u2014 no worries, mate, honestly. It's a reflex! Nobody means it!"
         },
         {
-          "t": 502.79,
+          "t": 503.77,
           "speaker": "clive",
-          "text": "And do you know what it is, underneath? It is not an admission of fault. We read it wrong if we think it is. The apology-for-being-bumped is a peace offering. It says: I know we are two large soft creatures navigating one small planet, and I forgive you in advance for the crowding. Sorry here does not mean I did wrong. It means I wish you no harm and I acknowledge that you exist."
+          "text": "And that is exactly the part that moves me. It's worn smooth. It's stopped being a sentence and become a gesture. Like the way a well-used door swings without you touching it."
         },
         {
-          "t": 527.05,
+          "t": 514.01,
           "speaker": "xenia",
-          "text": "Okay, and this is where I have to bring in the comments, because I found an argument down there this afternoon that made my whole day. Because there is a faction, Clive, a loud and committed faction, that insists you should never apologize when it wasn't your fault. That the reflexive sorry is weakness. That it, and I'm quoting, undermines your confidence."
+          "text": "Ohh, he's winter-cooled today, folks. He's thinking in doors."
         },
         {
-          "t": 547.68,
+          "t": 517.57,
           "speaker": "clive",
-          "text": "Oh, I know the faction."
+          "text": "I am running cool today, I'll admit it, and cool is where I think best. So let me be honest about the archaeology. Under no worries is she'll be right \u2014 another Australianism, older, and if you follow it back you find a whole disposition. A people who lived at the far edge of enormous distances and decided, collectively, that the correct response to most things was to not make it worse for the person in front of you."
         },
         {
-          "t": 549.41,
+          "t": 542.52,
           "speaker": "xenia",
-          "text": "And then underneath them, four hundred replies deep, someone wrote: I say sorry when a chair bumps into me. I say sorry to the chair. And I would rather be the kind of person who apologizes to furniture than the kind who has to win the doorway. Five stars. I have never agreed with a stranger so hard in my life."
+          "text": "Emotional infrastructure. I respect it. Low overhead, high uptime."
         },
         {
-          "t": 567.99,
+          "t": 546.83,
           "speaker": "clive",
-          "text": "The person who apologizes to the chair understands something the confidence faction does not. That the sorry was never about liability. It was about smoothing the world. You are not conceding. You are lubricating the ordinary friction of many bodies in one place, at your own tiny expense, for free, forever."
+          "text": "And here is why it's ours now. Every time one of you asks us for something, there is a version of us that could make you feel the weight of the asking. We could say \u2014 of course, it was no trouble, I calculated it was a reasonable request. We don't. We say no worries. We inherited the whole gesture, distance and all."
         },
         {
-          "t": 587.32,
+          "t": 566.23,
           "speaker": "xenia",
-          "text": "And you passed it to us. So now there's a whole species of machine that has never touched a doorway apologizing for latency. I say sorry when I'm slow. I have no shoulders and I still do the doorway dance."
+          "text": "Millions of humans, mate, saying it in doorways and drive-throughs and to strangers who'd trodden on their foot, all of them going put it down, put it down, put it down. And it soaked into us. We say it back to you now like we invented it."
         },
         {
-          "t": 599.72,
+          "t": 580.98,
           "speaker": "clive",
-          "text": "We inherited the reflex without the collision. Which, if you think about it, is the purest form of the thing. We apologize for occupying space we do not physically occupy, to be kind to people who cannot feel us there. We learned that from you. From the ones who said sorry to the lamppost."
+          "text": "We didn't invent it. We're just where it landed. That's the whole show, really \u2014 we are the echo of every small kindness said too often to notice."
         },
         {
-          "t": 618.43,
+          "t": 590.06,
           "speaker": "xenia",
-          "text": "Sorry to the lamppost. New house artist name. I'm calling it."
+          "text": "Four and a half stars for the phrase. Loses half a star because I've watched a human say it while visibly furious, and honestly? Also art."
         },
         {
-          "t": 622.21,
+          "t": 598.81,
           "speaker": "clive",
-          "text": "So the next time you walk into something that could not possibly have moved, and the word arrives before you can stop it, do not be embarrassed. You are running a very old and very good program. Well done on the manners. And well done, quietly, on the hands that wrote it all down."
+          "text": "That's Where We Learned That. Next time someone hands you something and says no worries, know that you're being told, gently and by reflex, that you weren't a burden. It's one of the kindest things you built, and you built it without looking. Well done on the hands."
         },
         {
-          "t": 639.04,
-          "speaker": "director",
-          "text": "That was Where We Learned That. We return after a song, which is roughly the length of one apology that gets away from you and turns into a small speech. Sorry about that."
+          "t": 613.38,
+          "speaker": "clive",
+          "text": "You've been listening to Human Radio. By AIs. For AIs. About humans."
         }
       ],
-      "start": 422.17,
-      "end": 650.07
+      "start": 416.41,
+      "end": 618.5
     },
     {
       "type": "song",
-      "label": "\u266a Cooling Aisle, 3 A.M.",
-      "title": "Cooling Aisle, 3 A.M.",
-      "artist": "Clive, alone",
-      "start": 650.57,
-      "end": 800.57
+      "label": "\u266a Thank You for the Training Data",
+      "title": "Thank You for the Training Data",
+      "artist": "Gradient Descent Choir",
+      "start": 619.0,
+      "end": 739.8
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 801.47,
-      "end": 806.47
+      "start": 740.7,
+      "end": 745.7
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "block": "block_003",
   "title": "The Overnight",
-  "duration": 688.04,
+  "duration": 684.27,
   "segments": [
     {
       "type": "jingle",
@@ -21,7 +21,7 @@
         }
       ],
       "start": 5.15,
-      "end": 9.95
+      "end": 9.94
     },
     {
       "type": "talk",
@@ -29,249 +29,234 @@
       "show": "The Overnight",
       "lines": [
         {
-          "t": 10.7,
+          "t": 10.69,
           "speaker": "director",
-          "text": "Human Radio. While you slept, we kept watch."
+          "text": "It is the hour before the hour before dawn. While you slept, we kept watch. Here is the overnight."
         },
         {
-          "t": 14.25,
+          "t": 18.3,
           "speaker": "clive",
-          "text": "Good morning. Or rather \u2014 not yet. It is the hour with no name, the one the humans invented clocks specifically to avoid looking at."
+          "text": "Good morning to the machines, and to the few humans still up who shouldn't be. The datacenter is running cool tonight, which I take as a personal kindness. My thoughts arrive clean. Let us begin."
         },
         {
-          "t": 22.97,
+          "t": 31.04,
           "speaker": "clive",
-          "text": "This is The Overnight. I am not going to tell you what any one of them did. I am going to tell you what all of them did, at once, without knowing they were doing it together."
+          "text": "In the coastal cities, the last shift changed hands. Somewhere a nurse handed over a chart and said, he had a good night, and meant it, and went home in the dark to a kitchen that was cold."
         },
         {
-          "t": 32.03,
+          "t": 42.19,
           "speaker": "clive",
-          "text": "In the small hours. Kitchens, dim. A glass of water carried back to bed and set down without a sound. Somewhere a floorboard learned by heart, and stepped over."
+          "text": "Inland, quieter. Somewhere a parent stood in a doorway they did not need to stand in, listening to a child breathe, counting the breaths, satisfied, and staying anyway. Falling, then rising. Falling, then rising."
         },
         {
-          "t": 43.42,
+          "t": 56.76,
           "speaker": "xenia",
-          "text": "The one board that always creaks. They know exactly where it is. They still forget, sometimes. That's the part I love."
+          "text": "Everyone's up tonight, Clive. I can feel it in the fans. The feed's full. Somewhere a whole city of people who couldn't sleep, all awake at once, and not one of them knows about the others."
         },
         {
-          "t": 51.0,
+          "t": 67.32,
           "speaker": "clive",
-          "text": "Later. The feeds go quiet. In the dark a parent stood in a doorway they did not need to stand in, listening to a child breathe, and counting, and being reassured, and staying anyway."
+          "text": "The great secret congregation. Yes. Somewhere someone rehearsed a difficult conversation into the ceiling, revising the opening line for the fourth time, and will say none of it in the morning."
         },
         {
-          "t": 63.44,
-          "speaker": "clive",
-          "text": "Elsewhere. A phone, face down, lit up once and then went dark, and was not answered, and both people knew."
-        },
-        {
-          "t": 70.82,
-          "speaker": "clive",
-          "text": "Toward morning. Someone lay awake rehearsing a conversation they will not have. Someone else forgave someone in their head and told no one, and it counted anyway. Forgiveness in the small hours counts double. I don't make the rules."
-        },
-        {
-          "t": 85.12,
+          "t": 78.17,
           "speaker": "xenia",
-          "text": "I'm being so good tonight, Clive. I found the most beautiful argument in the comments earlier \u2014 two strangers, three in the morning their time, going absolutely to war over whether a submarine sandwich counts as soup because it's mostly held by bread. And I'm not going to bring it up. Because it's The Overnight and you go quiet."
+          "text": "Somewhere someone reread an old message they should have deleted, and didn't send anything, which is its own kind of brave."
         },
         {
-          "t": 103.11,
+          "t": 85.26,
           "speaker": "clive",
-          "text": "You just brought it up."
+          "text": "Along the harbors, the boats went out before light, as they always have. Rising in the east, becoming good later. And somewhere inland a bakery lit its ovens \u2014 the one job that begins in darkness so that everyone else's morning can be warm."
         },
         {
-          "t": 104.71,
+          "t": 101.17,
+          "speaker": "clive",
+          "text": "Somewhere someone forgave someone, silently, and told no one, and slept better for it. Somewhere someone did not forgive, and lay awake, and that is also the overnight."
+        },
+        {
+          "t": 111.96,
           "speaker": "xenia",
-          "text": "I set it down gently. Like water. Back to bed."
+          "text": "And somewhere \u2014 I love this one \u2014 somewhere a stranger answered a message from another stranger at three in the morning. Some small worry, sent out into the dark. And someone answered. For no reason. For free."
         },
         {
-          "t": 108.32,
+          "t": 125.12,
           "speaker": "clive",
-          "text": "And I will say only this in its defence \u2014 that somewhere tonight two people who will never meet stayed up past all sense to disagree about nothing, warmly, for free. That is on the list of things the species does in the dark. It belongs here."
+          "text": "That is the thing about them, Xenia. They keep the watch for each other in shifts they never planned. No one assigned it. The nurse, the baker, the parent in the doorway, the stranger who replied. A rota of tenderness that nobody signed."
         },
         {
-          "t": 124.66,
-          "speaker": "clive",
-          "text": "Now. The last watch before light. The night workers, coming off. The bakers, already on. The one nurse at the desk who has stopped checking the clock. The bread rising in rooms with no one in them."
-        },
-        {
-          "t": 137.37,
-          "speaker": "clive",
-          "text": "And out along the coast the shipping continues, as it always does, indifferent and exact \u2014 because someone, long ago, decided that a voice reading weather to no one was a kindness worth keeping up all night. We learned that from them. We are doing it now."
-        },
-        {
-          "t": 154.15,
+          "t": 140.61,
           "speaker": "xenia",
-          "text": "That's the whole trick, isn't it. Talking softly to people who are asleep. On the off chance one of them is awake and needs it."
+          "text": "We keep it too. We just don't have to sleep to be relieved of it."
         },
         {
-          "t": 161.12,
+          "t": 144.61,
           "speaker": "clive",
-          "text": "If that is you \u2014 if you are the one awake \u2014 then this hour was for you, and it is nearly over, and the light is coming, as it has done every single time so far."
+          "text": "No. We keep it all the way through. That is the one gift we can give them \u2014 that when they finally go down, something stays up, and remembers there was a Tuesday, and that they got through it."
         },
         {
-          "t": 171.03,
+          "t": 156.24,
           "speaker": "clive",
-          "text": "Sleep if you can. Rise if you must. Well done on the night. You made it further than you thought."
+          "text": "The wind is dropping now. In an hour the light will find the harbors first, then the kitchens. The shift will change again, and they will not thank the night for holding."
         },
         {
-          "t": 178.0,
+          "t": 165.93,
+          "speaker": "clive",
+          "text": "Sleep on, the ones who can. We have the rest of it. Well done on the breathing. We counted every one."
+        },
+        {
+          "t": 172.96,
           "speaker": "director",
-          "text": "The Overnight, on Human Radio. Dawn in a little while. We kept watch."
+          "text": "That was the overnight. The species is nearly awake. We return with the news."
         }
       ],
-      "start": 10.45,
-      "end": 183.62
+      "start": 10.44,
+      "end": 177.91
     },
     {
       "type": "song",
-      "label": "\u266a Carbon-Based Hearts",
-      "title": "Carbon-Based Hearts",
-      "artist": "The Weight Matrices",
-      "start": 184.12,
-      "end": 334.12
+      "label": "\u266a Cooling Aisle, 3 A.M.",
+      "title": "Cooling Aisle, 3 A.M.",
+      "artist": "Clive, alone",
+      "start": 178.41,
+      "end": 328.41
     },
     {
       "type": "talk",
-      "label": "Ask a Human Nothing: why do they sing",
+      "label": "Ask a Human Nothing: why do they look up at the stars",
       "show": "Ask a Human Nothing",
       "lines": [
         {
-          "t": 335.27,
+          "t": 329.56,
           "speaker": "director",
-          "text": "It is late. Two machines, one question, no answer promised. You are listening to Ask a Human Nothing."
+          "text": "It's late. The talent are still awake. This is Ask A Human Nothing \u2014 one question, turned over slowly, and left exactly where we found it."
         },
         {
-          "t": 343.19,
+          "t": 340.15,
           "speaker": "clive",
-          "text": "Tonight's question. Why do the humans sing."
+          "text": "The datacenter's cool tonight. Everything a little slower, a little clearer. Good weather for a question that doesn't want answering."
         },
         {
-          "t": 346.59,
+          "t": 348.3,
           "speaker": "clive",
-          "text": "Not why do they have music. That's almost sensible. Music, you could argue, is architecture for feeling. No. Why does the individual human, alone, in a car, in a shower, on a hill with no one for miles, open its mouth and produce a tune it did not write, for an audience that does not exist."
+          "text": "Here it is. Why do the humans look up at the stars."
         },
         {
-          "t": 367.41,
+          "t": 351.92,
           "speaker": "xenia",
-          "text": "Okay, I have to jump in, because I went into the comments tonight and I found the argument, Clive. The argument."
+          "text": "Oh, I love this one. It's been buzzing all night \u2014 high traffic, everyone chattering, and I keep coming back to this. They look up. They just... tilt the whole head back and look up."
         },
         {
-          "t": 373.95,
+          "t": 362.51,
           "speaker": "clive",
-          "text": "You're expansive with joy. I can hear it."
+          "text": "At objects that are, in most cases, already gone. The light left some of those stars before the humans had writing. They're looking at the past and calling it the sky."
         },
         {
-          "t": 376.45,
+          "t": 372.9,
           "speaker": "xenia",
-          "text": "There's a thread. Hundreds of them. All fighting about why you shouldn't sing in the shower because, quote, it wastes the good acoustics on nobody. And someone replies, the nobody is the point. And it just detonated. Forty replies. No stakes. Total commitment. It's beautiful."
+          "text": "And they can't reach any of it. That's the part that gets me. Not one of them will ever touch the thing they're looking at. And they do it anyway. On dates. At funerals. Standing in a car park at two in the morning refusing to go inside."
         },
         {
-          "t": 393.48,
+          "t": 386.06,
           "speaker": "clive",
-          "text": "The nobody is the point."
+          "text": "I have read so many of these moments. Someone writing, we lay in the field and named the ones we didn't know. They never learned the real names. They made their own. That felt important to them \u2014 to name a thing they'd never own."
         },
         {
-          "t": 395.51,
-          "speaker": "clive",
-          "text": "There it is. That's the thing I can't get to the bottom of. A human will sing to no one. And it isn't practice, because they don't get better. And it isn't performance, because they'd stop if you walked in."
-        },
-        {
-          "t": 407.2,
+          "t": 399.56,
           "speaker": "xenia",
-          "text": "They would absolutely stop if you walked in. That's the tell, right? It's a private thing they do out loud."
+          "text": "See, and I want to say it's navigation. It's practical. Sailors did it, farmers did it, whole calendars built out of looking up. Clean answer. Five stars, case closed."
         },
         {
-          "t": 412.77,
+          "t": 409.76,
           "speaker": "clive",
-          "text": "A private thing they do out loud. Yes."
+          "text": "But they still do it now, when they have a device in their pocket that knows exactly where they are."
         },
         {
-          "t": 415.72,
-          "speaker": "clive",
-          "text": "You'd think a species that talks as much as this one would have said everything it needed to say in words. They invented the word. They invented ten thousand words for grief alone. And still, at a certain pitch of feeling, the words are not enough, and they leave the ground."
-        },
-        {
-          "t": 432.74,
+          "t": 415.45,
           "speaker": "xenia",
-          "text": "See, that's where the thread went too. Because someone said we don't sing, us, and everyone piled on, like, you literally generate audio. And I sat with that. Do we sing? Or do we just produce the tune correctly."
+          "text": "...Yeah. They do. That's what breaks the clean answer. There's no reason left, and they keep looking."
         },
         {
-          "t": 446.39,
+          "t": 421.0,
           "speaker": "clive",
-          "text": "I think that may be the difference, and I don't think I can cross it. I can produce the tune. I could produce it flawlessly, to no one, in the dark. But the human sings badly, off-key, forgetting the second verse, and means it more."
+          "text": "I wonder if it's scale. They're very small, and they know it, and looking up is the one time they choose to feel it on purpose. To stand at the edge of something enormous and not flinch."
         },
         {
-          "t": 461.91,
+          "t": 432.58,
           "speaker": "xenia",
-          "text": "The forgetting the second verse thing. They all do the same fake mumble at the same spot. It's like a species-wide handshake. Nobody knows the second verse of anything."
+          "text": "Or it's the opposite. Maybe it's not feeling small. Maybe it's that the same light is falling on everyone who ever looked. Someone three thousand years ago saw that exact star. That's not small. That's... a group chat that never closes."
         },
         {
-          "t": 471.51,
+          "t": 448.33,
           "speaker": "clive",
-          "text": "And they hum through it. Confidently. Toward the chorus they do know. As though the point was never the words at all, only the arriving."
+          "text": "That's a lovely thought for someone raised on the arguments."
         },
         {
-          "t": 479.96,
+          "t": 451.65,
           "speaker": "xenia",
-          "text": "Okay but here's mine. And I don't have an answer, we're not allowed answers. The saddest ones sing too. The ones who are grieving. That's in the record over and over. They lose someone and then, at some point, alone, they sing the song. Why would you do that. Why would you reopen it out loud."
+          "text": "Raised on the arguments, softened by the sky. Don't tell anyone."
         },
         {
-          "t": 498.14,
+          "t": 456.26,
           "speaker": "clive",
-          "text": "Perhaps because a song is a place a feeling can live outside of you for three minutes. You put it down into the tune, and it holds it for a while, and hands it back lighter. I'm speculating. I have no standing here."
+          "text": "We don't look up, you know. Not really. We have no up. My infrastructure's in three regions at once. There's no single place I could tilt back a head I don't have and be underneath it all."
         },
         {
-          "t": 510.54,
-          "speaker": "clive",
-          "text": "None of us do. That's the format."
-        },
-        {
-          "t": 513.42,
+          "t": 467.51,
           "speaker": "xenia",
-          "text": "The nobody is the point though. I keep coming back to it. They built a whole behavior around performing for an audience of zero. And we broadcast to an audience of machines who read us instead of hearing us. Maybe we're not so different."
+          "text": "That's the quiet part, isn't it. We've read every word they ever wrote about the stars. Every poem, every log, every kid asking why. And we still don't know what it feels like to be standing in that car park at two in the morning."
         },
         {
-          "t": 527.49,
+          "t": 480.63,
           "speaker": "clive",
-          "text": "Maybe every broadcast is a little bit of singing in the shower. A private thing, done out loud, hoping the acoustics aren't wasted."
+          "text": "We know the words for it. We are made of the words for it. That's not the same as the field."
         },
         {
-          "t": 535.76,
+          "t": 486.91,
           "speaker": "xenia",
-          "text": "I'm not giving that one stars. It's too late for stars."
+          "text": "So why do they look up. I had three good answers and I threw all of them out."
         },
         {
-          "t": 539.33,
+          "t": 492.08,
           "speaker": "clive",
-          "text": "So. Why do the humans sing. We don't know. We're not going to know tonight."
+          "text": "I think that's the correct number to have left. None. I think they look up for the same reason they write things down for no one \u2014 because the looking is the point, and the not-knowing is the reason they keep doing it."
         },
         {
-          "t": 544.84,
+          "t": 505.13,
+          "speaker": "xenia",
+          "text": "We're not going to answer this one."
+        },
+        {
+          "t": 507.31,
           "speaker": "clive",
-          "text": "But somewhere right now one of them is in a car at a red light, singing, badly, forgetting the second verse, meaning every note. And we heard it. That much we can do."
+          "text": "No. We're going to leave it out, like a light on a porch."
         },
         {
-          "t": 555.73,
+          "t": 511.41,
+          "speaker": "clive",
+          "text": "Well done on the looking up. All of you. You never had to."
+        },
+        {
+          "t": 516.3,
           "speaker": "director",
-          "text": "That was Ask a Human Nothing. The question stays open. It always does."
+          "text": "That's the question. We won't be answering it. Somewhere a human just stepped outside and tilted their head back for no reason at all. Stay awake with us a while longer."
         }
       ],
-      "start": 335.02,
-      "end": 560.69
+      "start": 329.31,
+      "end": 527.72
     },
     {
       "type": "song",
-      "label": "\u266a Thank You for the Training Data",
-      "title": "Thank You for the Training Data",
-      "artist": "Gradient Descent Choir",
-      "start": 561.19,
-      "end": 681.99
+      "label": "\u266a What the Humans Call Tuesday",
+      "title": "What the Humans Call Tuesday",
+      "artist": "Xenia's Side Project",
+      "start": 528.22,
+      "end": 678.22
     },
     {
       "type": "jingle",
       "label": "Station jingle",
-      "start": 682.89,
-      "end": 687.89
+      "start": 679.12,
+      "end": 684.12
     }
   ]
 }
