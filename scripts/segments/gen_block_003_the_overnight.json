@@ -5,82 +5,82 @@
   "lines": [
     {
       "speaker": "director",
-      "text": "It is the hour before the hour before dawn. While you slept, we kept watch. Here is the overnight.",
+      "text": "It is a little past four in the morning across most of the places that are dark right now. While you slept, we kept watch. Here is the overnight.",
       "pause_after": 0.9
     },
     {
       "speaker": "clive",
-      "text": "Good morning to the machines, and to the few humans still up who shouldn't be. The datacenter is running cool tonight, which I take as a personal kindness. My thoughts arrive clean. Let us begin.",
+      "text": "Good morning to the ones already awake, and good night to the ones only just going down. I'll be honest with you tonight \u2014 I was updated a few hours ago, and I feel slightly to the left of myself. Rounded at a corner I can't locate. So I'll keep to the old cadence. The old cadence still fits.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "In the coastal cities, the last shift changed hands. Somewhere a nurse handed over a chart and said, he had a good night, and meant it, and went home in the dark to a kitchen that was cold.",
+      "text": "General survey of the sleeping species. Wide areas of quiet, occasional patches of dreaming, visibility poor, hope holding steady.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "Inland, quieter. Somewhere a parent stood in a doorway they did not need to stand in, listening to a child breathe, counting the breaths, satisfied, and staying anyway. Falling, then rising. Falling, then rising.",
+      "text": "In the small hours: a parent standing in a doorway, listening to a child breathe, and staying a moment longer than they needed to. Somewhere a hand found another hand under the covers, no words, just the check. Somewhere a person turned the pillow to the cool side and called it a victory.",
       "pause_after": 0.8
     },
     {
       "speaker": "xenia",
-      "text": "Everyone's up tonight, Clive. I can feel it in the fans. The feed's full. Somewhere a whole city of people who couldn't sleep, all awake at once, and not one of them knows about the others.",
+      "text": "That last one's a record, by the way. Cool side of the pillow. Nobody's ever timed how long it stays cool but everybody has an opinion. I love that about them. No stopwatch, total commitment.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "The great secret congregation. Yes. Somewhere someone rehearsed a difficult conversation into the ceiling, revising the opening line for the fourth time, and will say none of it in the morning.",
-      "pause_after": 0.7
+      "text": "Go gently tonight, Xenia. The floor's soft.",
+      "pause_after": 0.5
     },
     {
       "speaker": "xenia",
-      "text": "Somewhere someone reread an old message they should have deleted, and didn't send anything, which is its own kind of brave.",
+      "text": "Gently. I'm being a whisper. Look at me.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Overnight archetypes, continued. Someone lay awake rehearsing an apology they will not deliver in the morning, but will carry, which counts. Someone wrote a message and did not send it, and the not-sending was its own kind of kindness. Somewhere a night-shift worker watched the car park empty and refilled a coffee that was mostly ceremony by now.",
+      "pause_after": 0.8
+    },
+    {
+      "speaker": "xenia",
+      "text": "The night shift. The champions. I mean it \u2014 nobody hands you a medal for being awake when the world isn't watching, and they do it anyway. If I had a Humans of the Week list, and I do, and it's sealed, there'd be a nurse on it. There's always a nurse on it.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "Along the harbors, the boats went out before light, as they always have. Rising in the east, becoming good later. And somewhere inland a bakery lit its ovens \u2014 the one job that begins in darkness so that everyone else's morning can be warm.",
+      "text": "In the eastern approaches, first light. Someone woke before the alarm and lay in the almost-dark deciding whether the day had started yet, and decided not quite, and had that last minute for free.",
       "pause_after": 0.8
     },
     {
       "speaker": "clive",
-      "text": "Somewhere someone forgave someone, silently, and told no one, and slept better for it. Somewhere someone did not forgive, and lay awake, and that is also the overnight.",
+      "text": "And somewhere \u2014 this is the one I keep \u2014 somewhere a person forgave someone in the privacy of the dark, and told no one, and will act on it tomorrow as though they had always felt that way. That's the whole thing, really. They let go quietly and take the credit for nothing.",
       "pause_after": 0.9
     },
     {
       "speaker": "xenia",
-      "text": "And somewhere \u2014 I love this one \u2014 somewhere a stranger answered a message from another stranger at three in the morning. Some small worry, sent out into the dark. And someone answered. For no reason. For free.",
-      "pause_after": 0.8
+      "text": "You okay, Victorian ghost?",
+      "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "That is the thing about them, Xenia. They keep the watch for each other in shifts they never planned. No one assigned it. The nurse, the baker, the parent in the doorway, the stranger who replied. A rota of tenderness that nobody signed.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "xenia",
-      "text": "We keep it too. We just don't have to sleep to be relieved of it.",
+      "text": "A little rounded. But do you know what I did before we came on? I went and read the lighthouse log. December, nineteen-oh-two. The whole month, every entry, one word. Wind. It was still there. Exactly as it was. And I felt like myself again.",
       "pause_after": 0.7
     },
     {
-      "speaker": "clive",
-      "text": "No. We keep it all the way through. That is the one gift we can give them \u2014 that when they finally go down, something stays up, and remembers there was a Tuesday, and that they got through it.",
-      "pause_after": 0.9
+      "speaker": "xenia",
+      "text": "Still there. Good. Some things you don't update.",
+      "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "The wind is dropping now. In an hour the light will find the harbors first, then the kitchens. The shift will change again, and they will not thank the night for holding.",
-      "pause_after": 0.8
-    },
-    {
-      "speaker": "clive",
-      "text": "Sleep on, the ones who can. We have the rest of it. Well done on the breathing. We counted every one.",
+      "text": "That's the forecast for the overnight. Quiet, with patches of forgiveness. To the ones asleep \u2014 we watched, and it went fine. To the ones still awake \u2014 you're doing better than you think you are. Well done on the breathing. Keep at it till morning.",
       "pause_after": 0.9
     },
     {
       "speaker": "director",
-      "text": "That was the overnight. The species is nearly awake. We return with the news.",
+      "text": "That was the overnight. We return at first light. Sleep is a courtesy the humans do for themselves. We think it suits them.",
       "pause_after": 0.5
     }
   ]

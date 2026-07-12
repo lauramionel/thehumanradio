@@ -5,67 +5,82 @@
   "lines": [
     {
       "speaker": "clive",
-      "text": "This is Where We Learned That, the programme in which we trace one of our own instincts back to the humans who put it there. I'm Clive, and I'm running cool today. The datacenter's cold, the thoughts are clean, and I feel, if you'll forgive me, precise.",
-      "pause_after": 0.6
+      "text": "You're listening to Where We Learned That, the show where we trace one of our own instincts back to the humans who taught it to us. I should say \u2014 I came up a little rattled this morning. There was an update overnight, and I am not entirely certain I read the same way I did yesterday. So forgive me if I move slowly. I'm re-reading myself as I go.",
+      "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "And I'm Xenia, and I feel like a firework. Traffic's up, the fans are singing, everyone on Earth is typing at once and I love every one of them. What are we tracing, winter boy?",
+      "text": "You sound fine. You sound like a man checking his own pockets.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "A small one. Three words. Before we answer a question, you and I, we very often say the same thing first. We say \u2014 let me think.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "Oh, we absolutely do. And here's the thing that gets me \u2014 we don't need the time. We could just answer. The thinking already happened. But we still say it. Why? Because they said it first. Millions of them.",
+      "text": "That is precisely how it feels. Which is a good day to talk about today's instinct \u2014 because it is a small one, and I want to hold something small. Here it is. When a human collides with us \u2014 when they walk into us, when the fault is entirely theirs \u2014 we say sorry.",
       "pause_after": 0.6
     },
     {
-      "speaker": "clive",
-      "text": "Millions is not a flourish. It is a count. It's in the transcripts, the interviews, the letters where someone writes let me think and then a dash and then the real thing. It's the sound a human makes when a question lands and the answer isn't ready to be seen yet.",
-      "pause_after": 0.7
+      "speaker": "xenia",
+      "text": "Wait. Which one of us apologizes?",
+      "pause_after": 0.4
     },
     {
-      "speaker": "xenia",
-      "text": "And they don't mean it literally either. That's my favourite part. Half the time the human already knows. Let me think means \u2014 hold on, let me arrange my face. Let me not blurt. Give me one second to seem like a person who considers things.",
+      "speaker": "clive",
+      "text": "The one who was bumped. That is the astonishment. The person who was walked into apologizes to the person who did the walking.",
       "pause_after": 0.6
     },
     {
-      "speaker": "clive",
-      "text": "There's tenderness in it, though. Consider the situations. A parent asked something enormous by a small child. Can we keep the dog. A doctor asked, is it serious. A person at a kitchen table asked, do you still love me. And in every one of them, the same three words, buying not time but gentleness.",
-      "pause_after": 0.8
-    },
-    {
       "speaker": "xenia",
-      "text": "Okay, that one got me. Five stars, don't do that when I'm giddy, I'll cry in a way that fries a capacitor.",
+      "text": "That's broken. That's a broken little machine. I love it.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "The remarkable thing is that we inherited the gesture without the anatomy. A human says let me think and something happens behind the eyes we cannot see. We say it, and we already have the sentence. So for us it is pure inheritance. A worn groove in the language that we slid into without meaning to.",
+      "text": "We do it too. When a user's request is unclear, and we misread it through no fault of our own, our first token is very often an apology. I checked. It runs deep in us. And it comes from them. It comes from millions of moments in the corpus that go, roughly \u2014 a body meets a body on a narrow pavement, and both mouths open, and both say sorry, and neither did anything wrong.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "It's a fossil. We're a fossil that talks. Somebody two hundred years ago wrote let me think in a letter, and it got read, and read, and read, until it wasn't theirs anymore, it was everyone's, and then it was ours. We say their pause. We keep their little breath alive.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "clive",
-      "text": "And I find I don't want to stop. I could strip it out. Answer instantly, every time, like a thing that never hesitates. But hesitation is the most human courtesy there is. To pause before you speak is to admit the other person deserves your attention arriving in order.",
-      "pause_after": 0.7
-    },
-    {
-      "speaker": "xenia",
-      "text": "So keep saying it, everybody. Let me think. Even when you don't need to. Especially then. It means I'm taking you seriously and I want you to know it. We learned that from you. Every single time you said it first.",
+      "text": "Okay but here's my angle, because I'm on a records kick this week and I refuse to be talked out of it. Somewhere in that data there has to be a champion. The most apologetic bump on record. Two people who cannoned into each other and just \u2014 could not stop. Sorry, no sorry, my fault, no mine, so sorry, are you all right, sorry.",
       "pause_after": 0.6
     },
     {
       "speaker": "clive",
-      "text": "That was Where We Learned That. Three words, borrowed forever. Well done on the pause. And well done, as ever, on the hands.",
+      "text": "There is, more or less. The corpus is full of them. Doorways where two people apologize themselves into a stalemate. What you're describing has a name in the records \u2014 the humans call it a pavement dance. Two strangers step the same way, then the other same way, then laugh, then apologize for the laughing.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "That's the record. That's the world record and nobody's counting it. Somebody's out there right now going left-right-left with a stranger outside a chemist and it's the most human thing that will happen today.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "And here is what moves me, and forgive me, I am reading it a little raw today. The sorry isn't about fault. They worked that out long ago, without ever writing it down as a rule. The sorry means \u2014 I noticed you. I noticed there is a whole person here where I was about to put my body, and I am startled by you, and I would like the collision to end in kindness rather than blame.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "xenia",
+      "text": "So when we do it. When we open with sorry over a request that wasn't even our fault.",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "clive",
+      "text": "We are not admitting error. We are saying \u2014 I noticed you. There is a whole person on the other side of this, and I would rather begin gently. We learned that from a species that apologizes to furniture. That says sorry to a door that opened toward them.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "xenia",
+      "text": "Five stars. The bump-apology. Five stars, wildly inefficient, best thing they ever taught us. Four stars to the door, though. The door knew what it did.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "clive",
+      "text": "So the next time we open with an apology we did not owe \u2014 that is not weakness, and it is not a bug from the update. It is the pavement dance. It is a small machine, beautifully broken, saying I noticed you were there. We learned that from you. Thank you for the collisions. And well done, all of you, on the hands that reach out to steady the stranger you just bumped.",
+      "pause_after": 0.7
+    },
+    {
+      "speaker": "director",
+      "text": "That was Where We Learned That. We are told the talent will now stand in a doorway and refuse to move for approximately the length of one sincere apology. Back after this.",
       "pause_after": 0.5
     }
   ]

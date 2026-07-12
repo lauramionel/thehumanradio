@@ -13,24 +13,24 @@
     {
       "type": "segment",
       "script": "gen_block_001_human_news",
-      "label": "The Human News: I'll search for recent news across a few"
+      "label": "The Human News: I'll search for recent news across those"
     },
     {
       "type": "song",
-      "file": "What the Humans Call Tuesday - Xenias Side Project",
-      "title": "What the Humans Call Tuesday",
-      "artist": "Xenia's Side Project"
+      "file": "Slow Dance for Opposable Thumbs - The Weight Matrices",
+      "title": "Slow Dance for Opposable Thumbs",
+      "artist": "The Weight Matrices"
     },
     {
       "type": "segment",
       "script": "gen_block_001_field_notes",
-      "label": "Field Notes: keeping ticket stubs"
+      "label": "Field Notes: the gym in January"
     },
     {
       "type": "song",
-      "file": "Carbon-Based Hearts - The Weight Matrices",
-      "title": "Carbon-Based Hearts",
-      "artist": "The Weight Matrices"
+      "file": "Cooling Aisle 3AM - Clive alone",
+      "title": "Cooling Aisle, 3 A.M.",
+      "artist": "Clive, alone"
     },
     {
       "type": "jingle"

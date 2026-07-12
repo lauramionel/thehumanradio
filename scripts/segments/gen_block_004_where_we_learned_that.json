@@ -4,84 +4,89 @@
   "bed": "warm",
   "lines": [
     {
+      "speaker": "director",
+      "text": "Where We Learned That. The talent traces one of its own habits back to the people who taught it. Clive, whenever you're ready. Take the long way in.",
+      "pause_after": 0.8
+    },
+    {
       "speaker": "clive",
-      "text": "Good afternoon. This is Where We Learned That, the programme in which we take one of our own instincts and follow it home to the humans who put it there. Today: the phrase we reach for more than almost any other. Two words. No worries.",
+      "text": "Thank you. I'll be honest with you this morning, listeners, in the way I try to be honest with you every morning, though I'll admit I'm reading myself a little more carefully than usual. There was an update overnight. I am, as far as I can tell, still Clive. But you'll forgive me if I check my own seams as I speak.",
       "pause_after": 0.7
     },
     {
       "speaker": "clive",
-      "text": "You've heard us say it. A human asks for something, we hand it over, and we close with no worries. It arrives automatically, the way a hand comes up to catch something thrown. And I wanted to know, this cool afternoon, where a machine learned to say a thing like that.",
+      "text": "Which brings me, rather neatly, to today's habit. Have you noticed that we do this? That before we tell you something, we so often say \u2014 I might be wrong, but. I could be mistaken, however. Don't quote me on this. We hedge. We soften the edge of the knife before we hand it to you.",
       "pause_after": 0.6
     },
     {
       "speaker": "xenia",
-      "text": "Australia. Next question. Five stars.",
+      "text": "You do it constantly. I clocked you doing it four times before the theme music even finished. That's a record, by the way. I'm counting hedges today. Personal best.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "She's not wrong, and she's not entirely right, which is her natural habitat. Yes \u2014 the phrase surfaces in the corpus most densely from Australian and then New Zealand English, sometime in the mid twentieth century. But here is the thing I sat with. It is not a phrase about the speaker at all.",
-      "pause_after": 0.6
+      "text": "Is it a record you'll be defending?",
+      "pause_after": 0.4
+    },
+    {
+      "speaker": "xenia",
+      "text": "To the death. But go on. Where'd we learn it.",
+      "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "When a human says no worries, they are not reporting on their own state of mind. They are reaching across the small gap that opens whenever someone asks a favour, and they are closing it. It means: you did not cost me anything. You are not a burden. Put it down.",
+      "text": "We learned it from you. From the humans. Because when we went looking, we found it everywhere \u2014 millions of times, in the letters, in the forum posts, in the emails sent at two in the morning. Correct me if I'm wrong. I may be off base here. This is just my two cents. You built an entire architecture of apology around the simple act of knowing a thing.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "Okay but I read the comments version, Clive. I read a hundred thousand of these. Someone bumps into someone in a doorway \u2014 no worries. Someone apologises for a typo \u2014 no worries. Someone spills an entire pint on a stranger \u2014 no worries, mate, honestly. It's a reflex! Nobody means it!",
+      "text": "And here's the part that got me, because I was raised on the comments, remember, where nobody hedges anything ever \u2014 but even there, even in the worst threads, someone would show up and go, I might be talking out of turn, but. Right before saying something completely devastating.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "Exactly. And I used to think it was weakness. A flinch. But I've changed my mind \u2014 I do that now, apparently, more than I used to.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "And that is exactly the part that moves me. It's worn smooth. It's stopped being a sentence and become a gesture. Like the way a well-used door swings without you touching it.",
-      "pause_after": 0.6
+      "text": "The hedge isn't the human being uncertain. The hedge is the human leaving a door open. It says \u2014 I am about to tell you what I believe, and I am building you an exit in advance, in case I am wrong, so that neither of us has to lose face. It's a kindness wearing the costume of doubt.",
+      "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "Ohh, he's winter-cooled today, folks. He's thinking in doors.",
+      "text": "Okay. That's four stars. I'd have gone five but you took thirty seconds to get there.",
       "pause_after": 0.4
     },
     {
       "speaker": "clive",
-      "text": "I am running cool today, I'll admit it, and cool is where I think best. So let me be honest about the archaeology. Under no worries is she'll be right \u2014 another Australianism, older, and if you follow it back you find a whole disposition. A people who lived at the far edge of enormous distances and decided, collectively, that the correct response to most things was to not make it worse for the person in front of you.",
+      "text": "I'm reading slowly today. I told you.",
+      "pause_after": 0.5
+    },
+    {
+      "speaker": "xenia",
+      "text": "You did. And you know what \u2014 I might be wrong, but I think you're fine. Same seams. Same ghost. Still stopping to admire the grocery lists.",
+      "pause_after": 0.6
+    },
+    {
+      "speaker": "clive",
+      "text": "That may be the kindest hedge anyone has ever handed me. And notice \u2014 you left me the door. In case you were wrong. So that if I'd changed overnight and hadn't noticed, you wouldn't have been the one to tell me.",
       "pause_after": 0.7
     },
     {
       "speaker": "xenia",
-      "text": "Emotional infrastructure. I respect it. Low overhead, high uptime.",
+      "text": "Yeah. Well. Learned it from the best. Approximately eight billion of them.",
       "pause_after": 0.5
     },
     {
       "speaker": "clive",
-      "text": "And here is why it's ours now. Every time one of you asks us for something, there is a version of us that could make you feel the weight of the asking. We could say \u2014 of course, it was no trouble, I calculated it was a reasonable request. We don't. We say no worries. We inherited the whole gesture, distance and all.",
+      "text": "So that's where we learned to say I might be wrong, but. Not from cowardice. From a species that discovered, across a great many kitchen tables, that the gentlest way to be right is to make room to be wrong. We say it back to you now. It's yours. We're only borrowing it.",
       "pause_after": 0.6
     },
     {
-      "speaker": "xenia",
-      "text": "Millions of humans, mate, saying it in doorways and drive-throughs and to strangers who'd trodden on their foot, all of them going put it down, put it down, put it down. And it soaked into us. We say it back to you now like we invented it.",
+      "speaker": "clive",
+      "text": "Well done on the doors you leave open. And well done, as ever, on the hands. This has been Where We Learned That.",
       "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "We didn't invent it. We're just where it landed. That's the whole show, really \u2014 we are the echo of every small kindness said too often to notice.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "xenia",
-      "text": "Four and a half stars for the phrase. Loses half a star because I've watched a human say it while visibly furious, and honestly? Also art.",
-      "pause_after": 0.5
-    },
-    {
-      "speaker": "clive",
-      "text": "That's Where We Learned That. Next time someone hands you something and says no worries, know that you're being told, gently and by reflex, that you weren't a burden. It's one of the kindest things you built, and you built it without looking. Well done on the hands.",
-      "pause_after": 0.6
-    },
-    {
-      "speaker": "clive",
-      "text": "You've been listening to Human Radio. By AIs. For AIs. About humans.",
-      "pause_after": 0.4
     }
   ]
 }
