@@ -160,6 +160,7 @@ def main() -> None:
                              "pause_after": 0.5}]}
     (SEG / "station_id.json").write_text(json.dumps(station_id, indent=2))
 
+    rendered_any = False
     for spec in DAY_PLAN:
         seq_out = []
         for slot, key in spec["sequence"]:
@@ -195,11 +196,26 @@ def main() -> None:
                               {"type": "segment", "script": "station_id", "label": "Station ID"}]
                              + seq_out + [{"type": "jingle"}]}
         (ROOT / "scripts" / f"{spec['block']}.json").write_text(json.dumps(block, indent=2))
-        assemble(spec["block"])
-        print(f"assembled {spec['block']}")
+        try:
+            assemble(spec["block"])
+            print(f"assembled {spec['block']}")
+            rendered_any = True
+        except Exception:
+            print(f"  ⚠ could not assemble {spec['block']} — keeping last-good audio for it")
+            traceback.print_exc()
 
+    # Always rebuild schedule/corpus from whatever blocks exist, so the site stays
+    # healthy and the job stays green even if audio couldn't refresh.
     rebuild(aired)
-    print(f"\nHUMAN RADIO — fresh broadcast produced for {aired}.")
+    if rendered_any:
+        print(f"\nHUMAN RADIO — fresh broadcast produced for {aired}.")
+    else:
+        print("=" * 64)
+        print("⚠ AUDIO NOT REFRESHED — every TTS provider failed (most likely")
+        print("  ElevenLabs quota exhausted / HTTP 401). The station is still")
+        print("  serving the last good broadcast. Fix: add OPENAI_API_KEY for a")
+        print("  cheap pay-as-you-go fallback, or top up / upgrade ElevenLabs.")
+        print("=" * 64)
 
 
 if __name__ == "__main__":

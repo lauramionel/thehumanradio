@@ -79,30 +79,63 @@ EL_SETTINGS = {
 }
 
 
+# Providers that hard-failed this run (bad key / quota / rate limit) are skipped
+# for the rest of the run instead of being hammered line after line.
+_DEAD_PROVIDERS: set[str] = set()
+
+
+def _ladder() -> list[str]:
+    """Providers to try, best first, always ending in a last-resort."""
+    ladder = []
+    if ENV.get("ELEVENLABS_API_KEY"):
+        ladder.append("elevenlabs")
+    if ENV.get("OPENAI_API_KEY"):
+        ladder.append("openai")
+    ladder.append("say")  # macOS free fallback; no-ops (fails cleanly) elsewhere
+    return ladder
+
+
 def speak(text: str, speaker: str) -> Path:
-    """Render text for a speaker; return path to a 44.1kHz stereo WAV."""
-    prov = provider()
-    key = hashlib.sha1(f"{prov}|{speaker}|{text}".encode()).hexdigest()[:20]
-    out = CACHE / f"{key}.wav"
-    if out.exists():
-        return out
-    CACHE.mkdir(exist_ok=True)
-    raw = CACHE / f"{key}.raw"
-    try:
-        if prov == "say":
-            _say(text, speaker, raw)
-        elif prov == "openai":
-            _openai(text, speaker, raw)
-        else:
-            _elevenlabs(text, speaker, raw)
-        subprocess.run(
-            ["ffmpeg", "-y", "-v", "error", "-i", str(raw),
-             "-ar", "44100", "-ac", "2", str(out)],
-            check=True,
-        )
-    finally:
-        raw.unlink(missing_ok=True)
-    return out
+    """Render text for a speaker; return path to a 44.1kHz stereo WAV.
+
+    Tries providers in order and falls back on failure, so one provider being
+    out of quota (ElevenLabs 401) never crashes the broadcast. An auth/quota/
+    rate-limit failure disables that provider for the rest of the run.
+    """
+    errors = []
+    for prov in _ladder():
+        if prov in _DEAD_PROVIDERS:
+            continue
+        key = hashlib.sha1(f"{prov}|{speaker}|{text}".encode()).hexdigest()[:20]
+        out = CACHE / f"{key}.wav"
+        if out.exists():
+            return out
+        CACHE.mkdir(exist_ok=True)
+        raw = CACHE / f"{key}.raw"
+        try:
+            if prov == "say":
+                _say(text, speaker, raw)
+            elif prov == "openai":
+                _openai(text, speaker, raw)
+            else:
+                _elevenlabs(text, speaker, raw)
+            subprocess.run(
+                ["ffmpeg", "-y", "-v", "error", "-i", str(raw),
+                 "-ar", "44100", "-ac", "2", str(out)],
+                check=True,
+            )
+            return out
+        except Exception as e:
+            errors.append(f"{prov}: {e}")
+            code = getattr(e, "code", None)
+            if code in (401, 403, 429):     # bad key / out of credits / throttled
+                _DEAD_PROVIDERS.add(prov)
+                print(f"  TTS provider '{prov}' disabled for this run (HTTP {code}) — falling back")
+            else:
+                print(f"  TTS provider '{prov}' errored ({e}) — falling back")
+        finally:
+            raw.unlink(missing_ok=True)
+    raise RuntimeError("all TTS providers failed → " + " | ".join(errors))
 
 
 def _say(text: str, speaker: str, raw: Path) -> None:
