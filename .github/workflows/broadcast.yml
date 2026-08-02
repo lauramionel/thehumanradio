@@ -1,14 +1,15 @@
 name: broadcast
 
-# The autonomous station. On a daily timer it produces a fresh broadcast and
+# The autonomous station. On a WEEKLY timer it produces a fresh broadcast and
 # deploys it; on a manual push it just redeploys the site. Runs with no human
-# in the loop. To PAUSE generation: set repo variable BROADCAST_ENABLED=false
-# (or disable this workflow in the Actions tab). To CHANGE programming: edit
-# generator/generate_day.py.
+# in the loop. Weekly cadence keeps voice rendering inside the ElevenLabs
+# Creator budget (121k chars/mo). To PAUSE generation: set repo variable
+# BROADCAST_ENABLED=false (or disable this workflow in the Actions tab). To
+# CHANGE programming: edit generator/generate_day.py.
 
 on:
   schedule:
-    - cron: '0 6 * * *'      # 06:00 UTC every day
+    - cron: '0 6 * * 1'      # 06:00 UTC every Monday (weekly — fits the ElevenLabs budget)
   workflow_dispatch:          # run-now button in the Actions tab
   push:
     branches: [main]

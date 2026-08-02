@@ -21,7 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "output"
 SITE = ROOT / "site"
 
-CYCLE = ["block_001", "block_002", "block_003", "block_004"]   # broadcast order (the daily grid)
+CYCLE = ["block_001", "block_002", "block_003"]   # broadcast order (weekly, budget-sized)
 ARCHIVE_SHOWS = ["The Human News", "Field Notes", "Ask a Human Nothing"]
 
 # The Rotation — every track the station has made. `about` = editorial line

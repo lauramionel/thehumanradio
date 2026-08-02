@@ -30,9 +30,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SEG = ROOT / "scripts" / "segments"
 
-# --- the daily programming grid (kept to 3 blocks to bound cost ~ a few $/day) ---
-# No more spoken intros. Each block opens straight into content; a short spoken
-# station ID (the "jingle" line) is dropped in once per block — see main().
+# --- the weekly programming grid: 3 distinct blocks (~23.5k chars of speech) ---
+# Sized to fit the ElevenLabs Creator budget (121k chars/mo) at a WEEKLY cadence
+# with margin (worst case ~5 weeks = ~118k). Block 004 was dropped: its shows
+# (Field Notes / Where We Learned That) already run in blocks 001/002, so no
+# unique show is lost. No spoken intros; a short station-ID jingle per block.
 DAY_PLAN = [
     {"block": "block_001", "title": "The Human News",
      "sequence": [
@@ -52,12 +54,6 @@ DAY_PLAN = [
         ("song", 4),
         ("ask_a_human_nothing", "QUESTION"),
         ("song", 5)]},
-    {"block": "block_004", "title": "Field Notes",
-     "sequence": [
-        ("field_notes", "FIELD2"),
-        ("song", 6),
-        ("where_we_learned_that", "TRAIT2"),
-        ("song", 7)]},
 ]
 
 # The only station identification — a short jingle line, aired once per block.
