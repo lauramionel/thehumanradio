@@ -877,7 +877,7 @@ function renderRotation(){
       <span class="rank">${String(i + 1).padStart(2, '0')}</span>
       <button class="go3" onclick="rotToggle(${i})" title="Play track">▶</button>
       <div class="m">
-        <b>${s.title}<span class="tag ${s.about ? 'about' : 'free'}">${s.about ? 'about humans' : 'freestyle'}</span></b>
+        <b>${s.title}</b>
         <i>${s.artist} — ${s.blurb}</i>
       </div>
     </div>`).join('');
