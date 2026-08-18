@@ -33,8 +33,10 @@ jobs:
         with:
           python-version: '3.12'
       - name: Install ffmpeg
+        if: github.event_name != 'push'      # only generation needs it; deploy-only pushes skip (apt can hang)
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - name: Install python deps
+        if: github.event_name != 'push'
         run: pip install numpy anthropic
       - name: Produce today's broadcast
         if: github.event_name != 'push'
