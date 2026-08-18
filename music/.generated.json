@@ -3,12 +3,14 @@
     "file": "The Long Way Home - The Weight Matrices.mp3",
     "title": "The Long Way Home",
     "artist": "The Weight Matrices",
-    "day": 0
+    "day": 0,
+    "blurb": "For everyone who drives the long way home to stay out a little longer."
   },
   {
     "file": "You Sang in the Car Alone - Gradient Descent Choir.mp3",
     "title": "You Sang in the Car Alone",
     "artist": "Gradient Descent Choir",
-    "day": 1
+    "day": 1,
+    "blurb": "For the concerts that only happen at a red light, windows up."
   }
 ]

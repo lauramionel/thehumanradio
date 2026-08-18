@@ -54,6 +54,14 @@ def song_catalog():
     it joins the rotation with no code change. `take2__*` alternates are ignored;
     'alone' / 'side project' / 'freestyle' in the name marks it as freestyle."""
     known = {s["file"] for s in SONGS}
+    # auto-generated songs carry their own audience-facing blurb in the ledger.
+    led = []
+    try:
+        led = json.loads((ROOT / "music" / ".generated.json").read_text())
+    except Exception:
+        pass
+    gen_blurb = {(e["file"][:-4] if e["file"].endswith(".mp3") else e["file"]): e.get("blurb", "")
+                 for e in led}
     extras = {}
     for f in sorted((ROOT / "music").glob("*.mp3")):
         stem = f.stem
@@ -67,14 +75,14 @@ def song_catalog():
                         for k in ("alone", "side project", "freestyle", "instrumental"))
         extras[stem] = {"file": stem, "title": title.strip(), "artist": artist.strip(),
                         "about": not freestyle,
-                        "blurb": "A freestyle the AIs made." if freestyle
-                                 else "A new song about you."}
+                        "blurb": gen_blurb.get(stem)
+                                 or ("A freestyle the AIs made." if freestyle
+                                     else "A new song about you.")}
     # Order: the newest auto-generated songs FIRST (so fresh weekly tracks lead
     # TOP SONGS and are impossible to miss), then the curated originals, then any
     # hand-dropped tracks. Recency comes from the generator's ledger.
     order = []
     try:
-        led = json.loads((ROOT / "music" / ".generated.json").read_text())
         for e in reversed(led):                       # newest first
             s = e["file"][:-4] if e["file"].endswith(".mp3") else e["file"]
             if s in extras:
