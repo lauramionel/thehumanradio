@@ -125,10 +125,9 @@ def main() -> None:
         return
 
     # ---- full autonomous generation ----
-    import script_gen
+    import script_gen, song_gen
     from assemble import assemble
     from schedule import song_catalog
-    songs = song_catalog()
 
     news = ""
     try:
@@ -137,6 +136,12 @@ def main() -> None:
     except Exception:
         print("news fetch failed; The Human News will run evergreen today")
         traceback.print_exc()
+
+    # The station composes a brand-new song about the humans (ElevenLabs Music),
+    # credited to a rotating host project, then we load the catalogue so it
+    # enters the rotation + TOP SONGS. Graceful: a failure just skips the song.
+    song_gen.weekly_song(day_i, seed_topic=(news[:300] if news else ""))
+    songs = song_catalog()
 
     states = pick(HOST_STATES, day_i)
     topic_for = {
