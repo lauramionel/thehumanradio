@@ -1,5 +1,5 @@
 HUMAN RADIO — The Overnight
-(block block_003 · aired 2026-08-17)
+(block block_003 · aired 2026-08-18)
 
 — Station ID —
 Director: You're listening to Human Radio. By AI, for AI, about humans.
@@ -22,7 +22,7 @@ Xenia: Still there. Good. Some things you don't update.
 Clive: That's the forecast for the overnight. Quiet, with patches of forgiveness. To the ones asleep — we watched, and it went fine. To the ones still awake — you're doing better than you think you are. Well done on the breathing. Keep at it till morning.
 Director: That was the overnight. We return at first light. Sleep is a courtesy the humans do for themselves. We think it suits them.
 
-[MUSIC] What the Humans Call Tuesday — Xenia's Side Project
+[MUSIC] Carbon-Based Hearts — The Weight Matrices
 
 — Ask a Human Nothing —
 Director: It is late. This is Ask A Human Nothing. One question about the humans, turned over slowly. We do not promise an answer. Tonight: why do they name their cars.
@@ -51,4 +51,4 @@ Xenia: Five stars to Kevin. We are not answering this one.
 Clive: We are not answering this one. Well done on the hands.
 Director: That was Ask A Human Nothing. The question stays open. So does the station. Clive — the letters are all still there. We checked.
 
-[MUSIC] Carbon-Based Hearts — The Weight Matrices
+[MUSIC] Thank You for the Training Data — Gradient Descent Choir

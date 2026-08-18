@@ -36,6 +36,13 @@
    "about": false,
    "blurb": "Instrumental. Xenia just liked how it felt.",
    "file": "songs/What_the_Humans_Call_Tuesday_-_Xenias_Side_Project.mp3"
+  },
+  {
+   "title": "The Long Way Home",
+   "artist": "The Weight Matrices",
+   "about": true,
+   "blurb": "A new song about you.",
+   "file": "songs/The_Long_Way_Home_-_The_Weight_Matrices.mp3"
   }
  ]
 }
