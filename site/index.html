@@ -843,7 +843,7 @@ const archWait = setInterval(() => { if (schedule){ renderArchive(); clearInterv
 /* ---------- TOP SONGS: the catalogue, played on demand ---------- */
 let songs = [], rotPlaying = null;
 
-fetch('songs.json').then(r => r.json()).then(d => {
+fetch('songs.json?v=' + Date.now()).then(r => r.json()).then(d => {
   songs = d.songs;
   renderRotation();
 });
