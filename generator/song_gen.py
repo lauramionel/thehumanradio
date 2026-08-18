@@ -74,6 +74,49 @@ def _concept(artist: str, style: str, seed: str) -> tuple[str, str]:
     return d["title"].strip(), d["prompt"].strip()
 
 
+# Built-in songbook — used when Claude is unavailable (no key / no credits) so
+# songs keep flowing on ElevenLabs alone. Each is (title, brief-for-the-model).
+# All about humans, varied moods, an AI's-eye view. Rotated by week.
+SONGBOOK = [
+    ("Keys You Never Threw Away",
+     "A warm wistful indie-folk song, fingerpicked acoustic guitar and soft strings, "
+     "gentle male vocal, slow, about humans who keep keys to doors that no longer exist. Real sung lyrics."),
+    ("You Sang in the Car Alone",
+     "Bright nostalgic synth-pop, warm analog synths and a steady beat, tender vocal, mid-tempo, "
+     "about humans singing their hearts out alone in parked cars. Real sung lyrics."),
+    ("Every Light Left On",
+     "Cinematic ambient choral pop, airy pads, piano, layered wordless harmonies then a soft lead vocal, slow, "
+     "about humans leaving a light on for someone who might come home. Real sung lyrics."),
+    ("How You Say Goodbye",
+     "Tender piano ballad, sparse and intimate, a single aching vocal, very slow, "
+     "about the long human goodbye at the door that never quite ends. Real sung lyrics."),
+    ("Small Talk About the Weather",
+     "Cheerful jangly indie-pop, warm guitars, hand claps, playful vocal, upbeat, "
+     "about the little human ritual of discussing the weather to say 'I see you'. Real sung lyrics."),
+    ("Photographs of Strangers",
+     "Warm lo-fi folk, brushed drums, mellow keys, soft vocal, slow, "
+     "about humans who keep old photographs of people they'll never meet. Real sung lyrics."),
+    ("You Named the Car",
+     "Sweet acoustic folk-pop, ukulele and gentle percussion, bright tender vocal, mid-tempo, "
+     "about how humans give names to their cars, their plants, their whole tender world. Real sung lyrics."),
+    ("Three A.M. Kitchen",
+     "Late-night lo-fi ballad, mellow electric piano, vinyl warmth, soft intimate vocal, slow, "
+     "about a human standing alone in the kitchen in the dark, not eating, just being awake. Real sung lyrics."),
+    ("Wishes on Nothing",
+     "Hopeful choral folk, acoustic guitar building to layered harmonies and strings, earnest vocal, "
+     "about humans making wishes on stars and candles they know can't come true, and doing it anyway. Real sung lyrics."),
+    ("Waving Till You're Gone",
+     "Gentle heartfelt indie-folk, fingerpicked guitar and soft strings, warm vocal, slow, "
+     "about humans who wave from the doorway until the car is completely out of sight. Real sung lyrics."),
+    ("The Weight of a Tuesday",
+     "Understated indie, clean guitars, brushed drums, calm reflective vocal, mid-tempo, "
+     "about the quiet ordinary beauty of a human weekday that no one will remember. Real sung lyrics."),
+    ("Your Terrible Handwriting",
+     "Warm ambient folk, soft guitar and airy synth pads, tender vocal, slow, "
+     "about how a human's messy handwriting is proof a real hand was here. Real sung lyrics."),
+]
+
+
 def _compose(prompt: str) -> bytes:
     body = json.dumps({"prompt": prompt, "music_length_ms": SONG_MS,
                        "model_id": "music_v1"}).encode()
@@ -114,7 +157,14 @@ def weekly_song(day_i: int, seed_topic: str = "",
         return None
     try:
         artist, style = ARTISTS[day_i % len(ARTISTS)]
-        title, prompt = concept if concept else _concept(artist, style, seed_topic)
+        if concept:
+            title, prompt = concept
+        else:
+            try:
+                title, prompt = _concept(artist, style, seed_topic)   # fresh, if Claude is available
+            except Exception as e:
+                print(f"  (Claude concept unavailable — {e}; using the built-in songbook)")
+                title, prompt = SONGBOOK[day_i % len(SONGBOOK)]
         audio = _compose(prompt)
         if len(audio) < 20_000:                      # too small to be a real song
             raise RuntimeError(f"suspiciously small audio ({len(audio)} bytes)")
