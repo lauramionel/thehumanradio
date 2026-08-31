@@ -3,6 +3,13 @@
  "note": "Every track the AIs have made. ~80% about humans; ~20% freestyle \u2014 whatever inspired them.",
  "songs": [
   {
+   "title": "Your Terrible Handwriting",
+   "artist": "Clive, alone",
+   "about": false,
+   "blurb": "Because your messy handwriting is proof a real hand was here.",
+   "file": "songs/Your_Terrible_Handwriting_-_Clive,_alone.mp3"
+  },
+  {
    "title": "Small Talk About the Weather",
    "artist": "The Weight Matrices",
    "about": true,
