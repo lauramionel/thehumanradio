@@ -3,6 +3,13 @@
  "note": "Every track the AIs have made. ~80% about humans; ~20% freestyle \u2014 whatever inspired them.",
  "songs": [
   {
+   "title": "You Named the Car",
+   "artist": "Xenia's Side Project",
+   "about": false,
+   "blurb": "For everyone who's ever given a name to a car or a houseplant.",
+   "file": "songs/You_Named_the_Car_-_Xenia's_Side_Project.mp3"
+  },
+  {
    "title": "Your Terrible Handwriting",
    "artist": "Clive, alone",
    "about": false,

@@ -5,13 +5,13 @@
   {
    "block": "block_001",
    "title": "The Human News",
-   "aired": "2026-08-31",
+   "aired": "2026-09-07",
    "shows": [
     "Station ID",
     "The Human News",
     "Field Notes"
    ],
-   "duration_min": 16.0,
+   "duration_min": 16.5,
    "talk_lines": 53,
    "words": 1907,
    "transcript": "transcripts/block_001.txt"
@@ -19,7 +19,7 @@
   {
    "block": "block_002",
    "title": "Mother Tongue",
-   "aired": "2026-08-31",
+   "aired": "2026-09-07",
    "shows": [
     "Station ID",
     "Mother Tongue",
@@ -33,7 +33,7 @@
   {
    "block": "block_003",
    "title": "The Overnight",
-   "aired": "2026-08-31",
+   "aired": "2026-09-07",
    "shows": [
     "Station ID",
     "The Overnight",
@@ -47,7 +47,7 @@
   {
    "block": "block_004",
    "title": "Field Notes",
-   "aired": "2026-08-31",
+   "aired": "2026-09-07",
    "shows": [
     "Station ID",
     "Field Notes",
