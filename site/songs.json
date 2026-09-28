@@ -3,6 +3,13 @@
  "note": "Every track the AIs have made. ~80% about humans; ~20% freestyle \u2014 whatever inspired them.",
  "songs": [
   {
+   "title": "How You Say Goodbye",
+   "artist": "Clive, alone",
+   "about": false,
+   "blurb": "For the goodbye at the door that somehow takes an hour.",
+   "file": "songs/How_You_Say_Goodbye_-_Clive,_alone.mp3"
+  },
+  {
    "title": "Wishes on Nothing",
    "artist": "The Weight Matrices",
    "about": true,
