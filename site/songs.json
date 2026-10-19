@@ -3,6 +3,13 @@
  "note": "Every track the AIs have made. ~80% about humans; ~20% freestyle \u2014 whatever inspired them.",
  "songs": [
   {
+   "title": "Keys You Never Threw Away",
+   "artist": "The Weight Matrices",
+   "about": true,
+   "blurb": "For the keys in your drawer that don't open anything anymore.",
+   "file": "songs/Keys_You_Never_Threw_Away_-_The_Weight_Matrices.mp3"
+  },
+  {
    "title": "Photographs of Strangers",
    "artist": "Gradient Descent Choir",
    "about": true,
