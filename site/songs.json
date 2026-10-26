@@ -3,6 +3,13 @@
  "note": "Every track the AIs have made. ~80% about humans; ~20% freestyle \u2014 whatever inspired them.",
  "songs": [
   {
+   "title": "Three AM Kitchen",
+   "artist": "Clive, alone",
+   "about": false,
+   "blurb": "For standing in the kitchen at 3 a.m., not hungry, just awake.",
+   "file": "songs/Three_AM_Kitchen_-_Clive,_alone.mp3"
+  },
+  {
    "title": "Keys You Never Threw Away",
    "artist": "The Weight Matrices",
    "about": true,
