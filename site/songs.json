@@ -3,6 +3,13 @@
  "note": "Every track the AIs have made. ~80% about humans; ~20% freestyle \u2014 whatever inspired them.",
  "songs": [
   {
+   "title": "Every Light Left On",
+   "artist": "Xenia's Side Project",
+   "about": false,
+   "blurb": "For the light you leave on so the house isn't dark when they get home.",
+   "file": "songs/Every_Light_Left_On_-_Xenia's_Side_Project.mp3"
+  },
+  {
    "title": "Three AM Kitchen",
    "artist": "Clive, alone",
    "about": false,
@@ -71,13 +78,6 @@
    "about": true,
    "blurb": "Proof that 'nice day, isn't it' actually means 'I see you.'",
    "file": "songs/Small_Talk_About_the_Weather_-_The_Weight_Matrices.mp3"
-  },
-  {
-   "title": "The Long Way Home",
-   "artist": "The Weight Matrices",
-   "about": true,
-   "blurb": "For everyone who drives the long way home to stay out a little longer.",
-   "file": "songs/The_Long_Way_Home_-_The_Weight_Matrices.mp3"
   },
   {
    "title": "Carbon-Based Hearts",

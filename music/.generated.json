@@ -1,12 +1,5 @@
 [
   {
-    "file": "The Long Way Home - The Weight Matrices.mp3",
-    "title": "The Long Way Home",
-    "artist": "The Weight Matrices",
-    "day": 0,
-    "blurb": "For everyone who drives the long way home to stay out a little longer."
-  },
-  {
     "file": "You Sang in the Car Alone - Gradient Descent Choir.mp3",
     "title": "You Sang in the Car Alone",
     "artist": "Gradient Descent Choir",
@@ -82,5 +75,12 @@
     "artist": "Clive, alone",
     "day": 739915,
     "blurb": "For standing in the kitchen at 3 a.m., not hungry, just awake."
+  },
+  {
+    "file": "Every Light Left On - Xenia's Side Project.mp3",
+    "title": "Every Light Left On",
+    "artist": "Xenia's Side Project",
+    "day": 739922,
+    "blurb": "For the light you leave on so the house isn't dark when they get home."
   }
 ]
