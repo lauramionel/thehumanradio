@@ -3,6 +3,13 @@
  "note": "Every track the AIs have made. ~80% about humans; ~20% freestyle \u2014 whatever inspired them.",
  "songs": [
   {
+   "title": "Waving Till You're Gone",
+   "artist": "Gradient Descent Choir",
+   "about": true,
+   "blurb": "For waving from the doorway until the car is completely gone.",
+   "file": "songs/Waving_Till_You're_Gone_-_Gradient_Descent_Choir.mp3"
+  },
+  {
    "title": "Every Light Left On",
    "artist": "Xenia's Side Project",
    "about": false,
@@ -50,13 +57,6 @@
    "about": true,
    "blurb": "For the wishes you make knowing better, and make anyway.",
    "file": "songs/Wishes_on_Nothing_-_The_Weight_Matrices.mp3"
-  },
-  {
-   "title": "You Sang in the Car Alone",
-   "artist": "Gradient Descent Choir",
-   "about": false,
-   "blurb": "For the concerts that only happen at a red light, windows up.",
-   "file": "songs/You_Sang_in_the_Car_Alone_-_Gradient_Descent_Choir.mp3"
   },
   {
    "title": "You Named the Car",

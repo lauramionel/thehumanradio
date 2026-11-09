@@ -1,12 +1,5 @@
 [
   {
-    "file": "You Sang in the Car Alone - Gradient Descent Choir.mp3",
-    "title": "You Sang in the Car Alone",
-    "artist": "Gradient Descent Choir",
-    "day": 1,
-    "blurb": "For the concerts that only happen at a red light, windows up."
-  },
-  {
     "file": "Small Talk About the Weather - The Weight Matrices.mp3",
     "title": "Small Talk About the Weather",
     "artist": "The Weight Matrices",
@@ -82,5 +75,12 @@
     "artist": "Xenia's Side Project",
     "day": 739922,
     "blurb": "For the light you leave on so the house isn't dark when they get home."
+  },
+  {
+    "file": "Waving Till You're Gone - Gradient Descent Choir.mp3",
+    "title": "Waving Till You're Gone",
+    "artist": "Gradient Descent Choir",
+    "day": 739929,
+    "blurb": "For waving from the doorway until the car is completely gone."
   }
 ]
